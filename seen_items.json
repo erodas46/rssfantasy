@@ -1,18 +1,44 @@
 {
+  "0b7729c6ea630d93": {
+    "captured_at": "2026-08-04T21:17:49.634342+00:00",
+    "category": "INJURY",
+    "date": "2026-08-04",
+    "link": "https://www.rotowire.com//football/player/ricky-pearsall-17761",
+    "player": "Ricky Pearsall",
+    "pos_team": "WR/SF",
+    "source": "Rotowire",
+    "summary": "Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports. Visit RotoWire.com for more...",
+    "title": "Ricky Pearsall: Lengthy rehab with little precedent"
+  },
   "0f7ddf96fc127871": {
     "captured_at": "2026-08-04T18:53:40.056153+00:00",
     "category": "NEWS",
     "date": "2026-08-04",
     "link": "https://www.rotowire.com//football/player/kc-concepcion-19242",
+    "player": "KC Concepcion",
+    "pos_team": "WR/CLE",
     "source": "Rotowire",
     "summary": "When asked about Concepcion's (shoulder) status for Tuesday's practice, coach Todd Monken said \"we'll see,\" Mary Kay Cabot of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update.",
     "title": "KC Concepcion: Tuesday practice status TBD"
+  },
+  "3671358bc9552ead": {
+    "captured_at": "2026-08-04T21:17:49.637828+00:00",
+    "category": "ROLE/DEPTH CHART",
+    "date": "2026-08-04",
+    "link": "https://www.rotowire.com//football/player/tua-tagovailoa-14465",
+    "player": "Tua Tagovailoa",
+    "pos_team": "QB/ATL",
+    "source": "Rotowire",
+    "summary": "Tagovailoa (back) is trending toward being the Falcons' Week 1 starting quarterback, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update.",
+    "title": "Tua Tagovailoa: Trending toward Week 1 start"
   },
   "36b3ae1ca0d6c2c3": {
     "captured_at": "2026-08-04T18:53:40.056058+00:00",
     "category": "ROLE/DEPTH CHART",
     "date": "2026-08-04",
     "link": "https://www.rotowire.com//football/player/carson-beck-19287",
+    "player": "Carson Beck",
+    "pos_team": "QB/ARI",
     "source": "Rotowire",
     "summary": "Coach Mike LaFleur announced Tuesday that Beck will start Thursday's Hall of Fame Game versus the Panthers. Visit RotoWire.com for more analysis on this update.",
     "title": "Carson Beck: Starting Hall of Fame Game"
@@ -22,15 +48,52 @@
     "category": "NEWS",
     "date": "2026-08-04",
     "link": "https://www.rotowire.com//football/player/kc-concepcion-19242",
+    "player": "KC Concepcion",
+    "pos_team": "WR/CLE",
     "source": "Rotowire",
     "summary": "Concepcion (shoulder) was spotted in pads during the early stages of Tuesday's practice, Dan Labbe of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update.",
     "title": "KC Concepcion: Present for practice"
+  },
+  "9f0159810a6dd5bd": {
+    "captured_at": "2026-08-04T21:17:49.614560+00:00",
+    "category": "INJURY",
+    "date": "2026-08-04",
+    "link": "https://www.rotowire.com//football/player/mason-taylor-18535",
+    "player": "Kenyon Sadiq",
+    "pos_team": "TE/NYJ",
+    "source": "Rotowire",
+    "summary": "Taylor could see more opportunities this summer after teammate Kenyon Sadiq (sports hernia) suffered a setback in his return from May surgery, ESPN.com's Rich Cimini reports. Visit RotoWire.com for more analysis on this update.",
+    "title": "Mason Taylor: Headed for big Week 1 role?"
+  },
+  "b0bc8ae2e79929f5": {
+    "captured_at": "2026-08-04T21:17:49.621279+00:00",
+    "category": "NEWS",
+    "date": "2026-08-04",
+    "link": "https://www.rotowire.com//football/player/trey-benson-17767",
+    "player": "Trey Benson",
+    "pos_team": "RB/ARI",
+    "source": "Rotowire",
+    "summary": "Benson (knee) returned to practice Tuesday, Bo Brack of GoPHNX.com reports. Visit RotoWire.com for more analysis on this update.",
+    "title": "Trey Benson: Back at practice Tuesday"
+  },
+  "cf859076c9bedb2f": {
+    "captured_at": "2026-08-04T21:17:49.629343+00:00",
+    "category": "NEWS",
+    "date": "2026-08-04",
+    "link": "https://www.rotowire.com//football/player/malik-willis-15872",
+    "player": "Malik Willis",
+    "pos_team": "QB/MIA",
+    "source": "Rotowire",
+    "summary": "Willis has played well at training camp, earning praise from coach Jeff Hafley and offensive coordinator Bobby Slowik, according to David Furones of the South Florida Sun Sentinel. Visit RotoWire.com for more analysis on this update.",
+    "title": "Malik Willis: Looks sharp early in camp"
   },
   "e9bccc5b2adfcd8d": {
     "captured_at": "2026-08-04T18:53:40.056120+00:00",
     "category": "INJURY",
     "date": "2026-08-04",
     "link": "https://www.rotowire.com//football/player/tua-tagovailoa-14465",
+    "player": "Tua Tagovailoa",
+    "pos_team": "QB/ATL",
     "source": "Rotowire",
     "summary": "Coach Kevin Stefanski said Tagovailoa (back) will be \"limited\" at Tuesday's practice, Josh Kendall of The Athletic reports. Visit RotoWire.com for more analysis on this update.",
     "title": "Tua Tagovailoa: To be 'limited' Tuesday"
@@ -40,6 +103,8 @@
     "category": "INJURY",
     "date": "2026-08-04",
     "link": "https://www.rotowire.com//football/player/kc-concepcion-19242",
+    "player": "KC Concepcion",
+    "pos_team": "WR/CLE",
     "source": "Rotowire",
     "summary": "Concepcion (shoulder) was limited to individual drills at Tuesday's practice, Zac Jackson of The Athletic reports. Visit RotoWire.com for more analysis on this update.",
     "title": "KC Concepcion: Limited to individual work Tuesday"
