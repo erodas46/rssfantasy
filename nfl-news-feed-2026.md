@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-04 21:17 UTC_ · 10 items total · 10/10 matched to a player
+_Last updated: 2026-08-05 10:12 UTC_ · 12 items total · 12/12 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-08-04 21:17 UTC_ · 10 items total · 10/10 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-04 | Travis Etienne | RB/NO | ROLE/DEPTH CHART | Etienne has taken most of the early down reps at training camp, with Alvin Kamara is getting more of the third-down snaps, according to Jeff Duncan of Nola.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
+| 2026-08-04 | Jalen McMillan | WR/TB | NEWS | McMillan (calf) isn't practicing Tuesday, Jenna Laine of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-mcmillan-17763)) | Rotowire |
 | 2026-08-04 | Tua Tagovailoa | QB/ATL | ROLE/DEPTH CHART | Tagovailoa (back) is trending toward being the Falcons' Week 1 starting quarterback, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
 | 2026-08-04 | Ricky Pearsall | WR/SF | INJURY | Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/ricky-pearsall-17761)) | Rotowire |
 | 2026-08-04 | Malik Willis | QB/MIA | NEWS | Willis has played well at training camp, earning praise from coach Jeff Hafley and offensive coordinator Bobby Slowik, according to David Furones of the South Florida Sun Sentinel. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
@@ -27,6 +29,8 @@ _Last updated: 2026-08-04 21:17 UTC_ · 10 items total · 10/10 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-04 | Travis Etienne | RB/NO | ROLE/DEPTH CHART | Etienne has taken most of the early down reps at training camp, with Alvin Kamara is getting more of the third-down snaps, according to Jeff Duncan of Nola.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
+| 2026-08-04 | Jalen McMillan | WR/TB | NEWS | McMillan (calf) isn't practicing Tuesday, Jenna Laine of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-mcmillan-17763)) | Rotowire |
 | 2026-08-04 | Tua Tagovailoa | QB/ATL | ROLE/DEPTH CHART | Tagovailoa (back) is trending toward being the Falcons' Week 1 starting quarterback, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
 | 2026-08-04 | Ricky Pearsall | WR/SF | INJURY | Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/ricky-pearsall-17761)) | Rotowire |
 | 2026-08-04 | Malik Willis | QB/MIA | NEWS | Willis has played well at training camp, earning praise from coach Jeff Hafley and offensive coordinator Bobby Slowik, according to David Furones of the South Florida Sun Sentinel. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
