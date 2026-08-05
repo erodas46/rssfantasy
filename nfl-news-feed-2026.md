@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-05 16:55 UTC_ · 17 items total · 17/17 matched to a player
+_Last updated: 2026-08-05 20:47 UTC_ · 22 items total · 22/22 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-05 16:55 UTC_ · 17 items total · 17/17 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken noted Wednesday that Watson and Shedeur Sanders will continue to alternate first-team QB reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
+| 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken confirmed Wednesday that Sanders and Deshaun Watson will continue to alternate first-team signal-caller reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/shedeur-sanders-18479)) | Rotowire |
+| 2026-08-05 | KC Concepcion | WR/CLE | NEWS | Concepcion (shoulder) participated in team drills during Wednesday's practice, Scott Petrak of the Elyria Chronicle-Telegram reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-08-05 | Stefon Diggs | WR/ | NEWS | Diggs is slated to sign a one-year, $12 million contract with the Commanders, John Keim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
+| 2026-08-05 | Terry McLaurin | WR/WAS | INJURY | McLaurin will be joined by Diggs in the Commanders' receiving corps after the latter agreed to a one-year contract with the team Wednesday, John Keim and Seth Walder of ESPN.com report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-08-05 | Tank Dell | WR/HOU | NEWS | Dell (knee) is wearing pads at practice Wednesday for the first time this year, Jane Slater of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
 | 2026-08-05 | Jeremiyah Love | RB/ARI | NEWS | Love won't play in the Hall of Fame Game on Thursday against Carolina, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-05 | Rashee Rice | WR/KC | NEWS | Rice (knee) is participating in 11-on-11 drills at Wednesday's practice, Nate Taylor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
@@ -34,6 +39,11 @@ _Last updated: 2026-08-05 16:55 UTC_ · 17 items total · 17/17 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken noted Wednesday that Watson and Shedeur Sanders will continue to alternate first-team QB reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
+| 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken confirmed Wednesday that Sanders and Deshaun Watson will continue to alternate first-team signal-caller reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/shedeur-sanders-18479)) | Rotowire |
+| 2026-08-05 | KC Concepcion | WR/CLE | NEWS | Concepcion (shoulder) participated in team drills during Wednesday's practice, Scott Petrak of the Elyria Chronicle-Telegram reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-08-05 | Stefon Diggs | WR/ | NEWS | Diggs is slated to sign a one-year, $12 million contract with the Commanders, John Keim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
+| 2026-08-05 | Terry McLaurin | WR/WAS | INJURY | McLaurin will be joined by Diggs in the Commanders' receiving corps after the latter agreed to a one-year contract with the team Wednesday, John Keim and Seth Walder of ESPN.com report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-08-05 | Tank Dell | WR/HOU | NEWS | Dell (knee) is wearing pads at practice Wednesday for the first time this year, Jane Slater of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
 | 2026-08-05 | Jeremiyah Love | RB/ARI | NEWS | Love won't play in the Hall of Fame Game on Thursday against Carolina, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-05 | Rashee Rice | WR/KC | NEWS | Rice (knee) is participating in 11-on-11 drills at Wednesday's practice, Nate Taylor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
