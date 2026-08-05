@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-05 10:12 UTC_ · 12 items total · 12/12 matched to a player
+_Last updated: 2026-08-05 16:55 UTC_ · 17 items total · 17/17 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-05 10:12 UTC_ · 12 items total · 12/12 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-05 | Tank Dell | WR/HOU | NEWS | Dell (knee) is wearing pads at practice Wednesday for the first time this year, Jane Slater of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
+| 2026-08-05 | Jeremiyah Love | RB/ARI | NEWS | Love won't play in the Hall of Fame Game on Thursday against Carolina, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
+| 2026-08-05 | Rashee Rice | WR/KC | NEWS | Rice (knee) is participating in 11-on-11 drills at Wednesday's practice, Nate Taylor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
+| 2026-08-05 | Tank Dell | WR/HOU | INJURY | Dell (knee) was limited to individual drills Wednesday while wearing pads for the first time this summer, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
+| 2026-08-05 | Chris Olave | WR/NO | NEWS | Olave left Wednesday's practice early with a trainer by his side, though it looked to just be a heat-related issue, NFL reporter Erin Summers reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
 | 2026-08-04 | Travis Etienne | RB/NO | ROLE/DEPTH CHART | Etienne has taken most of the early down reps at training camp, with Alvin Kamara is getting more of the third-down snaps, according to Jeff Duncan of Nola.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
 | 2026-08-04 | Jalen McMillan | WR/TB | NEWS | McMillan (calf) isn't practicing Tuesday, Jenna Laine of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-mcmillan-17763)) | Rotowire |
 | 2026-08-04 | Tua Tagovailoa | QB/ATL | ROLE/DEPTH CHART | Tagovailoa (back) is trending toward being the Falcons' Week 1 starting quarterback, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
@@ -29,6 +34,11 @@ _Last updated: 2026-08-05 10:12 UTC_ · 12 items total · 12/12 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-05 | Tank Dell | WR/HOU | NEWS | Dell (knee) is wearing pads at practice Wednesday for the first time this year, Jane Slater of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
+| 2026-08-05 | Jeremiyah Love | RB/ARI | NEWS | Love won't play in the Hall of Fame Game on Thursday against Carolina, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
+| 2026-08-05 | Rashee Rice | WR/KC | NEWS | Rice (knee) is participating in 11-on-11 drills at Wednesday's practice, Nate Taylor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
+| 2026-08-05 | Tank Dell | WR/HOU | INJURY | Dell (knee) was limited to individual drills Wednesday while wearing pads for the first time this summer, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
+| 2026-08-05 | Chris Olave | WR/NO | NEWS | Olave left Wednesday's practice early with a trainer by his side, though it looked to just be a heat-related issue, NFL reporter Erin Summers reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
 | 2026-08-04 | Travis Etienne | RB/NO | ROLE/DEPTH CHART | Etienne has taken most of the early down reps at training camp, with Alvin Kamara is getting more of the third-down snaps, according to Jeff Duncan of Nola.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
 | 2026-08-04 | Jalen McMillan | WR/TB | NEWS | McMillan (calf) isn't practicing Tuesday, Jenna Laine of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-mcmillan-17763)) | Rotowire |
 | 2026-08-04 | Tua Tagovailoa | QB/ATL | ROLE/DEPTH CHART | Tagovailoa (back) is trending toward being the Falcons' Week 1 starting quarterback, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
