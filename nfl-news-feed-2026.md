@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-05 20:47 UTC_ · 22 items total · 22/22 matched to a player
+_Last updated: 2026-08-06 10:15 UTC_ · 26 items total · 25/26 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-08-05 20:47 UTC_ · 22 items total · 22/22 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Warren is listed ahead of free-agent addition Rico Dowdle on the Steelers' initial depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
+| 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Jaylen Warren is listed ahead of Dowdle on the Steelers' initial posted depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-08-05 | — | — | NEWS | Donald had a tryout with the Rams on Wednesday, per the NFL's transaction log. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-donald-9391)) | Rotowire |
+| 2026-08-05 | Emeka Egbuka | WR/TB | INJURY | Coach Todd Bowles said Egbuka didn't practice Tuesday due to soreness in his lower body, Brianna Dix of the Buccaneers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
 | 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken noted Wednesday that Watson and Shedeur Sanders will continue to alternate first-team QB reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
 | 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken confirmed Wednesday that Sanders and Deshaun Watson will continue to alternate first-team signal-caller reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/shedeur-sanders-18479)) | Rotowire |
 | 2026-08-05 | KC Concepcion | WR/CLE | NEWS | Concepcion (shoulder) participated in team drills during Wednesday's practice, Scott Petrak of the Elyria Chronicle-Telegram reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
@@ -39,6 +43,10 @@ _Last updated: 2026-08-05 20:47 UTC_ · 22 items total · 22/22 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Warren is listed ahead of free-agent addition Rico Dowdle on the Steelers' initial depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
+| 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Jaylen Warren is listed ahead of Dowdle on the Steelers' initial posted depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-08-05 | — | — | NEWS | Donald had a tryout with the Rams on Wednesday, per the NFL's transaction log. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-donald-9391)) | Rotowire |
+| 2026-08-05 | Emeka Egbuka | WR/TB | INJURY | Coach Todd Bowles said Egbuka didn't practice Tuesday due to soreness in his lower body, Brianna Dix of the Buccaneers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
 | 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken noted Wednesday that Watson and Shedeur Sanders will continue to alternate first-team QB reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
 | 2026-08-05 | Shedeur Sanders | QB/CLE | ROLE/DEPTH CHART | Coach Todd Monken confirmed Wednesday that Sanders and Deshaun Watson will continue to alternate first-team signal-caller reps every practice until he names a starter, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/shedeur-sanders-18479)) | Rotowire |
 | 2026-08-05 | KC Concepcion | WR/CLE | NEWS | Concepcion (shoulder) participated in team drills during Wednesday's practice, Scott Petrak of the Elyria Chronicle-Telegram reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
