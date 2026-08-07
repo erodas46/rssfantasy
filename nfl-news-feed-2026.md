@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-06 10:15 UTC_ · 26 items total · 25/26 matched to a player
+_Last updated: 2026-08-07 01:52 UTC_ · 31 items total · 29/31 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-06 10:15 UTC_ · 26 items total · 25/26 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-06 | Jaylen Waddle | WR/DEN | NEWS | Coach Sean Payton noted Thursday of Waddle, who left Wednesday's practice with muscle tightness, "I think we'll see him back in the next 4-5 days," Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
+| 2026-08-06 | George Pickens | WR/DAL | NEWS | Pickens is taking part in Thursday's training camp practice, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-08-06 | Jahmyr Gibbs | RB/DET | TRANSACTION | The Lions and Gibbs (back) agreed to terms on a three-year extension Thursday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jahmyr-gibbs-16808)) | Rotowire |
+| 2026-08-06 | — | — | INJURY | The Falcons officially placed Walker (knee) on injured reserve Thursday, Will McFadden of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalon-walker-18683)) | Rotowire |
+| 2026-08-06 | Malik Nabers | WR/NYG | NEWS | Nabers (knee) participated in team drills at Thursday's practice, Patricia Traina of SI.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Warren is listed ahead of free-agent addition Rico Dowdle on the Steelers' initial depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
 | 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Jaylen Warren is listed ahead of Dowdle on the Steelers' initial posted depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-08-05 | — | — | NEWS | Donald had a tryout with the Rams on Wednesday, per the NFL's transaction log. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-donald-9391)) | Rotowire |
@@ -43,6 +48,11 @@ _Last updated: 2026-08-06 10:15 UTC_ · 26 items total · 25/26 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-06 | Jaylen Waddle | WR/DEN | NEWS | Coach Sean Payton noted Thursday of Waddle, who left Wednesday's practice with muscle tightness, "I think we'll see him back in the next 4-5 days," Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
+| 2026-08-06 | George Pickens | WR/DAL | NEWS | Pickens is taking part in Thursday's training camp practice, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-08-06 | Jahmyr Gibbs | RB/DET | TRANSACTION | The Lions and Gibbs (back) agreed to terms on a three-year extension Thursday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jahmyr-gibbs-16808)) | Rotowire |
+| 2026-08-06 | — | — | INJURY | The Falcons officially placed Walker (knee) on injured reserve Thursday, Will McFadden of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalon-walker-18683)) | Rotowire |
+| 2026-08-06 | Malik Nabers | WR/NYG | NEWS | Nabers (knee) participated in team drills at Thursday's practice, Patricia Traina of SI.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Warren is listed ahead of free-agent addition Rico Dowdle on the Steelers' initial depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
 | 2026-08-05 | Jaylen Warren | RB/PIT | ROLE/DEPTH CHART | Jaylen Warren is listed ahead of Dowdle on the Steelers' initial posted depth chart ahead of the preseason, Brian Batko of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-08-05 | — | — | NEWS | Donald had a tryout with the Rams on Wednesday, per the NFL's transaction log. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-donald-9391)) | Rotowire |
