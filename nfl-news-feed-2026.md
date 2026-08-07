@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-07 05:54 UTC_ · 33 items total · 31/33 matched to a player
+_Last updated: 2026-08-07 14:34 UTC_ · 38 items total · 36/38 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-07 05:54 UTC_ · 33 items total · 31/33 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-07 | Jaylin Noel | WR/HOU | INJURY | The Texans activated Noel (finger) from the Non-Football Injury list Friday morning. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylin-noel-18555)) | Rotowire |
+| 2026-08-07 | Romeo Doubs | WR/NE | NEWS | Doubs (personal) returned to practice Friday, Karen Guregian of MassLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-08-07 | Cyrus Allen | WR/KC | INJURY | Allen (shin) returned to practice Friday morning, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cyrus-allen-19631)) | Rotowire |
+| 2026-08-07 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't practicing Friday, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-07 | Makai Lemon | WR/PHI | INJURY | Lemon (hamstring) isn't practicing Friday, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
 | 2026-08-06 | Carson Beck | QB/ARI | NEWS | Beck started Thursday's Hall of Fame Game against the Panthers and completed 15 of 19 passes for 188 yards with a touchdown and no interceptions while adding two rushes for three yards. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-beck-19287)) | Rotowire |
 | 2026-08-06 | Xavier Legette | WR/CAR | NEWS | Coach Dave Canales said Thursday following the Hall of Fame Game that Legette (neck) "feels great" and is healthy, Mike Kaye of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-legette-17734)) | Rotowire |
 | 2026-08-06 | Jaylen Waddle | WR/DEN | NEWS | Coach Sean Payton noted Thursday of Waddle, who left Wednesday's practice with muscle tightness, "I think we'll see him back in the next 4-5 days," Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
@@ -50,6 +55,11 @@ _Last updated: 2026-08-07 05:54 UTC_ · 33 items total · 31/33 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-07 | Jaylin Noel | WR/HOU | INJURY | The Texans activated Noel (finger) from the Non-Football Injury list Friday morning. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylin-noel-18555)) | Rotowire |
+| 2026-08-07 | Romeo Doubs | WR/NE | NEWS | Doubs (personal) returned to practice Friday, Karen Guregian of MassLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-08-07 | Cyrus Allen | WR/KC | INJURY | Allen (shin) returned to practice Friday morning, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cyrus-allen-19631)) | Rotowire |
+| 2026-08-07 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't practicing Friday, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-07 | Makai Lemon | WR/PHI | INJURY | Lemon (hamstring) isn't practicing Friday, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
 | 2026-08-06 | Carson Beck | QB/ARI | NEWS | Beck started Thursday's Hall of Fame Game against the Panthers and completed 15 of 19 passes for 188 yards with a touchdown and no interceptions while adding two rushes for three yards. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-beck-19287)) | Rotowire |
 | 2026-08-06 | Xavier Legette | WR/CAR | NEWS | Coach Dave Canales said Thursday following the Hall of Fame Game that Legette (neck) "feels great" and is healthy, Mike Kaye of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-legette-17734)) | Rotowire |
 | 2026-08-06 | Jaylen Waddle | WR/DEN | NEWS | Coach Sean Payton noted Thursday of Waddle, who left Wednesday's practice with muscle tightness, "I think we'll see him back in the next 4-5 days," Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
