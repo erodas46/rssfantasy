@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-07 14:34 UTC_ · 38 items total · 36/38 matched to a player
+_Last updated: 2026-08-07 19:55 UTC_ · 43 items total · 41/43 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-07 14:34 UTC_ · 38 items total · 36/38 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-07 | J.J. McCarthy | QB/MIN | ROLE/DEPTH CHART | McCarthy has taken around one-third of the first-team snaps at training camp so far, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-08-07 | KC Concepcion | WR/CLE | NEWS | Concepcion said Friday that his shoulder has felt fine since returning to practice earlier this week, Mary Kay Cabot of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-08-07 | Kyler Murray | QB/MIN | ROLE/DEPTH CHART | Murray has taken around two-thirds of the first-team snaps at training camp, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
+| 2026-08-07 | Patrick Mahomes | QB/KC | NEWS | Chiefs coach Andy Reid said Friday that Mahomes (knee) is unlikely to play in the Chiefs' preseason opener against the Rams on Saturday, Aug. 15, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/patrick-mahomes-11839)) | Rotowire |
+| 2026-08-07 | Chris Rodriguez | RB/JAX | NEWS | During Friday's scrimmage, Tuten started the first drive with the Jaguars' offense, with LeQuint Allen mixing in on third down, then Chris Rodriguez started the second drive before rotating with Tuten, John Shipley of SI.com reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
 | 2026-08-07 | Jaylin Noel | WR/HOU | INJURY | The Texans activated Noel (finger) from the Non-Football Injury list Friday morning. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylin-noel-18555)) | Rotowire |
 | 2026-08-07 | Romeo Doubs | WR/NE | NEWS | Doubs (personal) returned to practice Friday, Karen Guregian of MassLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
 | 2026-08-07 | Cyrus Allen | WR/KC | INJURY | Allen (shin) returned to practice Friday morning, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cyrus-allen-19631)) | Rotowire |
@@ -55,6 +60,11 @@ _Last updated: 2026-08-07 14:34 UTC_ · 38 items total · 36/38 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-07 | J.J. McCarthy | QB/MIN | ROLE/DEPTH CHART | McCarthy has taken around one-third of the first-team snaps at training camp so far, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-08-07 | KC Concepcion | WR/CLE | NEWS | Concepcion said Friday that his shoulder has felt fine since returning to practice earlier this week, Mary Kay Cabot of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-08-07 | Kyler Murray | QB/MIN | ROLE/DEPTH CHART | Murray has taken around two-thirds of the first-team snaps at training camp, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
+| 2026-08-07 | Patrick Mahomes | QB/KC | NEWS | Chiefs coach Andy Reid said Friday that Mahomes (knee) is unlikely to play in the Chiefs' preseason opener against the Rams on Saturday, Aug. 15, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/patrick-mahomes-11839)) | Rotowire |
+| 2026-08-07 | Chris Rodriguez | RB/JAX | NEWS | During Friday's scrimmage, Tuten started the first drive with the Jaguars' offense, with LeQuint Allen mixing in on third down, then Chris Rodriguez started the second drive before rotating with Tuten, John Shipley of SI.com reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
 | 2026-08-07 | Jaylin Noel | WR/HOU | INJURY | The Texans activated Noel (finger) from the Non-Football Injury list Friday morning. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylin-noel-18555)) | Rotowire |
 | 2026-08-07 | Romeo Doubs | WR/NE | NEWS | Doubs (personal) returned to practice Friday, Karen Guregian of MassLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
 | 2026-08-07 | Cyrus Allen | WR/KC | INJURY | Allen (shin) returned to practice Friday morning, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cyrus-allen-19631)) | Rotowire |
