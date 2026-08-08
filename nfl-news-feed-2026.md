@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-07 19:55 UTC_ · 43 items total · 41/43 matched to a player
+_Last updated: 2026-08-08 04:18 UTC_ · 47 items total · 45/47 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-08-07 19:55 UTC_ · 43 items total · 41/43 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-07 | Cam Skattebo | RB/NYG | NEWS | Coach John Harbaugh said Skattebo's early exit from Friday's practice is "nothing serious at all," Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-07 | Josh Jacobs | RB/GB | INJURY | Jacobs (groin) isn't practicing Friday, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
+| 2026-08-07 | Tyjae Spears | RB/TEN | INJURY | Spears is dealing with some soreness and irritation, which caused him to depart practice early Friday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
+| 2026-08-07 | Tank Dell | WR/HOU | NEWS | Dell said, "I'm taking it one day at a time" when asked Friday about his potential availability for Week 1 of the regular season versus Buffalo, DJ Bien-Aime of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
 | 2026-08-07 | J.J. McCarthy | QB/MIN | ROLE/DEPTH CHART | McCarthy has taken around one-third of the first-team snaps at training camp so far, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
 | 2026-08-07 | KC Concepcion | WR/CLE | NEWS | Concepcion said Friday that his shoulder has felt fine since returning to practice earlier this week, Mary Kay Cabot of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
 | 2026-08-07 | Kyler Murray | QB/MIN | ROLE/DEPTH CHART | Murray has taken around two-thirds of the first-team snaps at training camp, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
@@ -60,6 +64,10 @@ _Last updated: 2026-08-07 19:55 UTC_ · 43 items total · 41/43 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-07 | Cam Skattebo | RB/NYG | NEWS | Coach John Harbaugh said Skattebo's early exit from Friday's practice is "nothing serious at all," Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-07 | Josh Jacobs | RB/GB | INJURY | Jacobs (groin) isn't practicing Friday, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
+| 2026-08-07 | Tyjae Spears | RB/TEN | INJURY | Spears is dealing with some soreness and irritation, which caused him to depart practice early Friday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
+| 2026-08-07 | Tank Dell | WR/HOU | NEWS | Dell said, "I'm taking it one day at a time" when asked Friday about his potential availability for Week 1 of the regular season versus Buffalo, DJ Bien-Aime of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
 | 2026-08-07 | J.J. McCarthy | QB/MIN | ROLE/DEPTH CHART | McCarthy has taken around one-third of the first-team snaps at training camp so far, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
 | 2026-08-07 | KC Concepcion | WR/CLE | NEWS | Concepcion said Friday that his shoulder has felt fine since returning to practice earlier this week, Mary Kay Cabot of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
 | 2026-08-07 | Kyler Murray | QB/MIN | ROLE/DEPTH CHART | Murray has taken around two-thirds of the first-team snaps at training camp, according to ESPN's Kevin Seifert. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
