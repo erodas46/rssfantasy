@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-08 11:58 UTC_ · 47 items total · 45/47 matched to a player
+_Last updated: 2026-08-08 18:02 UTC_ · 52 items total · 50/52 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-08 11:58 UTC_ · 47 items total · 45/47 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-08 | Josh Downs | WR/IND | INJURY | Downs did not participate in Saturday's training camp practice due to a groin injury, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
+| 2026-08-08 | Luther Burden | WR/CHI | INJURY | Burden left Saturday's training camp practice due to a lower-body injury, Patrick Finley of the Chicago Sun Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
+| 2026-08-08 | Jaylen Waddle | WR/DEN | NEWS | Waddle worked on the side at Saturday's training camp practice and was not wearing a sleeve on his leg, Zac Stevens of TheDNVR.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
+| 2026-08-08 | Zay Flowers | WR/BAL | INJURY | Flowers left Saturday's training camp practice early due to a left leg injury, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-08-08 | Zay Flowers | WR/BAL | NEWS | Head coach Jesse Minter said Saturday that Flowers is considered day-to-day due to a quad contusion that he sustained during training camp practice, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-08-07 | Cam Skattebo | RB/NYG | NEWS | Coach John Harbaugh said Skattebo's early exit from Friday's practice is "nothing serious at all," Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-08-07 | Josh Jacobs | RB/GB | INJURY | Jacobs (groin) isn't practicing Friday, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-08-07 | Tyjae Spears | RB/TEN | INJURY | Spears is dealing with some soreness and irritation, which caused him to depart practice early Friday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
@@ -64,6 +69,11 @@ _Last updated: 2026-08-08 11:58 UTC_ · 47 items total · 45/47 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-08 | Josh Downs | WR/IND | INJURY | Downs did not participate in Saturday's training camp practice due to a groin injury, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
+| 2026-08-08 | Luther Burden | WR/CHI | INJURY | Burden left Saturday's training camp practice due to a lower-body injury, Patrick Finley of the Chicago Sun Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
+| 2026-08-08 | Jaylen Waddle | WR/DEN | NEWS | Waddle worked on the side at Saturday's training camp practice and was not wearing a sleeve on his leg, Zac Stevens of TheDNVR.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
+| 2026-08-08 | Zay Flowers | WR/BAL | INJURY | Flowers left Saturday's training camp practice early due to a left leg injury, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-08-08 | Zay Flowers | WR/BAL | NEWS | Head coach Jesse Minter said Saturday that Flowers is considered day-to-day due to a quad contusion that he sustained during training camp practice, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-08-07 | Cam Skattebo | RB/NYG | NEWS | Coach John Harbaugh said Skattebo's early exit from Friday's practice is "nothing serious at all," Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-08-07 | Josh Jacobs | RB/GB | INJURY | Jacobs (groin) isn't practicing Friday, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-08-07 | Tyjae Spears | RB/TEN | INJURY | Spears is dealing with some soreness and irritation, which caused him to depart practice early Friday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
