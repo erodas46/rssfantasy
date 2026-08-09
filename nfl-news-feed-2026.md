@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-08 18:02 UTC_ · 52 items total · 50/52 matched to a player
+_Last updated: 2026-08-09 04:47 UTC_ · 57 items total · 54/57 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-08 18:02 UTC_ · 52 items total · 50/52 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-08 | Jadarian Price | RB/SEA | INJURY | Price didn't practice Friday due to "lower-body soreness," Gregg Bell of The Tacoma News Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-08-08 | Ty Johnson | RB/BUF | INJURY | Johnson left practice early Saturday due to an apparent right knee injury, Matt Parrino of NYup.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-johnson-13587)) | Rotowire |
+| 2026-08-08 | — | — | INJURY | Tunsil tore his triceps during practice Saturday and is expected to need surgery, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/laremy-tunsil-10964)) | Rotowire |
+| 2026-08-08 | Jadarian Price | RB/SEA | NEWS | Price (lower body) didn't practice Saturday, but coach Mike Macdonald said the rookie running back should be back in a matter of days, Curtis Crabtree of Fox 13 Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-08-08 | Jawhar Jordan | RB/HOU | INJURY | Jordan is dealing with a hip flexor strain and will be sidelined for "roughly a week," Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jawhar-jordan-17916)) | Rotowire |
 | 2026-08-08 | Josh Downs | WR/IND | INJURY | Downs did not participate in Saturday's training camp practice due to a groin injury, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-08-08 | Luther Burden | WR/CHI | INJURY | Burden left Saturday's training camp practice due to a lower-body injury, Patrick Finley of the Chicago Sun Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-08 | Jaylen Waddle | WR/DEN | NEWS | Waddle worked on the side at Saturday's training camp practice and was not wearing a sleeve on his leg, Zac Stevens of TheDNVR.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
@@ -69,6 +74,11 @@ _Last updated: 2026-08-08 18:02 UTC_ · 52 items total · 50/52 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-08 | Jadarian Price | RB/SEA | INJURY | Price didn't practice Friday due to "lower-body soreness," Gregg Bell of The Tacoma News Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-08-08 | Ty Johnson | RB/BUF | INJURY | Johnson left practice early Saturday due to an apparent right knee injury, Matt Parrino of NYup.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-johnson-13587)) | Rotowire |
+| 2026-08-08 | — | — | INJURY | Tunsil tore his triceps during practice Saturday and is expected to need surgery, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/laremy-tunsil-10964)) | Rotowire |
+| 2026-08-08 | Jadarian Price | RB/SEA | NEWS | Price (lower body) didn't practice Saturday, but coach Mike Macdonald said the rookie running back should be back in a matter of days, Curtis Crabtree of Fox 13 Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-08-08 | Jawhar Jordan | RB/HOU | INJURY | Jordan is dealing with a hip flexor strain and will be sidelined for "roughly a week," Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jawhar-jordan-17916)) | Rotowire |
 | 2026-08-08 | Josh Downs | WR/IND | INJURY | Downs did not participate in Saturday's training camp practice due to a groin injury, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-08-08 | Luther Burden | WR/CHI | INJURY | Burden left Saturday's training camp practice due to a lower-body injury, Patrick Finley of the Chicago Sun Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-08 | Jaylen Waddle | WR/DEN | NEWS | Waddle worked on the side at Saturday's training camp practice and was not wearing a sleeve on his leg, Zac Stevens of TheDNVR.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
