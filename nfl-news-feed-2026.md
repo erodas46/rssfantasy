@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-09 11:59 UTC_ · 57 items total · 54/57 matched to a player
+_Last updated: 2026-08-09 18:03 UTC_ · 62 items total · 59/62 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-09 11:59 UTC_ · 57 items total · 54/57 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-09 | Jayden Reed | WR/GB | INJURY | Reed did not participate in Sunday's training camp practice due to an ankle injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
+| 2026-08-09 | Matthew Golden | WR/GB | INJURY | Golden did not practice Sunday due to a toe injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-08-09 | Jared Goff | QB/DET | ROLE/DEPTH CHART | Head coach Dan Campbell told reporters Sunday that Goff and other key starters will not play in Thursday's preseason opener against the Bengals, Justin Rogers of DetroitFootball.net reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
+| 2026-08-09 | Josh Downs | WR/IND | NEWS | Head coach Shane Steichen said Sunday that Downs (groin) could potentially be available for Tuesday's joint practice with the Patriots, Stephen Holder of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
+| 2026-08-09 | Luther Burden | WR/CHI | INJURY | Burden is expected to "miss a little bit of time" due to a groin injury that he sustained during Saturday's training camp practice, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-08 | Jadarian Price | RB/SEA | INJURY | Price didn't practice Friday due to "lower-body soreness," Gregg Bell of The Tacoma News Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
 | 2026-08-08 | Ty Johnson | RB/BUF | INJURY | Johnson left practice early Saturday due to an apparent right knee injury, Matt Parrino of NYup.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-johnson-13587)) | Rotowire |
 | 2026-08-08 | — | — | INJURY | Tunsil tore his triceps during practice Saturday and is expected to need surgery, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/laremy-tunsil-10964)) | Rotowire |
@@ -74,6 +79,11 @@ _Last updated: 2026-08-09 11:59 UTC_ · 57 items total · 54/57 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-09 | Jayden Reed | WR/GB | INJURY | Reed did not participate in Sunday's training camp practice due to an ankle injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
+| 2026-08-09 | Matthew Golden | WR/GB | INJURY | Golden did not practice Sunday due to a toe injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-08-09 | Jared Goff | QB/DET | ROLE/DEPTH CHART | Head coach Dan Campbell told reporters Sunday that Goff and other key starters will not play in Thursday's preseason opener against the Bengals, Justin Rogers of DetroitFootball.net reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
+| 2026-08-09 | Josh Downs | WR/IND | NEWS | Head coach Shane Steichen said Sunday that Downs (groin) could potentially be available for Tuesday's joint practice with the Patriots, Stephen Holder of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
+| 2026-08-09 | Luther Burden | WR/CHI | INJURY | Burden is expected to "miss a little bit of time" due to a groin injury that he sustained during Saturday's training camp practice, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-08 | Jadarian Price | RB/SEA | INJURY | Price didn't practice Friday due to "lower-body soreness," Gregg Bell of The Tacoma News Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
 | 2026-08-08 | Ty Johnson | RB/BUF | INJURY | Johnson left practice early Saturday due to an apparent right knee injury, Matt Parrino of NYup.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-johnson-13587)) | Rotowire |
 | 2026-08-08 | — | — | INJURY | Tunsil tore his triceps during practice Saturday and is expected to need surgery, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/laremy-tunsil-10964)) | Rotowire |
