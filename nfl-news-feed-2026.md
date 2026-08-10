@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-10 14:40 UTC_ · 70 items total · 67/70 matched to a player
+_Last updated: 2026-08-10 19:58 UTC_ · 75 items total · 72/75 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-10 14:40 UTC_ · 70 items total · 67/70 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-10 | Ja'Kobi Lane | WR/BAL | NEWS | Lane has been the buzz of Ravens training camp over the first couple weeks, Ryan Mink of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) | Rotowire |
+| 2026-08-10 | J.K. Dobbins | RB/DEN | INJURY | Coach Sean Payton noted Monday that Dobbins has a soft tissue injury, Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jk-dobbins-14418)) | Rotowire |
+| 2026-08-10 | Christian McCaffrey | RB/SF | NEWS | Offensive coordinator Klay Kubiak said the 49ers are "just managing" McCaffrey (undisclosed), who missed Monday's practice due to "tightness," Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
+| 2026-08-10 | Evan Engram | TE/DEN | NEWS | Bo Nix said Monday that Engram has been more involved in the running game and as a blocker during training camp, Parker Gabriel of The Denver Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/evan-engram-11805)) | Rotowire |
+| 2026-08-10 | Keaton Mitchell | RB/LAC | NEWS | Chargers OC Mike McDaniel said Monday that Mitchell will have an offensive role on game days this season, Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
 | 2026-08-10 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to sit out all three of the Bears' preseason games, but the team believes the wideout will be available for the Sept. 13 regular-season opener against the Panthers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-10 | Makai Lemon | WR/PHI | INJURY | Lemon appears unlikely to start for the Eagles early in the season while he's missed time in the spring and during training camp due to a lingering hamstring injury, Jimmy Kempski of PhillyVoice.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
 | 2026-08-10 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't participating in Monday's practice, Tim McManus of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
@@ -87,6 +92,11 @@ _Last updated: 2026-08-10 14:40 UTC_ · 70 items total · 67/70 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-10 | Ja'Kobi Lane | WR/BAL | NEWS | Lane has been the buzz of Ravens training camp over the first couple weeks, Ryan Mink of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) | Rotowire |
+| 2026-08-10 | J.K. Dobbins | RB/DEN | INJURY | Coach Sean Payton noted Monday that Dobbins has a soft tissue injury, Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jk-dobbins-14418)) | Rotowire |
+| 2026-08-10 | Christian McCaffrey | RB/SF | NEWS | Offensive coordinator Klay Kubiak said the 49ers are "just managing" McCaffrey (undisclosed), who missed Monday's practice due to "tightness," Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
+| 2026-08-10 | Evan Engram | TE/DEN | NEWS | Bo Nix said Monday that Engram has been more involved in the running game and as a blocker during training camp, Parker Gabriel of The Denver Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/evan-engram-11805)) | Rotowire |
+| 2026-08-10 | Keaton Mitchell | RB/LAC | NEWS | Chargers OC Mike McDaniel said Monday that Mitchell will have an offensive role on game days this season, Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
 | 2026-08-10 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to sit out all three of the Bears' preseason games, but the team believes the wideout will be available for the Sept. 13 regular-season opener against the Panthers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-10 | Makai Lemon | WR/PHI | INJURY | Lemon appears unlikely to start for the Eagles early in the season while he's missed time in the spring and during training camp due to a lingering hamstring injury, Jimmy Kempski of PhillyVoice.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
 | 2026-08-10 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't participating in Monday's practice, Tim McManus of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
