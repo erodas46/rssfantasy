@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-09 18:03 UTC_ · 62 items total · 59/62 matched to a player
+_Last updated: 2026-08-10 05:11 UTC_ · 65 items total · 62/65 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-08-09 18:03 UTC_ · 62 items total · 59/62 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-09 | Carnell Tate | WR/TEN | NEWS | Tate was a standout in team drills during Sunday's training camp practice, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
+| 2026-08-09 | Jordan Addison | WR/MIN | NEWS | Addison (thumb) is expected to be close to a full participant at the Vikings' night practice Sunday, Ben Goessling of The Minnesota Star Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
+| 2026-08-09 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to be sidelined for roughly one month, Matt Zenitz of CBSSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-09 | Jayden Reed | WR/GB | INJURY | Reed did not participate in Sunday's training camp practice due to an ankle injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
 | 2026-08-09 | Matthew Golden | WR/GB | INJURY | Golden did not practice Sunday due to a toe injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
 | 2026-08-09 | Jared Goff | QB/DET | ROLE/DEPTH CHART | Head coach Dan Campbell told reporters Sunday that Goff and other key starters will not play in Thursday's preseason opener against the Bengals, Justin Rogers of DetroitFootball.net reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
@@ -79,6 +82,9 @@ _Last updated: 2026-08-09 18:03 UTC_ · 62 items total · 59/62 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-09 | Carnell Tate | WR/TEN | NEWS | Tate was a standout in team drills during Sunday's training camp practice, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
+| 2026-08-09 | Jordan Addison | WR/MIN | NEWS | Addison (thumb) is expected to be close to a full participant at the Vikings' night practice Sunday, Ben Goessling of The Minnesota Star Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
+| 2026-08-09 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to be sidelined for roughly one month, Matt Zenitz of CBSSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-08-09 | Jayden Reed | WR/GB | INJURY | Reed did not participate in Sunday's training camp practice due to an ankle injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
 | 2026-08-09 | Matthew Golden | WR/GB | INJURY | Golden did not practice Sunday due to a toe injury, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
 | 2026-08-09 | Jared Goff | QB/DET | ROLE/DEPTH CHART | Head coach Dan Campbell told reporters Sunday that Goff and other key starters will not play in Thursday's preseason opener against the Bengals, Justin Rogers of DetroitFootball.net reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
