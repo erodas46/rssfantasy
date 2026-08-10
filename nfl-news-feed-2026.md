@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-10 05:11 UTC_ · 65 items total · 62/65 matched to a player
+_Last updated: 2026-08-10 14:40 UTC_ · 70 items total · 67/70 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-10 05:11 UTC_ · 65 items total · 62/65 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-10 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to sit out all three of the Bears' preseason games, but the team believes the wideout will be available for the Sept. 13 regular-season opener against the Panthers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
+| 2026-08-10 | Makai Lemon | WR/PHI | INJURY | Lemon appears unlikely to start for the Eagles early in the season while he's missed time in the spring and during training camp due to a lingering hamstring injury, Jimmy Kempski of PhillyVoice.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
+| 2026-08-10 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't participating in Monday's practice, Tim McManus of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-10 | Isiah Pacheco | RB/DET | INJURY | Pacheco is dealing with a sprained MCL, but head coach Dan Campbell believes he will be ready for Detroit's season opener against New Orleans, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isiah-pacheco-16104)) | Rotowire |
+| 2026-08-10 | Xavier Worthy | WR/KC | NEWS | Worthy (shoulder) will take part in Monday's practice, Pete Sweeney of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-worthy-17687)) | Rotowire |
 | 2026-08-09 | Carnell Tate | WR/TEN | NEWS | Tate was a standout in team drills during Sunday's training camp practice, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-09 | Jordan Addison | WR/MIN | NEWS | Addison (thumb) is expected to be close to a full participant at the Vikings' night practice Sunday, Ben Goessling of The Minnesota Star Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
 | 2026-08-09 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to be sidelined for roughly one month, Matt Zenitz of CBSSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
@@ -82,6 +87,11 @@ _Last updated: 2026-08-10 05:11 UTC_ · 65 items total · 62/65 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-10 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to sit out all three of the Bears' preseason games, but the team believes the wideout will be available for the Sept. 13 regular-season opener against the Panthers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
+| 2026-08-10 | Makai Lemon | WR/PHI | INJURY | Lemon appears unlikely to start for the Eagles early in the season while he's missed time in the spring and during training camp due to a lingering hamstring injury, Jimmy Kempski of PhillyVoice.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
+| 2026-08-10 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't participating in Monday's practice, Tim McManus of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-10 | Isiah Pacheco | RB/DET | INJURY | Pacheco is dealing with a sprained MCL, but head coach Dan Campbell believes he will be ready for Detroit's season opener against New Orleans, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isiah-pacheco-16104)) | Rotowire |
+| 2026-08-10 | Xavier Worthy | WR/KC | NEWS | Worthy (shoulder) will take part in Monday's practice, Pete Sweeney of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-worthy-17687)) | Rotowire |
 | 2026-08-09 | Carnell Tate | WR/TEN | NEWS | Tate was a standout in team drills during Sunday's training camp practice, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-09 | Jordan Addison | WR/MIN | NEWS | Addison (thumb) is expected to be close to a full participant at the Vikings' night practice Sunday, Ben Goessling of The Minnesota Star Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
 | 2026-08-09 | Luther Burden | WR/CHI | NEWS | Burden (groin) is expected to be sidelined for roughly one month, Matt Zenitz of CBSSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
