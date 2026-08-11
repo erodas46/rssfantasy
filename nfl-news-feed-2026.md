@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-11 04:51 UTC_ · 80 items total · 77/80 matched to a player
+_Last updated: 2026-08-11 14:40 UTC_ · 85 items total · 82/85 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-11 04:51 UTC_ · 80 items total · 77/80 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-11 | Adonai Mitchell | WR/NYJ | NEWS | Jets receivers coach Shawn Jefferson implied Tuesday that Mitchell is seen as the team's No. 2 wideout heading into the upcoming season, Antwan V. Staley of the New York Daily News reports. "If he continues on this trajectory, he will be a really good Robin to our Batman... ([link](https://www.rotowire.com//football/player/adonai-mitchell-17668)) | Rotowire |
+| 2026-08-11 | James Cook | RB/BUF | NEWS | Bills offensive coordinator Pete Carmichael didn't rule out the possibility of Cook having more involvement as a pass catcher in 2026, Alex Brasky of SI.com reports. "Anytime you can get the ball in [Cook's] hands, you have an opportunity for a big play," Carmichael said Monday.... ([link](https://www.rotowire.com//football/player/james-cook-15876)) | Rotowire |
+| 2026-08-11 | Bo Nix | QB/DEN | NEWS | Broncos defensive coordinator Vance Joseph said Nix's deep accuracy has been "off the charts" at training camp, Nick Kosmider of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
+| 2026-08-11 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't participating in Tuesday's practice, Martin Frank of The Delaware News Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-11 | Josh Downs | WR/IND | NEWS | Downs (groin) is back at practice Tuesday, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-08-10 | RJ Harvey | RB/DEN | NEWS | Harvey expects to provide a lot of big plays in Year 2 with the Broncos, Susanna Weir of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
 | 2026-08-10 | Breece Hall | RB/NYJ | ROLE/DEPTH CHART | Hall is expected to be featured more prominently as the Jets' lead back this season, Connor Hughes of SNY.TV reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-08-10 | Rachaad White | RB/WAS | ROLE/DEPTH CHART | White was listed as the Commanders' No. 2 running back on the team's unofficial depth chart Monday, Zach Selby of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
@@ -97,6 +102,11 @@ _Last updated: 2026-08-11 04:51 UTC_ · 80 items total · 77/80 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-11 | Adonai Mitchell | WR/NYJ | NEWS | Jets receivers coach Shawn Jefferson implied Tuesday that Mitchell is seen as the team's No. 2 wideout heading into the upcoming season, Antwan V. Staley of the New York Daily News reports. "If he continues on this trajectory, he will be a really good Robin to our Batman... ([link](https://www.rotowire.com//football/player/adonai-mitchell-17668)) | Rotowire |
+| 2026-08-11 | James Cook | RB/BUF | NEWS | Bills offensive coordinator Pete Carmichael didn't rule out the possibility of Cook having more involvement as a pass catcher in 2026, Alex Brasky of SI.com reports. "Anytime you can get the ball in [Cook's] hands, you have an opportunity for a big play," Carmichael said Monday.... ([link](https://www.rotowire.com//football/player/james-cook-15876)) | Rotowire |
+| 2026-08-11 | Bo Nix | QB/DEN | NEWS | Broncos defensive coordinator Vance Joseph said Nix's deep accuracy has been "off the charts" at training camp, Nick Kosmider of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
+| 2026-08-11 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) isn't participating in Tuesday's practice, Martin Frank of The Delaware News Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-11 | Josh Downs | WR/IND | NEWS | Downs (groin) is back at practice Tuesday, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-08-10 | RJ Harvey | RB/DEN | NEWS | Harvey expects to provide a lot of big plays in Year 2 with the Broncos, Susanna Weir of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
 | 2026-08-10 | Breece Hall | RB/NYJ | ROLE/DEPTH CHART | Hall is expected to be featured more prominently as the Jets' lead back this season, Connor Hughes of SNY.TV reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-08-10 | Rachaad White | RB/WAS | ROLE/DEPTH CHART | White was listed as the Commanders' No. 2 running back on the team's unofficial depth chart Monday, Zach Selby of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
