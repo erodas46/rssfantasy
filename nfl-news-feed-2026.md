@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-10 19:58 UTC_ · 75 items total · 72/75 matched to a player
+_Last updated: 2026-08-11 04:51 UTC_ · 80 items total · 77/80 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-10 19:58 UTC_ · 75 items total · 72/75 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-10 | RJ Harvey | RB/DEN | NEWS | Harvey expects to provide a lot of big plays in Year 2 with the Broncos, Susanna Weir of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
+| 2026-08-10 | Breece Hall | RB/NYJ | ROLE/DEPTH CHART | Hall is expected to be featured more prominently as the Jets' lead back this season, Connor Hughes of SNY.TV reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-08-10 | Rachaad White | RB/WAS | ROLE/DEPTH CHART | White was listed as the Commanders' No. 2 running back on the team's unofficial depth chart Monday, Zach Selby of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
+| 2026-08-10 | Michael Penix | QB/ATL | NEWS | Penix (knee) had some nice plays during 7-on-7 drills at Monday's practice, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-08-10 | Alec Pierce | WR/IND | NEWS | Pierce (anke) received a second PRP injection in his left ankle this offseason, James Boyd of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-08-10 | Ja'Kobi Lane | WR/BAL | NEWS | Lane has been the buzz of Ravens training camp over the first couple weeks, Ryan Mink of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) | Rotowire |
 | 2026-08-10 | J.K. Dobbins | RB/DEN | INJURY | Coach Sean Payton noted Monday that Dobbins has a soft tissue injury, Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jk-dobbins-14418)) | Rotowire |
 | 2026-08-10 | Christian McCaffrey | RB/SF | NEWS | Offensive coordinator Klay Kubiak said the 49ers are "just managing" McCaffrey (undisclosed), who missed Monday's practice due to "tightness," Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
@@ -92,6 +97,11 @@ _Last updated: 2026-08-10 19:58 UTC_ · 75 items total · 72/75 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-10 | RJ Harvey | RB/DEN | NEWS | Harvey expects to provide a lot of big plays in Year 2 with the Broncos, Susanna Weir of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
+| 2026-08-10 | Breece Hall | RB/NYJ | ROLE/DEPTH CHART | Hall is expected to be featured more prominently as the Jets' lead back this season, Connor Hughes of SNY.TV reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-08-10 | Rachaad White | RB/WAS | ROLE/DEPTH CHART | White was listed as the Commanders' No. 2 running back on the team's unofficial depth chart Monday, Zach Selby of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
+| 2026-08-10 | Michael Penix | QB/ATL | NEWS | Penix (knee) had some nice plays during 7-on-7 drills at Monday's practice, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-08-10 | Alec Pierce | WR/IND | NEWS | Pierce (anke) received a second PRP injection in his left ankle this offseason, James Boyd of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-08-10 | Ja'Kobi Lane | WR/BAL | NEWS | Lane has been the buzz of Ravens training camp over the first couple weeks, Ryan Mink of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) | Rotowire |
 | 2026-08-10 | J.K. Dobbins | RB/DEN | INJURY | Coach Sean Payton noted Monday that Dobbins has a soft tissue injury, Aric DiLalla of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jk-dobbins-14418)) | Rotowire |
 | 2026-08-10 | Christian McCaffrey | RB/SF | NEWS | Offensive coordinator Klay Kubiak said the 49ers are "just managing" McCaffrey (undisclosed), who missed Monday's practice due to "tightness," Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
