@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-12 05:46 UTC_ · 95 items total · 90/95 matched to a player
+_Last updated: 2026-08-12 14:41 UTC_ · 99 items total · 94/99 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-08-12 05:46 UTC_ · 95 items total · 90/95 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-12 | Malik Willis | QB/MIA | NEWS | Head coach Jeff Hafley said he's planning on having Willis play in the Dolphins' preseason opener Friday versus the Commanders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
+| 2026-08-12 | Cam Skattebo | RB/NYG | ROLE/DEPTH CHART | The Giants list Skattebo as a co-starter at running back with Tyrone Tracy on their first unofficial depth chart of season that was posted Wednesday, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-12 | Terrance Ferguson | TE/LAR | NEWS | Ferguson was a standout performer during the Rams' joint practice with the Cowboys on Tuesday, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) | Rotowire |
+| 2026-08-12 | Rashod Bateman | WR/BAL | NEWS | Bateman is absent from practice Wednesday for a second straight day, Brian Wacker of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashod-bateman-15210)) | Rotowire |
 | 2026-08-11 | Keon Coleman | WR/BUF | ROLE/DEPTH CHART | Coleman is listed as a starter on Buffalo's first depth chart of the preseason, Lance Lysowski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
 | 2026-08-11 | Travis Etienne | RB/NO | ROLE/DEPTH CHART | Kamara and Travis Etienne are listed as co-RB1s on the Saints' first unofficial depth chart of training camp, Mike Triplett of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
 | 2026-08-11 | Isaiah Williams | WR/NYJ | NEWS | Williams is making a case for a bigger role in the Jets offense with his performance in training camp, Rich Cimini of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-williams-17977)) | Rotowire |
@@ -100,6 +104,10 @@ _Last updated: 2026-08-12 05:46 UTC_ · 95 items total · 90/95 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-12 | Malik Willis | QB/MIA | NEWS | Head coach Jeff Hafley said he's planning on having Willis play in the Dolphins' preseason opener Friday versus the Commanders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
+| 2026-08-12 | Cam Skattebo | RB/NYG | ROLE/DEPTH CHART | The Giants list Skattebo as a co-starter at running back with Tyrone Tracy on their first unofficial depth chart of season that was posted Wednesday, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-12 | Terrance Ferguson | TE/LAR | NEWS | Ferguson was a standout performer during the Rams' joint practice with the Cowboys on Tuesday, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) | Rotowire |
+| 2026-08-12 | Rashod Bateman | WR/BAL | NEWS | Bateman is absent from practice Wednesday for a second straight day, Brian Wacker of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashod-bateman-15210)) | Rotowire |
 | 2026-08-11 | Keon Coleman | WR/BUF | ROLE/DEPTH CHART | Coleman is listed as a starter on Buffalo's first depth chart of the preseason, Lance Lysowski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
 | 2026-08-11 | Travis Etienne | RB/NO | ROLE/DEPTH CHART | Kamara and Travis Etienne are listed as co-RB1s on the Saints' first unofficial depth chart of training camp, Mike Triplett of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
 | 2026-08-11 | Isaiah Williams | WR/NYJ | NEWS | Williams is making a case for a bigger role in the Jets offense with his performance in training camp, Rich Cimini of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-williams-17977)) | Rotowire |
