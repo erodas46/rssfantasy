@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-12 14:41 UTC_ · 99 items total · 94/99 matched to a player
+_Last updated: 2026-08-12 20:04 UTC_ · 104 items total · 99/104 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-12 14:41 UTC_ · 99 items total · 94/99 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-12 | Michael Penix | QB/ATL | INJURY | Penix (knee) still hasn't been cleared for 11-on-11s and won't be available for Friday's preseason opener against Denver, Josh Kendall of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-08-12 | Emeka Egbuka | WR/TB | INJURY | Egbuka left Wednesday's practice due to a toe injury that's considered minor, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-08-12 | Rashee Rice | WR/KC | NEWS | NFL Network's Ian Rapoport said Rice is unlikely to face NFL discipline for his probation violation this spring, Charles Goldman of AtoZ Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
+| 2026-08-12 | Emeka Egbuka | WR/TB | INJURY | Egbuka suffered a sprained toe during Wednesday's practice, and testing will determine the severity of the injury, Rick Stroud of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-08-12 | Malik Nabers | WR/NYG | INJURY | Nabers (knee) remained limited to individual drills at Wednesday's practice, Evan Barnes of Newsday reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-08-12 | Malik Willis | QB/MIA | NEWS | Head coach Jeff Hafley said he's planning on having Willis play in the Dolphins' preseason opener Friday versus the Commanders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
 | 2026-08-12 | Cam Skattebo | RB/NYG | ROLE/DEPTH CHART | The Giants list Skattebo as a co-starter at running back with Tyrone Tracy on their first unofficial depth chart of season that was posted Wednesday, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-08-12 | Terrance Ferguson | TE/LAR | NEWS | Ferguson was a standout performer during the Rams' joint practice with the Cowboys on Tuesday, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) | Rotowire |
@@ -104,6 +109,11 @@ _Last updated: 2026-08-12 14:41 UTC_ · 99 items total · 94/99 matched to a pla
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-12 | Michael Penix | QB/ATL | INJURY | Penix (knee) still hasn't been cleared for 11-on-11s and won't be available for Friday's preseason opener against Denver, Josh Kendall of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-08-12 | Emeka Egbuka | WR/TB | INJURY | Egbuka left Wednesday's practice due to a toe injury that's considered minor, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-08-12 | Rashee Rice | WR/KC | NEWS | NFL Network's Ian Rapoport said Rice is unlikely to face NFL discipline for his probation violation this spring, Charles Goldman of AtoZ Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
+| 2026-08-12 | Emeka Egbuka | WR/TB | INJURY | Egbuka suffered a sprained toe during Wednesday's practice, and testing will determine the severity of the injury, Rick Stroud of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-08-12 | Malik Nabers | WR/NYG | INJURY | Nabers (knee) remained limited to individual drills at Wednesday's practice, Evan Barnes of Newsday reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-08-12 | Malik Willis | QB/MIA | NEWS | Head coach Jeff Hafley said he's planning on having Willis play in the Dolphins' preseason opener Friday versus the Commanders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
 | 2026-08-12 | Cam Skattebo | RB/NYG | ROLE/DEPTH CHART | The Giants list Skattebo as a co-starter at running back with Tyrone Tracy on their first unofficial depth chart of season that was posted Wednesday, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-08-12 | Terrance Ferguson | TE/LAR | NEWS | Ferguson was a standout performer during the Rams' joint practice with the Cowboys on Tuesday, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) | Rotowire |
