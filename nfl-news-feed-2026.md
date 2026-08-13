@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-13 05:50 UTC_ · 109 items total · 104/109 matched to a player
+_Last updated: 2026-08-13 19:58 UTC_ · 114 items total · 109/114 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-13 05:50 UTC_ · 109 items total · 104/109 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-13 | Jaydon Blue | RB/DAL | NEWS | Head coach Brian Schottenheimer said Thursday that Blue and Phil Mafah will both "get a ton of work" during the preseason, Patrik Walker of the Cowboys' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaydon-blue-18499)) | Rotowire |
+| 2026-08-13 | Carson Beck | QB/ARI | INJURY | Beck won't play in Thursday's preseason game against the Raiders due to a rib injury he sustained in the previous Thursday's preseason game against the Panthers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-beck-19287)) | Rotowire |
+| 2026-08-13 | Brock Purdy | QB/SF | NEWS | Purdy isn't in line to play in Thursday's preseason opener against the Titans, Vic Tafur and Matt Barrows report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-purdy-15834)) | Rotowire |
+| 2026-08-13 | Stetson Bennett | QB/LAR | NEWS | Bennett is slated to start Saturday's preseason opener against the Chiefs, Stu Jackson of the Rams' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stetson-bennett-16871)) | Rotowire |
+| 2026-08-13 | Puka Nacua | WR/LAR | NEWS | Head coach Sean McVay said Thursday that Nacua (groin) is expected to practice prior to the Rams' second preseason game against the Saints, Greg Beacham of The Associated Press reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-08-12 | Shedeur Sanders | QB/CLE | NEWS | Deshaun Watson will get the start in Saturday's preseason opener against the Bears, while Sanders will draw the start in the team's Aug. 22 contest against the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/shedeur-sanders-18479)) | Rotowire |
 | 2026-08-12 | Jadarian Price | RB/SEA | NEWS | Price (lower body) participated in Wednesday's walkthrough, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
 | 2026-08-12 | Darren Waller | TE/ | TRANSACTION | The Panthers signed Waller (groin) to a one-year contract Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/darren-waller-10215)) | Rotowire |
@@ -100,6 +105,11 @@ _Last updated: 2026-08-13 05:50 UTC_ · 109 items total · 104/109 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-13 | Jaydon Blue | RB/DAL | NEWS | Head coach Brian Schottenheimer said Thursday that Blue and Phil Mafah will both "get a ton of work" during the preseason, Patrik Walker of the Cowboys' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaydon-blue-18499)) | Rotowire |
+| 2026-08-13 | Carson Beck | QB/ARI | INJURY | Beck won't play in Thursday's preseason game against the Raiders due to a rib injury he sustained in the previous Thursday's preseason game against the Panthers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-beck-19287)) | Rotowire |
+| 2026-08-13 | Brock Purdy | QB/SF | NEWS | Purdy isn't in line to play in Thursday's preseason opener against the Titans, Vic Tafur and Matt Barrows report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-purdy-15834)) | Rotowire |
+| 2026-08-13 | Stetson Bennett | QB/LAR | NEWS | Bennett is slated to start Saturday's preseason opener against the Chiefs, Stu Jackson of the Rams' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stetson-bennett-16871)) | Rotowire |
+| 2026-08-13 | Puka Nacua | WR/LAR | NEWS | Head coach Sean McVay said Thursday that Nacua (groin) is expected to practice prior to the Rams' second preseason game against the Saints, Greg Beacham of The Associated Press reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-08-12 | Shedeur Sanders | QB/CLE | NEWS | Deshaun Watson will get the start in Saturday's preseason opener against the Bears, while Sanders will draw the start in the team's Aug. 22 contest against the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/shedeur-sanders-18479)) | Rotowire |
 | 2026-08-12 | Jadarian Price | RB/SEA | NEWS | Price (lower body) participated in Wednesday's walkthrough, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
 | 2026-08-12 | Darren Waller | TE/ | TRANSACTION | The Panthers signed Waller (groin) to a one-year contract Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/darren-waller-10215)) | Rotowire |
