@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-14 05:47 UTC_ · 119 items total · 114/119 matched to a player
+_Last updated: 2026-08-14 14:32 UTC_ · 124 items total · 119/124 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-14 05:47 UTC_ · 119 items total · 114/119 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-14 | Jahmyr Gibbs | RB/DET | NEWS | Gibbs was held out of Thursday's preseason opener against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jahmyr-gibbs-16808)) | Rotowire |
+| 2026-08-13 | Jayden Reed | WR/GB | NEWS | Reed caught one of two targets for 19 yards in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
+| 2026-08-13 | Matthew Golden | WR/GB | ROLE/DEPTH CHART | Golden failed to see a target in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-08-13 | MarShawn Lloyd | RB/GB | NEWS | Lloyd carried the ball four times for 13 yards in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marshawn-lloyd-17795)) | Rotowire |
+| 2026-08-13 | Drake Maye | QB/NE | NEWS | Maye did not play in the Patriots' 13-13 preseason tie with the Colts on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drake-maye-17673)) | Rotowire |
 | 2026-08-13 | Jacoby Brissett | QB/ARI | NEWS | Brissett completed all five of his passes for 44 yards and one touchdown during Thursday's 27-14 preseason win in Las Vegas. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacoby-brissett-10919)) | Rotowire |
 | 2026-08-13 | Cam Ward | QB/TEN | NEWS | Ward completed five of 12 targets for 57 yards with no touchdowns or interceptions and rushed once for two yards in the Titans' 19-13 preseason win over the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-ward-16997)) | Rotowire |
 | 2026-08-13 | Gunnar Helm | TE/TEN | NEWS | Helm brought in his only target for 16 yards in the Titans' 19-13 preseason win over the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/gunnar-helm-18503)) | Rotowire |
@@ -103,6 +108,11 @@ _Last updated: 2026-08-14 05:47 UTC_ · 119 items total · 114/119 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-14 | Jahmyr Gibbs | RB/DET | NEWS | Gibbs was held out of Thursday's preseason opener against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jahmyr-gibbs-16808)) | Rotowire |
+| 2026-08-13 | Jayden Reed | WR/GB | NEWS | Reed caught one of two targets for 19 yards in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
+| 2026-08-13 | Matthew Golden | WR/GB | ROLE/DEPTH CHART | Golden failed to see a target in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-08-13 | MarShawn Lloyd | RB/GB | NEWS | Lloyd carried the ball four times for 13 yards in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marshawn-lloyd-17795)) | Rotowire |
+| 2026-08-13 | Drake Maye | QB/NE | NEWS | Maye did not play in the Patriots' 13-13 preseason tie with the Colts on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drake-maye-17673)) | Rotowire |
 | 2026-08-13 | Jacoby Brissett | QB/ARI | NEWS | Brissett completed all five of his passes for 44 yards and one touchdown during Thursday's 27-14 preseason win in Las Vegas. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacoby-brissett-10919)) | Rotowire |
 | 2026-08-13 | Cam Ward | QB/TEN | NEWS | Ward completed five of 12 targets for 57 yards with no touchdowns or interceptions and rushed once for two yards in the Titans' 19-13 preseason win over the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-ward-16997)) | Rotowire |
 | 2026-08-13 | Gunnar Helm | TE/TEN | NEWS | Helm brought in his only target for 16 yards in the Titans' 19-13 preseason win over the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/gunnar-helm-18503)) | Rotowire |
