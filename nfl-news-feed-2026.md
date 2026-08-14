@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-14 14:32 UTC_ · 124 items total · 119/124 matched to a player
+_Last updated: 2026-08-14 19:39 UTC_ · 128 items total · 122/128 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-08-14 14:32 UTC_ · 124 items total · 119/124 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-14 | Jordyn Tyson | WR/NO | INJURY | Coach Kellen Moore confirmed Friday that Tyson is dealing with a right hamstring injury, Luke Johnson of The New Orleans Times-Picayune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
+| 2026-08-14 | Jordyn Tyson | WR/NO | INJURY | Coach Kellen Moore acknowledged that Tyson's right hamstring injury "could" linger into the start of the regular season, Katherine Terrell of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
+| 2026-08-14 | — | — | SUSPENSION | The NFL suspended Pearce eight games Friday for violating the league's personal conduct policy, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/james-pearce-18657)) | Rotowire |
+| 2026-08-14 | Josh Jacobs | RB/GB | NEWS | Coach Matt LaFleur said Friday that Jacobs (groin) could potentially return to practice later next week, Weston Hodkiewicz of the Packers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-08-14 | Jahmyr Gibbs | RB/DET | NEWS | Gibbs was held out of Thursday's preseason opener against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jahmyr-gibbs-16808)) | Rotowire |
 | 2026-08-13 | Jayden Reed | WR/GB | NEWS | Reed caught one of two targets for 19 yards in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
 | 2026-08-13 | Matthew Golden | WR/GB | ROLE/DEPTH CHART | Golden failed to see a target in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
@@ -108,6 +112,10 @@ _Last updated: 2026-08-14 14:32 UTC_ · 124 items total · 119/124 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-14 | Jordyn Tyson | WR/NO | INJURY | Coach Kellen Moore confirmed Friday that Tyson is dealing with a right hamstring injury, Luke Johnson of The New Orleans Times-Picayune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
+| 2026-08-14 | Jordyn Tyson | WR/NO | INJURY | Coach Kellen Moore acknowledged that Tyson's right hamstring injury "could" linger into the start of the regular season, Katherine Terrell of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
+| 2026-08-14 | — | — | SUSPENSION | The NFL suspended Pearce eight games Friday for violating the league's personal conduct policy, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/james-pearce-18657)) | Rotowire |
+| 2026-08-14 | Josh Jacobs | RB/GB | NEWS | Coach Matt LaFleur said Friday that Jacobs (groin) could potentially return to practice later next week, Weston Hodkiewicz of the Packers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-08-14 | Jahmyr Gibbs | RB/DET | NEWS | Gibbs was held out of Thursday's preseason opener against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jahmyr-gibbs-16808)) | Rotowire |
 | 2026-08-13 | Jayden Reed | WR/GB | NEWS | Reed caught one of two targets for 19 yards in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) | Rotowire |
 | 2026-08-13 | Matthew Golden | WR/GB | ROLE/DEPTH CHART | Golden failed to see a target in Thursday's 28-9 preseason loss to the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
