@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-15 11:39 UTC_ · 133 items total · 127/133 matched to a player
+_Last updated: 2026-08-15 17:41 UTC_ · 138 items total · 132/138 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-15 11:39 UTC_ · 133 items total · 127/133 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-15 | Jameis Winston | QB/NYG | NEWS | Skattebo is lined up with Jameis Winston and the second-string offense during pregame warmups for Saturday's preseason matchup with Minnesota, Pat Leonard of the New York Daily News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-15 | Carson Beck | QB/ARI | NEWS | Beck (ribs) is practicing Saturday, Bo Brack of GoPHNX.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-beck-19287)) | Rotowire |
+| 2026-08-15 | Romeo Doubs | WR/NE | NEWS | Doubs was the standout wide receiver during the Patriots' training camp practice Saturday, Taylor Kyles of CLNSMedia.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-08-15 | Malik Nabers | WR/NYG | NEWS | Nabers (knee) isn't in uniform for Saturday's preseason opener against Minnesota, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
+| 2026-08-15 | DJ Moore | WR/BUF | INJURY | Moore came off the field grabbing his ankle during Saturday's preseason game against the Panthers, Matt Parrino of The Syracuse Post-Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-08-14 | Brian Robinson | RB/ATL | NEWS | Robinson rushed twice for six yards in Friday's 27-7 preseason loss to the Broncos. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-robinson-15907)) | Rotowire |
 | 2026-08-14 | De'Von Achane | RB/MIA | NEWS | Achane rushed seven times for 39 yards and a touchdown and wasn't targeted in the Dolphins' 20-7 preseason loss to the Commanders on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devon-achane-16661)) | Rotowire |
 | 2026-08-14 | Courtland Sutton | WR/DEN | NEWS | Sutton caught all three of his targets for 60 yards in Friday's 27-7 preseason win over the Falcons. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
@@ -103,6 +108,11 @@ _Last updated: 2026-08-15 11:39 UTC_ · 133 items total · 127/133 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-15 | Jameis Winston | QB/NYG | NEWS | Skattebo is lined up with Jameis Winston and the second-string offense during pregame warmups for Saturday's preseason matchup with Minnesota, Pat Leonard of the New York Daily News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-15 | Carson Beck | QB/ARI | NEWS | Beck (ribs) is practicing Saturday, Bo Brack of GoPHNX.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-beck-19287)) | Rotowire |
+| 2026-08-15 | Romeo Doubs | WR/NE | NEWS | Doubs was the standout wide receiver during the Patriots' training camp practice Saturday, Taylor Kyles of CLNSMedia.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-08-15 | Malik Nabers | WR/NYG | NEWS | Nabers (knee) isn't in uniform for Saturday's preseason opener against Minnesota, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
+| 2026-08-15 | DJ Moore | WR/BUF | INJURY | Moore came off the field grabbing his ankle during Saturday's preseason game against the Panthers, Matt Parrino of The Syracuse Post-Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-08-14 | Brian Robinson | RB/ATL | NEWS | Robinson rushed twice for six yards in Friday's 27-7 preseason loss to the Broncos. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-robinson-15907)) | Rotowire |
 | 2026-08-14 | De'Von Achane | RB/MIA | NEWS | Achane rushed seven times for 39 yards and a touchdown and wasn't targeted in the Dolphins' 20-7 preseason loss to the Commanders on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devon-achane-16661)) | Rotowire |
 | 2026-08-14 | Courtland Sutton | WR/DEN | NEWS | Sutton caught all three of his targets for 60 yards in Friday's 27-7 preseason win over the Falcons. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
