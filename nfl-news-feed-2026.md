@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-16 11:40 UTC_ · 144 items total · 138/144 matched to a player
+_Last updated: 2026-08-16 17:39 UTC_ · 147 items total · 141/147 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-08-16 11:40 UTC_ · 144 items total · 138/144 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-16 | Tucker Kraft | TE/GB | NEWS | Head coach Matt LaFleur told reporters that Kraft (knee) will participate in 11-on-11 team drills during Sunday's training camp practice, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tucker-kraft-16649)) | Rotowire |
+| 2026-08-16 | Marcus Mariota | QB/WAS | INJURY | Mariota is expected to miss the rest of the preseason due to a sprained MCL in his knee, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) | Rotowire |
+| 2026-08-16 | Josh Downs | WR/IND | NEWS | Downs, who briefly left Saturday's practice after landing hard on his back, later returned to the session, Kevin Bowen of 107.5 The Fan Indianapolis reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-08-15 | George Holani | RB/SEA | NEWS | Holani rushed 12 times for 42 yards in the Seahawks' 17-7 preseason loss to the Cowboys on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-holani-17968)) | Rotowire |
 | 2026-08-15 | Jordan Mason | RB/MIN | NEWS | Mason carried the ball three times for 17 yards in Saturday's 13-10 preseason win over the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) | Rotowire |
 | 2026-08-15 | Jordan Addison | WR/MIN | NEWS | Addison (thumb) caught his only target for eight yards in Saturday's 13-10 preseason win over the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
@@ -104,6 +107,9 @@ _Last updated: 2026-08-16 11:40 UTC_ · 144 items total · 138/144 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-16 | Tucker Kraft | TE/GB | NEWS | Head coach Matt LaFleur told reporters that Kraft (knee) will participate in 11-on-11 team drills during Sunday's training camp practice, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tucker-kraft-16649)) | Rotowire |
+| 2026-08-16 | Marcus Mariota | QB/WAS | INJURY | Mariota is expected to miss the rest of the preseason due to a sprained MCL in his knee, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) | Rotowire |
+| 2026-08-16 | Josh Downs | WR/IND | NEWS | Downs, who briefly left Saturday's practice after landing hard on his back, later returned to the session, Kevin Bowen of 107.5 The Fan Indianapolis reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-08-15 | George Holani | RB/SEA | NEWS | Holani rushed 12 times for 42 yards in the Seahawks' 17-7 preseason loss to the Cowboys on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-holani-17968)) | Rotowire |
 | 2026-08-15 | Jordan Mason | RB/MIN | NEWS | Mason carried the ball three times for 17 yards in Saturday's 13-10 preseason win over the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) | Rotowire |
 | 2026-08-15 | Jordan Addison | WR/MIN | NEWS | Addison (thumb) caught his only target for eight yards in Saturday's 13-10 preseason win over the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
