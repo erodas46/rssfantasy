@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-17 11:52 UTC_ · 152 items total · 145/152 matched to a player
+_Last updated: 2026-08-17 18:00 UTC_ · 157 items total · 150/157 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-17 11:52 UTC_ · 152 items total · 145/152 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-17 | Makai Lemon | WR/PHI | INJURY | Lemon (hamstring) was spotted sprinting on the side at Monday's practice, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
+| 2026-08-17 | Jake Moody | K/WAS | TRANSACTION | The Commanders are cutting Moody on Monday, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-moody-17133)) | Rotowire |
+| 2026-08-17 | Drew Stevens | K/WAS | NEWS | Stevens has claimed the Commanders' kicker job after the team cut Jake Moody on Monday, Nicki Jhabvala of The Washington Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drew-stevens-18511)) | Rotowire |
+| 2026-08-17 | Tank Dell | WR/HOU | NEWS | Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. "With Tank, he's on his own plan," Ryans noted. "Whatever that entails, geared toward what's best for Tank Dell." Visit... ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
+| 2026-08-17 | Carnell Tate | WR/TEN | NEWS | Coach Robert Saleh said Tate (undisclosed) will be evaluated after taking a hard hit at Monday's practice, Ben Arthur of FoxSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-16 | Jeremiyah Love | RB/ARI | INJURY | Love reportedly sustained a high-ankle sprain in Thursday's preseason win over the Raiders, and he is unlikely to play again during the preseason, Adam Schefter of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-16 | DeeJay Dallas | RB/JAX | NEWS | Miller is expected to sign with the Cowboys, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/von-miller-7421)) | Rotowire |
 | 2026-08-16 | — | — | TRANSACTION | Miller and the Cowboys agreed to terms on a contract Sunday, Tommy Yarish of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/von-miller-7421)) | Rotowire |
@@ -104,6 +109,11 @@ _Last updated: 2026-08-17 11:52 UTC_ · 152 items total · 145/152 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-17 | Makai Lemon | WR/PHI | INJURY | Lemon (hamstring) was spotted sprinting on the side at Monday's practice, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
+| 2026-08-17 | Jake Moody | K/WAS | TRANSACTION | The Commanders are cutting Moody on Monday, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-moody-17133)) | Rotowire |
+| 2026-08-17 | Drew Stevens | K/WAS | NEWS | Stevens has claimed the Commanders' kicker job after the team cut Jake Moody on Monday, Nicki Jhabvala of The Washington Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drew-stevens-18511)) | Rotowire |
+| 2026-08-17 | Tank Dell | WR/HOU | NEWS | Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. "With Tank, he's on his own plan," Ryans noted. "Whatever that entails, geared toward what's best for Tank Dell." Visit... ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
+| 2026-08-17 | Carnell Tate | WR/TEN | NEWS | Coach Robert Saleh said Tate (undisclosed) will be evaluated after taking a hard hit at Monday's practice, Ben Arthur of FoxSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-16 | Jeremiyah Love | RB/ARI | INJURY | Love reportedly sustained a high-ankle sprain in Thursday's preseason win over the Raiders, and he is unlikely to play again during the preseason, Adam Schefter of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-16 | DeeJay Dallas | RB/JAX | NEWS | Miller is expected to sign with the Cowboys, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/von-miller-7421)) | Rotowire |
 | 2026-08-16 | — | — | TRANSACTION | Miller and the Cowboys agreed to terms on a contract Sunday, Tommy Yarish of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/von-miller-7421)) | Rotowire |
