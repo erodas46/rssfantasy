@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-18 11:54 UTC_ · 162 items total · 155/162 matched to a player
+_Last updated: 2026-08-18 17:57 UTC_ · 167 items total · 160/167 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-18 11:54 UTC_ · 162 items total · 155/162 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-18 | Justin Herbert | QB/LAC | ROLE/DEPTH CHART | Herbert will get the start in Thursday's preseason game against the 49ers,Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
+| 2026-08-18 | Jayden Higgins | WR/HOU | INJURY | In reference to Higgins, who appeared to sustain a leg injury during Tuesday's practice, QB C.J. Stroud noted afterward, "I think he'll be fine," Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-higgins-18551)) | Rotowire |
+| 2026-08-18 | Kyle Monangai | RB/CHI | NEWS | Monangai (knee) is considered week-to-week, Adam Jahns of AllCHGO.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-08-18 | Keon Coleman | WR/BUF | INJURY | Coleman has been diagnosed with a sprained right foot/toe, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
+| 2026-08-18 | Calvin Tyler | RB/ | INJURY | Biadasz was carted off the field during Tuesday's practice with an apparent leg injury, Daniel Popper of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-biadasz-14485)) | Rotowire |
 | 2026-08-17 | Kyle Monangai | RB/CHI | NEWS | Monangai hyperextended his right knee at Sunday's practice, and he's expected to be sidelined multiple weeks, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
 | 2026-08-17 | Breece Hall | RB/NYJ | INJURY | The follow-up on the groin injury Hall sustained Monday confirmed that the injury is minor, according to Connor Hughes of SNY.tv. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-08-17 | Jordyn Tyson | WR/NO | INJURY | Tyson is expected to miss about two months due to the hamstring injury he suffered last week, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
@@ -99,6 +104,11 @@ _Last updated: 2026-08-18 11:54 UTC_ · 162 items total · 155/162 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-18 | Justin Herbert | QB/LAC | ROLE/DEPTH CHART | Herbert will get the start in Thursday's preseason game against the 49ers,Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
+| 2026-08-18 | Jayden Higgins | WR/HOU | INJURY | In reference to Higgins, who appeared to sustain a leg injury during Tuesday's practice, QB C.J. Stroud noted afterward, "I think he'll be fine," Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-higgins-18551)) | Rotowire |
+| 2026-08-18 | Kyle Monangai | RB/CHI | NEWS | Monangai (knee) is considered week-to-week, Adam Jahns of AllCHGO.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-08-18 | Keon Coleman | WR/BUF | INJURY | Coleman has been diagnosed with a sprained right foot/toe, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
+| 2026-08-18 | Calvin Tyler | RB/ | INJURY | Biadasz was carted off the field during Tuesday's practice with an apparent leg injury, Daniel Popper of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-biadasz-14485)) | Rotowire |
 | 2026-08-17 | Kyle Monangai | RB/CHI | NEWS | Monangai hyperextended his right knee at Sunday's practice, and he's expected to be sidelined multiple weeks, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
 | 2026-08-17 | Breece Hall | RB/NYJ | INJURY | The follow-up on the groin injury Hall sustained Monday confirmed that the injury is minor, according to Connor Hughes of SNY.tv. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-08-17 | Jordyn Tyson | WR/NO | INJURY | Tyson is expected to miss about two months due to the hamstring injury he suffered last week, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
