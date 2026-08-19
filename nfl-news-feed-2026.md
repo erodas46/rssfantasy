@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-19 11:53 UTC_ · 173 items total · 166/173 matched to a player
+_Last updated: 2026-08-19 17:53 UTC_ · 178 items total · 171/178 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-19 11:53 UTC_ · 173 items total · 166/173 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-19 | Carnell Tate | WR/TEN | NEWS | Tate (undisclosed) is absent from Wednesday's practice after taking a hard hit Monday and leaving early, Jim Wyatt of the Titans' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
+| 2026-08-19 | Jayden Higgins | WR/HOU | INJURY | Higgins was diagnosed Wednesday with an ACL tear, which would rule him out for the 2026 season, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-higgins-18551)) | Rotowire |
+| 2026-08-19 | C.J. Stroud | QB/HOU | ROLE/DEPTH CHART | Stroud and other starters will now be rested for Thursday's preseason game against the Raiders, jo reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cj-stroud-16886)) | Rotowire |
+| 2026-08-19 | Jameson Williams | WR/DET | NEWS | Williams (shoulder) is in uniform for Wednesday's practice, Richard Silva of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jameson-williams-15849)) | Rotowire |
+| 2026-08-19 | Carnell Tate | WR/TEN | NEWS | Coach Robert Saleh said Tate's absence from Wednesday's practice was due to stiffness and not the hard hit he took at Monday's session, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-18 | Alvin Kamara | RB/NO | INJURY | Kamara (knee) avoided a major injury but "will be out for a few weeks," Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
 | 2026-08-18 | Chris Olave | WR/NO | NEWS | Olave went the medical tent during Tuesday's joint practice with the Cowboys, Nick Harris of the Fort Worth Star-Telegram reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
 | 2026-08-18 | Chris Olave | WR/NO | NEWS | Olave returned to Tuesday's joint practice with the Cowboys after making a brief exit during the session, Katherine Terrell of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
@@ -95,6 +100,11 @@ _Last updated: 2026-08-19 11:53 UTC_ · 173 items total · 166/173 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-19 | Carnell Tate | WR/TEN | NEWS | Tate (undisclosed) is absent from Wednesday's practice after taking a hard hit Monday and leaving early, Jim Wyatt of the Titans' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
+| 2026-08-19 | Jayden Higgins | WR/HOU | INJURY | Higgins was diagnosed Wednesday with an ACL tear, which would rule him out for the 2026 season, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-higgins-18551)) | Rotowire |
+| 2026-08-19 | C.J. Stroud | QB/HOU | ROLE/DEPTH CHART | Stroud and other starters will now be rested for Thursday's preseason game against the Raiders, jo reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cj-stroud-16886)) | Rotowire |
+| 2026-08-19 | Jameson Williams | WR/DET | NEWS | Williams (shoulder) is in uniform for Wednesday's practice, Richard Silva of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jameson-williams-15849)) | Rotowire |
+| 2026-08-19 | Carnell Tate | WR/TEN | NEWS | Coach Robert Saleh said Tate's absence from Wednesday's practice was due to stiffness and not the hard hit he took at Monday's session, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-18 | Alvin Kamara | RB/NO | INJURY | Kamara (knee) avoided a major injury but "will be out for a few weeks," Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
 | 2026-08-18 | Chris Olave | WR/NO | NEWS | Olave went the medical tent during Tuesday's joint practice with the Cowboys, Nick Harris of the Fort Worth Star-Telegram reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
 | 2026-08-18 | Chris Olave | WR/NO | NEWS | Olave returned to Tuesday's joint practice with the Cowboys after making a brief exit during the session, Katherine Terrell of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
