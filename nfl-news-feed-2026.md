@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-20 11:57 UTC_ · 183 items total · 175/183 matched to a player
+_Last updated: 2026-08-20 17:59 UTC_ · 188 items total · 180/188 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-20 11:57 UTC_ · 183 items total · 175/183 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-20 | Sam LaPorta | TE/DET | INJURY | LaPorta is dealing with a hip injury, and head coach Dan Campbell wouldn't commit Thursday to the tight end being available for Week 1 against the Saints, Tim Twentyman of the Lions' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-laporta-17033)) | Rotowire |
+| 2026-08-20 | Kyler Murray | QB/MIN | NEWS | Murray isn't expected to suit up for Saturday's preseason game against the Ravens, Kevin Seifert of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
+| 2026-08-20 | Khalil Shakir | WR/BUF | INJURY | Shakir (undisclosed) didn't practice Tuesday due to an injury, Katherine Fitzgerald of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
+| 2026-08-20 | Geno Smith | QB/NYJ | NEWS | Smith is scheduled to start Friday's preseason game against the Steelers, Connor Hughes of SNYtv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/geno-smith-8743)) | Rotowire |
+| 2026-08-20 | Quinshon Judkins | RB/CLE | NEWS | Judkins (undisclosed) wasn't spotted at practice Thursday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quinshon-judkins-18516)) | Rotowire |
 | 2026-08-19 | Alec Pierce | WR/IND | NEWS | Coach Shane Steichen told Kevin Bowen of 107.5 The Fan Indianapolis on Wednesday that Pierce (ankle) is "in a great spot right now. ... Hopefully, we will have him back soon." Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-08-19 | Bo Nix | QB/DEN | ROLE/DEPTH CHART | Coach Sean Payton said Nix is expected to play roughly 14 snaps during Friday's preseason game against the Packers, Zac Stevens of TheDNVR.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
 | 2026-08-19 | — | — | TRANSACTION | Vea (back) and the Buccaneers reached an agreement on a one-year, $30 million extension Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/vita-vea-12500)) | Rotowire |
@@ -91,6 +96,11 @@ _Last updated: 2026-08-20 11:57 UTC_ · 183 items total · 175/183 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-20 | Sam LaPorta | TE/DET | INJURY | LaPorta is dealing with a hip injury, and head coach Dan Campbell wouldn't commit Thursday to the tight end being available for Week 1 against the Saints, Tim Twentyman of the Lions' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-laporta-17033)) | Rotowire |
+| 2026-08-20 | Kyler Murray | QB/MIN | NEWS | Murray isn't expected to suit up for Saturday's preseason game against the Ravens, Kevin Seifert of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
+| 2026-08-20 | Khalil Shakir | WR/BUF | INJURY | Shakir (undisclosed) didn't practice Tuesday due to an injury, Katherine Fitzgerald of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
+| 2026-08-20 | Geno Smith | QB/NYJ | NEWS | Smith is scheduled to start Friday's preseason game against the Steelers, Connor Hughes of SNYtv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/geno-smith-8743)) | Rotowire |
+| 2026-08-20 | Quinshon Judkins | RB/CLE | NEWS | Judkins (undisclosed) wasn't spotted at practice Thursday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quinshon-judkins-18516)) | Rotowire |
 | 2026-08-19 | Alec Pierce | WR/IND | NEWS | Coach Shane Steichen told Kevin Bowen of 107.5 The Fan Indianapolis on Wednesday that Pierce (ankle) is "in a great spot right now. ... Hopefully, we will have him back soon." Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-08-19 | Bo Nix | QB/DEN | ROLE/DEPTH CHART | Coach Sean Payton said Nix is expected to play roughly 14 snaps during Friday's preseason game against the Packers, Zac Stevens of TheDNVR.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
 | 2026-08-19 | — | — | TRANSACTION | Vea (back) and the Buccaneers reached an agreement on a one-year, $30 million extension Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/vita-vea-12500)) | Rotowire |
