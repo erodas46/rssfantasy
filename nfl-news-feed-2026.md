@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-21 03:31 UTC_ · 193 items total · 185/193 matched to a player
+_Last updated: 2026-08-21 11:56 UTC_ · 198 items total · 190/198 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-21 03:31 UTC_ · 193 items total · 185/193 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-20 | Justin Herbert | QB/LAC | NEWS | Herbert completed one of two passes for nine yards with no touchdowns or interceptions in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
+| 2026-08-20 | Ladd McConkey | WR/LAC | NEWS | McConkey failed to bring in his only target in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-08-20 | Deebo Samuel | WR/SF | NEWS | Samuel brought in one of two targets for four yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
+| 2026-08-20 | Keaton Mitchell | RB/LAC | NEWS | Mitchell rushed three times for minus-1 yard and brought in his only target for 11 yards in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
+| 2026-08-20 | De'Zhaun Stribling | WR/SF | NEWS | Stribling secured four of five targets for 46 yards in the 49ers' 41-17 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
 | 2026-08-20 | Kaleb Johnson | RB/PIT | TRANSACTION | The Athletic's Mike DeFabo believes Johnson is in real danger of being cut by the Steelers prior to the start of the regular season. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaleb-johnson-18515)) | Rotowire |
 | 2026-08-20 | Christian McCaffrey | RB/SF | NEWS | McCaffrey (undisclosed) will not play in Thursday night's preseason game against the Chargers, David Lombardi of SFStandard.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-08-20 | Quentin Johnston | WR/LAC | NEWS | Johnston (lower body) is not in uniform for Thursday night's preseason game against the 49ers, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
@@ -87,6 +92,11 @@ _Last updated: 2026-08-21 03:31 UTC_ · 193 items total · 185/193 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-20 | Justin Herbert | QB/LAC | NEWS | Herbert completed one of two passes for nine yards with no touchdowns or interceptions in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
+| 2026-08-20 | Ladd McConkey | WR/LAC | NEWS | McConkey failed to bring in his only target in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-08-20 | Deebo Samuel | WR/SF | NEWS | Samuel brought in one of two targets for four yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
+| 2026-08-20 | Keaton Mitchell | RB/LAC | NEWS | Mitchell rushed three times for minus-1 yard and brought in his only target for 11 yards in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
+| 2026-08-20 | De'Zhaun Stribling | WR/SF | NEWS | Stribling secured four of five targets for 46 yards in the 49ers' 41-17 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
 | 2026-08-20 | Kaleb Johnson | RB/PIT | TRANSACTION | The Athletic's Mike DeFabo believes Johnson is in real danger of being cut by the Steelers prior to the start of the regular season. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaleb-johnson-18515)) | Rotowire |
 | 2026-08-20 | Christian McCaffrey | RB/SF | NEWS | McCaffrey (undisclosed) will not play in Thursday night's preseason game against the Chargers, David Lombardi of SFStandard.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-08-20 | Quentin Johnston | WR/LAC | NEWS | Johnston (lower body) is not in uniform for Thursday night's preseason game against the 49ers, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
