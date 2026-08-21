@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-21 11:56 UTC_ · 198 items total · 190/198 matched to a player
+_Last updated: 2026-08-21 18:00 UTC_ · 200 items total · 192/200 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-08-21 11:56 UTC_ · 198 items total · 190/198 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-21 | Fernando Mendoza | QB/LV | ROLE/DEPTH CHART | Raiders coach Klint Kubiak indicated Thursday that he is not yet ready to name a starting quarterback (between Kirk Cousins and Mendoza) ahead of Week 1, Ryan McFadden of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/fernando-mendoza-19281)) | Rotowire |
+| 2026-08-21 | Parker Washington | WR/JAX | NEWS | Washington (undisclosed) is expected to return to practice next week, ESPN's Adam Schefter reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/parker-washington-16690)) | Rotowire |
 | 2026-08-20 | Justin Herbert | QB/LAC | NEWS | Herbert completed one of two passes for nine yards with no touchdowns or interceptions in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
 | 2026-08-20 | Ladd McConkey | WR/LAC | NEWS | McConkey failed to bring in his only target in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
 | 2026-08-20 | Deebo Samuel | WR/SF | NEWS | Samuel brought in one of two targets for four yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
@@ -92,6 +94,8 @@ _Last updated: 2026-08-21 11:56 UTC_ · 198 items total · 190/198 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-21 | Fernando Mendoza | QB/LV | ROLE/DEPTH CHART | Raiders coach Klint Kubiak indicated Thursday that he is not yet ready to name a starting quarterback (between Kirk Cousins and Mendoza) ahead of Week 1, Ryan McFadden of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/fernando-mendoza-19281)) | Rotowire |
+| 2026-08-21 | Parker Washington | WR/JAX | NEWS | Washington (undisclosed) is expected to return to practice next week, ESPN's Adam Schefter reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/parker-washington-16690)) | Rotowire |
 | 2026-08-20 | Justin Herbert | QB/LAC | NEWS | Herbert completed one of two passes for nine yards with no touchdowns or interceptions in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
 | 2026-08-20 | Ladd McConkey | WR/LAC | NEWS | McConkey failed to bring in his only target in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
 | 2026-08-20 | Deebo Samuel | WR/SF | NEWS | Samuel brought in one of two targets for four yards in the 49ers' 41-17 preseason win over the Chargers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
