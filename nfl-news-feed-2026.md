@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-22 11:41 UTC_ · 210 items total · 202/210 matched to a player
+_Last updated: 2026-08-22 17:43 UTC_ · 215 items total · 207/215 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-22 11:41 UTC_ · 210 items total · 202/210 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-22 | Quinshon Judkins | RB/CLE | NEWS | Judkins (undisclosed) is not expected to play in Saturday's preseason game against the Bills, Kelsey Russo of the Browns' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quinshon-judkins-18516)) | Rotowire |
+| 2026-08-22 | Quentin Johnston | WR/LAC | NEWS | Johnston (lower body) will not participate in Saturday's training camp practice, Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
+| 2026-08-22 | Jerry Jeudy | WR/CLE | NEWS | Jeudy will not play in the Browns' preseason game against the Bills on Saturday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jerry-jeudy-14458)) | Rotowire |
+| 2026-08-22 | Keon Coleman | WR/BUF | NEWS | Coleman (right foot/toe) isn't expected to play in Saturday's preseason game, Jay Skurski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
+| 2026-08-22 | Khalil Shakir | WR/BUF | NEWS | Shakir (undisclosed) won't play in Saturday's preseason game against Cleveland, Jay Skurski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
 | 2026-08-21 | Christian Watson | WR/GB | NEWS | Watson brought in two of three targets for 19 yards in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-watson-15946)) | Rotowire |
 | 2026-08-21 | RJ Harvey | RB/DEN | NEWS | Harvey rushed once for five yards and brought in both targets for 25 yards and a touchdown in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
 | 2026-08-21 | Courtland Sutton | WR/DEN | NEWS | Sutton failed to bring in either of his two targets in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
@@ -94,6 +99,11 @@ _Last updated: 2026-08-22 11:41 UTC_ · 210 items total · 202/210 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-22 | Quinshon Judkins | RB/CLE | NEWS | Judkins (undisclosed) is not expected to play in Saturday's preseason game against the Bills, Kelsey Russo of the Browns' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quinshon-judkins-18516)) | Rotowire |
+| 2026-08-22 | Quentin Johnston | WR/LAC | NEWS | Johnston (lower body) will not participate in Saturday's training camp practice, Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
+| 2026-08-22 | Jerry Jeudy | WR/CLE | NEWS | Jeudy will not play in the Browns' preseason game against the Bills on Saturday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jerry-jeudy-14458)) | Rotowire |
+| 2026-08-22 | Keon Coleman | WR/BUF | NEWS | Coleman (right foot/toe) isn't expected to play in Saturday's preseason game, Jay Skurski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
+| 2026-08-22 | Khalil Shakir | WR/BUF | NEWS | Shakir (undisclosed) won't play in Saturday's preseason game against Cleveland, Jay Skurski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
 | 2026-08-21 | Christian Watson | WR/GB | NEWS | Watson brought in two of three targets for 19 yards in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-watson-15946)) | Rotowire |
 | 2026-08-21 | RJ Harvey | RB/DEN | NEWS | Harvey rushed once for five yards and brought in both targets for 25 yards and a touchdown in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
 | 2026-08-21 | Courtland Sutton | WR/DEN | NEWS | Sutton failed to bring in either of his two targets in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
