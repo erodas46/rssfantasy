@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-22 03:09 UTC_ · 205 items total · 197/205 matched to a player
+_Last updated: 2026-08-22 11:41 UTC_ · 210 items total · 202/210 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-22 03:09 UTC_ · 205 items total · 197/205 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-21 | Christian Watson | WR/GB | NEWS | Watson brought in two of three targets for 19 yards in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-watson-15946)) | Rotowire |
+| 2026-08-21 | RJ Harvey | RB/DEN | NEWS | Harvey rushed once for five yards and brought in both targets for 25 yards and a touchdown in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
+| 2026-08-21 | Courtland Sutton | WR/DEN | NEWS | Sutton failed to bring in either of his two targets in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
+| 2026-08-21 | Matthew Golden | WR/GB | NEWS | Golden secured his only target for 19 yards in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-08-21 | MarShawn Lloyd | RB/GB | NEWS | Lloyd rushed six times for 17 yards and secured his only target for an 11-yard touchdown in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marshawn-lloyd-17795)) | Rotowire |
 | 2026-08-21 | Jaylen Warren | RB/PIT | NEWS | Warren rushed five times for 17 yards in Friday's 17-0 preseason loss to the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
 | 2026-08-21 | Rico Dowdle | RB/PIT | NEWS | Dowdle rushed five times for 18 yards and caught his only target for two yards in Friday's 17-0 preseason loss to the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-08-21 | Bryce Young | QB/CAR | NEWS | Young completed five of six passes for 49 yards in Friday's 34-17 preseason win over the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bryce-young-16807)) | Rotowire |
@@ -89,6 +94,11 @@ _Last updated: 2026-08-22 03:09 UTC_ · 205 items total · 197/205 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-21 | Christian Watson | WR/GB | NEWS | Watson brought in two of three targets for 19 yards in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-watson-15946)) | Rotowire |
+| 2026-08-21 | RJ Harvey | RB/DEN | NEWS | Harvey rushed once for five yards and brought in both targets for 25 yards and a touchdown in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
+| 2026-08-21 | Courtland Sutton | WR/DEN | NEWS | Sutton failed to bring in either of his two targets in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
+| 2026-08-21 | Matthew Golden | WR/GB | NEWS | Golden secured his only target for 19 yards in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-08-21 | MarShawn Lloyd | RB/GB | NEWS | Lloyd rushed six times for 17 yards and secured his only target for an 11-yard touchdown in the Packers' 33-13 preseason win over the Broncos on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marshawn-lloyd-17795)) | Rotowire |
 | 2026-08-21 | Jaylen Warren | RB/PIT | NEWS | Warren rushed five times for 17 yards in Friday's 17-0 preseason loss to the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
 | 2026-08-21 | Rico Dowdle | RB/PIT | NEWS | Dowdle rushed five times for 18 yards and caught his only target for two yards in Friday's 17-0 preseason loss to the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-08-21 | Bryce Young | QB/CAR | NEWS | Young completed five of six passes for 49 yards in Friday's 34-17 preseason win over the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bryce-young-16807)) | Rotowire |
