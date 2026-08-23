@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-23 11:40 UTC_ · 220 items total · 212/220 matched to a player
+_Last updated: 2026-08-23 17:40 UTC_ · 225 items total · 217/225 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-23 11:40 UTC_ · 220 items total · 212/220 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-23 | Parker Washington | WR/JAX | NEWS | Washington (undisclosed) was spotted at Sunday's walkthrough, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/parker-washington-16690)) | Rotowire |
+| 2026-08-23 | Tua Tagovailoa | QB/ATL | NEWS | Tagovailoa's teammate, Michael Penix (knee), is in line to return to 11-on-11 drills in Monday's practice, Will McFadden of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
+| 2026-08-23 | Jadarian Price | RB/SEA | NEWS | Price will not play in Sunday's preseason game against the Titans, Gregg Bell of The Tacoma News Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-08-23 | George Kittle | TE/SF | INJURY | Kittle (Achilles) was activated from the active/PUP list Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
+| 2026-08-23 | Christian McCaffrey | RB/SF | NEWS | McCaffrey (undisclosed) is in uniform for Sunday's training camp practice, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-08-22 | Rome Odunze | WR/CHI | NEWS | Odunze brought in one of two targets for 18 yards in the Bears' 27-9 preseason loss to the Bengals on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
 | 2026-08-22 | Kenneth Walker | RB/KC | NEWS | Walker rushed twice for four yards in the Chiefs' 16-15 preseason loss to the Bengals on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
 | 2026-08-22 | Bucky Irving | RB/TB | NEWS | Irving rushed three times for 14 yards in the Buccaneers' 16-15 preseason win over the Chiefs on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bucky-irving-17784)) | Rotowire |
@@ -93,6 +98,11 @@ _Last updated: 2026-08-23 11:40 UTC_ · 220 items total · 212/220 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-23 | Parker Washington | WR/JAX | NEWS | Washington (undisclosed) was spotted at Sunday's walkthrough, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/parker-washington-16690)) | Rotowire |
+| 2026-08-23 | Tua Tagovailoa | QB/ATL | NEWS | Tagovailoa's teammate, Michael Penix (knee), is in line to return to 11-on-11 drills in Monday's practice, Will McFadden of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
+| 2026-08-23 | Jadarian Price | RB/SEA | NEWS | Price will not play in Sunday's preseason game against the Titans, Gregg Bell of The Tacoma News Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-08-23 | George Kittle | TE/SF | INJURY | Kittle (Achilles) was activated from the active/PUP list Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
+| 2026-08-23 | Christian McCaffrey | RB/SF | NEWS | McCaffrey (undisclosed) is in uniform for Sunday's training camp practice, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-08-22 | Rome Odunze | WR/CHI | NEWS | Odunze brought in one of two targets for 18 yards in the Bears' 27-9 preseason loss to the Bengals on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
 | 2026-08-22 | Kenneth Walker | RB/KC | NEWS | Walker rushed twice for four yards in the Chiefs' 16-15 preseason loss to the Bengals on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
 | 2026-08-22 | Bucky Irving | RB/TB | NEWS | Irving rushed three times for 14 yards in the Buccaneers' 16-15 preseason win over the Chiefs on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bucky-irving-17784)) | Rotowire |
