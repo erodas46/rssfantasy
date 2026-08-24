@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-24 03:33 UTC_ · 230 items total · 222/230 matched to a player
+_Last updated: 2026-08-24 11:58 UTC_ · 231 items total · 223/231 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-08-24 03:33 UTC_ · 230 items total · 222/230 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-23 | Cam Ward | QB/TEN | NEWS | Ward completed eight of 12 passes for 69 yards, no touchdowns and no interceptions in Sunday's 19-16 preseason win over the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-ward-16997)) | Rotowire |
 | 2026-08-23 | Mike Washington | RB/LV | INJURY | Washington took most of the carries after Ashton Jeanty (knee) left Sunday's practice, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
 | 2026-08-23 | Carnell Tate | WR/TEN | NEWS | Tate (undisclosed) is in uniform for Sunday's preseason game against the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-23 | Ashton Jeanty | RB/LV | INJURY | Jeanty is believed to have a sprained ankle that "is not considered a long-term injury," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
@@ -95,6 +96,7 @@ _Last updated: 2026-08-24 03:33 UTC_ · 230 items total · 222/230 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-23 | Cam Ward | QB/TEN | NEWS | Ward completed eight of 12 passes for 69 yards, no touchdowns and no interceptions in Sunday's 19-16 preseason win over the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-ward-16997)) | Rotowire |
 | 2026-08-23 | Mike Washington | RB/LV | INJURY | Washington took most of the carries after Ashton Jeanty (knee) left Sunday's practice, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
 | 2026-08-23 | Carnell Tate | WR/TEN | NEWS | Tate (undisclosed) is in uniform for Sunday's preseason game against the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-23 | Ashton Jeanty | RB/LV | INJURY | Jeanty is believed to have a sprained ankle that "is not considered a long-term injury," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
