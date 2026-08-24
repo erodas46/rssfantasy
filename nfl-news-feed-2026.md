@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-24 11:58 UTC_ · 231 items total · 223/231 matched to a player
+_Last updated: 2026-08-24 18:02 UTC_ · 236 items total · 228/236 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-24 11:58 UTC_ · 231 items total · 223/231 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-24 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) is a full participant in Monday's practice, EJ Smith of PHLY Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-24 | Breece Hall | RB/NYJ | NEWS | Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-08-24 | Quinshon Judkins | RB/CLE | NEWS | Judkins (undisclosed) returned to practice Monday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quinshon-judkins-18516)) | Rotowire |
+| 2026-08-24 | Puka Nacua | WR/LAR | NEWS | Nacua (groin) isn't practicing Monday, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-08-24 | Tua Tagovailoa | QB/ATL | ROLE/DEPTH CHART | Both Tua Tagovailoa and Penix (knee) will take reps with the first-team offense Monday, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-08-23 | Cam Ward | QB/TEN | NEWS | Ward completed eight of 12 passes for 69 yards, no touchdowns and no interceptions in Sunday's 19-16 preseason win over the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-ward-16997)) | Rotowire |
 | 2026-08-23 | Mike Washington | RB/LV | INJURY | Washington took most of the carries after Ashton Jeanty (knee) left Sunday's practice, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
 | 2026-08-23 | Carnell Tate | WR/TEN | NEWS | Tate (undisclosed) is in uniform for Sunday's preseason game against the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
@@ -96,6 +101,11 @@ _Last updated: 2026-08-24 11:58 UTC_ · 231 items total · 223/231 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-24 | DeVonta Smith | WR/PHI | INJURY | Smith (hamstring) is a full participant in Monday's practice, EJ Smith of PHLY Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-08-24 | Breece Hall | RB/NYJ | NEWS | Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-08-24 | Quinshon Judkins | RB/CLE | NEWS | Judkins (undisclosed) returned to practice Monday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quinshon-judkins-18516)) | Rotowire |
+| 2026-08-24 | Puka Nacua | WR/LAR | NEWS | Nacua (groin) isn't practicing Monday, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-08-24 | Tua Tagovailoa | QB/ATL | ROLE/DEPTH CHART | Both Tua Tagovailoa and Penix (knee) will take reps with the first-team offense Monday, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-08-23 | Cam Ward | QB/TEN | NEWS | Ward completed eight of 12 passes for 69 yards, no touchdowns and no interceptions in Sunday's 19-16 preseason win over the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-ward-16997)) | Rotowire |
 | 2026-08-23 | Mike Washington | RB/LV | INJURY | Washington took most of the carries after Ashton Jeanty (knee) left Sunday's practice, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
 | 2026-08-23 | Carnell Tate | WR/TEN | NEWS | Tate (undisclosed) is in uniform for Sunday's preseason game against the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
