@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-25 11:59 UTC_ · 241 items total · 232/241 matched to a player
+_Last updated: 2026-08-25 18:01 UTC_ · 246 items total · 237/246 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-25 11:59 UTC_ · 241 items total · 232/241 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-25 | Tyler Warren | TE/IND | NEWS | Warren (groin) may not practice this week as the team prepares to have him available for the season opener, Jake Arthur of Roundtable Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-warren-18534)) | Rotowire |
+| 2026-08-25 | Brian Thomas | WR/JAX | NEWS | Coach Liam Coeh said that Thomas is "alright" after falling on his shoulder in practice, and the team will now focus on getting him ready for Week 1 against the Browns, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
+| 2026-08-25 | Cam Skattebo | RB/NYG | ROLE/DEPTH CHART | Skattebo is listed as the Giants' starting running back on the team's unofficial depth chart for the preseason finale versus the Jets, Jordan Raanan of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-25 | Kareem Hunt | RB/ | NEWS | Hunt visited with the Lions on Tuesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kareem-hunt-11739)) | Rotowire |
+| 2026-08-25 | Kenneth Walker | RB/KC | INJURY | Kenneth Walker is not expected to practice Tuesday due to a foot injury, Matt Derrick of ChiefsDigest.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
 | 2026-08-24 | Ashton Jeanty | RB/LV | NEWS | Jeanty (ankle) didn't participant in practice Monday, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
 | 2026-08-24 | Trey Benson | RB/ARI | INJURY | Benson (knee) was waived/injured by the Cardinals on Monday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/trey-benson-17767)) | Rotowire |
 | 2026-08-24 | — | — | INJURY | Sweat (knee) was activated from the active/PUP list Monday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-sweat-12546)) | Rotowire |
@@ -96,6 +101,11 @@ _Last updated: 2026-08-25 11:59 UTC_ · 241 items total · 232/241 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-25 | Tyler Warren | TE/IND | NEWS | Warren (groin) may not practice this week as the team prepares to have him available for the season opener, Jake Arthur of Roundtable Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-warren-18534)) | Rotowire |
+| 2026-08-25 | Brian Thomas | WR/JAX | NEWS | Coach Liam Coeh said that Thomas is "alright" after falling on his shoulder in practice, and the team will now focus on getting him ready for Week 1 against the Browns, Mia O'Brien of 1010 XL 92.5 FM Jacksonville reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
+| 2026-08-25 | Cam Skattebo | RB/NYG | ROLE/DEPTH CHART | Skattebo is listed as the Giants' starting running back on the team's unofficial depth chart for the preseason finale versus the Jets, Jordan Raanan of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-08-25 | Kareem Hunt | RB/ | NEWS | Hunt visited with the Lions on Tuesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kareem-hunt-11739)) | Rotowire |
+| 2026-08-25 | Kenneth Walker | RB/KC | INJURY | Kenneth Walker is not expected to practice Tuesday due to a foot injury, Matt Derrick of ChiefsDigest.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
 | 2026-08-24 | Ashton Jeanty | RB/LV | NEWS | Jeanty (ankle) didn't participant in practice Monday, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
 | 2026-08-24 | Trey Benson | RB/ARI | INJURY | Benson (knee) was waived/injured by the Cardinals on Monday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/trey-benson-17767)) | Rotowire |
 | 2026-08-24 | — | — | INJURY | Sweat (knee) was activated from the active/PUP list Monday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-sweat-12546)) | Rotowire |
