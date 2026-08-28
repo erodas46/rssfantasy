@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-28 01:30 UTC_ · 256 items total · 247/256 matched to a player
+_Last updated: 2026-08-28 06:20 UTC_ · 261 items total · 252/261 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-28 01:30 UTC_ · 256 items total · 247/256 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-27 | Mike Washington | RB/LV | NEWS | Washington rushed eight times for 49 yards and failed to bring in his only target in the Raiders' 18-12 preseason loss to the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
+| 2026-08-27 | Fernando Mendoza | QB/LV | ROLE/DEPTH CHART | Mendoza remains in the mix for the Raiders' starting quarterback job along with veteran Kirk Cousins, Vinny Bonsignore of the California Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/fernando-mendoza-19281)) | Rotowire |
+| 2026-08-27 | Kaelon Black | RB/SF | NEWS | Black rushed four times for 28 yards and failed to bring in his only target in the 49ers' 18-12 preseason win over the Raiders on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
+| 2026-08-27 | Justin Herbert | QB/LAC | NEWS | Herbert completed two of three passes for 74 yards and a touchdown, rushed once for no gain and lost a fumble in the Chargers' 20-18 preseason loss to the Rams on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
+| 2026-08-27 | Ty Simpson | QB/LAR | NEWS | Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-simpson-19275)) | Rotowire |
 | 2026-08-27 | Khalil Shakir | WR/BUF | NEWS | Shakir (undisclosed) isn't in uniform for Thursday's preseason contest against the Steelers, Alex Brasky of SI.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
 | 2026-08-27 | Aaron Rodgers | QB/PIT | NEWS | Rodgers isn't in uniform for Thursday's preseason contest at Buffalo, Alan Saunders of SteelersNow.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-rodgers-4307)) | Rotowire |
 | 2026-08-27 | TreVeyon Henderson | RB/NE | NEWS | Henderson (ankle) is expected to be available for New England's Week 1 matchup with the Steelers, Christopher Price of The Boston Globe reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
@@ -75,6 +80,11 @@ _Last updated: 2026-08-28 01:30 UTC_ · 256 items total · 247/256 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-27 | Mike Washington | RB/LV | NEWS | Washington rushed eight times for 49 yards and failed to bring in his only target in the Raiders' 18-12 preseason loss to the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
+| 2026-08-27 | Fernando Mendoza | QB/LV | ROLE/DEPTH CHART | Mendoza remains in the mix for the Raiders' starting quarterback job along with veteran Kirk Cousins, Vinny Bonsignore of the California Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/fernando-mendoza-19281)) | Rotowire |
+| 2026-08-27 | Kaelon Black | RB/SF | NEWS | Black rushed four times for 28 yards and failed to bring in his only target in the 49ers' 18-12 preseason win over the Raiders on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
+| 2026-08-27 | Justin Herbert | QB/LAC | NEWS | Herbert completed two of three passes for 74 yards and a touchdown, rushed once for no gain and lost a fumble in the Chargers' 20-18 preseason loss to the Rams on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
+| 2026-08-27 | Ty Simpson | QB/LAR | NEWS | Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-simpson-19275)) | Rotowire |
 | 2026-08-27 | Khalil Shakir | WR/BUF | NEWS | Shakir (undisclosed) isn't in uniform for Thursday's preseason contest against the Steelers, Alex Brasky of SI.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
 | 2026-08-27 | Aaron Rodgers | QB/PIT | NEWS | Rodgers isn't in uniform for Thursday's preseason contest at Buffalo, Alan Saunders of SteelersNow.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-rodgers-4307)) | Rotowire |
 | 2026-08-27 | TreVeyon Henderson | RB/NE | NEWS | Henderson (ankle) is expected to be available for New England's Week 1 matchup with the Steelers, Christopher Price of The Boston Globe reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
