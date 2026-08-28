@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-28 06:20 UTC_ · 261 items total · 252/261 matched to a player
+_Last updated: 2026-08-28 21:49 UTC_ · 266 items total · 257/266 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json — a `—` means no confident match, not 'no player involved'.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-08-28 06:20 UTC_ · 261 items total · 252/261 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-28 | Ashton Jeanty | RB/LV | INJURY | Jeanty's ankle injury is being monitored in advance of Week 1, but per head coach Klint Kubiak, the Raiders are "counting on him" to be available, Levi Edwards of the Raiders' official website reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
+| 2026-08-28 | Wan'Dale Robinson | WR/TEN | INJURY | Robinson is not believed to have sustained a concussion during Thursday's joint practice with the Bears, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) | Rotowire |
+| 2026-08-28 | Emeka Egbuka | WR/TB | NEWS | Egbuka (toe) continues to rest and recover with the goal of being ready for Week 1, Greg Auman of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-08-28 | Jacory Croskey-Merritt | RB/WAS | NEWS | Croskey-Merritt (lower body) won't suit up for Friday's preseason game at Baltimore. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-08-28 | Rachaad White | RB/WAS | INJURY | White (hamstring) isn't suited up Friday's preseason in Baltimore. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
 | 2026-08-27 | Mike Washington | RB/LV | NEWS | Washington rushed eight times for 49 yards and failed to bring in his only target in the Raiders' 18-12 preseason loss to the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
 | 2026-08-27 | Fernando Mendoza | QB/LV | ROLE/DEPTH CHART | Mendoza remains in the mix for the Raiders' starting quarterback job along with veteran Kirk Cousins, Vinny Bonsignore of the California Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/fernando-mendoza-19281)) | Rotowire |
 | 2026-08-27 | Kaelon Black | RB/SF | NEWS | Black rushed four times for 28 yards and failed to bring in his only target in the 49ers' 18-12 preseason win over the Raiders on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
@@ -80,6 +85,11 @@ _Last updated: 2026-08-28 06:20 UTC_ · 261 items total · 252/261 matched to a 
 
 | Date | Player | Pos/Team | Category | Summary | Source |
 |---|---|---|---|---|---|
+| 2026-08-28 | Ashton Jeanty | RB/LV | INJURY | Jeanty's ankle injury is being monitored in advance of Week 1, but per head coach Klint Kubiak, the Raiders are "counting on him" to be available, Levi Edwards of the Raiders' official website reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
+| 2026-08-28 | Wan'Dale Robinson | WR/TEN | INJURY | Robinson is not believed to have sustained a concussion during Thursday's joint practice with the Bears, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) | Rotowire |
+| 2026-08-28 | Emeka Egbuka | WR/TB | NEWS | Egbuka (toe) continues to rest and recover with the goal of being ready for Week 1, Greg Auman of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-08-28 | Jacory Croskey-Merritt | RB/WAS | NEWS | Croskey-Merritt (lower body) won't suit up for Friday's preseason game at Baltimore. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-08-28 | Rachaad White | RB/WAS | INJURY | White (hamstring) isn't suited up Friday's preseason in Baltimore. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
 | 2026-08-27 | Mike Washington | RB/LV | NEWS | Washington rushed eight times for 49 yards and failed to bring in his only target in the Raiders' 18-12 preseason loss to the 49ers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
 | 2026-08-27 | Fernando Mendoza | QB/LV | ROLE/DEPTH CHART | Mendoza remains in the mix for the Raiders' starting quarterback job along with veteran Kirk Cousins, Vinny Bonsignore of the California Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/fernando-mendoza-19281)) | Rotowire |
 | 2026-08-27 | Kaelon Black | RB/SF | NEWS | Black rushed four times for 28 yards and failed to bring in his only target in the 49ers' 18-12 preseason win over the Raiders on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
