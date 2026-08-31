@@ -494,15 +494,34 @@ def fetch_espn_transactions(limit: int = 200) -> list:
         print(f"WARN: could not fetch ESPN transactions ({exc})")
         return []
 
-    items = data.get("items") or data.get("transactions") or []
+    # Diagnostics first: log the real shape so a schema mismatch is fixable
+    # from the next run's log alone, instead of another guess-and-check pass.
+    if isinstance(data, list):
+        print(f"DEBUG: ESPN transactions response is a top-level list, length {len(data)}")
+        items = data
+    elif isinstance(data, dict):
+        print(f"DEBUG: ESPN transactions response keys: {sorted(data.keys())}")
+        items = None
+        for key in ("items", "transactions", "data", "results", "entries"):
+            if key in data:
+                items = data[key]
+                print(f"DEBUG: using key '{key}', found {len(items) if hasattr(items, '__len__') else '?'} entries")
+                break
+    else:
+        print(f"WARN: ESPN transactions returned unexpected type: {type(data)}")
+        return []
+
     if not items:
-        print("WARN: ESPN transactions response had no 'items'/'transactions' key — "
-              "schema may differ from what this script expects.")
+        snippet = json.dumps(data)[:1500]
+        print(f"WARN: ESPN transactions - no usable list found under any known key. "
+              f"Raw response (truncated to 1500 chars): {snippet}")
         return []
 
     parsed = []
-    unparsed = 0
+    unparsed_sample = None
     for item in items:
+        if not isinstance(item, dict):
+            continue
         text = (item.get("description") or item.get("text")
                 or item.get("shortText") or item.get("displayText") or "")
         date = item.get("date") or item.get("transactionDate") or item.get("stamp") or ""
@@ -512,14 +531,15 @@ def fetch_espn_transactions(limit: int = 200) -> list:
             team_name = team_field.get("displayName") or team_field.get("abbreviation") or team_field.get("name") or ""
         text = text.strip()
         if not text:
-            unparsed += 1
+            if unparsed_sample is None:
+                unparsed_sample = json.dumps(item)[:800]
             continue
         parsed.append({"text": text, "date": str(date)[:10], "team": team_name})
 
-    if unparsed and not parsed:
+    if not parsed and items:
         print(f"WARN: fetched {len(items)} ESPN transaction item(s) but parsed 0 — "
-              "field names likely don't match ('description'/'text'/'shortText' were "
-              "all empty). Schema needs a look.")
+              "field names likely don't match. Sample raw item (truncated to 800 "
+              f"chars): {unparsed_sample}")
     return parsed
 
 
