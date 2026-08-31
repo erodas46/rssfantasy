@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-31 23:40 UTC_ · 294 items total · 285/294 matched to a player
+_Last updated: 2026-08-31 23:57 UTC_ · 295 items total · 286/295 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-08-31 23:40 UTC_ · 294 items total · 285/294 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-08-31 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-08-31 | Jeremiyah Love | RB/ARI | NEWS | — | Love (ankle) is progressing well in his recovery and is trending toward being available for Week 1, Josh Weinfuss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-31 | George Kittle | TE/SF | INJURY | — | Kittle (Achilles) will be eased back into practice this week, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
 | 2026-08-31 | Jason Sanders | K/NYJ | TRANSACTION | — | Grupe has a clearer path to the Jets' kicking job after the team released Jason Sanders on Monday, Tom Pelissero of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-grupe-17595)) | Rotowire |
@@ -80,6 +81,7 @@ _Last updated: 2026-08-31 23:40 UTC_ · 294 items total · 285/294 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-08-31 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-08-31 | Jeremiyah Love | RB/ARI | NEWS | — | Love (ankle) is progressing well in his recovery and is trending toward being available for Week 1, Josh Weinfuss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-31 | George Kittle | TE/SF | INJURY | — | Kittle (Achilles) will be eased back into practice this week, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
 | 2026-08-31 | Jason Sanders | K/NYJ | TRANSACTION | — | Grupe has a clearer path to the Jets' kicking job after the team released Jason Sanders on Monday, Tom Pelissero of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-grupe-17595)) | Rotowire |
@@ -385,41 +387,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Malik Davis | RB/DAL | 510147 |
-| MarShawn Lloyd | RB/GB | 261963 |
-| Jacob Saylors | RB/DET | 233970 |
-| Zavion Thomas | WR/CHI | 129564 |
-| Dohnte Meyers | WR/CIN | 123390 |
-| Devaughn Vele | WR/NO | 115045 |
-| Odell Beckham | WR/NYG | 81221 |
-| Darren Waller | TE/CAR | 78696 |
-| Tre Tucker | WR/LV | 73986 |
-| Jalon Daniels | QB/TB | 63018 |
-| Jacksonville Jaguars | DEF/JAX | 60762 |
-| Justice Hill | RB/BAL | 58095 |
-| Barion Brown | WR/NO | 54270 |
-| Kyle McCord | QB/MIA | 44492 |
-| Tyler Loop | K/BAL | 41976 |
+| Malik Davis | RB/DAL | 513144 |
+| MarShawn Lloyd | RB/GB | 263448 |
+| Jacob Saylors | RB/DET | 235765 |
+| Zavion Thomas | WR/CHI | 130626 |
+| Dohnte Meyers | WR/CIN | 123993 |
+| Devaughn Vele | WR/NO | 115731 |
+| Odell Beckham | WR/NYG | 81753 |
+| Darren Waller | TE/CAR | 79218 |
+| Tre Tucker | WR/LV | 74430 |
+| Jalon Daniels | QB/TB | 63400 |
+| Jacksonville Jaguars | DEF/JAX | 61152 |
+| Justice Hill | RB/BAL | 58554 |
+| Barion Brown | WR/NO | 54612 |
+| Kyle McCord | QB/MIA | 44828 |
+| Tyler Loop | K/BAL | 42162 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jaydon Blue | RB/FA | 171320 |
-| Jam Miller | RB/FA | 62451 |
-| Justin Joly | TE/FA | 60345 |
-| Michael Trigg | TE/DAL | 42381 |
-| Oronde Gadsden | TE/LAC | 41040 |
-| Alvin Kamara | RB/NO | 40296 |
-| Isiah Pacheco | RB/DET | 39504 |
-| Brenton Strange | TE/JAX | 36585 |
-| Josh Jacobs | RB/GB | 36530 |
-| Kenyon Sadiq | TE/NYJ | 36468 |
-| Robert Henry | RB/FA | 35770 |
-| Emanuel Wilson | RB/SEA | 34344 |
-| Tyreek Hill | WR/FA | 34048 |
-| Cyrus Allen | WR/KC | 31206 |
-| Jordyn Tyson | WR/NO | 29208 |
+| Jaydon Blue | RB/FA | 174640 |
+| Jam Miller | RB/FA | 63171 |
+| Justin Joly | TE/FA | 60875 |
+| Michael Trigg | TE/DAL | 42768 |
+| Oronde Gadsden | TE/LAC | 41570 |
+| Alvin Kamara | RB/NO | 40768 |
+| Isiah Pacheco | RB/DET | 40160 |
+| Brenton Strange | TE/JAX | 37143 |
+| Josh Jacobs | RB/GB | 37115 |
+| Kenyon Sadiq | TE/NYJ | 36828 |
+| Robert Henry | RB/FA | 36288 |
+| Emanuel Wilson | RB/SEA | 34812 |
+| Tyreek Hill | WR/FA | 34616 |
+| Cyrus Allen | WR/KC | 31596 |
+| Jordyn Tyson | WR/NO | 29520 |
 
 
 ---
