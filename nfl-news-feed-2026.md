@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-08-31 23:57 UTC_ · 295 items total · 286/295 matched to a player
+_Last updated: 2026-09-01 00:02 UTC_ · 295 items total · 286/295 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -64,16 +64,6 @@ _Last updated: 2026-08-31 23:57 UTC_ · 295 items total · 286/295 matched to a 
 | 2026-08-25 | Cam Skattebo | RB/NYG | ROLE/DEPTH CHART | — | Skattebo is listed as the Giants' starting running back on the team's unofficial depth chart for the preseason finale versus the Jets, Jordan Raanan of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-08-25 | Kareem Hunt | RB/ | NEWS | 🔥 Schefter | Hunt visited with the Lions on Tuesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kareem-hunt-11739)) | Rotowire |
 | 2026-08-25 | Kenneth Walker | RB/KC | INJURY | — | Kenneth Walker is not expected to practice Tuesday due to a foot injury, Matt Derrick of ChiefsDigest.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
-| 2026-08-24 | Ashton Jeanty | RB/LV | NEWS | — | Jeanty (ankle) didn't participant in practice Monday, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
-| 2026-08-24 | Trey Benson | RB/ARI | INJURY | — | Benson (knee) was waived/injured by the Cardinals on Monday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/trey-benson-17767)) | Rotowire |
-| 2026-08-24 | — | — | INJURY | — | Sweat (knee) was activated from the active/PUP list Monday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-sweat-12546)) | Rotowire |
-| 2026-08-24 | J.J. McCarthy | QB/MIN | NEWS | — | McCarthy (undisclosed) participated in Monday's practice, Kevin Seifert of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
-| 2026-08-24 | Kirk Cousins | QB/LV | ROLE/DEPTH CHART | — | Cousins is listed as the Raiders' top quarterback on the unofficial depth chart for Thursday's preseason game versus the 49ers, according to the team's official site. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kirk-cousins-8057)) | Rotowire |
-| 2026-08-24 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) is a full participant in Monday's practice, EJ Smith of PHLY Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
-| 2026-08-24 | Breece Hall | RB/NYJ | NEWS | — | Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
-| 2026-08-24 | Quinshon Judkins | RB/CLE | NEWS | — | Judkins (undisclosed) returned to practice Monday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quinshon-judkins-18516)) | Rotowire |
-| 2026-08-24 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin) isn't practicing Monday, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
-| 2026-08-24 | Tua Tagovailoa | QB/ATL | ROLE/DEPTH CHART | — | Both Tua Tagovailoa and Penix (knee) will take reps with the first-team offense Monday, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 
 ---
 
@@ -214,16 +204,16 @@ _Last updated: 2026-08-31 23:57 UTC_ · 295 items total · 286/295 matched to a 
 | 2026-08-18 | Kyle Monangai | RB/CHI | NEWS | — | Monangai (knee) is considered week-to-week, Adam Jahns of AllCHGO.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
 | 2026-08-18 | Keon Coleman | WR/BUF | INJURY | — | Coleman has been diagnosed with a sprained right foot/toe, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
 | 2026-08-18 | Calvin Tyler | RB/ | INJURY | — | Biadasz was carted off the field during Tuesday's practice with an apparent leg injury, Daniel Popper of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-biadasz-14485)) | Rotowire |
-| 2026-08-17 | Kyle Monangai | RB/CHI | NEWS | — | Monangai hyperextended his right knee at Sunday's practice, and he's expected to be sidelined multiple weeks, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
-| 2026-08-17 | Breece Hall | RB/NYJ | INJURY | — | The follow-up on the groin injury Hall sustained Monday confirmed that the injury is minor, according to Connor Hughes of SNY.tv. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
-| 2026-08-17 | Jordyn Tyson | WR/NO | INJURY | — | Tyson is expected to miss about two months due to the hamstring injury he suffered last week, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
-| 2026-08-17 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey is dealing with "tightness," but it doesn't seem to be an issue to worry about, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
-| 2026-08-17 | Keenan Allen | WR/ | NEWS | — | The Colts are signing Allen to a one-year contract worth up to $8.32 million, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) | Rotowire |
-| 2026-08-17 | Makai Lemon | WR/PHI | INJURY | — | Lemon (hamstring) was spotted sprinting on the side at Monday's practice, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
-| 2026-08-17 | Jake Moody | K/WAS | TRANSACTION | — | The Commanders are cutting Moody on Monday, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-moody-17133)) | Rotowire |
-| 2026-08-17 | Drew Stevens | K/WAS | NEWS | — | Stevens has claimed the Commanders' kicker job after the team cut Jake Moody on Monday, Nicki Jhabvala of The Washington Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drew-stevens-18511)) | Rotowire |
-| 2026-08-17 | Tank Dell | WR/HOU | NEWS | — | Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. "With Tank, he's on his own plan," Ryans noted. "Whatever that entails, geared toward what's best for Tank Dell." Visit... ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
-| 2026-08-17 | Carnell Tate | WR/TEN | NEWS | — | Coach Robert Saleh said Tate (undisclosed) will be evaluated after taking a hard hit at Monday's practice, Ben Arthur of FoxSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
+| 2026-08-17 | Kyle Monangai | RB/CHI | NEWS ⚠️STALE | — | Monangai hyperextended his right knee at Sunday's practice, and he's expected to be sidelined multiple weeks, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-08-17 | Breece Hall | RB/NYJ | INJURY ⚠️STALE | — | The follow-up on the groin injury Hall sustained Monday confirmed that the injury is minor, according to Connor Hughes of SNY.tv. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-08-17 | Jordyn Tyson | WR/NO | INJURY ⚠️STALE | — | Tyson is expected to miss about two months due to the hamstring injury he suffered last week, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
+| 2026-08-17 | Christian McCaffrey | RB/SF | NEWS ⚠️STALE | — | McCaffrey is dealing with "tightness," but it doesn't seem to be an issue to worry about, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
+| 2026-08-17 | Keenan Allen | WR/ | NEWS ⚠️STALE | — | The Colts are signing Allen to a one-year contract worth up to $8.32 million, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) | Rotowire |
+| 2026-08-17 | Makai Lemon | WR/PHI | INJURY ⚠️STALE | — | Lemon (hamstring) was spotted sprinting on the side at Monday's practice, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
+| 2026-08-17 | Jake Moody | K/WAS | TRANSACTION ⚠️STALE | — | The Commanders are cutting Moody on Monday, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-moody-17133)) | Rotowire |
+| 2026-08-17 | Drew Stevens | K/WAS | NEWS ⚠️STALE | — | Stevens has claimed the Commanders' kicker job after the team cut Jake Moody on Monday, Nicki Jhabvala of The Washington Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drew-stevens-18511)) | Rotowire |
+| 2026-08-17 | Tank Dell | WR/HOU | NEWS ⚠️STALE | — | Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. "With Tank, he's on his own plan," Ryans noted. "Whatever that entails, geared toward what's best for Tank Dell." Visit... ([link](https://www.rotowire.com//football/player/tank-dell-16935)) | Rotowire |
+| 2026-08-17 | Carnell Tate | WR/TEN | NEWS ⚠️STALE | — | Coach Robert Saleh said Tate (undisclosed) will be evaluated after taking a hard hit at Monday's practice, Ben Arthur of FoxSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-08-16 | Jeremiyah Love | RB/ARI | INJURY ⚠️STALE | 🔥 Schefter | Love reportedly sustained a high-ankle sprain in Thursday's preseason win over the Raiders, and he is unlikely to play again during the preseason, Adam Schefter of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-16 | DeeJay Dallas | RB/JAX | NEWS ⚠️STALE | 🔥 Schefter | Miller is expected to sign with the Cowboys, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/von-miller-7421)) | Rotowire |
 | 2026-08-16 | — | — | TRANSACTION ⚠️STALE | — | Miller and the Cowboys agreed to terms on a contract Sunday, Tommy Yarish of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/von-miller-7421)) | Rotowire |
@@ -387,21 +377,21 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Malik Davis | RB/DAL | 513144 |
-| MarShawn Lloyd | RB/GB | 263448 |
-| Jacob Saylors | RB/DET | 235765 |
-| Zavion Thomas | WR/CHI | 130626 |
-| Dohnte Meyers | WR/CIN | 123993 |
-| Devaughn Vele | WR/NO | 115731 |
-| Odell Beckham | WR/NYG | 81753 |
-| Darren Waller | TE/CAR | 79218 |
-| Tre Tucker | WR/LV | 74430 |
-| Jalon Daniels | QB/TB | 63400 |
-| Jacksonville Jaguars | DEF/JAX | 61152 |
-| Justice Hill | RB/BAL | 58554 |
-| Barion Brown | WR/NO | 54612 |
-| Kyle McCord | QB/MIA | 44828 |
-| Tyler Loop | K/BAL | 42162 |
+| Malik Davis | RB/DAL | 516276 |
+| MarShawn Lloyd | RB/GB | 264942 |
+| Jacob Saylors | RB/DET | 237425 |
+| Zavion Thomas | WR/CHI | 131643 |
+| Dohnte Meyers | WR/CIN | 124695 |
+| Devaughn Vele | WR/NO | 116326 |
+| Odell Beckham | WR/NYG | 82222 |
+| Darren Waller | TE/CAR | 79722 |
+| Tre Tucker | WR/LV | 74844 |
+| Jalon Daniels | QB/TB | 63740 |
+| Jacksonville Jaguars | DEF/JAX | 61620 |
+| Justice Hill | RB/BAL | 58824 |
+| Barion Brown | WR/NO | 54891 |
+| Kyle McCord | QB/MIA | 45160 |
+| Tyler Loop | K/BAL | 42498 |
 
 **Top drops**
 
