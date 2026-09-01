@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-01 00:02 UTC_ · 295 items total · 286/295 matched to a player
+_Last updated: 2026-09-01 00:11 UTC_ · 295 items total · 286/295 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -397,21 +397,21 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jaydon Blue | RB/FA | 174640 |
-| Jam Miller | RB/FA | 63171 |
-| Justin Joly | TE/FA | 60875 |
-| Michael Trigg | TE/DAL | 42768 |
-| Oronde Gadsden | TE/LAC | 41570 |
-| Alvin Kamara | RB/NO | 40768 |
-| Isiah Pacheco | RB/DET | 40160 |
-| Brenton Strange | TE/JAX | 37143 |
-| Josh Jacobs | RB/GB | 37115 |
-| Kenyon Sadiq | TE/NYJ | 36828 |
-| Robert Henry | RB/FA | 36288 |
-| Emanuel Wilson | RB/SEA | 34812 |
-| Tyreek Hill | WR/FA | 34616 |
-| Cyrus Allen | WR/KC | 31596 |
-| Jordyn Tyson | WR/NO | 29520 |
+| Jaydon Blue | RB/FA | 176472 |
+| Jam Miller | RB/FA | 63522 |
+| Justin Joly | TE/FA | 61100 |
+| Michael Trigg | TE/DAL | 43011 |
+| Oronde Gadsden | TE/LAC | 41880 |
+| Alvin Kamara | RB/NO | 41040 |
+| Isiah Pacheco | RB/DET | 40552 |
+| Josh Jacobs | RB/GB | 37485 |
+| Brenton Strange | TE/JAX | 37368 |
+| Kenyon Sadiq | TE/NYJ | 37026 |
+| Robert Henry | RB/FA | 36533 |
+| Emanuel Wilson | RB/SEA | 35082 |
+| Tyreek Hill | WR/FA | 34856 |
+| Cyrus Allen | WR/KC | 31842 |
+| Jordyn Tyson | WR/NO | 29784 |
 
 
 ---
@@ -815,7 +815,7 @@ _Same official injury report ESPN publishes, sourced as structured data instead 
 | Bruce Harmon | CB/FA | (unlisted) | Questionable |
 | Jonathan Greenard | DE/PHI | (unlisted) | PUP |
 | Brevin Jordan | TE/FA | (unlisted) | Questionable |
-| Chase Roberts | WR/LV | (unlisted) | Questionable |
+| Chase Roberts | WR/LV | (unlisted) | IR |
 | Matt Henningsen | DE/DEN | (unlisted) | IR |
 | DJ Turner | WR/FA | (unlisted) | Questionable |
 | Malik Spencer | DB/WAS | (unlisted) | IR |
@@ -1785,7 +1785,7 @@ _Same official injury report ESPN publishes, sourced as structured data instead 
 | Ashton Jeanty | RB/LV | Questionable |
 | Brennan Jackson | DE/LV | IR |
 | Carter Runyon | TE/LV | IR |
-| Chase Roberts | WR/LV | Questionable |
+| Chase Roberts | WR/LV | IR |
 | Chigozie Anusiem | CB/LV | IR |
 | Chris Collier | RB/LV | IR |
 | Corey Rucker | WR/LV | IR |
