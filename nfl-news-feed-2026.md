@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-01 00:28 UTC_ · 295 items total · 286/295 matched to a player
+_Last updated: 2026-09-01 11:01 UTC_ · 297 items total · 288/297 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-09-01 00:28 UTC_ · 295 items total · 286/295 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-08-31 | Keaton Mitchell | RB/LAC | NEWS | — | Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
+| 2026-08-31 | Myles Garrett | DE/LAR | NEWS | — | Head coach Sean McVay said Monday that Garrett (knee) is making "really good progress" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) | Rotowire |
 | 2026-08-31 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-08-31 | Jeremiyah Love | RB/ARI | NEWS | — | Love (ankle) is progressing well in his recovery and is trending toward being available for Week 1, Josh Weinfuss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-31 | George Kittle | TE/SF | INJURY | — | Kittle (Achilles) will be eased back into practice this week, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -71,6 +73,8 @@ _Last updated: 2026-09-01 00:28 UTC_ · 295 items total · 286/295 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-08-31 | Keaton Mitchell | RB/LAC | NEWS | — | Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
+| 2026-08-31 | Myles Garrett | DE/LAR | NEWS | — | Head coach Sean McVay said Monday that Garrett (knee) is making "really good progress" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) | Rotowire |
 | 2026-08-31 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-08-31 | Jeremiyah Love | RB/ARI | NEWS | — | Love (ankle) is progressing well in his recovery and is trending toward being available for Week 1, Josh Weinfuss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-08-31 | George Kittle | TE/SF | INJURY | — | Kittle (Achilles) will be eased back into practice this week, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -377,41 +381,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Malik Davis | RB/DAL | 522630 |
-| MarShawn Lloyd | RB/GB | 268263 |
-| Jacob Saylors | RB/DET | 240440 |
-| Zavion Thomas | WR/CHI | 133578 |
-| Dohnte Meyers | WR/CIN | 125901 |
-| Devaughn Vele | WR/NO | 117810 |
-| Odell Beckham | WR/NYG | 83300 |
-| Darren Waller | TE/CAR | 80928 |
-| Tre Tucker | WR/LV | 75996 |
-| Jalon Daniels | QB/TB | 64440 |
-| Jacksonville Jaguars | DEF/JAX | 62514 |
-| Justice Hill | RB/BAL | 59598 |
-| Barion Brown | WR/NO | 55521 |
-| Kyle McCord | QB/MIA | 45660 |
-| Tyler Loop | K/BAL | 43116 |
+| Malik Davis | RB/DAL | 376470 |
+| Jacob Saylors | RB/DET | 181525 |
+| MarShawn Lloyd | RB/GB | 178362 |
+| Zavion Thomas | WR/CHI | 102204 |
+| Devaughn Vele | WR/NO | 82047 |
+| Dohnte Meyers | WR/CIN | 68427 |
+| Darren Waller | TE/CAR | 57897 |
+| Odell Beckham | WR/NYG | 54649 |
+| Tre Tucker | WR/LV | 52452 |
+| Justice Hill | RB/BAL | 40428 |
+| Jalon Daniels | QB/TB | 38990 |
+| Barion Brown | WR/NO | 38781 |
+| Jacksonville Jaguars | DEF/JAX | 38622 |
+| Kyle McCord | QB/MIA | 30948 |
+| Kaelon Black | RB/SF | 30317 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jaydon Blue | RB/FA | 179608 |
-| Jam Miller | RB/FA | 64125 |
-| Justin Joly | TE/FA | 61595 |
-| Michael Trigg | TE/DAL | 43425 |
-| Oronde Gadsden | TE/LAC | 42425 |
-| Alvin Kamara | RB/NO | 41592 |
-| Isiah Pacheco | RB/DET | 41192 |
-| Josh Jacobs | RB/GB | 38170 |
-| Brenton Strange | TE/JAX | 37863 |
-| Kenyon Sadiq | TE/NYJ | 37557 |
-| Robert Henry | RB/FA | 37009 |
-| Emanuel Wilson | RB/SEA | 35622 |
-| Tyreek Hill | WR/FA | 35416 |
-| Cyrus Allen | WR/KC | 32184 |
-| Jordyn Tyson | WR/NO | 30128 |
+| Jaydon Blue | RB/FA | 146120 |
+| Jam Miller | RB/FA | 41238 |
+| Justin Joly | TE/FA | 38650 |
+| Josh Jacobs | RB/GB | 31230 |
+| Isiah Pacheco | RB/DET | 30544 |
+| Oronde Gadsden | TE/LAC | 30125 |
+| Michael Trigg | TE/DAL | 29745 |
+| Alvin Kamara | RB/NO | 29696 |
+| Robert Henry | RB/FA | 28714 |
+| Emanuel Wilson | RB/SEA | 27819 |
+| Brenton Strange | TE/JAX | 27792 |
+| Tyreek Hill | WR/FA | 25496 |
+| Kenyon Sadiq | TE/NYJ | 25416 |
+| Malik Davis | RB/DAL | 24687 |
+| Cyrus Allen | WR/KC | 23472 |
 
 
 ---
@@ -422,7 +426,41 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-_None since last run._
+| Player | Pos/Team | From | To |
+|---|---|---|---|
+| Marte Mapu | DB/HOU | IR | Questionable |
+| Damarion Williams | DB/FA | Questionable | IR |
+| Aaron Smith | LB/SEA | Questionable | IR |
+| Bryce Baringer | P/NE | Questionable | IR |
+| Isaiah Iton | DL/NE | Questionable | IR |
+| Sincere Brown | WR/FA | Questionable | IR |
+| Khalil Jacobs | LB/NE | (unlisted) | Questionable |
+| Marcus Allen | LB/FA | Questionable | IR |
+| Dalevon Campbell | WR/FA | Questionable | IR |
+| Kyle Kennard | DE/FA | Questionable | IR |
+| Jermar Jefferson | RB/MIN | Questionable | IR |
+| Dontae Fleming | WR/MIN | Questionable | IR |
+| Andre' Sam | DB/PHI | Questionable | IR |
+| Mohamed Kamara | DL/FA | Questionable | IR |
+| Chase Curtis | TE/NYJ | Questionable | IR |
+| Curtis Jacobs | LB/FA | Questionable | IR |
+| Brock Lampe | FB/SEA | Questionable | IR |
+| Kenny Dyson | LB/FA | Questionable | IR |
+| Jacoby Jones | WR/FA | Questionable | IR |
+| Xavier Williams | DB/TB | Questionable | IR |
+| Jacob Roberts | LB/MIN | (unlisted) | IR |
+| Power Echols | LB/SEA | Questionable | IR |
+| Connor Hulstein | TE/NYJ | Questionable | IR |
+| Eric Butler | DB/NE | (unlisted) | IR |
+| Quentin Moore | TE/FA | Questionable | IR |
+| Dominic Richardson | RB/NYJ | Questionable | IR |
+| Kendell Brooks | DB/FA | Questionable | IR |
+| Alex Johnson | CB/FA | Questionable | IR |
+| Chris Paul | LB/SEA | IR | Questionable |
+| T.J. Maguranyanga | DE/FA | Questionable | IR |
+| Amari Kight | OT/SEA | Questionable | IR |
+| Jack Nelson | OT/FA | Questionable | (cleared) |
+| Ben Brown | OG/NE | Questionable | (cleared) |
 
 **Full current report**
 
@@ -576,7 +614,7 @@ _None since last run._
 | Aidan Keanaaina | DL/FA | Questionable | — | — |
 | Ainias Smith | WR/FA | Questionable | — | — |
 | Alex Bullock | WR/FA | NA | — | — |
-| Alex Johnson | CB/FA | Questionable | — | — |
+| Alex Johnson | CB/FA | IR | — | — |
 | Amare Barno | DL/FA | Questionable | — | — |
 | Andre Baccellia | WR/FA | Questionable | — | — |
 | Andre James | C/FA | IR | — | — |
@@ -622,16 +660,16 @@ _None since last run._
 | Christian Wilkins | DT/FA | Questionable | — | — |
 | Cornell Armstrong | DB/FA | Questionable | — | — |
 | Cory Trice | CB/FA | Questionable | — | — |
-| Curtis Jacobs | LB/FA | Questionable | — | — |
+| Curtis Jacobs | LB/FA | IR | — | — |
 | D.J. Williams | RB/FA | Questionable | — | — |
 | DJ Davidson | DL/FA | NA | — | — |
 | DJ James | CB/FA | IR | — | — |
 | DJ Turner | WR/FA | Questionable | — | — |
 | DT Sheffield | WR/FA | Questionable | — | — |
 | Dakoda Shepley | C/FA | Questionable | — | — |
-| Dalevon Campbell | WR/FA | Questionable | — | — |
+| Dalevon Campbell | WR/FA | IR | — | — |
 | Dalys Beanum | CB/FA | Questionable | — | — |
-| Damarion Williams | DB/FA | Questionable | — | — |
+| Damarion Williams | DB/FA | IR | — | — |
 | Damien Alford | WR/FA | Questionable | — | — |
 | Dan Chisena | WR/FA | Questionable | — | — |
 | Dane Jackson | CB/FA | NA | — | — |
@@ -708,13 +746,12 @@ _None since last run._
 | Ja'Corey Brooks | WR/FA | Questionable | — | — |
 | Ja'Lynn Polk | WR/FA | NA | — | — |
 | Ja'Markis Weston | DE/FA | Questionable | — | — |
-| Jack Nelson | OT/FA | Questionable | — | — |
 | Jack Stoll | TE/FA | Questionable | — | — |
 | Jack Wilson | T/FA | Questionable | — | — |
 | Jacob Judd | C/FA | NA | — | — |
 | Jacob Phillips | LB/FA | Questionable | — | — |
 | Jacob Slade | DL/FA | Questionable | — | — |
-| Jacoby Jones | WR/FA | Questionable | — | — |
+| Jacoby Jones | WR/FA | IR | — | — |
 | Jaden Robinson | CB/FA | Questionable | — | — |
 | Jake Bentley | QB/FA | NA | — | — |
 | Jalen Virgil | WR/FA | Questionable | — | — |
@@ -770,9 +807,9 @@ _None since last run._
 | Kemon Hall | CB/FA | Questionable | — | — |
 | Kendall Lamm | OT/FA | NA | — | — |
 | Kendall Sheffield | DB/FA | Questionable | — | — |
-| Kendell Brooks | DB/FA | Questionable | — | — |
+| Kendell Brooks | DB/FA | IR | — | — |
 | Kenny Bigelow | DT/FA | NA | — | — |
-| Kenny Dyson | LB/FA | Questionable | — | — |
+| Kenny Dyson | LB/FA | IR | — | — |
 | Kenny Yeboah | TE/FA | Questionable | — | — |
 | Keshawn Banks | LB/FA | IR | — | — |
 | Kevin King | CB/FA | Questionable | — | — |
@@ -782,7 +819,7 @@ _None since last run._
 | Kris Boyd | CB/FA | Questionable | — | — |
 | Kurt Hinish | DT/FA | Questionable | — | — |
 | Kye Robichaux | RB/FA | Questionable | — | — |
-| Kyle Kennard | DE/FA | Questionable | — | — |
+| Kyle Kennard | DE/FA | IR | — | — |
 | Kyron Hudson | WR/FA | Questionable | — | — |
 | Kyu Blu Kelly | CB/FA | Questionable | — | — |
 | LaBryan Ray | DL/FA | NA | — | — |
@@ -805,7 +842,7 @@ _None since last run._
 | Luke Grimm | WR/FA | Questionable | — | — |
 | Luke Lachey | TE/FA | Questionable | — | — |
 | Malick Meiga | WR/FA | Questionable | — | — |
-| Marcus Allen | LB/FA | Questionable | — | — |
+| Marcus Allen | LB/FA | IR | — | — |
 | Marcus Banks | DB/FA | Questionable | — | — |
 | Marcus Tate | OL/FA | Questionable | — | — |
 | Mario Williams | WR/FA | Questionable | — | — |
@@ -821,7 +858,7 @@ _None since last run._
 | Mike Hughes | NT/FA | NA | — | — |
 | Mike Williams | WR/FA | DNR | — | — |
 | Miles Kitselman | TE/FA | Questionable | — | — |
-| Mohamed Kamara | DL/FA | Questionable | — | — |
+| Mohamed Kamara | DL/FA | IR | — | — |
 | Montana Lemonious-Craig | WR/FA | Questionable | — | — |
 | Morice Norris | DB/FA | Questionable | — | — |
 | Myles Montgomery | RB/FA | IR | — | — |
@@ -840,7 +877,7 @@ _None since last run._
 | Patrick Taylor | RB/FA | Questionable | — | — |
 | Peyton Hillis | RB/FA | NA | — | — |
 | Qaadir Sheppard | LB/FA | NA | — | — |
-| Quentin Moore | TE/FA | Questionable | — | — |
+| Quentin Moore | TE/FA | IR | — | — |
 | Raheem Blackshear | RB/FA | Questionable | — | — |
 | Raheem Mostert | RB/FA | Questionable | — | — |
 | Ranthony Texada | CB/FA | NA | — | — |
@@ -862,13 +899,13 @@ _None since last run._
 | Shannon Brooks | RB/FA | NA | — | — |
 | Shaun Wade | CB/FA | Questionable | — | — |
 | Shemar Jean-Charles | CB/FA | Questionable | — | — |
-| Sincere Brown | WR/FA | Questionable | — | — |
+| Sincere Brown | WR/FA | IR | — | — |
 | Sione Takitaki | LB/FA | Questionable | — | — |
 | Sirgeo Hoffman | RB/FA | NA | — | — |
 | Siupeli Anau | DT/FA | NA | — | — |
 | Solomon Byrd | DE/FA | IR | — | — |
 | Squirrel White | WR/FA | NA | — | — |
-| T.J. Maguranyanga | DE/FA | Questionable | — | — |
+| T.J. Maguranyanga | DE/FA | IR | — | — |
 | Tanner McLachlan | TE/FA | Questionable | — | — |
 | Tariq Castro-Fields | DB/FA | Questionable | — | — |
 | Tavonn Salter | WR/FA | NA | — | — |
@@ -931,7 +968,7 @@ _None since last run._
 | K.C. Ossai | LB/HOU | IR | — | — |
 | Kyonte Hamilton | DL/HOU | IR | — | — |
 | M.J. Stewart | DB/HOU | PUP | — | — |
-| Marte Mapu | DB/HOU | IR | — | — |
+| Marte Mapu | DB/HOU | Questionable | — | — |
 | Tank Dell | WR/HOU | IR | — | Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. "With Tank, he's on his own plan," Ryans noted. "Whatever that entails, geared toward what's best for Tank Dell." Visit... ([link](https://www.rotowire.com//football/player/tank-dell-16935)) |
 | Wade Woodaz | LB/HOU | Questionable | — | — |
 | Alec Pierce | WR/IND | Questionable | — | Pierce (ankle) is working out prior to Saturday's preseason game against the Lions but will not play, Mike Chappell of Fox 59 News Indianapolis reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) |
@@ -975,7 +1012,7 @@ _None since last run._
 | Brenen Thompson | WR/LAC | Questionable | — | — |
 | Cameron Dicker | K/LAC | Questionable | — | — |
 | Isaiah World | OT/LAC | PUP | — | — |
-| Keaton Mitchell | RB/LAC | Questionable | — | Mitchell rushed three times for minus-1 yard and brought in his only target for 11 yards in the Chargers' 41-17 preseason loss to the 49ers on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) |
+| Keaton Mitchell | RB/LAC | Questionable | — | Mitchell (undisclosed) is not practicing Monday but is working off to the side with a trainer, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) |
 | Rashawn Slater | T/LAC | Questionable | — | — |
 | Scott Matlock | DT/LAC | IR | — | — |
 | Tre' Harris | WR/LAC | Questionable | — | — |
@@ -990,7 +1027,7 @@ _None since last run._
 | Keir Thomas | DE/LAR | IR | — | — |
 | Kobie Turner | DT/LAR | Questionable | — | — |
 | Matthew Caldwell | QB/LAR | IR | — | — |
-| Myles Garrett | DE/LAR | Questionable | — | — |
+| Myles Garrett | DE/LAR | Questionable | — | Head coach Sean McVay said Monday that Garrett (knee) is making "really good progress" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) |
 | Puka Nacua | WR/LAR | Questionable | — | Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
 | Shaun Dolac | LB/LAR | Questionable | — | — |
 | Terrance Ferguson | TE/LAR | Questionable | — | Ferguson was a standout performer during the Rams' joint practice with the Cowboys on Tuesday, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) |
@@ -1020,26 +1057,28 @@ _None since last run._
 | Zach Sieler | DT/MIA | Questionable | — | — |
 | Bryson Nesbit | TE/MIN | Questionable | — | — |
 | Caleb Tiernan | OT/MIN | Questionable | — | — |
-| Dontae Fleming | WR/MIN | Questionable | — | — |
+| Dontae Fleming | WR/MIN | IR | — | — |
 | Dwight McGlothern | DB/MIN | Questionable | — | — |
 | J.J. McCarthy | QB/MIN | Questionable | — | McCarthy (undisclosed) participated in Monday's practice, Kevin Seifert of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) |
+| Jacob Roberts | LB/MIN | IR | — | — |
 | Jacob Thomas | DB/MIN | Questionable | — | — |
 | Jakobe Thomas | DB/MIN | Questionable | — | — |
 | Jamal Adams | SS/MIN | IR | — | — |
-| Jermar Jefferson | RB/MIN | Questionable | — | — |
+| Jermar Jefferson | RB/MIN | IR | — | — |
 | Jeshaun Jones | WR/MIN | Sus | — | — |
 | Michael Jurgens | OL/MIN | IR | — | — |
 | Taki Taimani | DL/MIN | IR | — | — |
 | Tyler Batty | DL/MIN | IR | — | — |
 | Tyreek Chappell | CB/MIN | IR | — | — |
-| Ben Brown | OG/NE | Questionable | — | — |
 | Brenden Schooler | DB/NE | PUP | — | — |
-| Bryce Baringer | P/NE | Questionable | — | — |
+| Bryce Baringer | P/NE | IR | — | — |
+| Eric Butler | DB/NE | IR | — | — |
 | Harold Landry | LB/NE | PUP | — | — |
-| Isaiah Iton | DL/NE | Questionable | — | — |
+| Isaiah Iton | DL/NE | IR | — | — |
 | Jeremiah Webb | WR/NE | IR | — | — |
 | Jimmy Kibble | WR/NE | IR | — | — |
 | Julian Hill | TE/NE | IR | — | — |
+| Khalil Jacobs | LB/NE | Questionable | — | — |
 | Marcus Bryant | OL/NE | IR | — | — |
 | TreVeyon Henderson | RB/NE | Questionable | — | Henderson (ankle) is expected to be available for New England's Week 1 matchup with the Steelers, Christopher Price of The Boston Globe reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Alvin Kamara | RB/NO | Questionable | — | Kamara (knee) avoided a major injury but "will be out for a few weeks," Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
@@ -1083,11 +1122,11 @@ _None since last run._
 | Tyrone Tracy | RB/NYG | Questionable | — | Tracy (neck) is on the Giants' initial 53-man roster for the 2026 season, Dan Salomone and Matt Citak of the team's official site report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyrone-tracy-17967)) |
 | Anez Cooper | G/NYJ | IR | — | — |
 | Breece Hall | RB/NYJ | Questionable | — | Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) |
-| Chase Curtis | TE/NYJ | Questionable | — | — |
-| Connor Hulstein | TE/NYJ | Questionable | — | — |
+| Chase Curtis | TE/NYJ | IR | — | — |
+| Connor Hulstein | TE/NYJ | IR | — | — |
 | D'Angelo Ponds | DB/NYJ | Questionable | — | — |
 | Da'Quan Felton | WR/NYJ | Questionable | — | — |
-| Dominic Richardson | RB/NYJ | Questionable | — | — |
+| Dominic Richardson | RB/NYJ | IR | — | — |
 | Isaiah Davis | RB/NYJ | Questionable | — | — |
 | Joseph Ossai | DE/NYJ | Questionable | — | — |
 | Kenyon Sadiq | TE/NYJ | Questionable | — | Taylor could see more opportunities this summer after teammate Kenyon Sadiq (sports hernia) suffered a setback in his return from May surgery, ESPN.com's Rich Cimini reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mason-taylor-18535)) |
@@ -1098,7 +1137,7 @@ _None since last run._
 | Tre Brown | CB/NYJ | IR | — | — |
 | Tyler Baron | DE/NYJ | PUP | — | — |
 | VJ Payne | DB/NYJ | IR | — | — |
-| Andre' Sam | DB/PHI | Questionable | — | — |
+| Andre' Sam | DB/PHI | IR | — | — |
 | Byron Young | DL/PHI | Questionable | — | — |
 | Cooper DeJean | DB/PHI | Questionable | — | — |
 | Eli Stowers | TE/PHI | Questionable | — | — |
@@ -1124,19 +1163,19 @@ _None since last run._
 | Logan Lee | DL/PIT | IR | — | — |
 | Michael Pittman | WR/PIT | Questionable | — | — |
 | Will Howard | QB/PIT | Questionable | — | — |
-| Aaron Smith | LB/SEA | Questionable | — | — |
-| Amari Kight | OT/SEA | Questionable | — | — |
+| Aaron Smith | LB/SEA | IR | — | — |
+| Amari Kight | OT/SEA | IR | — | — |
 | Brandon Pili | DT/SEA | Questionable | — | — |
-| Brock Lampe | FB/SEA | Questionable | — | — |
+| Brock Lampe | FB/SEA | IR | — | — |
 | Bud Clark | DB/SEA | IR | — | — |
-| Chris Paul | LB/SEA | IR | — | — |
+| Chris Paul | LB/SEA | Questionable | — | — |
 | Emanuel Wilson | RB/SEA | Questionable | — | — |
 | Irv Charles | WR/SEA | IR | — | — |
 | Jake Bobo | WR/SEA | IR | — | — |
 | Julian Neal | DB/SEA | Questionable | — | — |
 | Mason Richman | OL/SEA | IR | — | — |
 | Nick Emmanwori | DB/SEA | Questionable | — | — |
-| Power Echols | LB/SEA | Questionable | — | — |
+| Power Echols | LB/SEA | IR | — | — |
 | Robbie Ouzts | RB/SEA | IR | — | — |
 | Terrion Arnold | DB/SEA | NA | — | — |
 | Tory Horton | WR/SEA | Questionable | — | — |
@@ -1182,7 +1221,7 @@ _None since last run._
 | Josh Hayes | CB/TB | IR | — | — |
 | Keionte Scott | DB/TB | Questionable | — | — |
 | Rueben Bain | DL/TB | Questionable | — | — |
-| Xavier Williams | DB/TB | Questionable | — | — |
+| Xavier Williams | DB/TB | IR | — | — |
 | Dominique Hampton | CB/TEN | IR | — | — |
 | Donnie Ernsberger | TE/TEN | Questionable | — | — |
 | Dorian Mausi | LB/TEN | IR | — | — |
