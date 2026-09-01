@@ -1,0 +1,5504 @@
+{
+  "10214": {
+    "name": "Davis Allen",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
+  "10220": {
+    "name": "Will Mallory",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "IND"
+  },
+  "10224": {
+    "name": "Brayden Willis",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "10444": {
+    "name": "Cedric Tillman",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "1074": {
+    "name": "Kevin Zeitler",
+    "pos": "OG",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "10859": {
+    "name": "Sam LaPorta",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "10867": {
+    "name": "Jake Bobo",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "SEA"
+  },
+  "10874": {
+    "name": "Bryan Bresee",
+    "pos": "DT",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "10875": {
+    "name": "Myles Murphy",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "CIN"
+  },
+  "10896": {
+    "name": "John Michael Schmitz",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "10897": {
+    "name": "Tyrique Stevenson",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "10899": {
+    "name": "Gervon Dexter",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
+  },
+  "10904": {
+    "name": "Keion White",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "10905": {
+    "name": "Brian Branch",
+    "pos": "DB",
+    "since": "",
+    "status": "PUP",
+    "team": "DET"
+  },
+  "10915": {
+    "name": "Ricky Stromberg",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "10916": {
+    "name": "Kobie Turner",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
+  "10925": {
+    "name": "Byron Young",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
+  "10926": {
+    "name": "Marte Mapu",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "10929": {
+    "name": "Drew Sanders",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "DEN"
+  },
+  "10930": {
+    "name": "Riley Moss",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DEN"
+  },
+  "10948": {
+    "name": "Carter Warren",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "MIA"
+  },
+  "10958": {
+    "name": "Dylan Horton",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "10963": {
+    "name": "Jakorian Bennett",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "PHI"
+  },
+  "10964": {
+    "name": "Nick Saldiveri",
+    "pos": "OL",
+    "since": "",
+    "status": "PUP",
+    "team": "NO"
+  },
+  "10967": {
+    "name": "Chris Smith",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "10973": {
+    "name": "Nick Hampton",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "10976": {
+    "name": "Kyu Blu Kelly",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "10984": {
+    "name": "Noah Sewell",
+    "pos": "LB",
+    "since": "",
+    "status": "PUP",
+    "team": "CHI"
+  },
+  "10988": {
+    "name": "Cameron Mitchell",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "10991": {
+    "name": "K.J. Henry",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "10994": {
+    "name": "Scott Matlock",
+    "pos": "DT",
+    "since": "",
+    "status": "IR",
+    "team": "LAC"
+  },
+  "10999": {
+    "name": "Josh Hayes",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "TB"
+  },
+  "11001": {
+    "name": "Jarrick Bernard-Converse",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "NYG"
+  },
+  "11004": {
+    "name": "Titus Leo",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11007": {
+    "name": "Bryce Baringer",
+    "pos": "P",
+    "since": "",
+    "status": "Questionable",
+    "team": "NE"
+  },
+  "11024": {
+    "name": "Grant DuBose",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11026": {
+    "name": "Gervarrius Owens",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11035": {
+    "name": "Jordon Riley",
+    "pos": "DL",
+    "since": "",
+    "status": "PUP",
+    "team": "GB"
+  },
+  "11037": {
+    "name": "Cory Trice",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11039": {
+    "name": "Ryan Hayes",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "11042": {
+    "name": "Carrington Valentine",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
+  "11054": {
+    "name": "Travis Bell",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "11062": {
+    "name": "Ali Gaye",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "11082": {
+    "name": "Ben Sims",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIA"
+  },
+  "11122": {
+    "name": "Andrew Farmer",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "11132": {
+    "name": "Divaad Wilson",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11185": {
+    "name": "Kendell Brooks",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11194": {
+    "name": "Keshawn Banks",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "11202": {
+    "name": "Jacob Slade",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11238": {
+    "name": "Jaxson Kirkland",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11309": {
+    "name": "Trey Dean",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "GB"
+  },
+  "11330": {
+    "name": "Rejzohn Wright",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "11371": {
+    "name": "Julian Hill",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "NE"
+  },
+  "11377": {
+    "name": "Tyrell Shavers",
+    "pos": "WR",
+    "since": "",
+    "status": "PUP",
+    "team": "BUF"
+  },
+  "11396": {
+    "name": "Brandon Pili",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "11432": {
+    "name": "Markees Watts",
+    "pos": "DE",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "11435": {
+    "name": "Emanuel Wilson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "11436": {
+    "name": "P.J. Mustipher",
+    "pos": "NT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11440": {
+    "name": "Art Green",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "11469": {
+    "name": "Barry Wesley",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "11508": {
+    "name": "Princeton Fant",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "DAL"
+  },
+  "11559": {
+    "name": "Michael Penix",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
+  },
+  "11565": {
+    "name": "J.J. McCarthy",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "11571": {
+    "name": "Isaiah Davis",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "11589": {
+    "name": "Trey Benson",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "11596": {
+    "name": "Ben Sinnott",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "11597": {
+    "name": "Theo Johnson",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "11598": {
+    "name": "Tanner McLachlan",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11615": {
+    "name": "Ainias Smith",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11616": {
+    "name": "Jacob Cowing",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "11618": {
+    "name": "Jalen McMillan",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
+  "11619": {
+    "name": "Ja'Lynn Polk",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "11626": {
+    "name": "Xavier Legette",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
+  },
+  "11631": {
+    "name": "Brian Thomas",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "JAX"
+  },
+  "11632": {
+    "name": "Malik Nabers",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "11633": {
+    "name": "Jamari Thrash",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "CLE"
+  },
+  "11636": {
+    "name": "Johnny Wilson",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "PHI"
+  },
+  "11637": {
+    "name": "Keon Coleman",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
+  "11638": {
+    "name": "Ricky Pearsall",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "11651": {
+    "name": "Isaac Guerendo",
+    "pos": "RB",
+    "since": "",
+    "status": "PUP",
+    "team": "SF"
+  },
+  "11654": {
+    "name": "Dante Miller",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11655": {
+    "name": "Tyrone Tracy",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "11657": {
+    "name": "Tyler Guyton",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "DAL"
+  },
+  "11661": {
+    "name": "Terrion Arnold",
+    "pos": "DB",
+    "since": "",
+    "status": "NA",
+    "team": "SEA"
+  },
+  "11678": {
+    "name": "Cooper DeJean",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
+  "11686": {
+    "name": "Javon Bullard",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
+  "11689": {
+    "name": "Ennis Rakestraw",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "11697": {
+    "name": "Renardo Green",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "11699": {
+    "name": "Jer'Zhan Newton",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "WAS"
+  },
+  "11700": {
+    "name": "Dru Phillips",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "11716": {
+    "name": "Tip Reiman",
+    "pos": "TE",
+    "since": "",
+    "status": "PUP",
+    "team": "ARI"
+  },
+  "11720": {
+    "name": "Marist Liufau",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "DAL"
+  },
+  "11723": {
+    "name": "Dominick Puni",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "11731": {
+    "name": "Malik Mustapha",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "11744": {
+    "name": "Dadrion Taylor-Demerson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ARI"
+  },
+  "11746": {
+    "name": "Giovanni Manu",
+    "pos": "OL",
+    "since": "",
+    "status": "PUP",
+    "team": "DET"
+  },
+  "11747": {
+    "name": "Jaylan Ford",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "11750": {
+    "name": "Dominique Hampton",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "TEN"
+  },
+  "11751": {
+    "name": "Brennan Jackson",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "11754": {
+    "name": "Mohamed Kamara",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11755": {
+    "name": "Qwan'tez Stiggers",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "11757": {
+    "name": "Edefuan Ulofoshio",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "11760": {
+    "name": "Austin Booker",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "11767": {
+    "name": "Xavier Thomas",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11770": {
+    "name": "JD Bertrand",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "ATL"
+  },
+  "11773": {
+    "name": "Keilan Robinson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11778": {
+    "name": "Jordan Magee",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "11781": {
+    "name": "Daequan Hardy",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "PIT"
+  },
+  "11801": {
+    "name": "DJ James",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "11804": {
+    "name": "Mekhi Wingo",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "11811": {
+    "name": "Logan Lee",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "PIT"
+  },
+  "11818": {
+    "name": "Michael Jurgens",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "MIN"
+  },
+  "11823": {
+    "name": "C.J. Hanson",
+    "pos": "OG",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "11829": {
+    "name": "Solomon Byrd",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "11833": {
+    "name": "Nick Gargiulo",
+    "pos": "OL",
+    "since": "",
+    "status": "PUP",
+    "team": "DEN"
+  },
+  "11835": {
+    "name": "Jaylen Harrell",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "TEN"
+  },
+  "11841": {
+    "name": "Sanoussi Kane",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11851": {
+    "name": "Carter Bradley",
+    "pos": "QB",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "11860": {
+    "name": "Beanie Bishop",
+    "pos": "CB",
+    "since": "",
+    "status": "Sus",
+    "team": "CHI"
+  },
+  "11895": {
+    "name": "Mason Tipton",
+    "pos": "WR",
+    "since": "",
+    "status": "PUP",
+    "team": "NO"
+  },
+  "11899": {
+    "name": "Rico Payton",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "NYG"
+  },
+  "11905": {
+    "name": "Dwight McGlothern",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "11911": {
+    "name": "Jeshaun Jones",
+    "pos": "WR",
+    "since": "",
+    "status": "Sus",
+    "team": "MIN"
+  },
+  "11919": {
+    "name": "Lorenzo Thompson",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11921": {
+    "name": "Xavier Weaver",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "11930": {
+    "name": "Taki Taimani",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "MIN"
+  },
+  "11938": {
+    "name": "Chigozie Anusiem",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "11963": {
+    "name": "Chris Collier",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "11965": {
+    "name": "Marcus Banks",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11972": {
+    "name": "Isaiah Iton",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "NE"
+  },
+  "11989": {
+    "name": "D.J. Williams",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "11993": {
+    "name": "Tyrek Funderburk",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "CAR"
+  },
+  "12001": {
+    "name": "Lawrence Keys",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12042": {
+    "name": "Keith Randolph",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12070": {
+    "name": "McCallan Castles",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
+  "12094": {
+    "name": "Alex Johnson",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12102": {
+    "name": "Andre' Sam",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
+  "12110": {
+    "name": "Frank Crum",
+    "pos": "OT",
+    "since": "",
+    "status": "IR",
+    "team": "DEN"
+  },
+  "12111": {
+    "name": "Levelle Bailey",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "DEN"
+  },
+  "12113": {
+    "name": "Thomas Yassmin",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "GB"
+  },
+  "12124": {
+    "name": "Isaiah Johnson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12141": {
+    "name": "Justin Dedich",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "LAR"
+  },
+  "12147": {
+    "name": "Storm Duck",
+    "pos": "CB",
+    "since": "",
+    "status": "PUP",
+    "team": "MIA"
+  },
+  "12160": {
+    "name": "Morice Norris",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12161": {
+    "name": "Loren Strickland",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12164": {
+    "name": "Curtis Jacobs",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12171": {
+    "name": "British Brooks",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "HOU"
+  },
+  "12175": {
+    "name": "James Ester",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12210": {
+    "name": "Cole Burgess",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "PIT"
+  },
+  "12232": {
+    "name": "Omar Brown",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12238": {
+    "name": "Eric Watts",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12282": {
+    "name": "C.J. Ravenell",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12319": {
+    "name": "Elijah Chatman",
+    "pos": "DT",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "12374": {
+    "name": "Brenden Bates",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12383": {
+    "name": "John Jiles",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12388": {
+    "name": "Jordan Colbert",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12391": {
+    "name": "Kenny Dyson",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12412": {
+    "name": "Terrell Jennings",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12417": {
+    "name": "Jason Maitre",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12440": {
+    "name": "Jaylon Hutchings",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12449": {
+    "name": "Jack Wilson",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12476": {
+    "name": "Devin Neal",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "12477": {
+    "name": "Kurtis Rourke",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "12479": {
+    "name": "Ja'Quinden Jackson",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "PHI"
+  },
+  "12480": {
+    "name": "Moliki Matavao",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "12482": {
+    "name": "Savion Williams",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "GB"
+  },
+  "12484": {
+    "name": "Jayden Higgins",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "12486": {
+    "name": "Dillon Gabriel",
+    "pos": "QB",
+    "since": "",
+    "status": "IR",
+    "team": "CLE"
+  },
+  "12487": {
+    "name": "Terrance Ferguson",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
+  "12495": {
+    "name": "Ollie Gordon",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIA"
+  },
+  "12497": {
+    "name": "Tory Horton",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "12503": {
+    "name": "Isaiah Bond",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "CLE"
+  },
+  "12509": {
+    "name": "Tre' Harris",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
+  },
+  "12511": {
+    "name": "Will Howard",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
+  },
+  "12514": {
+    "name": "Emeka Egbuka",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
+  "12516": {
+    "name": "Kalel Mullings",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12518": {
+    "name": "Tyler Warren",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
+  },
+  "12519": {
+    "name": "Luther Burden",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "12527": {
+    "name": "Ashton Jeanty",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "LV"
+  },
+  "12529": {
+    "name": "TreVeyon Henderson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NE"
+  },
+  "12531": {
+    "name": "Trevor Etienne",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "CAR"
+  },
+  "12532": {
+    "name": "Ja'Corey Brooks",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12533": {
+    "name": "Jacory Croskey-Merritt",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "12534": {
+    "name": "Kyle Monangai",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "12536": {
+    "name": "Jaylin Noel",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "HOU"
+  },
+  "12541": {
+    "name": "Dont'e Thornton",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "12544": {
+    "name": "LeQuint Allen",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "JAX"
+  },
+  "12550": {
+    "name": "T.J. Maguranyanga",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12560": {
+    "name": "Shemar Stewart",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "CIN"
+  },
+  "12562": {
+    "name": "Nic Scourton",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "CAR"
+  },
+  "12564": {
+    "name": "Kenneth Grant",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "MIA"
+  },
+  "12565": {
+    "name": "Will Johnson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ARI"
+  },
+  "12568": {
+    "name": "Jalon Walker",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "ATL"
+  },
+  "12575": {
+    "name": "Seth McLaughlin",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "12585": {
+    "name": "James Pearce",
+    "pos": "DL",
+    "since": "",
+    "status": "Sus",
+    "team": "ATL"
+  },
+  "12595": {
+    "name": "Trey Amos",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "WAS"
+  },
+  "12597": {
+    "name": "Nick Emmanwori",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "12602": {
+    "name": "Mykel Williams",
+    "pos": "DL",
+    "since": "",
+    "status": "PUP",
+    "team": "SF"
+  },
+  "12608": {
+    "name": "Tyler Batty",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "MIN"
+  },
+  "12615": {
+    "name": "Omarr Norman-Lott",
+    "pos": "DT",
+    "since": "",
+    "status": "PUP",
+    "team": "KC"
+  },
+  "12616": {
+    "name": "Shemar Turner",
+    "pos": "DE",
+    "since": "",
+    "status": "PUP",
+    "team": "CHI"
+  },
+  "12623": {
+    "name": "Ashton Gillotte",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "KC"
+  },
+  "12631": {
+    "name": "Upton Stout",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "12633": {
+    "name": "Wyatt Milum",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "JAX"
+  },
+  "12637": {
+    "name": "Ruben Hyppolite",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "12638": {
+    "name": "Quincy Riley",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "12640": {
+    "name": "Teddye Buchanan",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "BAL"
+  },
+  "12643": {
+    "name": "Kyle Kennard",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12647": {
+    "name": "Billy Bowman",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
+  },
+  "12655": {
+    "name": "Tyler Baron",
+    "pos": "DE",
+    "since": "",
+    "status": "PUP",
+    "team": "NYJ"
+  },
+  "12656": {
+    "name": "Robbie Ouzts",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "SEA"
+  },
+  "12659": {
+    "name": "Chris Paul",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "SEA"
+  },
+  "1266": {
+    "name": "Greg Zuerlein",
+    "pos": "K",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12669": {
+    "name": "Collin Oliver",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "GB"
+  },
+  "12687": {
+    "name": "Dorian Strong",
+    "pos": "CB",
+    "since": "",
+    "status": "PUP",
+    "team": "BUF"
+  },
+  "12696": {
+    "name": "Aeneas Peebles",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "BAL"
+  },
+  "12701": {
+    "name": "Kobe King",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12703": {
+    "name": "Branson Taylor",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "LAC"
+  },
+  "12704": {
+    "name": "Warren Brinson",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
+  "12705": {
+    "name": "Graham Mertz",
+    "pos": "QB",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "12714": {
+    "name": "Bilhal Kone",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "BAL"
+  },
+  "12716": {
+    "name": "Korie Black",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "NYG"
+  },
+  "12719": {
+    "name": "Mason Richman",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "SEA"
+  },
+  "12724": {
+    "name": "Kyonte Hamilton",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "12725": {
+    "name": "Luke Lachey",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12728": {
+    "name": "Marcus Bryant",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "NE"
+  },
+  "12734": {
+    "name": "Donte Kent",
+    "pos": "CB",
+    "since": "",
+    "status": "PUP",
+    "team": "PIT"
+  },
+  "12735": {
+    "name": "Caleb Lohner",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "DEN"
+  },
+  "12740": {
+    "name": "Jack Nelson",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12747": {
+    "name": "Power Echols",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "12771": {
+    "name": "Jaden Robinson",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12785": {
+    "name": "Dom Jones",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12803": {
+    "name": "Luke Grimm",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12829": {
+    "name": "Coleman Owen",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "IND"
+  },
+  "12846": {
+    "name": "Fentrell Cypress",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12857": {
+    "name": "Bruce Harmon",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12861": {
+    "name": "Ethan Robinson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12877": {
+    "name": "Brandon Johnson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12885": {
+    "name": "Dontae Manning",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "12889": {
+    "name": "Beaux Collins",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "ATL"
+  },
+  "12892": {
+    "name": "Da'Quan Felton",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "12895": {
+    "name": "Malik Verdon",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "ATL"
+  },
+  "12902": {
+    "name": "Ethan Downs",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "KC"
+  },
+  "12911": {
+    "name": "Keivie Rose",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "12922": {
+    "name": "Ja'Markis Weston",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12930": {
+    "name": "Tyler Cooper",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12931": {
+    "name": "Johnathan Baldwin",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "GB"
+  },
+  "12932": {
+    "name": "Tyron Herring",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12941": {
+    "name": "Bryson Nesbit",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "12944": {
+    "name": "Dorian Mausi",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "TEN"
+  },
+  "12946": {
+    "name": "Dontae Fleming",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "12948": {
+    "name": "Austin Keys",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12954": {
+    "name": "Kye Robichaux",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12956": {
+    "name": "Bam Martin-Scott",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "CAR"
+  },
+  "12979": {
+    "name": "Josh Minkins",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "12981": {
+    "name": "Gee Scott",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "12983": {
+    "name": "Brock Lampe",
+    "pos": "FB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "13000": {
+    "name": "Shaun Dolac",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
+  "13001": {
+    "name": "Mario Williams",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13005": {
+    "name": "Anthony Torres",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13024": {
+    "name": "Jay Higgins",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "BAL"
+  },
+  "13027": {
+    "name": "Dalys Beanum",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13034": {
+    "name": "Tyrone Broden",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13035": {
+    "name": "Amari Kight",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "13051": {
+    "name": "K.C. Ossai",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "13066": {
+    "name": "Ben Sauls",
+    "pos": "K",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "13120": {
+    "name": "Jacoby Jones",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13122": {
+    "name": "Carter Runyon",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "13124": {
+    "name": "Jeremiah Webb",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "NE"
+  },
+  "13146": {
+    "name": "Jared Bartlett",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "13148": {
+    "name": "Aaron Smith",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "13157": {
+    "name": "Reuben Lowery",
+    "pos": "DB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "13173": {
+    "name": "Jimmy Holiday",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "KC"
+  },
+  "13202": {
+    "name": "Dalevon Campbell",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13205": {
+    "name": "Luke Deal",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13222": {
+    "name": "Montana Lemonious-Craig",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13226": {
+    "name": "Marcus Tate",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13259": {
+    "name": "Joseph Vaughn",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13281": {
+    "name": "Jordyn Tyson",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "13287": {
+    "name": "Jeremiyah Love",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ARI"
+  },
+  "13291": {
+    "name": "Kejon Owens",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13300": {
+    "name": "Le'Veon Moss",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "13302": {
+    "name": "Adam Randall",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "BAL"
+  },
+  "13309": {
+    "name": "Aaron Anderson",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13319": {
+    "name": "Oscar Delp",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "13326": {
+    "name": "DT Sheffield",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13327": {
+    "name": "Desmond Reid",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13330": {
+    "name": "Kenyon Sadiq",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "13340": {
+    "name": "Rueben Bain",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
+  "13342": {
+    "name": "John Michael Gyllenborg",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "KC"
+  },
+  "13349": {
+    "name": "Eli Stowers",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
+  "13352": {
+    "name": "Lincoln Pare",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13353": {
+    "name": "Chris Brazzell",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "CAR"
+  },
+  "13354": {
+    "name": "Eric McAlister",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13355": {
+    "name": "DJ Rogers",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "DAL"
+  },
+  "13361": {
+    "name": "Romello Height",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "13367": {
+    "name": "Colton Hood",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "13380": {
+    "name": "Brenen Thompson",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
+  },
+  "13382": {
+    "name": "Keionte Scott",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
+  "13386": {
+    "name": "D'Angelo Ponds",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "13392": {
+    "name": "Jeff Caldwell",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "KC"
+  },
+  "13395": {
+    "name": "Keldric Faulk",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
+  },
+  "13396": {
+    "name": "Julian Neal",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
+  "13403": {
+    "name": "Jam Miller",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13407": {
+    "name": "Carson Towt",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "IND"
+  },
+  "13410": {
+    "name": "Chase Roberts",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "13412": {
+    "name": "Kendrick Law",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "DET"
+  },
+  "13415": {
+    "name": "Haynes King",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
+  },
+  "13417": {
+    "name": "De'Zhaun Stribling",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "13422": {
+    "name": "Jaren Kanak",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "TEN"
+  },
+  "1343": {
+    "name": "Jordan Poyer",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13430": {
+    "name": "RJ Maryland",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
+  "13431": {
+    "name": "Miles Kitselman",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13434": {
+    "name": "Will Kacmarek",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIA"
+  },
+  "13435": {
+    "name": "Joe Royer",
+    "pos": "TE",
+    "since": "",
+    "status": "PUP",
+    "team": "CLE"
+  },
+  "13440": {
+    "name": "Damien Alford",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13449": {
+    "name": "Francis Mauigoa",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "13452": {
+    "name": "Bud Clark",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "SEA"
+  },
+  "13453": {
+    "name": "Jacob Rodriguez",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIA"
+  },
+  "13458": {
+    "name": "Derrick Moore",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "13459": {
+    "name": "Chase Bisontis",
+    "pos": "G",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "13461": {
+    "name": "Keagen Trost",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "LAR"
+  },
+  "13462": {
+    "name": "Jakobe Thomas",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "13463": {
+    "name": "Caleb Tiernan",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "13465": {
+    "name": "Markel Bell",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
+  "13466": {
+    "name": "Keyron Crawford",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "13478": {
+    "name": "Ephesians Prysock",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "13484": {
+    "name": "Trey Moore",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "MIA"
+  },
+  "13490": {
+    "name": "Wade Woodaz",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "HOU"
+  },
+  "13492": {
+    "name": "Dani Dennis-Sutton",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
+  "13494": {
+    "name": "Jimmy Rolder",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "13496": {
+    "name": "Devin Moore",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "DAL"
+  },
+  "13501": {
+    "name": "Gracen Halton",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "13503": {
+    "name": "Kaleb Proctor",
+    "pos": "DT",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "13505": {
+    "name": "Jude Bowry",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
+  "13506": {
+    "name": "Zane Durant",
+    "pos": "DT",
+    "since": "",
+    "status": "IR",
+    "team": "BUF"
+  },
+  "13509": {
+    "name": "Lorenzo Styles",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "13512": {
+    "name": "Keyshaun Elliott",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "13515": {
+    "name": "Billy Schrauth",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
+  "1352": {
+    "name": "Robert Woods",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "13526": {
+    "name": "Parker Brailsford",
+    "pos": "C",
+    "since": "",
+    "status": "Questionable",
+    "team": "CLE"
+  },
+  "13537": {
+    "name": "Micah Morris",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
+  "13539": {
+    "name": "Anez Cooper",
+    "pos": "G",
+    "since": "",
+    "status": "IR",
+    "team": "NYJ"
+  },
+  "13552": {
+    "name": "Anterio Thompson",
+    "pos": "DT",
+    "since": "",
+    "status": "PUP",
+    "team": "ATL"
+  },
+  "13567": {
+    "name": "VJ Payne",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "NYJ"
+  },
+  "13587": {
+    "name": "Parker Hughes",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "13588": {
+    "name": "Zach Durfee",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "13590": {
+    "name": "Isaiah World",
+    "pos": "OT",
+    "since": "",
+    "status": "PUP",
+    "team": "LAC"
+  },
+  "13596": {
+    "name": "Mikail Kamara",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "13597": {
+    "name": "Matthew Caldwell",
+    "pos": "QB",
+    "since": "",
+    "status": "IR",
+    "team": "LAR"
+  },
+  "13604": {
+    "name": "Sincere Brown",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13613": {
+    "name": "Tyreek Chappell",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "MIN"
+  },
+  "13618": {
+    "name": "Jacob Thomas",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "13642": {
+    "name": "Keeshawn Silver",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13643": {
+    "name": "Michael Heldman",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "13654": {
+    "name": "Devon Marshall",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13657": {
+    "name": "Alex Bullock",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "13659": {
+    "name": "Garrett DiGiorgio",
+    "pos": "G",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "13676": {
+    "name": "Deshawn McKnight",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "TB"
+  },
+  "13684": {
+    "name": "Shad Banks",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13713": {
+    "name": "KC Eziomume",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13725": {
+    "name": "Dominic Richardson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "13742": {
+    "name": "De'Shawn Rucker",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13751": {
+    "name": "Michael Coats",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CLE"
+  },
+  "13757": {
+    "name": "Kelvin Gilliam",
+    "pos": "DT",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "13778": {
+    "name": "EJ Smith",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "1379": {
+    "name": "Kyle Juszczyk",
+    "pos": "FB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "13811": {
+    "name": "Drey Norwood",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13812": {
+    "name": "Eddie Walls",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "LAR"
+  },
+  "13815": {
+    "name": "Rene Konga",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "MIA"
+  },
+  "13820": {
+    "name": "Tucker Large",
+    "pos": "DB",
+    "since": "",
+    "status": "PUP",
+    "team": "PHI"
+  },
+  "13826": {
+    "name": "Caullin Lacy",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13839": {
+    "name": "Chase Curtis",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "13851": {
+    "name": "Jahquez Robinson",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "BAL"
+  },
+  "13854": {
+    "name": "Malik Spencer",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "WAS"
+  },
+  "13859": {
+    "name": "Jalen Walthall",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13864": {
+    "name": "Aidan Keanaaina",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13868": {
+    "name": "Thaddeus Dixon",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "NYG"
+  },
+  "13870": {
+    "name": "Quentin Moore",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13873": {
+    "name": "Sam Scott",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13875": {
+    "name": "Sean Brown",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13879": {
+    "name": "Jameson Geers",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "13884": {
+    "name": "Chad Lindberg",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13894": {
+    "name": "Justin Pickett",
+    "pos": "G",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "13898": {
+    "name": "Corey Rucker",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "13923": {
+    "name": "Joshua Pitsenberger",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13927": {
+    "name": "Zxavian Harris",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13943": {
+    "name": "Squirrel White",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "13951": {
+    "name": "Nathan Voorhis",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "13964": {
+    "name": "Myles Montgomery",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "13967": {
+    "name": "Jimmy Kibble",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "NE"
+  },
+  "13975": {
+    "name": "Le'Meke Brockington",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "14021": {
+    "name": "Kadarius Calloway",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "14031": {
+    "name": "Kyron Hudson",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "14034": {
+    "name": "Brock Rechsteiner",
+    "pos": "WR",
+    "since": "",
+    "status": "Sus",
+    "team": "FA"
+  },
+  "14045": {
+    "name": "Marlon Jones",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "GB"
+  },
+  "14058": {
+    "name": "Malick Meiga",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "14060": {
+    "name": "Blake Cotton",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "14069": {
+    "name": "Connor Hulstein",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "14072": {
+    "name": "Daniel Rickert",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "LAR"
+  },
+  "14074": {
+    "name": "Brien Taylor",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "14078": {
+    "name": "Xavier Williams",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
+  "1492": {
+    "name": "Johnathan Hankins",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "1518": {
+    "name": "Darius Slay",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "1689": {
+    "name": "Adam Thielen",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "1901": {
+    "name": "Isaiah Crowell",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "1947": {
+    "name": "Jadeveon Clowney",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "HOU"
+  },
+  "2028": {
+    "name": "Derek Carr",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "2152": {
+    "name": "Teddy Bridgewater",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "2187": {
+    "name": "Kony Ealy",
+    "pos": "DE",
+    "since": "",
+    "status": "Sus",
+    "team": "FA"
+  },
+  "2216": {
+    "name": "Mike Evans",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "2267": {
+    "name": "Jimmie Ward",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "2307": {
+    "name": "Marcus Mariota",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "2357": {
+    "name": "Jordan Phillips",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "2625": {
+    "name": "Jonathon Mincy",
+    "pos": "FS",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "2749": {
+    "name": "Raheem Mostert",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "2985": {
+    "name": "Kendall Lamm",
+    "pos": "OT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "3159": {
+    "name": "Laremy Tunsil",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "WAS"
+  },
+  "3160": {
+    "name": "Jalen Ramsey",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
+  },
+  "3192": {
+    "name": "Artie Burns",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "3193": {
+    "name": "Germain Ifedi",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "3221": {
+    "name": "Nick Martin",
+    "pos": "C",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "3241": {
+    "name": "Jonathan Bullard",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "DAL"
+  },
+  "3259": {
+    "name": "Graham Glasgow",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "3284": {
+    "name": "Deon Bush",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "3321": {
+    "name": "Tyreek Hill",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "3415": {
+    "name": "Jonathan Jones",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
+  "3526": {
+    "name": "Roy Robertson-Harris",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "NYG"
+  },
+  "3546": {
+    "name": "Mike Hilton",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "3832": {
+    "name": "C.J. Ham",
+    "pos": "FB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "3973": {
+    "name": "Myles Garrett",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
+  "3976": {
+    "name": "Mitchell Trubisky",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
+  },
+  "4018": {
+    "name": "Joe Mixon",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4034": {
+    "name": "Christian McCaffrey",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "4035": {
+    "name": "Alvin Kamara",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "4040": {
+    "name": "JuJu Smith-Schuster",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4046": {
+    "name": "Patrick Mahomes",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "KC"
+  },
+  "4059": {
+    "name": "Marshon Lattimore",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4068": {
+    "name": "Mike Williams",
+    "pos": "WR",
+    "since": "",
+    "status": "DNR",
+    "team": "FA"
+  },
+  "4077": {
+    "name": "Jamal Adams",
+    "pos": "SS",
+    "since": "",
+    "status": "IR",
+    "team": "MIN"
+  },
+  "4079": {
+    "name": "Kevin King",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4104": {
+    "name": "Taylor Moton",
+    "pos": "T",
+    "since": "",
+    "status": "PUP",
+    "team": "CAR"
+  },
+  "4110": {
+    "name": "Zach Cunningham",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4114": {
+    "name": "Tanoh Kpassagnon",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "TEN"
+  },
+  "4124": {
+    "name": "Ahkello Witherspoon",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "4137": {
+    "name": "James Conner",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "4174": {
+    "name": "Deatrich Wise",
+    "pos": "DE",
+    "since": "",
+    "status": "PUP",
+    "team": "WAS"
+  },
+  "4198": {
+    "name": "Jamal Agnew",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4217": {
+    "name": "George Kittle",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "4219": {
+    "name": "Jeremy McNichols",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "WAS"
+  },
+  "4233": {
+    "name": "Zane Gonzalez",
+    "pos": "K",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4238": {
+    "name": "Xavier Woods",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "44": {
+    "name": "Ahmad Brooks",
+    "pos": "LB",
+    "since": "",
+    "status": "Sus",
+    "team": "FA"
+  },
+  "4435": {
+    "name": "Anthony Firkser",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4458": {
+    "name": "Zach Franklin",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "4525": {
+    "name": "De'Chavon Hayes",
+    "pos": "CB",
+    "since": "",
+    "status": "Out",
+    "team": "FA"
+  },
+  "4579": {
+    "name": "Josh Banderas",
+    "pos": "OLB",
+    "since": "",
+    "status": "COV",
+    "team": "DEN"
+  },
+  "4598": {
+    "name": "Storm Norton",
+    "pos": "T",
+    "since": "",
+    "status": "PUP",
+    "team": "ATL"
+  },
+  "4611": {
+    "name": "Justin Hardee",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4719": {
+    "name": "Chris Thompson",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4770": {
+    "name": "Duplicate Player",
+    "pos": "WR",
+    "since": "",
+    "status": "Out",
+    "team": "FA"
+  },
+  "4784": {
+    "name": "Levonte Whitfield",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "4795": {
+    "name": "Siupeli Anau",
+    "pos": "DT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "4825": {
+    "name": "Freddie Brown",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "4854": {
+    "name": "River Cracraft",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "4879": {
+    "name": "Francis Owusu",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "4950": {
+    "name": "Christian Kirk",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "5006": {
+    "name": "J'Mon Moore",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5010": {
+    "name": "Will Dissly",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5025": {
+    "name": "Ronnie Harrison",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIA"
+  },
+  "503": {
+    "name": "Graham Gano",
+    "pos": "K",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5030": {
+    "name": "Harold Landry",
+    "pos": "LB",
+    "since": "",
+    "status": "PUP",
+    "team": "NE"
+  },
+  "5055": {
+    "name": "M.J. Stewart",
+    "pos": "DB",
+    "since": "",
+    "status": "PUP",
+    "team": "HOU"
+  },
+  "5060": {
+    "name": "Braden Smith",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "HOU"
+  },
+  "5071": {
+    "name": "DeShon Elliott",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "PIT"
+  },
+  "5096": {
+    "name": "Ray-Ray McCloud",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "5113": {
+    "name": "Cedrick Wilson",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5180": {
+    "name": "Danny Ezechukwu",
+    "pos": "OLB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5187": {
+    "name": "Mike Hughes",
+    "pos": "NT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5216": {
+    "name": "Ervin Philips",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5288": {
+    "name": "Donnie Ernsberger",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
+  },
+  "5297": {
+    "name": "Zach Sieler",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIA"
+  },
+  "5298": {
+    "name": "Bradley Bozeman",
+    "pos": "OL",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5302": {
+    "name": "Bilal Nichols",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5308": {
+    "name": "Duplicate Player",
+    "pos": "DE",
+    "since": "",
+    "status": "Out",
+    "team": "LAR"
+  },
+  "5330": {
+    "name": "Dorance Armstrong",
+    "pos": "DE",
+    "since": "",
+    "status": "Sus",
+    "team": "WAS"
+  },
+  "5334": {
+    "name": "Josey Jewell",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5344": {
+    "name": "Cornell Armstrong",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5351": {
+    "name": "Da'Shawn Hand",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
+  },
+  "5360": {
+    "name": "Marcus Allen",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5366": {
+    "name": "Tim Settle",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "5372": {
+    "name": "D.J. Reed",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "5377": {
+    "name": "Jamarco Jones",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5387": {
+    "name": "Jerod Fernandez",
+    "pos": "OLB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5396": {
+    "name": "Sergio Bailey II",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5426": {
+    "name": "McKay Murphy",
+    "pos": "DT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5433": {
+    "name": "Ranthony Texada",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5436": {
+    "name": "Emmanuel Moseley",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5447": {
+    "name": "Lashard Durr",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5469": {
+    "name": "Chris Schleuger",
+    "pos": "G",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5493": {
+    "name": "Charvarius Ward",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
+  },
+  "5508": {
+    "name": "Chris Lammons",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5526": {
+    "name": "Darious Williams",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5532": {
+    "name": "Daniel Ekuale",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5555": {
+    "name": "Dakoda Shepley",
+    "pos": "C",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5618": {
+    "name": "Larry Rose",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5645": {
+    "name": "Nick Gates",
+    "pos": "C",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5652": {
+    "name": "Ian Park",
+    "pos": "G",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "5694": {
+    "name": "Antwuan Davis",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5702": {
+    "name": "Pat Afriyie",
+    "pos": "DE",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5753": {
+    "name": "Chris Board",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5765": {
+    "name": "Bo Bower",
+    "pos": "OLB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5770": {
+    "name": "J.P. Quinn",
+    "pos": "C",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5788": {
+    "name": "Dante Sawyer",
+    "pos": "DE",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5790": {
+    "name": "Mike Basile",
+    "pos": "S",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5795": {
+    "name": "Bryce Canady",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5798": {
+    "name": "Darren Carrington",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5803": {
+    "name": "Jacob Judd",
+    "pos": "C",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5814": {
+    "name": "Frank Stephens",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5816": {
+    "name": "Nick Bosa",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "5818": {
+    "name": "Freddie Kitchens",
+    "pos": "\u2014",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5820": {
+    "name": "BenJarvus Green-Ellis",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5846": {
+    "name": "DK Metcalf",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
+  },
+  "5850": {
+    "name": "Josh Jacobs",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "GB"
+  },
+  "5874": {
+    "name": "Kaleb McGary",
+    "pos": "T",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5880": {
+    "name": "Parris Campbell",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5883": {
+    "name": "Lonnie Johnson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5891": {
+    "name": "Yodny Cajuste",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5898": {
+    "name": "Michael Deiter",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "DEN"
+  },
+  "5903": {
+    "name": "Will Grier",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5913": {
+    "name": "Connor McGovern",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
+  "5914": {
+    "name": "David Long",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "5915": {
+    "name": "Andy Isabella",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5921": {
+    "name": "Kris Boyd",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "5925": {
+    "name": "Terry Beckner",
+    "pos": "DT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "5947": {
+    "name": "Jakobi Meyers",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "JAX"
+  },
+  "5956": {
+    "name": "Isaiah Prince",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6004": {
+    "name": "Andre James",
+    "pos": "C",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "6039": {
+    "name": "Ty Johnson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
+  "6040": {
+    "name": "Tyree Jackson",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6046": {
+    "name": "Joe Dineen",
+    "pos": "ILB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6076": {
+    "name": "Justin Hollins",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6094": {
+    "name": "Sam Mustipher",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "6117": {
+    "name": "Dennis Allen",
+    "pos": "\u2014",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6120": {
+    "name": "Christian Wilkins",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6122": {
+    "name": "Jonah Williams",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6126": {
+    "name": "Irv Smith",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6140": {
+    "name": "Kendall Sheffield",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6141": {
+    "name": "Drue Tranquill",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "KC"
+  },
+  "6154": {
+    "name": "David Sills",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "TB"
+  },
+  "6211": {
+    "name": "Sione Takitaki",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6218": {
+    "name": "E.J. Speed",
+    "pos": "LB",
+    "since": "",
+    "status": "PUP",
+    "team": "HOU"
+  },
+  "6234": {
+    "name": "Deonte Harty",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6250": {
+    "name": "Eurndraus Bryant",
+    "pos": "DT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6254": {
+    "name": "Kemon Hall",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6292": {
+    "name": "Nick Allegretti",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "6294": {
+    "name": "Ty Summers",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6303": {
+    "name": "Joshua Miles",
+    "pos": "OL",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6306": {
+    "name": "Patrick Mekari",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "JAX"
+  },
+  "6441": {
+    "name": "Duplicate Player",
+    "pos": "NT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6453": {
+    "name": "D.J. Montgomery",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "IND"
+  },
+  "6477": {
+    "name": "Duplicate Player",
+    "pos": "ILB",
+    "since": "",
+    "status": "COV",
+    "team": "DEN"
+  },
+  "6546": {
+    "name": "Kenny Bigelow",
+    "pos": "DT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6551": {
+    "name": "Darius Harris",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6576": {
+    "name": "Toa Lobendahn",
+    "pos": "C",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "660": {
+    "name": "Peyton Hillis",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6610": {
+    "name": "Demetrius Flannigan-Fowles",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "BUF"
+  },
+  "6612": {
+    "name": "Luke Gifford",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "6613": {
+    "name": "Lukayus McNeil",
+    "pos": "OT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6633": {
+    "name": "Matt Nelson",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6646": {
+    "name": "Durndraus Bryant",
+    "pos": "NT",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6677": {
+    "name": "Joe Forson",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "KC"
+  },
+  "6699": {
+    "name": "Gunner Olszewski",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "NYG"
+  },
+  "6719": {
+    "name": "Larry Allen",
+    "pos": "G",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6722": {
+    "name": "Dave Deguglielmo",
+    "pos": "\u2014",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6731": {
+    "name": "Jason Davis",
+    "pos": "OLB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6735": {
+    "name": "Duplicate Player",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6736": {
+    "name": "Sean Smith",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6740": {
+    "name": "Brett Toth",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "6750": {
+    "name": "Logan Tago",
+    "pos": "LB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6755": {
+    "name": "Tavonn Salter",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6784": {
+    "name": "Derrick Brown",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
+  },
+  "6785": {
+    "name": "Jeff Okudah",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6787": {
+    "name": "Jedrick Wills",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6800": {
+    "name": "K'Lavon Chaisson",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "6803": {
+    "name": "Brandon Aiyuk",
+    "pos": "WR",
+    "since": "",
+    "status": "DNR",
+    "team": "SF"
+  },
+  "6818": {
+    "name": "Nnamdi Madubuike",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "BAL"
+  },
+  "6819": {
+    "name": "Michael Pittman",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
+  },
+  "6835": {
+    "name": "Tyler Biadasz",
+    "pos": "C",
+    "since": "",
+    "status": "IR",
+    "team": "LAC"
+  },
+  "6839": {
+    "name": "Jaylon Johnson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "6845": {
+    "name": "Zack Moss",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6850": {
+    "name": "Harrison Bryant",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6862": {
+    "name": "Saahdiq Charles",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6881": {
+    "name": "Matt Hennessy",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "DAL"
+  },
+  "6883": {
+    "name": "Lucas Niang",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6900": {
+    "name": "Jonathan Greenard",
+    "pos": "DE",
+    "since": "",
+    "status": "PUP",
+    "team": "PHI"
+  },
+  "6914": {
+    "name": "Trevon Hill",
+    "pos": "DL",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6930": {
+    "name": "Trystan Colon",
+    "pos": "C",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6942": {
+    "name": "Jack Driscoll",
+    "pos": "T",
+    "since": "",
+    "status": "IR",
+    "team": "PIT"
+  },
+  "6943": {
+    "name": "Gabe Davis",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6945": {
+    "name": "Antonio Gibson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6953": {
+    "name": "Qaadir Sheppard",
+    "pos": "LB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6963": {
+    "name": "Patrick Taylor",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "6964": {
+    "name": "Sean McKeon",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
+  },
+  "6965": {
+    "name": "Jonathan Garvin",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "6969": {
+    "name": "Dane Jackson",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6978": {
+    "name": "Reggie Corbin",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6987": {
+    "name": "Hakeem Adeniji",
+    "pos": "G",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "6998": {
+    "name": "Gage Cervenka",
+    "pos": "OL",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7006": {
+    "name": "Jacob Phillips",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7012": {
+    "name": "Mykal Walker",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "NYJ"
+  },
+  "7022": {
+    "name": "Shane Lemieux",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7029": {
+    "name": "David Woodward",
+    "pos": "LB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7034": {
+    "name": "David Dowell",
+    "pos": "S",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7057": {
+    "name": "Baylen Buchanan",
+    "pos": "CB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7069": {
+    "name": "Alohi Gilman",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "KC"
+  },
+  "7070": {
+    "name": "Parker Braun",
+    "pos": "G",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7072": {
+    "name": "Michael Turk",
+    "pos": "P",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7073": {
+    "name": "Jake Bentley",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7074": {
+    "name": "A.J. Hines",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7096": {
+    "name": "Kaleb Barker",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7097": {
+    "name": "Tra Barnett",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7099": {
+    "name": "Tom Flacco",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7102": {
+    "name": "Mason Fine",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7104": {
+    "name": "Shannon Brooks",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7108": {
+    "name": "Hasise Dubois",
+    "pos": "WR",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7110": {
+    "name": "Kelly Bryant",
+    "pos": "QB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7117": {
+    "name": "L'Jarius Sneed",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "KC"
+  },
+  "7118": {
+    "name": "Danny Pinter",
+    "pos": "G",
+    "since": "",
+    "status": "IR",
+    "team": "BAL"
+  },
+  "7233": {
+    "name": "Andre Baccellia",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7297": {
+    "name": "Yasir Durant",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7301": {
+    "name": "Tershawn Wharton",
+    "pos": "DT",
+    "since": "",
+    "status": "PUP",
+    "team": "CAR"
+  },
+  "7342": {
+    "name": "Michael Hoecht",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
+  "7344": {
+    "name": "Jonah Williams",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7357": {
+    "name": "Dan Chisena",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7393": {
+    "name": "Sirgeo Hoffman",
+    "pos": "RB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7427": {
+    "name": "Tyler Mabry",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7467": {
+    "name": "Blake Gillikin",
+    "pos": "P",
+    "since": "",
+    "status": "Questionable",
+    "team": "ARI"
+  },
+  "7469": {
+    "name": "Austen Pleasants",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "7561": {
+    "name": "Elijah Mitchell",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7564": {
+    "name": "Ja'Marr Chase",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "CIN"
+  },
+  "7568": {
+    "name": "Brevin Jordan",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7593": {
+    "name": "Trey Sermon",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "ATL"
+  },
+  "7594": {
+    "name": "Chuba Hubbard",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
+  },
+  "7597": {
+    "name": "Kenny Yeboah",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7599": {
+    "name": "Jermar Jefferson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
+  },
+  "7625": {
+    "name": "Joe Tryon-Shoyinka",
+    "pos": "LB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7626": {
+    "name": "Odafe Oweh",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "7629": {
+    "name": "Payton Turner",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "DET"
+  },
+  "7630": {
+    "name": "Greg Newsome",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "7635": {
+    "name": "Jaelan Phillips",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
+  },
+  "7639": {
+    "name": "Rashawn Slater",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
+  },
+  "7640": {
+    "name": "Micah Parsons",
+    "pos": "LB",
+    "since": "",
+    "status": "PUP",
+    "team": "GB"
+  },
+  "7647": {
+    "name": "Pete Werner",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "7650": {
+    "name": "Dillon Radunz",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "7651": {
+    "name": "Jeremiah Owusu-Koramoah",
+    "pos": "LB",
+    "since": "",
+    "status": "PUP",
+    "team": "CLE"
+  },
+  "7660": {
+    "name": "Liam Eichenberg",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7669": {
+    "name": "Paulson Adebo",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
+  },
+  "7678": {
+    "name": "Joseph Ossai",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "7687": {
+    "name": "Nahshon Wright",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "7692": {
+    "name": "Kendrick Green",
+    "pos": "C",
+    "since": "",
+    "status": "IR",
+    "team": "CLE"
+  },
+  "7707": {
+    "name": "Tre Brown",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "NYJ"
+  },
+  "7716": {
+    "name": "John Bates",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "7717": {
+    "name": "Zech McPhearson",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "LAR"
+  },
+  "7721": {
+    "name": "Chris Rumph",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "7725": {
+    "name": "Drew Dalman",
+    "pos": "OL",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "7729": {
+    "name": "Dez Fitzpatrick",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7730": {
+    "name": "Darren Hall",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "ATL"
+  },
+  "7757": {
+    "name": "Ben Skowronek",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
+  },
+  "7765": {
+    "name": "Jonathon Cooper",
+    "pos": "DL",
+    "since": "",
+    "status": "NA",
+    "team": "DEN"
+  },
+  "7776": {
+    "name": "Israel Mukuamu",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7777": {
+    "name": "Trey Smith",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "KC"
+  },
+  "7788": {
+    "name": "Victor Dimukeje",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "7796": {
+    "name": "Brandin Echols",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
+  },
+  "7813": {
+    "name": "Shemar Jean-Charles",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7823": {
+    "name": "Nate Hobbs",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "7824": {
+    "name": "Keith Taylor",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7827": {
+    "name": "Darrick Forrest",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "7830": {
+    "name": "Shaun Wade",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7836": {
+    "name": "Tony Fields",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "7849": {
+    "name": "Charles Snowden",
+    "pos": "LB",
+    "since": "",
+    "status": "Sus",
+    "team": "FA"
+  },
+  "7853": {
+    "name": "Naquan Jones",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7872": {
+    "name": "Alaric Jackson",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
+  "7878": {
+    "name": "Milo Eifler",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "TEN"
+  },
+  "7886": {
+    "name": "Drake Jackson",
+    "pos": "C",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7946": {
+    "name": "Jack Stoll",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "7989": {
+    "name": "DJ Turner",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8003": {
+    "name": "Dicaprio Bootle",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8044": {
+    "name": "Isaiah Dunn",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8073": {
+    "name": "Tyrone Wheatley",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
+  },
+  "8107": {
+    "name": "Nikola Kalinic",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "8125": {
+    "name": "Calvin Austin",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "NYG"
+  },
+  "8126": {
+    "name": "Wan'Dale Robinson",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
+  },
+  "8134": {
+    "name": "Khalil Shakir",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
+  "8136": {
+    "name": "Rachaad White",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "8142": {
+    "name": "Alec Pierce",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
+  },
+  "8143": {
+    "name": "Jerome Ford",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
+  "815": {
+    "name": "Nick Bellore",
+    "pos": "LB",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "8151": {
+    "name": "Kenneth Walker",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "KC"
+  },
+  "8155": {
+    "name": "Breece Hall",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYJ"
+  },
+  "8177": {
+    "name": "Grant Calcaterra",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "PHI"
+  },
+  "8202": {
+    "name": "Michael Woods",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "DEN"
+  },
+  "8205": {
+    "name": "Isiah Pacheco",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "8206": {
+    "name": "Skylar Thompson",
+    "pos": "QB",
+    "since": "",
+    "status": "IR",
+    "team": "BAL"
+  },
+  "8214": {
+    "name": "Cole Turner",
+    "pos": "TE",
+    "since": "",
+    "status": "IR",
+    "team": "MIA"
+  },
+  "8230": {
+    "name": "Ty Chandler",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "NO"
+  },
+  "8255": {
+    "name": "Raheem Blackshear",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8259": {
+    "name": "Cameron Dicker",
+    "pos": "K",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
+  },
+  "8262": {
+    "name": "DJ Davidson",
+    "pos": "DL",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "8264": {
+    "name": "Chase Lucas",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8273": {
+    "name": "Phidarian Mathis",
+    "pos": "DL",
+    "since": "",
+    "status": "Sus",
+    "team": "BUF"
+  },
+  "8274": {
+    "name": "LaBryan Ray",
+    "pos": "DL",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
+  "8276": {
+    "name": "Jalyn Armour-Davis",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8282": {
+    "name": "Delarrin Turner-Yell",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8283": {
+    "name": "Brian Asamoah",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8286": {
+    "name": "Dax Hill",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CIN"
+  },
+  "8290": {
+    "name": "Sauce Gardner",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
+  },
+  "8293": {
+    "name": "Coby Bryant",
+    "pos": "DB",
+    "since": "",
+    "status": "Out",
+    "team": "CHI"
+  },
+  "8295": {
+    "name": "Zach Carter",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "8306": {
+    "name": "John Ridgeway",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "8309": {
+    "name": "Damone Clark",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "DET"
+  },
+  "8311": {
+    "name": "Terrel Bernard",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
+  "8321": {
+    "name": "Tariq Castro-Fields",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8323": {
+    "name": "Jaquan Brisker",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
+  },
+  "8327": {
+    "name": "Amare Barno",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8328": {
+    "name": "Nephi Sewell",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "8329": {
+    "name": "Devin Lloyd",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
+  },
+  "8334": {
+    "name": "Malcolm Rodriguez",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DET"
+  },
+  "8341": {
+    "name": "Cam Taylor-Britt",
+    "pos": "DB",
+    "since": "",
+    "status": "Sus",
+    "team": "IND"
+  },
+  "8348": {
+    "name": "Kerby Joseph",
+    "pos": "DB",
+    "since": "",
+    "status": "PUP",
+    "team": "DET"
+  },
+  "8349": {
+    "name": "Jake Hansen",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "HOU"
+  },
+  "8351": {
+    "name": "Drake Jackson",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "WAS"
+  },
+  "8361": {
+    "name": "Damarion Williams",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8365": {
+    "name": "Kyler Gordon",
+    "pos": "DB",
+    "since": "",
+    "status": "PUP",
+    "team": "CHI"
+  },
+  "8372": {
+    "name": "DeAngelo Malone",
+    "pos": "DL",
+    "since": "",
+    "status": "PUP",
+    "team": "ATL"
+  },
+  "8376": {
+    "name": "Alex Wright",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "CLE"
+  },
+  "8386": {
+    "name": "Damarri Mathis",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "CLE"
+  },
+  "8388": {
+    "name": "Troy Andersen",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8389": {
+    "name": "Akayleb Evans",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
+  },
+  "8391": {
+    "name": "Dominique Robinson",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8413": {
+    "name": "Chris Oladokun",
+    "pos": "QB",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "8416": {
+    "name": "Jalen Virgil",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8423": {
+    "name": "Brittain Brown",
+    "pos": "RB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "8451": {
+    "name": "Ikem Ekwonu",
+    "pos": "T",
+    "since": "",
+    "status": "PUP",
+    "team": "CAR"
+  },
+  "8470": {
+    "name": "Joshua Williams",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "TEN"
+  },
+  "8474": {
+    "name": "Luke Wattenberg",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "DEN"
+  },
+  "8477": {
+    "name": "Matt Waletzko",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "KC"
+  },
+  "8480": {
+    "name": "Jamaree Salyer",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8481": {
+    "name": "Ja'Sir Taylor",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "CIN"
+  },
+  "8482": {
+    "name": "Vederian Lowe",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
+  "8492": {
+    "name": "Sam Roberts",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8495": {
+    "name": "Matt Henningsen",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "DEN"
+  },
+  "8500": {
+    "name": "John FitzPatrick",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8501": {
+    "name": "Nick Zakelj",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
+  "8502": {
+    "name": "Cade Mays",
+    "pos": "OL",
+    "since": "",
+    "status": "IR",
+    "team": "DET"
+  },
+  "8506": {
+    "name": "Nazeeh Johnson",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
+  },
+  "8509": {
+    "name": "Elijah Hicks",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
+  },
+  "8547": {
+    "name": "Kurt Hinish",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8666": {
+    "name": "Darrell Baker",
+    "pos": "CB",
+    "since": "",
+    "status": "PUP",
+    "team": "MIA"
+  },
+  "8678": {
+    "name": "Andrew Rupcich",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8683": {
+    "name": "Joey Blount",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "ARI"
+  },
+  "8702": {
+    "name": "Jaylon Jones",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "8726": {
+    "name": "Brenden Schooler",
+    "pos": "DB",
+    "since": "",
+    "status": "PUP",
+    "team": "NE"
+  },
+  "8739": {
+    "name": "Keir Thomas",
+    "pos": "DE",
+    "since": "",
+    "status": "IR",
+    "team": "LAR"
+  },
+  "8750": {
+    "name": "Michael Niese",
+    "pos": "G",
+    "since": "",
+    "status": "IR",
+    "team": "FA"
+  },
+  "8776": {
+    "name": "Kingsley Jonathan",
+    "pos": "DT",
+    "since": "",
+    "status": "IR",
+    "team": "NYJ"
+  },
+  "8787": {
+    "name": "Ben Brown",
+    "pos": "OG",
+    "since": "",
+    "status": "Questionable",
+    "team": "NE"
+  },
+  "8801": {
+    "name": "Dennis Houston",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
+  "8818": {
+    "name": "Obinna Eze",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8833": {
+    "name": "Dallis Flowers",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "CHI"
+  },
+  "8861": {
+    "name": "Irv Charles",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "SEA"
+  },
+  "8869": {
+    "name": "J.J. Russell",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "8901": {
+    "name": "Ja'Marcus Ingram",
+    "pos": "CB",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "8903": {
+    "name": "Greg Long",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "9481": {
+    "name": "Luke Musgrave",
+    "pos": "TE",
+    "since": "",
+    "status": "PUP",
+    "team": "GB"
+  },
+  "9484": {
+    "name": "Tucker Kraft",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
+  "9489": {
+    "name": "Justin Shorter",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "LV"
+  },
+  "9493": {
+    "name": "Puka Nacua",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
+  "9494": {
+    "name": "Marvin Mims",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "DEN"
+  },
+  "9499": {
+    "name": "Bryce Ford-Wheaton",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "FA"
+  },
+  "9500": {
+    "name": "Josh Downs",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
+  },
+  "9502": {
+    "name": "Tank Dell",
+    "pos": "WR",
+    "since": "",
+    "status": "IR",
+    "team": "HOU"
+  },
+  "9511": {
+    "name": "Keaton Mitchell",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
+  },
+  "957": {
+    "name": "Cameron Jordan",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
+  "9753": {
+    "name": "Zach Charbonnet",
+    "pos": "RB",
+    "since": "",
+    "status": "PUP",
+    "team": "SEA"
+  },
+  "9997": {
+    "name": "Zay Flowers",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "BAL"
+  }
+}
