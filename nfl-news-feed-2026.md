@@ -397,21 +397,21 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jaydon Blue | RB/FA | 176472 |
-| Jam Miller | RB/FA | 63522 |
-| Justin Joly | TE/FA | 61100 |
-| Michael Trigg | TE/DAL | 43011 |
-| Oronde Gadsden | TE/LAC | 41880 |
-| Alvin Kamara | RB/NO | 41040 |
-| Isiah Pacheco | RB/DET | 40552 |
-| Josh Jacobs | RB/GB | 37485 |
-| Brenton Strange | TE/JAX | 37368 |
-| Kenyon Sadiq | TE/NYJ | 37026 |
-| Robert Henry | RB/FA | 36533 |
-| Emanuel Wilson | RB/SEA | 35082 |
-| Tyreek Hill | WR/FA | 34856 |
-| Cyrus Allen | WR/KC | 31842 |
-| Jordyn Tyson | WR/NO | 29784 |
+| Jaydon Blue | RB/FA | 178120 |
+| Jam Miller | RB/FA | 63765 |
+| Justin Joly | TE/FA | 61360 |
+| Michael Trigg | TE/DAL | 43218 |
+| Oronde Gadsden | TE/LAC | 42110 |
+| Alvin Kamara | RB/NO | 41280 |
+| Isiah Pacheco | RB/DET | 40856 |
+| Josh Jacobs | RB/GB | 37790 |
+| Brenton Strange | TE/JAX | 37584 |
+| Kenyon Sadiq | TE/NYJ | 37296 |
+| Robert Henry | RB/FA | 36750 |
+| Emanuel Wilson | RB/SEA | 35343 |
+| Tyreek Hill | WR/FA | 35120 |
+| Cyrus Allen | WR/KC | 32034 |
+| Jordyn Tyson | WR/NO | 29944 |
 
 
 ---
