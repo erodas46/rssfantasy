@@ -351,6 +351,7 @@ def get_sleeper_player_directory() -> dict:
             "pos": info.get("position") or (info.get("fantasy_positions") or ["—"])[0],
             "team": info.get("team") or "FA",
             "injury_status": info.get("injury_status") or "",
+            "injury_start_date": info.get("injury_start_date"),
         }
     SLEEPER_PLAYERS_CACHE.write_text(json.dumps(
         {"fetched_at": datetime.now(timezone.utc).isoformat(), "players": directory}
@@ -416,10 +417,38 @@ def save_injury_snapshot(snapshot: dict) -> None:
     INJURY_SNAPSHOT_FILE.write_text(json.dumps(snapshot, indent=2, sort_keys=True))
 
 
-def render_injury_section() -> list:
+def format_injury_date(raw) -> str:
+    if not raw:
+        return ""
+    try:
+        num = float(raw)
+        if num > 10**11:   # looks like epoch milliseconds
+            return datetime.fromtimestamp(num / 1000, tz=timezone.utc).date().isoformat()
+        if num > 10**9:    # looks like epoch seconds
+            return datetime.fromtimestamp(num, tz=timezone.utc).date().isoformat()
+    except (TypeError, ValueError):
+        pass
+    return str(raw)[:10]
+
+
+def render_injury_section(seen: dict) -> list:
     directory = get_sleeper_player_directory()
     if not directory:
         return []
+
+    # Neither Sleeper nor the free ESPN/Rotowire APIs give fantasy-impact
+    # commentary. Substitute: the most recent news item we've already
+    # captured for that player, so there's real context instead of a bare
+    # status.
+    latest_by_player = {}
+    for record in seen.values():
+        name = record.get("player")
+        if not name:
+            continue
+        prev = latest_by_player.get(name)
+        key = (record["date"], record["captured_at"])
+        if prev is None or key > (prev["date"], prev["captured_at"]):
+            latest_by_player[name] = record
 
     previous = get_injury_snapshot()
     current = {}
@@ -429,7 +458,10 @@ def render_injury_section() -> list:
         status = info.get("injury_status") or ""
         if not status:
             continue
-        current[pid] = {"name": info["name"], "pos": info["pos"], "team": info["team"], "status": status}
+        current[pid] = {
+            "name": info["name"], "pos": info["pos"], "team": info["team"],
+            "status": status, "since": format_injury_date(info.get("injury_start_date")),
+        }
         prev_status = previous.get(pid, {}).get("status", "")
         if status != prev_status:
             changes.append({
@@ -437,7 +469,6 @@ def render_injury_section() -> list:
                 "from": prev_status or "(unlisted)", "to": status,
             })
 
-    # Players who WERE listed last run but have no status now = cleared.
     for pid, prev_info in previous.items():
         if pid not in current and prev_info.get("status"):
             changes.append({
@@ -449,10 +480,9 @@ def render_injury_section() -> list:
 
     lines = [
         "", "---", "", "## Injury report (official status, via Sleeper)", "",
-        "_Same official injury report ESPN publishes, sourced as structured "
-        "data instead of scraped HTML. 'Status changes' is the more useful "
-        "read during the season — a fresh Questionable→Out shift matters "
-        "more than the full list._", "",
+        "_'Latest news' pulls the most recent matching item from the tables "
+        "above (not a separate source) — Sleeper/ESPN's free APIs don't "
+        "include fantasy-impact commentary._", "",
         "**Status changes since last run**", "",
     ]
     if changes:
@@ -464,8 +494,14 @@ def render_injury_section() -> list:
     lines += ["", "**Full current report**", ""]
     if current:
         rows = sorted(current.values(), key=lambda r: (r["team"], r["name"]))
-        lines += ["| Player | Pos/Team | Status |", "|---|---|---|"]
-        lines += [f"| {r['name']} | {r['pos']}/{r['team']} | {r['status']} |" for r in rows]
+        lines += ["| Player | Pos/Team | Status | Since | Latest news |", "|---|---|---|---|---|"]
+        for r in rows:
+            news = latest_by_player.get(r["name"])
+            if news:
+                news_cell = _cell(f"{news['summary']}" + (f" ([link]({news['link']}))" if news.get("link") else ""))
+            else:
+                news_cell = "—"
+            lines.append(f"| {r['name']} | {r['pos']}/{r['team']} | {r['status']} | {r['since'] or '—'} | {news_cell} |")
     else:
         lines.append("_Nothing currently listed._")
     lines.append("")
@@ -631,7 +667,7 @@ def render(seen: dict) -> str:
     lines += ["", "---", "", "## Full log (newest first)", "", TABLE_HEADER, TABLE_DIVIDER]
     lines += [_row(r, today) for r in items]
     lines += render_trending_section()
-    lines += render_injury_section()
+    lines += render_injury_section(seen)
     lines.append("")
     return "\n".join(lines)
 
