@@ -76,13 +76,6 @@
     "status": "Questionable",
     "team": "CHI"
   },
-  "10899": {
-    "name": "Gervon Dexter",
-    "pos": "DL",
-    "since": "",
-    "status": "Questionable",
-    "team": "ATL"
-  },
   "10904": {
     "name": "Keion White",
     "pos": "DL",
@@ -200,7 +193,7 @@
     "pos": "DB",
     "since": "",
     "status": "IR",
-    "team": "FA"
+    "team": "IND"
   },
   "10991": {
     "name": "K.J. Henry",
@@ -516,13 +509,6 @@
     "since": "",
     "status": "Questionable",
     "team": "CAR"
-  },
-  "11631": {
-    "name": "Brian Thomas",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
   },
   "11632": {
     "name": "Malik Nabers",
@@ -879,7 +865,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "ARI"
+    "team": "FA"
   },
   "11930": {
     "name": "Taki Taimani",
@@ -1195,6 +1181,13 @@
     "since": "",
     "status": "Questionable",
     "team": "LAR"
+  },
+  "12490": {
+    "name": "Bhayshul Tuten",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "JAX"
   },
   "12495": {
     "name": "Ollie Gordon",
@@ -1684,7 +1677,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "NYJ"
+    "team": "FA"
   },
   "12895": {
     "name": "Malik Verdon",
@@ -1782,7 +1775,7 @@
     "pos": "DB",
     "since": "",
     "status": "Questionable",
-    "team": "ARI"
+    "team": "FA"
   },
   "12981": {
     "name": "Gee Scott",
@@ -2685,7 +2678,7 @@
     "pos": "G",
     "since": "",
     "status": "IR",
-    "team": "FA"
+    "team": "LV"
   },
   "13898": {
     "name": "Corey Rucker",
@@ -3449,13 +3442,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "5351": {
-    "name": "Da'Shawn Hand",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "ATL"
   },
   "5360": {
     "name": "Marcus Allen",
@@ -5338,7 +5324,7 @@
     "pos": "DB",
     "since": "",
     "status": "Questionable",
-    "team": "TEN"
+    "team": "FA"
   },
   "8509": {
     "name": "Elijah Hicks",
@@ -5514,6 +5500,13 @@
     "since": "",
     "status": "IR",
     "team": "HOU"
+  },
+  "9506": {
+    "name": "Sean Tucker",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
   },
   "9511": {
     "name": "Keaton Mitchell",
