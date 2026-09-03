@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-03 03:31 UTC_ · 317 items total · 308/317 matched to a player
+_Last updated: 2026-09-03 14:44 UTC_ · 317 items total · 308/317 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -411,41 +411,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jacob Saylors | RB/DET | 208400 |
-| Malik Davis | RB/DAL | 117450 |
-| Devaughn Vele | WR/NO | 86856 |
-| MarShawn Lloyd | RB/GB | 69930 |
-| Sione Vaki | RB/DET | 54040 |
-| Dohnte Meyers | WR/CIN | 48240 |
-| Darren Waller | TE/CAR | 47898 |
-| Tre Tucker | WR/LV | 44964 |
-| Zavion Thomas | WR/CHI | 38835 |
-| Caleb Douglas | WR/MIA | 36544 |
-| Jacksonville Jaguars | DEF/JAX | 34704 |
-| Odell Beckham | WR/NYG | 29974 |
-| Tank Dell | WR/HOU | 28136 |
-| Justice Hill | RB/BAL | 27603 |
-| Las Vegas Raiders | DEF/LV | 26190 |
+| Jacob Saylors | RB/DET | 160990 |
+| Malik Davis | RB/DAL | 86346 |
+| Devaughn Vele | WR/NO | 75089 |
+| MarShawn Lloyd | RB/GB | 57276 |
+| Sione Vaki | RB/DET | 50729 |
+| Darren Waller | TE/CAR | 44001 |
+| Tre Tucker | WR/LV | 40890 |
+| Dohnte Meyers | WR/CIN | 36846 |
+| Jacksonville Jaguars | DEF/JAX | 31998 |
+| Caleb Douglas | WR/MIA | 31728 |
+| Zavion Thomas | WR/CHI | 27666 |
+| Tank Dell | WR/HOU | 26856 |
+| Kirk Cousins | QB/LV | 26344 |
+| Kaelon Black | RB/SF | 24745 |
+| Las Vegas Raiders | DEF/LV | 24420 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jaydon Blue | RB/PHI | 50480 |
-| Oronde Gadsden | TE/LAC | 25760 |
-| Isiah Pacheco | RB/DET | 25728 |
-| Alvin Kamara | RB/NO | 24168 |
-| Brenton Strange | TE/JAX | 22986 |
-| Emanuel Wilson | RB/SEA | 22770 |
-| Jam Miller | RB/FA | 22590 |
-| J'Mari Taylor | RB/JAX | 21672 |
-| Malik Davis | RB/DAL | 19665 |
-| Tyreek Hill | WR/FA | 19632 |
-| Kenyon Sadiq | TE/NYJ | 19314 |
-| New England Patriots | DEF/NE | 17136 |
-| Justin Joly | TE/FA | 16935 |
-| Fernando Mendoza | QB/LV | 16848 |
-| Cyrus Allen | WR/KC | 16146 |
+| Jaydon Blue | RB/PHI | 40976 |
+| Oronde Gadsden | TE/LAC | 23145 |
+| Alvin Kamara | RB/NO | 22048 |
+| Isiah Pacheco | RB/DET | 21496 |
+| Brenton Strange | TE/JAX | 21222 |
+| Emanuel Wilson | RB/SEA | 19287 |
+| Jam Miller | RB/FA | 17937 |
+| Tyreek Hill | WR/FA | 17632 |
+| Kenyon Sadiq | TE/NYJ | 17487 |
+| Malik Davis | RB/DAL | 16947 |
+| Fernando Mendoza | QB/LV | 16128 |
+| New England Patriots | DEF/NE | 16009 |
+| J'Mari Taylor | RB/JAX | 15912 |
+| Jerry Jeudy | WR/CLE | 14661 |
+| Jalen Nailor | WR/LV | 14436 |
 
 
 ---
@@ -458,24 +458,9 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Damarion Williams | DB/TB | IR | Questionable |
-| Josh Simmons | OL/KC | (unlisted) | Questionable |
-| Chase Curtis | TE/NYJ | IR | Questionable |
-| Jimmy Kibble | WR/NE | IR | Questionable |
-| Chris Jones | DT/KC | (unlisted) | Questionable |
-| Barry Wesley | OL/NO | IR | Questionable |
-| Ja'Quinden Jackson | RB/PHI | IR | Questionable |
-| Eric Butler | DB/NE | IR | Questionable |
-| Jaylon Jones | CB/CHI | IR | Questionable |
-| Tyrek Funderburk | CB/CAR | IR | Questionable |
-| Cedric Tillman | WR/NO | Questionable | (cleared) |
-| J.J. McCarthy | QB/MIN | Questionable | (cleared) |
-| Javon Bullard | DB/GB | Questionable | (cleared) |
-| Seth McLaughlin | OL/DET | Questionable | (cleared) |
-| Brandon Johnson | DB/FA | Questionable | (cleared) |
-| Jedrick Wills | OT/BUF | Questionable | (cleared) |
-| K'Lavon Chaisson | LB/WAS | Questionable | (cleared) |
-| Kenneth Walker | RB/KC | Questionable | (cleared) |
+| Connor Hulstein | TE/NYJ | IR | Questionable |
+| Sam Okuayinonu | DE/SF | (unlisted) | Questionable |
+| Kalel Mullings | RB/TEN | Questionable | (cleared) |
 
 **Full current report**
 
@@ -1139,7 +1124,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Anez Cooper | G/NYJ | IR | — | — |
 | Breece Hall | RB/NYJ | Questionable | — | Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) |
 | Chase Curtis | TE/NYJ | Questionable | — | — |
-| Connor Hulstein | TE/NYJ | IR | — | — |
+| Connor Hulstein | TE/NYJ | Questionable | — | — |
 | D'Angelo Ponds | DB/NYJ | Questionable | — | — |
 | Dominic Richardson | RB/NYJ | IR | — | — |
 | Isaiah Davis | RB/NYJ | Questionable | — | — |
@@ -1218,6 +1203,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Renardo Green | DB/SF | Questionable | — | — |
 | Ricky Pearsall | WR/SF | IR | — | Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/ricky-pearsall-17761)) |
 | Romello Height | LB/SF | Questionable | — | — |
+| Sam Okuayinonu | DE/SF | Questionable | — | — |
 | Upton Stout | CB/SF | Questionable | — | — |
 | Vederian Lowe | OT/SF | Questionable | — | — |
 | Victor Dimukeje | LB/SF | IR | — | — |
@@ -1239,7 +1225,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jaren Kanak | TE/TEN | IR | — | — |
 | Jaylen Harrell | DE/TEN | IR | — | — |
 | Joshua Williams | CB/TEN | IR | — | — |
-| Kalel Mullings | RB/TEN | Questionable | — | — |
 | Keldric Faulk | DL/TEN | Questionable | — | — |
 | Milo Eifler | LB/TEN | IR | — | — |
 | Mitchell Trubisky | QB/TEN | Questionable | — | — |

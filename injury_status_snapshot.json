@@ -1210,13 +1210,6 @@
     "status": "Questionable",
     "team": "TB"
   },
-  "12516": {
-    "name": "Kalel Mullings",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
-  },
   "12518": {
     "name": "Tyler Warren",
     "pos": "TE",
@@ -2768,7 +2761,7 @@
     "name": "Connor Hulstein",
     "pos": "TE",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "NYJ"
   },
   "14072": {
@@ -5290,6 +5283,13 @@
     "since": "",
     "status": "Questionable",
     "team": "CHI"
+  },
+  "8540": {
+    "name": "Sam Okuayinonu",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
   },
   "8547": {
     "name": "Kurt Hinish",
