@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-04 03:30 UTC_ · 327 items total · 318/327 matched to a player
+_Last updated: 2026-09-04 14:35 UTC_ · 327 items total · 318/327 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -421,41 +421,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 408336 |
-| Jacob Saylors | RB/DET | 109610 |
-| Malik Davis | RB/DAL | 67824 |
-| Devaughn Vele | WR/NO | 66521 |
-| MarShawn Lloyd | RB/GB | 46953 |
-| Darren Waller | TE/CAR | 43398 |
-| Tre Tucker | WR/LV | 40962 |
-| Sione Vaki | RB/DET | 34552 |
-| Las Vegas Raiders | DEF/LV | 34338 |
-| Jacksonville Jaguars | DEF/JAX | 31680 |
-| Caleb Douglas | WR/MIA | 30152 |
-| Tank Dell | WR/HOU | 29824 |
-| Dohnte Meyers | WR/CIN | 28701 |
-| Kaelon Black | RB/SF | 26201 |
-| Justice Hill | RB/BAL | 21717 |
+| Roschon Johnson | RB/CHI | 565248 |
+| Jacob Saylors | RB/DET | 74915 |
+| Devaughn Vele | WR/NO | 55762 |
+| Malik Davis | RB/DAL | 50553 |
+| MarShawn Lloyd | RB/GB | 40428 |
+| Darren Waller | TE/CAR | 38007 |
+| Las Vegas Raiders | DEF/LV | 36810 |
+| Tre Tucker | WR/LV | 35130 |
+| Tank Dell | WR/HOU | 29088 |
+| Jacksonville Jaguars | DEF/JAX | 27726 |
+| Caleb Douglas | WR/MIA | 26448 |
+| Sione Vaki | RB/DET | 25228 |
+| Dohnte Meyers | WR/CIN | 22140 |
+| Kaelon Black | RB/SF | 22078 |
+| Justice Hill | RB/BAL | 19332 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jaydon Blue | RB/PHI | 38104 |
-| Alvin Kamara | RB/NO | 23776 |
-| Brenton Strange | TE/JAX | 23229 |
-| Oronde Gadsden | TE/LAC | 22655 |
-| Malik Davis | RB/DAL | 22203 |
-| Roschon Johnson | RB/CHI | 20960 |
-| Emanuel Wilson | RB/SEA | 20106 |
-| Tyreek Hill | WR/FA | 18872 |
-| Kenyon Sadiq | TE/NYJ | 18639 |
-| New England Patriots | DEF/NE | 18494 |
-| Isiah Pacheco | RB/DET | 17608 |
-| Keaton Mitchell | RB/LAC | 16875 |
-| Jam Miller | RB/FA | 16380 |
-| Jalen Nailor | WR/LV | 15768 |
-| Cyrus Allen | WR/KC | 15108 |
+| Jaydon Blue | RB/PHI | 35296 |
+| Roschon Johnson | RB/CHI | 31984 |
+| Malik Davis | RB/DAL | 22779 |
+| Alvin Kamara | RB/NO | 22088 |
+| Brenton Strange | TE/JAX | 21096 |
+| Oronde Gadsden | TE/LAC | 20435 |
+| Emanuel Wilson | RB/SEA | 19098 |
+| New England Patriots | DEF/NE | 18312 |
+| Kenyon Sadiq | TE/NYJ | 17460 |
+| Tyreek Hill | WR/FA | 17392 |
+| Keaton Mitchell | RB/LAC | 17289 |
+| Isiah Pacheco | RB/DET | 15592 |
+| Jam Miller | RB/FA | 15012 |
+| Cyrus Allen | WR/KC | 14688 |
+| Jalen Nailor | WR/LV | 14445 |
 
 
 ---
@@ -468,26 +468,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| D'Andre Swift | RB/CHI | (unlisted) | Questionable |
-| Rome Odunze | WR/CHI | (unlisted) | Questionable |
-| Mykal Walker | LB/NYJ | IR | Questionable |
-| Sincere Brown | WR/LAC | IR | Questionable |
-| R Mason Thomas | DL/KC | (unlisted) | Questionable |
-| Dontae Fleming | WR/MIN | IR | Questionable |
-| Devin Neal | RB/NO | IR | Questionable |
-| Drake Jackson | DL/WAS | IR | Questionable |
-| Malik Spencer | DB/WAS | IR | Questionable |
-| Ryan Hayes | OL/CAR | IR | Questionable |
-| Dominique Hampton | CB/TEN | IR | Questionable |
-| Victor Dimukeje | LB/SF | IR | Questionable |
-| Michael Heldman | DE/NO | IR | Questionable |
-| Carter Warren | OL/MIA | IR | Questionable |
-| Dominic Richardson | RB/NYJ | IR | Questionable |
-| Amari Kight | OT/FA | IR | Questionable |
-| Will Howard | QB/PIT | Questionable | (cleared) |
-| Brock Lampe | FB/FA | Questionable | (cleared) |
-| Chris Jones | DT/KC | Questionable | (cleared) |
-| Alec Pierce | WR/IND | Questionable | (cleared) |
+| Sam Okuayinonu | DE/SF | Questionable | Out |
 
 **Full current report**
 
@@ -1230,7 +1211,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Renardo Green | DB/SF | Questionable | — | — |
 | Ricky Pearsall | WR/SF | IR | — | Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/ricky-pearsall-17761)) |
 | Romello Height | LB/SF | Questionable | — | — |
-| Sam Okuayinonu | DE/SF | Questionable | — | — |
+| Sam Okuayinonu | DE/SF | Out | — | — |
 | Upton Stout | CB/SF | Questionable | — | — |
 | Vederian Lowe | OT/SF | Questionable | — | — |
 | Victor Dimukeje | LB/SF | Questionable | — | — |
