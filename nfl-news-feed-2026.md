@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-05 13:34 UTC_ · 328 items total · 319/328 matched to a player
+_Last updated: 2026-09-05 18:38 UTC_ · 331 items total · 322/331 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-09-05 13:34 UTC_ · 328 items total · 319/328 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-05 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin), per head coach Sean McVay, is "making good progress" in his recovery, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
+| 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-04 | Josh Jacobs | RB/GB | NEWS | — | Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-09-03 | Caleb Williams | QB/CHI | NEWS | — | Coach Ben Johnson lauded Williams' approach Tuesday as the quarterback enters his third NFL campaign, Larry Mayer of the Bears' official site reports. "He's executing at a much higher clip than he ever has, and I think it's going to continue to grow," Johnson said. "He's going... ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
 | 2026-09-03 | D'Andre Swift | RB/CHI | INJURY | — | Swift left Thursday's practice with an apparent injury and "appeared to be in significant discomfort," Dan Wiederer of the Chicago Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
@@ -72,6 +75,9 @@ _Last updated: 2026-09-05 13:34 UTC_ · 328 items total · 319/328 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-05 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin), per head coach Sean McVay, is "making good progress" in his recovery, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
+| 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-04 | Josh Jacobs | RB/GB | NEWS | — | Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-09-03 | Caleb Williams | QB/CHI | NEWS | — | Coach Ben Johnson lauded Williams' approach Tuesday as the quarterback enters his third NFL campaign, Larry Mayer of the Bears' official site reports. "He's executing at a much higher clip than he ever has, and I think it's going to continue to grow," Johnson said. "He's going... ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
 | 2026-09-03 | D'Andre Swift | RB/CHI | INJURY | — | Swift left Thursday's practice with an apparent injury and "appeared to be in significant discomfort," Dan Wiederer of the Chicago Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
@@ -411,41 +417,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 254888 |
-| Devaughn Vele | WR/NO | 61047 |
-| Las Vegas Raiders | DEF/LV | 34896 |
-| Tank Dell | WR/HOU | 34160 |
-| MarShawn Lloyd | RB/GB | 31176 |
-| Malik Davis | RB/DAL | 30069 |
-| Jacob Saylors | RB/DET | 27305 |
-| Darren Waller | TE/CAR | 25722 |
-| Caleb Douglas | WR/MIA | 23328 |
-| Jacksonville Jaguars | DEF/JAX | 23226 |
-| Josh Jacobs | RB/GB | 18275 |
-| Tre Tucker | WR/LV | 17922 |
-| Chris Bell | WR/MIA | 17752 |
-| Kaelon Black | RB/SF | 17199 |
-| Tyler Loop | K/BAL | 16704 |
+| Roschon Johnson | RB/CHI | 211776 |
+| Devaughn Vele | WR/NO | 64351 |
+| Tank Dell | WR/HOU | 38656 |
+| Las Vegas Raiders | DEF/LV | 36312 |
+| MarShawn Lloyd | RB/GB | 31320 |
+| Malik Davis | RB/DAL | 30240 |
+| Darren Waller | TE/CAR | 25623 |
+| Jacksonville Jaguars | DEF/JAX | 24144 |
+| Caleb Douglas | WR/MIA | 23432 |
+| Jacob Saylors | RB/DET | 22940 |
+| Chris Bell | WR/MIA | 20860 |
+| Josh Jacobs | RB/GB | 19660 |
+| Tyler Loop | K/BAL | 18132 |
+| Kaelon Black | RB/SF | 17311 |
+| Tre Tucker | WR/LV | 16662 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 36296 |
-| Jaydon Blue | RB/PHI | 22840 |
-| Alvin Kamara | RB/NO | 16712 |
-| New England Patriots | DEF/NE | 16184 |
-| Oronde Gadsden | TE/LAC | 15385 |
-| Brenton Strange | TE/JAX | 15273 |
-| Malik Davis | RB/DAL | 14139 |
-| Kenyon Sadiq | TE/NYJ | 13491 |
-| Tyreek Hill | WR/FA | 13136 |
-| Travis Hunter | DB/JAX | 12822 |
-| Emanuel Wilson | RB/SEA | 12483 |
-| Keaton Mitchell | RB/LAC | 12357 |
-| Cyrus Allen | WR/KC | 11406 |
-| Jalen Nailor | WR/LV | 10953 |
-| Josh Jacobs | RB/GB | 10950 |
+| Roschon Johnson | RB/CHI | 34224 |
+| Jaydon Blue | RB/PHI | 21728 |
+| Alvin Kamara | RB/NO | 16752 |
+| New England Patriots | DEF/NE | 16219 |
+| Oronde Gadsden | TE/LAC | 15245 |
+| Brenton Strange | TE/JAX | 15165 |
+| Tyreek Hill | WR/FA | 13368 |
+| Travis Hunter | DB/JAX | 13278 |
+| Kenyon Sadiq | TE/NYJ | 13212 |
+| Malik Davis | RB/DAL | 12843 |
+| Emanuel Wilson | RB/SEA | 12186 |
+| Keaton Mitchell | RB/LAC | 11538 |
+| Cyrus Allen | WR/KC | 11316 |
+| Fernando Mendoza | QB/LV | 10560 |
+| Jalen Nailor | WR/LV | 10539 |
 
 
 ---
@@ -456,9 +462,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Jedrick Wills | OT/BUF | (unlisted) | Questionable |
+_None since last run._
 
 **Full current report**
 
@@ -1044,7 +1048,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kobie Turner | DT/LAR | Questionable | — | — |
 | Matthew Caldwell | QB/LAR | IR | — | — |
 | Myles Garrett | DE/LAR | Questionable | — | Head coach Sean McVay said Monday that Garrett (knee) is making "really good progress" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) |
-| Puka Nacua | WR/LAR | Questionable | — | Nacua (groin) was off to the side for team drills at Monday's practice, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
+| Puka Nacua | WR/LAR | Questionable | — | Nacua (groin), per head coach Sean McVay, is "making good progress" in his recovery, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
 | Shaun Dolac | LB/LAR | Questionable | — | — |
 | Terrance Ferguson | TE/LAR | Questionable | — | Ferguson was a standout performer during the Rams' joint practice with the Cowboys on Tuesday, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) |
 | Zech McPhearson | CB/LAR | IR | — | — |
@@ -1094,7 +1098,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Julian Hill | TE/NE | IR | — | — |
 | Khalil Jacobs | LB/NE | IR | — | — |
 | Marcus Bryant | OL/NE | IR | — | — |
-| TreVeyon Henderson | RB/NE | Questionable | — | Henderson (ankle) wasn't present for Thursday's practice, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
+| TreVeyon Henderson | RB/NE | Questionable | — | Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Alvin Kamara | RB/NO | Questionable | — | Kamara (knee) avoided a major injury but "will be out for a few weeks," Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
 | Bryan Bresee | DT/NO | IR | — | — |
 | Cameron Jordan | DE/NO | Questionable | — | — |
