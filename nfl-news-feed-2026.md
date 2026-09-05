@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-05 03:31 UTC_ · 328 items total · 319/328 matched to a player
+_Last updated: 2026-09-05 13:34 UTC_ · 328 items total · 319/328 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -411,41 +411,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 376344 |
-| Devaughn Vele | WR/NO | 61089 |
-| Las Vegas Raiders | DEF/LV | 38454 |
-| Jacob Saylors | RB/DET | 36985 |
-| Malik Davis | RB/DAL | 35640 |
-| MarShawn Lloyd | RB/GB | 34128 |
-| Tank Dell | WR/HOU | 33536 |
-| Darren Waller | TE/CAR | 30321 |
-| Jacksonville Jaguars | DEF/JAX | 25968 |
-| Tre Tucker | WR/LV | 24678 |
-| Caleb Douglas | WR/MIA | 24480 |
-| Kaelon Black | RB/SF | 18424 |
-| Tyler Loop | K/BAL | 18396 |
-| Justice Hill | RB/BAL | 18162 |
-| Josh Jacobs | RB/GB | 16450 |
+| Roschon Johnson | RB/CHI | 254888 |
+| Devaughn Vele | WR/NO | 61047 |
+| Las Vegas Raiders | DEF/LV | 34896 |
+| Tank Dell | WR/HOU | 34160 |
+| MarShawn Lloyd | RB/GB | 31176 |
+| Malik Davis | RB/DAL | 30069 |
+| Jacob Saylors | RB/DET | 27305 |
+| Darren Waller | TE/CAR | 25722 |
+| Caleb Douglas | WR/MIA | 23328 |
+| Jacksonville Jaguars | DEF/JAX | 23226 |
+| Josh Jacobs | RB/GB | 18275 |
+| Tre Tucker | WR/LV | 17922 |
+| Chris Bell | WR/MIA | 17752 |
+| Kaelon Black | RB/SF | 17199 |
+| Tyler Loop | K/BAL | 16704 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 40904 |
-| Jaydon Blue | RB/PHI | 27848 |
-| Alvin Kamara | RB/NO | 19520 |
-| Oronde Gadsden | TE/LAC | 17785 |
-| New England Patriots | DEF/NE | 17703 |
-| Brenton Strange | TE/JAX | 17622 |
-| Malik Davis | RB/DAL | 16812 |
-| Kenyon Sadiq | TE/NYJ | 15363 |
-| Tyreek Hill | WR/FA | 15096 |
-| Emanuel Wilson | RB/SEA | 14580 |
-| Keaton Mitchell | RB/LAC | 14481 |
-| Travis Hunter | DB/JAX | 13710 |
-| Cyrus Allen | WR/KC | 13050 |
-| Jalen Nailor | WR/LV | 12375 |
-| Josh Jacobs | RB/GB | 12290 |
+| Roschon Johnson | RB/CHI | 36296 |
+| Jaydon Blue | RB/PHI | 22840 |
+| Alvin Kamara | RB/NO | 16712 |
+| New England Patriots | DEF/NE | 16184 |
+| Oronde Gadsden | TE/LAC | 15385 |
+| Brenton Strange | TE/JAX | 15273 |
+| Malik Davis | RB/DAL | 14139 |
+| Kenyon Sadiq | TE/NYJ | 13491 |
+| Tyreek Hill | WR/FA | 13136 |
+| Travis Hunter | DB/JAX | 12822 |
+| Emanuel Wilson | RB/SEA | 12483 |
+| Keaton Mitchell | RB/LAC | 12357 |
+| Cyrus Allen | WR/KC | 11406 |
+| Jalen Nailor | WR/LV | 10953 |
+| Josh Jacobs | RB/GB | 10950 |
 
 
 ---
@@ -458,17 +458,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| C.J. Hanson | OG/KC | IR | Questionable |
-| Kyle Kennard | DE/LAC | IR | Questionable |
-| Demetrius Flannigan-Fowles | LB/BUF | IR | Questionable |
-| Chase Roberts | WR/LV | IR | Questionable |
-| Nick Martin | LB/SF | (unlisted) | IR |
-| Chris Oladokun | QB/KC | IR | Questionable |
-| Jacob Roberts | LB/MIN | IR | Questionable |
-| Ray-Ray McCloud | WR/CHI | IR | Questionable |
-| EJ Smith | RB/KC | IR | Questionable |
-| Sam Okuayinonu | DE/SF | Out | IR |
-| T.J. Maguranyanga | DE/WAS | IR | Questionable |
+| Jedrick Wills | OT/BUF | (unlisted) | Questionable |
 
 **Full current report**
 
@@ -512,6 +502,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Zay Flowers | WR/BAL | Questionable | — | Flowers left Saturday's training camp practice early due to a left leg injury, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
 | Demetrius Flannigan-Fowles | LB/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
+| Jedrick Wills | OT/BUF | Questionable | — | — |
 | Jude Bowry | OT/BUF | Questionable | — | — |
 | Keon Coleman | WR/BUF | Questionable | — | Coleman (right foot/toe) isn't expected to play in Saturday's preseason game, Jay Skurski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) |
 | Khalil Shakir | WR/BUF | Questionable | — | Per Matt Zenitz of CBSSports.com, "there's currently optimism" that Shakir (undisclosed) will be available Week 1 against the Texans on Sunday, Sept. 13 Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) |
