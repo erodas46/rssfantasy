@@ -130,7 +130,7 @@
     "pos": "OL",
     "since": "",
     "status": "Questionable",
-    "team": "MIA"
+    "team": "FA"
   },
   "10958": {
     "name": "Dylan Horton",
@@ -263,7 +263,7 @@
     "pos": "OL",
     "since": "",
     "status": "Questionable",
-    "team": "CAR"
+    "team": "FA"
   },
   "11042": {
     "name": "Carrington Valentine",
@@ -662,7 +662,7 @@
     "pos": "CB",
     "since": "",
     "status": "Questionable",
-    "team": "TEN"
+    "team": "FA"
   },
   "11751": {
     "name": "Brennan Jackson",
@@ -766,7 +766,7 @@
     "name": "C.J. Hanson",
     "pos": "OG",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "KC"
   },
   "11829": {
@@ -927,7 +927,7 @@
     "name": "Jacob Roberts",
     "pos": "LB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "MIN"
   },
   "12094": {
@@ -1117,7 +1117,7 @@
     "pos": "RB",
     "since": "",
     "status": "Questionable",
-    "team": "NO"
+    "team": "FA"
   },
   "12477": {
     "name": "Kurtis Rourke",
@@ -1291,7 +1291,7 @@
     "name": "T.J. Maguranyanga",
     "pos": "DE",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "WAS"
   },
   "12553": {
@@ -1392,6 +1392,13 @@
     "status": "Questionable",
     "team": "KC"
   },
+  "12630": {
+    "name": "Nick Martin",
+    "pos": "LB",
+    "since": "",
+    "status": "IR",
+    "team": "SF"
+  },
   "12631": {
     "name": "Upton Stout",
     "pos": "CB",
@@ -1431,7 +1438,7 @@
     "name": "Kyle Kennard",
     "pos": "DE",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "LAC"
   },
   "12647": {
@@ -1712,7 +1719,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "MIN"
+    "team": "FA"
   },
   "12948": {
     "name": "Austin Keys",
@@ -2103,7 +2110,7 @@
     "name": "Chase Roberts",
     "pos": "WR",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "LV"
   },
   "13412": {
@@ -2412,7 +2419,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "LAC"
+    "team": "FA"
   },
   "13613": {
     "name": "Tyreek Chappell",
@@ -2440,7 +2447,7 @@
     "pos": "DE",
     "since": "",
     "status": "Questionable",
-    "team": "NO"
+    "team": "FA"
   },
   "13654": {
     "name": "Devon Marshall",
@@ -2496,7 +2503,7 @@
     "pos": "RB",
     "since": "",
     "status": "Questionable",
-    "team": "NYJ"
+    "team": "FA"
   },
   "13742": {
     "name": "De'Shawn Rucker",
@@ -2516,7 +2523,7 @@
     "name": "EJ Smith",
     "pos": "RB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "KC"
   },
   "1379": {
@@ -2580,7 +2587,7 @@
     "pos": "DB",
     "since": "",
     "status": "Questionable",
-    "team": "WAS"
+    "team": "FA"
   },
   "13859": {
     "name": "Jalen Walthall",
@@ -3321,7 +3328,7 @@
     "name": "Ray-Ray McCloud",
     "pos": "WR",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "CHI"
   },
   "5113": {
@@ -3944,7 +3951,7 @@
     "name": "Demetrius Flannigan-Fowles",
     "pos": "LB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "BUF"
   },
   "6612": {
@@ -4253,7 +4260,7 @@
     "pos": "LB",
     "since": "",
     "status": "Questionable",
-    "team": "NYJ"
+    "team": "FA"
   },
   "7022": {
     "name": "Shane Lemieux",
@@ -4694,7 +4701,7 @@
     "pos": "LB",
     "since": "",
     "status": "Questionable",
-    "team": "SF"
+    "team": "FA"
   },
   "7796": {
     "name": "Brandin Echols",
@@ -5093,7 +5100,7 @@
     "pos": "DL",
     "since": "",
     "status": "Questionable",
-    "team": "WAS"
+    "team": "FA"
   },
   "8361": {
     "name": "Damarion Williams",
@@ -5162,7 +5169,7 @@
     "name": "Chris Oladokun",
     "pos": "QB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "KC"
   },
   "8416": {
@@ -5281,7 +5288,7 @@
     "name": "Sam Okuayinonu",
     "pos": "DE",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "SF"
   },
   "8547": {
