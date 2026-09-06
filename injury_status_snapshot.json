@@ -13,13 +13,6 @@
     "status": "IR",
     "team": "IND"
   },
-  "10224": {
-    "name": "Brayden Willis",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
-  },
   "1074": {
     "name": "Kevin Zeitler",
     "pos": "OG",
@@ -767,7 +760,7 @@
     "pos": "OG",
     "since": "",
     "status": "Questionable",
-    "team": "KC"
+    "team": "FA"
   },
   "11829": {
     "name": "Solomon Byrd",
@@ -928,7 +921,7 @@
     "pos": "LB",
     "since": "",
     "status": "Questionable",
-    "team": "MIN"
+    "team": "FA"
   },
   "12094": {
     "name": "Alex Johnson",
@@ -1081,7 +1074,7 @@
     "name": "Kenny Dyson",
     "pos": "LB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "MIN"
   },
   "12412": {
@@ -1292,7 +1285,7 @@
     "pos": "DE",
     "since": "",
     "status": "Questionable",
-    "team": "WAS"
+    "team": "FA"
   },
   "12553": {
     "name": "Josh Simmons",
@@ -1439,7 +1432,7 @@
     "pos": "DE",
     "since": "",
     "status": "Questionable",
-    "team": "LAC"
+    "team": "FA"
   },
   "12647": {
     "name": "Billy Bowman",
@@ -1578,7 +1571,7 @@
     "name": "Power Echols",
     "pos": "LB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "FA"
   },
   "12771": {
@@ -1669,7 +1662,7 @@
     "name": "Keivie Rose",
     "pos": "DL",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "JAX"
   },
   "12922": {
@@ -2111,7 +2104,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "LV"
+    "team": "FA"
   },
   "13412": {
     "name": "Kendrick Law",
@@ -2524,7 +2517,7 @@
     "pos": "RB",
     "since": "",
     "status": "Questionable",
-    "team": "KC"
+    "team": "FA"
   },
   "1379": {
     "name": "Kyle Juszczyk",
@@ -3329,7 +3322,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "CHI"
+    "team": "FA"
   },
   "5113": {
     "name": "Cedrick Wilson",
@@ -3952,7 +3945,7 @@
     "pos": "LB",
     "since": "",
     "status": "Questionable",
-    "team": "BUF"
+    "team": "FA"
   },
   "6612": {
     "name": "Luke Gifford",
@@ -4644,7 +4637,7 @@
     "name": "Zech McPhearson",
     "pos": "CB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "LAR"
   },
   "7721": {
@@ -5032,13 +5025,6 @@
     "status": "IR",
     "team": "DET"
   },
-  "8311": {
-    "name": "Terrel Bernard",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "BUF"
-  },
   "8321": {
     "name": "Tariq Castro-Fields",
     "pos": "DB",
@@ -5177,7 +5163,7 @@
     "pos": "QB",
     "since": "",
     "status": "Questionable",
-    "team": "KC"
+    "team": "FA"
   },
   "8416": {
     "name": "Jalen Virgil",
