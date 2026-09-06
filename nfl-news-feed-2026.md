@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-06 03:32 UTC_ · 331 items total · 322/331 matched to a player
+_Last updated: 2026-09-06 13:49 UTC_ · 331 items total · 322/331 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -410,41 +410,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 191048 |
-| Devaughn Vele | WR/NO | 77469 |
-| Tank Dell | WR/HOU | 58832 |
-| Las Vegas Raiders | DEF/LV | 47262 |
-| MarShawn Lloyd | RB/GB | 40023 |
-| Malik Davis | RB/DAL | 36963 |
-| Jacksonville Jaguars | DEF/JAX | 33138 |
-| Darren Waller | TE/CAR | 31131 |
-| Caleb Douglas | WR/MIA | 27920 |
-| Tyler Loop | K/BAL | 27288 |
-| Chris Bell | WR/MIA | 22645 |
-| Isiah Pacheco | RB/DET | 21624 |
-| Jacob Saylors | RB/DET | 20775 |
-| Tre Tucker | WR/LV | 20376 |
-| Kaelon Black | RB/SF | 19866 |
+| Roschon Johnson | RB/CHI | 166976 |
+| Devaughn Vele | WR/NO | 74942 |
+| Tank Dell | WR/HOU | 58928 |
+| Las Vegas Raiders | DEF/LV | 45864 |
+| MarShawn Lloyd | RB/GB | 39384 |
+| Malik Davis | RB/DAL | 36306 |
+| Jacksonville Jaguars | DEF/JAX | 32772 |
+| Darren Waller | TE/CAR | 30150 |
+| Tyler Loop | K/BAL | 26838 |
+| Caleb Douglas | WR/MIA | 25952 |
+| Chris Bell | WR/MIA | 23247 |
+| Isiah Pacheco | RB/DET | 23048 |
+| Tre Tucker | WR/LV | 19620 |
+| Kaelon Black | RB/SF | 19558 |
+| Jacob Saylors | RB/DET | 18645 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 33336 |
-| Jaydon Blue | RB/PHI | 22656 |
-| New England Patriots | DEF/NE | 18872 |
-| Alvin Kamara | RB/NO | 18664 |
-| Oronde Gadsden | TE/LAC | 17890 |
-| Brenton Strange | TE/JAX | 17802 |
-| Travis Hunter | DB/JAX | 16446 |
-| Kenyon Sadiq | TE/NYJ | 15327 |
-| Tyreek Hill | WR/FA | 14536 |
-| Cyrus Allen | WR/KC | 12876 |
-| Emanuel Wilson | RB/SEA | 12645 |
-| Keaton Mitchell | RB/LAC | 12429 |
-| Fernando Mendoza | QB/LV | 12296 |
-| Josh Jacobs | RB/GB | 12000 |
-| Detroit Lions | DEF/DET | 11529 |
+| Roschon Johnson | RB/CHI | 33456 |
+| Jaydon Blue | RB/PHI | 23040 |
+| New England Patriots | DEF/NE | 20125 |
+| Alvin Kamara | RB/NO | 19656 |
+| Brenton Strange | TE/JAX | 19152 |
+| Oronde Gadsden | TE/LAC | 18410 |
+| Travis Hunter | DB/JAX | 16800 |
+| Kenyon Sadiq | TE/NYJ | 16380 |
+| Tyreek Hill | WR/FA | 15048 |
+| Cyrus Allen | WR/KC | 13674 |
+| Josh Jacobs | RB/GB | 12425 |
+| Fernando Mendoza | QB/LV | 12408 |
+| Emanuel Wilson | RB/SEA | 12303 |
+| Keaton Mitchell | RB/LAC | 12033 |
+| Detroit Lions | DEF/DET | 11808 |
 
 
 ---
@@ -455,14 +455,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Zech McPhearson | CB/LAR | IR | Questionable |
-| Keivie Rose | DL/JAX | IR | Questionable |
-| Kenny Dyson | LB/MIN | IR | Questionable |
-| Power Echols | LB/FA | IR | Questionable |
-| Brayden Willis | TE/SF | Questionable | (cleared) |
-| Terrel Bernard | LB/BUF | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
