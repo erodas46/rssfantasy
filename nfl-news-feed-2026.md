@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-06 13:49 UTC_ · 331 items total · 322/331 matched to a player
+_Last updated: 2026-09-06 18:42 UTC_ · 332 items total · 323/332 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-09-06 13:49 UTC_ · 331 items total · 322/331 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-06 | TreVeyon Henderson | RB/NE | INJURY | — | Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-05 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin), per head coach Sean McVay, is "making good progress" in his recovery, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
@@ -68,6 +69,7 @@ _Last updated: 2026-09-06 13:49 UTC_ · 331 items total · 322/331 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-06 | TreVeyon Henderson | RB/NE | INJURY | — | Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-05 | Puka Nacua | WR/LAR | NEWS | — | Nacua (groin), per head coach Sean McVay, is "making good progress" in his recovery, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-05 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) was in street clothes ahead of Saturday's practice, Andrew Callahan of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
@@ -410,41 +412,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 166976 |
-| Devaughn Vele | WR/NO | 74942 |
-| Tank Dell | WR/HOU | 58928 |
-| Las Vegas Raiders | DEF/LV | 45864 |
-| MarShawn Lloyd | RB/GB | 39384 |
-| Malik Davis | RB/DAL | 36306 |
-| Jacksonville Jaguars | DEF/JAX | 32772 |
-| Darren Waller | TE/CAR | 30150 |
-| Tyler Loop | K/BAL | 26838 |
-| Caleb Douglas | WR/MIA | 25952 |
-| Chris Bell | WR/MIA | 23247 |
-| Isiah Pacheco | RB/DET | 23048 |
-| Tre Tucker | WR/LV | 19620 |
-| Kaelon Black | RB/SF | 19558 |
-| Jacob Saylors | RB/DET | 18645 |
+| Roschon Johnson | RB/CHI | 167424 |
+| Devaughn Vele | WR/NO | 79366 |
+| Tank Dell | WR/HOU | 63160 |
+| Las Vegas Raiders | DEF/LV | 49596 |
+| MarShawn Lloyd | RB/GB | 42489 |
+| Malik Davis | RB/DAL | 40023 |
+| Jacksonville Jaguars | DEF/JAX | 35748 |
+| Darren Waller | TE/CAR | 32265 |
+| Tyler Loop | K/BAL | 29058 |
+| Caleb Douglas | WR/MIA | 27160 |
+| Isiah Pacheco | RB/DET | 25656 |
+| Chris Bell | WR/MIA | 24059 |
+| Tre Tucker | WR/LV | 21588 |
+| Kaelon Black | RB/SF | 20202 |
+| Matt Gay | K/LV | 19555 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 33456 |
-| Jaydon Blue | RB/PHI | 23040 |
-| New England Patriots | DEF/NE | 20125 |
-| Alvin Kamara | RB/NO | 19656 |
-| Brenton Strange | TE/JAX | 19152 |
-| Oronde Gadsden | TE/LAC | 18410 |
-| Travis Hunter | DB/JAX | 16800 |
-| Kenyon Sadiq | TE/NYJ | 16380 |
-| Tyreek Hill | WR/FA | 15048 |
-| Cyrus Allen | WR/KC | 13674 |
-| Josh Jacobs | RB/GB | 12425 |
-| Fernando Mendoza | QB/LV | 12408 |
-| Emanuel Wilson | RB/SEA | 12303 |
-| Keaton Mitchell | RB/LAC | 12033 |
-| Detroit Lions | DEF/DET | 11808 |
+| Roschon Johnson | RB/CHI | 35456 |
+| Jaydon Blue | RB/PHI | 24128 |
+| New England Patriots | DEF/NE | 21896 |
+| Alvin Kamara | RB/NO | 20680 |
+| Brenton Strange | TE/JAX | 20628 |
+| Oronde Gadsden | TE/LAC | 19700 |
+| Travis Hunter | DB/JAX | 17916 |
+| Kenyon Sadiq | TE/NYJ | 17397 |
+| Tyreek Hill | WR/FA | 15824 |
+| Cyrus Allen | WR/KC | 14814 |
+| Emanuel Wilson | RB/SEA | 13383 |
+| Fernando Mendoza | QB/LV | 13144 |
+| Josh Jacobs | RB/GB | 13065 |
+| Detroit Lions | DEF/DET | 12960 |
+| Keaton Mitchell | RB/LAC | 12951 |
 
 
 ---
@@ -1091,7 +1093,7 @@ _None since last run._
 | Julian Hill | TE/NE | IR | — | — |
 | Khalil Jacobs | LB/NE | IR | — | — |
 | Marcus Bryant | OL/NE | IR | — | — |
-| TreVeyon Henderson | RB/NE | Questionable | — | Henderson (ankle) could return to practice Saturday, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
+| TreVeyon Henderson | RB/NE | Questionable | — | Henderson (ankle) was in street clothes ahead of Sunday's practice and appears likely to be listed as a non-participant on the Patriots' first injury report of the season, Andrew Callahan of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Alvin Kamara | RB/NO | Questionable | — | Kamara (knee) avoided a major injury but "will be out for a few weeks," Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
 | Bryan Bresee | DT/NO | IR | — | — |
 | Cameron Jordan | DE/NO | Questionable | — | — |
