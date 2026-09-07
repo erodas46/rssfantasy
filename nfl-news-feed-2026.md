@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-07 03:32 UTC_ · 336 items total · 327/336 matched to a player
+_Last updated: 2026-09-07 16:06 UTC_ · 341 items total · 332/341 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-07 03:32 UTC_ · 336 items total · 327/336 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | The Falcons will have Tagovailoa start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
+| 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-09-07 | Michael Penix | QB/ATL | NEWS | — | Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-09-07 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
+| 2026-09-07 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) was not spotted at the portion of Monday's practice open to the media, according to Mark Daniels of MassLive.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-06 | Jameis Winston | QB/NYG | TRANSACTION | — | Winston and the Giants agreed Sunday on a two-year, $13 million extension, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
 | 2026-09-06 | Puka Nacua | WR/LAR | NEWS | — | Rams head coach Sean McVay said Sunday that Nacua (core) is expected to play Thursday against the 49ers in Melbourne, Australia, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-06 | George Kittle | TE/SF | NEWS | — | Kittle (Achilles) is slated to practice Monday in Melbourne, Australia, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -64,6 +69,11 @@ _Last updated: 2026-09-07 03:32 UTC_ · 336 items total · 327/336 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | The Falcons will have Tagovailoa start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
+| 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-09-07 | Michael Penix | QB/ATL | NEWS | — | Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-09-07 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
+| 2026-09-07 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) was not spotted at the portion of Monday's practice open to the media, according to Mark Daniels of MassLive.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-06 | Jameis Winston | QB/NYG | TRANSACTION | — | Winston and the Giants agreed Sunday on a two-year, $13 million extension, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
 | 2026-09-06 | Puka Nacua | WR/LAR | NEWS | — | Rams head coach Sean McVay said Sunday that Nacua (core) is expected to play Thursday against the 49ers in Melbourne, Australia, Nate Atkins of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-06 | George Kittle | TE/SF | NEWS | — | Kittle (Achilles) is slated to practice Monday in Melbourne, Australia, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -411,41 +421,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 217064 |
-| Devaughn Vele | WR/NO | 117817 |
-| Tank Dell | WR/HOU | 92960 |
-| Las Vegas Raiders | DEF/LV | 79488 |
-| MarShawn Lloyd | RB/GB | 61839 |
-| Malik Davis | RB/DAL | 60849 |
-| Jacksonville Jaguars | DEF/JAX | 56520 |
-| Tyler Loop | K/BAL | 47364 |
-| Darren Waller | TE/CAR | 47097 |
-| Isiah Pacheco | RB/DET | 44944 |
-| Caleb Douglas | WR/MIA | 35936 |
-| Tre Tucker | WR/LV | 34716 |
-| Matt Gay | K/LV | 32460 |
-| Chris Bell | WR/MIA | 30513 |
-| Kaelon Black | RB/SF | 27846 |
+| Roschon Johnson | RB/CHI | 236824 |
+| Devaughn Vele | WR/NO | 130655 |
+| Tank Dell | WR/HOU | 101840 |
+| Las Vegas Raiders | DEF/LV | 89778 |
+| Malik Davis | RB/DAL | 72099 |
+| MarShawn Lloyd | RB/GB | 67527 |
+| Jacksonville Jaguars | DEF/JAX | 61266 |
+| Darren Waller | TE/CAR | 53100 |
+| Tyler Loop | K/BAL | 51210 |
+| Isiah Pacheco | RB/DET | 49696 |
+| Kaelon Black | RB/SF | 39844 |
+| Tre Tucker | WR/LV | 39234 |
+| Caleb Douglas | WR/MIA | 39016 |
+| Matt Gay | K/LV | 35465 |
+| Chris Bell | WR/MIA | 30723 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 44800 |
-| New England Patriots | DEF/NE | 31353 |
-| Alvin Kamara | RB/NO | 30920 |
-| Jaydon Blue | RB/PHI | 30832 |
-| Brenton Strange | TE/JAX | 29421 |
-| Oronde Gadsden | TE/LAC | 29080 |
-| Kenyon Sadiq | TE/NYJ | 26343 |
-| Travis Hunter | DB/JAX | 25962 |
-| Tyreek Hill | WR/FA | 21936 |
-| Cyrus Allen | WR/KC | 21474 |
-| Omar Cooper | WR/NYJ | 18888 |
-| Detroit Lions | DEF/DET | 18774 |
-| Josh Jacobs | RB/GB | 18680 |
-| Keaton Mitchell | RB/LAC | 18612 |
-| Fernando Mendoza | QB/LV | 18552 |
+| Roschon Johnson | RB/CHI | 50928 |
+| New England Patriots | DEF/NE | 36722 |
+| Alvin Kamara | RB/NO | 35952 |
+| Jaydon Blue | RB/PHI | 35272 |
+| Oronde Gadsden | TE/LAC | 34020 |
+| Brenton Strange | TE/JAX | 33660 |
+| Kenyon Sadiq | TE/NYJ | 31905 |
+| Travis Hunter | DB/JAX | 30318 |
+| Tyreek Hill | WR/FA | 25656 |
+| Cyrus Allen | WR/KC | 25248 |
+| Keaton Mitchell | RB/LAC | 21987 |
+| Omar Cooper | WR/NYJ | 21968 |
+| Detroit Lions | DEF/DET | 21888 |
+| Fernando Mendoza | QB/LV | 21792 |
+| Jerry Jeudy | WR/CLE | 21150 |
 
 
 ---
@@ -458,14 +468,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Ty Okada | DB/SEA | (unlisted) | Questionable |
-| Anthony Bradford | OL/SEA | (unlisted) | Questionable |
-| Ben Brown | OG/NE | (unlisted) | Questionable |
-| Josh Jones | OL/SEA | (unlisted) | Questionable |
-| Christian Barmore | DT/NE | (unlisted) | Questionable |
-| Brandon Pili | DT/SEA | Questionable | (cleared) |
-| Emanuel Wilson | RB/SEA | Questionable | (cleared) |
-| Julian Neal | DB/SEA | Questionable | (cleared) |
+| Michael Penix | QB/ATL | Questionable | Out |
+| Kenny Dyson | LB/FA | Questionable | (cleared) |
 
 **Full current report**
 
@@ -493,7 +497,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | James Pearce | DL/ATL | Sus | — | — |
 | Keshawn Banks | LB/ATL | IR | — | — |
 | Malik Verdon | DB/ATL | IR | — | — |
-| Michael Penix | QB/ATL | Questionable | — | Penix (knee) still hasn't been cleared for 11-on-11s and won't be available for Friday's preseason opener against Denver, Josh Kendall of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) |
+| Michael Penix | QB/ATL | Out | — | Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) |
 | Storm Norton | T/ATL | PUP | — | — |
 | Trey Sermon | RB/ATL | IR | — | — |
 | Tyrone Wheatley | OL/ATL | Questionable | — | — |
@@ -527,7 +531,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Haynes King | QB/CAR | Questionable | — | — |
 | Ikem Ekwonu | T/CAR | PUP | — | — |
 | Jaelan Phillips | LB/CAR | Questionable | — | — |
-| Jonathon Brooks | RB/CAR | Questionable | — | Brooks (soreness) was working off to the side with a trainer during Wednesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
+| Jonathon Brooks | RB/CAR | Questionable | — | Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Taylor Moton | T/CAR | PUP | — | — |
 | Tershawn Wharton | DT/CAR | PUP | — | — |
@@ -826,7 +830,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kendall Sheffield | DB/FA | Questionable | — | — |
 | Kendell Brooks | DB/FA | IR | — | — |
 | Kenny Bigelow | DT/FA | NA | — | — |
-| Kenny Dyson | LB/FA | Questionable | — | — |
 | Kenny Yeboah | TE/FA | Questionable | — | — |
 | Kevin King | CB/FA | Questionable | — | — |
 | Kevin Zeitler | OG/FA | Questionable | — | — |
@@ -1103,7 +1106,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Julian Hill | TE/NE | IR | — | — |
 | Khalil Jacobs | LB/NE | IR | — | — |
 | Marcus Bryant | OL/NE | IR | — | — |
-| TreVeyon Henderson | RB/NE | Questionable | — | Henderson (ankle) officially didn't practice Sunday, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
+| TreVeyon Henderson | RB/NE | Questionable | — | Henderson (ankle) was not spotted at the portion of Monday's practice open to the media, according to Mark Daniels of MassLive.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Alvin Kamara | RB/NO | Questionable | — | Kamara (knee) avoided a major injury but "will be out for a few weeks," Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
 | Bryan Bresee | DT/NO | IR | — | — |
 | Cameron Jordan | DE/NO | Questionable | — | — |

@@ -409,7 +409,7 @@
     "name": "Michael Penix",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ATL"
   },
   "11571": {
@@ -1066,13 +1066,6 @@
   "12388": {
     "name": "Jordan Colbert",
     "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
-  "12391": {
-    "name": "Kenny Dyson",
-    "pos": "LB",
     "since": "",
     "status": "Questionable",
     "team": "FA"
