@@ -132,6 +132,13 @@
     "status": "IR",
     "team": "HOU"
   },
+  "10959": {
+    "name": "Anthony Bradford",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
   "10963": {
     "name": "Jakorian Bennett",
     "pos": "DB",
@@ -321,6 +328,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "11233": {
+    "name": "Ty Okada",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
   "11238": {
     "name": "Jaxson Kirkland",
     "pos": "G",
@@ -356,26 +370,12 @@
     "status": "PUP",
     "team": "BUF"
   },
-  "11396": {
-    "name": "Brandon Pili",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "SEA"
-  },
   "11432": {
     "name": "Markees Watts",
     "pos": "DE",
     "since": "",
     "status": "NA",
     "team": "FA"
-  },
-  "11435": {
-    "name": "Emanuel Wilson",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SEA"
   },
   "11436": {
     "name": "P.J. Mustipher",
@@ -1075,7 +1075,7 @@
     "pos": "LB",
     "since": "",
     "status": "Questionable",
-    "team": "MIN"
+    "team": "FA"
   },
   "12412": {
     "name": "Terrell Jennings",
@@ -1663,7 +1663,7 @@
     "pos": "DL",
     "since": "",
     "status": "Questionable",
-    "team": "JAX"
+    "team": "FA"
   },
   "12922": {
     "name": "Ja'Markis Weston",
@@ -2077,13 +2077,6 @@
     "since": "",
     "status": "Questionable",
     "team": "TEN"
-  },
-  "13396": {
-    "name": "Julian Neal",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SEA"
   },
   "13403": {
     "name": "Jam Miller",
@@ -4087,6 +4080,13 @@
     "status": "DNR",
     "team": "SF"
   },
+  "6808": {
+    "name": "Josh Jones",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "SEA"
+  },
   "6818": {
     "name": "Nnamdi Madubuike",
     "pos": "DT",
@@ -4584,6 +4584,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "7664": {
+    "name": "Christian Barmore",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "NE"
+  },
   "7669": {
     "name": "Paulson Adebo",
     "pos": "CB",
@@ -4638,7 +4645,7 @@
     "pos": "CB",
     "since": "",
     "status": "Questionable",
-    "team": "LAR"
+    "team": "FA"
   },
   "7721": {
     "name": "Chris Rumph",
@@ -5346,6 +5353,13 @@
     "since": "",
     "status": "IR",
     "team": "NYJ"
+  },
+  "8787": {
+    "name": "Ben Brown",
+    "pos": "OG",
+    "since": "",
+    "status": "Questionable",
+    "team": "NE"
   },
   "8801": {
     "name": "Dennis Houston",
