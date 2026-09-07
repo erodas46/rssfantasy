@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-07 16:06 UTC_ · 341 items total · 332/341 matched to a player
+_Last updated: 2026-09-07 20:13 UTC_ · 346 items total · 337/346 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-07 16:06 UTC_ · 341 items total · 332/341 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-07 | Tee Higgins | WR/CIN | NEWS | — | Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tee-higgins-14506)) | Rotowire |
+| 2026-09-07 | D'Andre Swift | RB/CHI | NEWS | — | Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
+| 2026-09-07 | Kyle Monangai | RB/CHI | NEWS | — | Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-09-07 | Rome Odunze | WR/CHI | NEWS | — | Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-07 | Alec Pierce | WR/IND | NEWS | — | Coach Shan Steichen said Monday that Pierce (ankle) "should be good to go" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | The Falcons will have Tagovailoa start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
 | 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-07 | Michael Penix | QB/ATL | NEWS | — | Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
@@ -69,6 +74,11 @@ _Last updated: 2026-09-07 16:06 UTC_ · 341 items total · 332/341 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-07 | Tee Higgins | WR/CIN | NEWS | — | Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tee-higgins-14506)) | Rotowire |
+| 2026-09-07 | D'Andre Swift | RB/CHI | NEWS | — | Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
+| 2026-09-07 | Kyle Monangai | RB/CHI | NEWS | — | Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-09-07 | Rome Odunze | WR/CHI | NEWS | — | Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-07 | Alec Pierce | WR/IND | NEWS | — | Coach Shan Steichen said Monday that Pierce (ankle) "should be good to go" for Sunday's game against the Ravens, Joel A. Erickson of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | The Falcons will have Tagovailoa start at quarterback in Sunday's season opener against the Steelers, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
 | 2026-09-07 | Tua Tagovailoa | QB/ATL | NEWS | — | Penix (knee) won't start the season opener Sunday in Pittsburgh, after the Falcons named Tua Tagovailoa their top quarterback heading into Week 1, Will McFadden and Tori McElhaney of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-07 | Michael Penix | QB/ATL | NEWS | — | Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
@@ -421,41 +431,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 236824 |
-| Devaughn Vele | WR/NO | 130655 |
-| Tank Dell | WR/HOU | 101840 |
-| Las Vegas Raiders | DEF/LV | 89778 |
-| Malik Davis | RB/DAL | 72099 |
-| MarShawn Lloyd | RB/GB | 67527 |
-| Jacksonville Jaguars | DEF/JAX | 61266 |
-| Darren Waller | TE/CAR | 53100 |
-| Tyler Loop | K/BAL | 51210 |
-| Isiah Pacheco | RB/DET | 49696 |
-| Kaelon Black | RB/SF | 39844 |
-| Tre Tucker | WR/LV | 39234 |
-| Caleb Douglas | WR/MIA | 39016 |
-| Matt Gay | K/LV | 35465 |
-| Chris Bell | WR/MIA | 30723 |
+| Roschon Johnson | RB/CHI | 245592 |
+| Devaughn Vele | WR/NO | 137165 |
+| Tank Dell | WR/HOU | 105152 |
+| Las Vegas Raiders | DEF/LV | 94788 |
+| Malik Davis | RB/DAL | 77481 |
+| MarShawn Lloyd | RB/GB | 68634 |
+| Jacksonville Jaguars | DEF/JAX | 63408 |
+| Darren Waller | TE/CAR | 57654 |
+| Kaelon Black | RB/SF | 53109 |
+| Tyler Loop | K/BAL | 52866 |
+| Isiah Pacheco | RB/DET | 51352 |
+| Tre Tucker | WR/LV | 42024 |
+| Caleb Douglas | WR/MIA | 40016 |
+| Matt Gay | K/LV | 37180 |
+| Justice Hill | RB/BAL | 32895 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 50928 |
-| New England Patriots | DEF/NE | 36722 |
-| Alvin Kamara | RB/NO | 35952 |
-| Jaydon Blue | RB/PHI | 35272 |
-| Oronde Gadsden | TE/LAC | 34020 |
-| Brenton Strange | TE/JAX | 33660 |
-| Kenyon Sadiq | TE/NYJ | 31905 |
-| Travis Hunter | DB/JAX | 30318 |
-| Tyreek Hill | WR/FA | 25656 |
-| Cyrus Allen | WR/KC | 25248 |
-| Keaton Mitchell | RB/LAC | 21987 |
-| Omar Cooper | WR/NYJ | 21968 |
-| Detroit Lions | DEF/DET | 21888 |
-| Fernando Mendoza | QB/LV | 21792 |
-| Jerry Jeudy | WR/CLE | 21150 |
+| Roschon Johnson | RB/CHI | 65832 |
+| New England Patriots | DEF/NE | 39396 |
+| Alvin Kamara | RB/NO | 38392 |
+| Jaydon Blue | RB/PHI | 37248 |
+| Brenton Strange | TE/JAX | 36477 |
+| Oronde Gadsden | TE/LAC | 36300 |
+| Kenyon Sadiq | TE/NYJ | 34875 |
+| Travis Hunter | DB/JAX | 31872 |
+| Tyreek Hill | WR/FA | 27592 |
+| Cyrus Allen | WR/KC | 26736 |
+| Omar Cooper | WR/NYJ | 23520 |
+| Detroit Lions | DEF/DET | 23454 |
+| Keaton Mitchell | RB/LAC | 23076 |
+| Fernando Mendoza | QB/LV | 23072 |
+| Jerry Jeudy | WR/CLE | 22446 |
 
 
 ---
@@ -466,10 +476,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Michael Penix | QB/ATL | Questionable | Out |
-| Kenny Dyson | LB/FA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -541,20 +548,20 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Beanie Bishop | CB/CHI | Sus | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
 | Coby Bryant | DB/CHI | IR | — | — |
-| D'Andre Swift | RB/CHI | Questionable | — | Swift left Thursday's practice with an apparent injury and "appeared to be in significant discomfort," Dan Wiederer of the Chicago Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) |
+| D'Andre Swift | RB/CHI | Questionable | — | Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) |
 | Dallis Flowers | CB/CHI | IR | — | — |
 | Elijah Hicks | DB/CHI | Questionable | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
 | Jaylon Johnson | DB/CHI | Questionable | — | — |
 | Jonathan Garvin | LB/CHI | IR | — | — |
 | Keyshaun Elliott | LB/CHI | Questionable | — | — |
-| Kyle Monangai | RB/CHI | Questionable | — | Monangai (knee) is considered week-to-week, Adam Jahns of AllCHGO.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
+| Kyle Monangai | RB/CHI | Questionable | — | Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
 | Kyler Gordon | DB/CHI | PUP | — | — |
 | Luther Burden | WR/CHI | Questionable | — | Burden (groin) did not suit up for Saturday's preseason victory over the Titans but did run routes pregame, according to Brad Biggs of the Chicago Tribune. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) |
 | Nephi Sewell | LB/CHI | IR | — | — |
 | Nikola Kalinic | TE/CHI | IR | — | — |
 | Noah Sewell | LB/CHI | PUP | — | — |
-| Rome Odunze | WR/CHI | Questionable | — | Odunze sustained an apparent right leg injury during Thursday's practice session, Sean Hammond of the Chicago Tribune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) |
+| Rome Odunze | WR/CHI | Questionable | — | Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) |
 | Ruben Hyppolite | LB/CHI | IR | — | — |
 | Shemar Turner | DE/CHI | PUP | — | — |
 | Tony Fields | LB/CHI | IR | — | — |
@@ -565,7 +572,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ja'Sir Taylor | DB/CIN | IR | — | — |
 | Myles Murphy | DL/CIN | Questionable | — | — |
 | Shemar Stewart | DL/CIN | Questionable | — | — |
-| Tee Higgins | WR/CIN | Questionable | — | Higgins (heel) didn't take part in practice Wednesday, Ben Baby of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tee-higgins-14506)) |
+| Tee Higgins | WR/CIN | Questionable | — | Higgins (heel) is in uniform for Monday's practice, Charlie Goldsmith of Charlie's Chalkboard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tee-higgins-14506)) |
 | Alex Wright | DL/CLE | IR | — | — |
 | Damarri Mathis | DB/CLE | IR | — | — |
 | Dillon Gabriel | QB/CLE | IR | — | — |
