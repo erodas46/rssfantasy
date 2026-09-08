@@ -132,13 +132,6 @@
     "status": "IR",
     "team": "HOU"
   },
-  "10959": {
-    "name": "Anthony Bradford",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "SEA"
-  },
   "10963": {
     "name": "Jakorian Bennett",
     "pos": "DB",
@@ -628,6 +621,13 @@
     "since": "",
     "status": "Questionable",
     "team": "SF"
+  },
+  "11742": {
+    "name": "Cedric Gray",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
   },
   "11744": {
     "name": "Dadrion Taylor-Demerson",
@@ -1174,13 +1174,6 @@
     "since": "",
     "status": "Questionable",
     "team": "SEA"
-  },
-  "12503": {
-    "name": "Isaiah Bond",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "CLE"
   },
   "12509": {
     "name": "Tre' Harris",
@@ -2140,13 +2133,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "13434": {
-    "name": "Will Kacmarek",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIA"
   },
   "13435": {
     "name": "Joe Royer",
@@ -3254,13 +3240,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "5025": {
-    "name": "Ronnie Harrison",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIA"
-  },
   "503": {
     "name": "Graham Gano",
     "pos": "K",
@@ -4147,7 +4126,7 @@
     "name": "Jonathan Greenard",
     "pos": "DE",
     "since": "",
-    "status": "PUP",
+    "status": "Questionable",
     "team": "PHI"
   },
   "6914": {
@@ -4414,7 +4393,7 @@
     "pos": "DE",
     "since": "",
     "status": "Questionable",
-    "team": "FA"
+    "team": "NO"
   },
   "7357": {
     "name": "Dan Chisena",
@@ -4576,13 +4555,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "7664": {
-    "name": "Christian Barmore",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "NE"
   },
   "7669": {
     "name": "Paulson Adebo",
@@ -5179,6 +5151,13 @@
     "status": "IR",
     "team": "CHI"
   },
+  "8449": {
+    "name": "Tyler Smith",
+    "pos": "OL",
+    "since": "",
+    "status": "Doubtful",
+    "team": "DAL"
+  },
   "8451": {
     "name": "Ikem Ekwonu",
     "pos": "T",
@@ -5351,7 +5330,7 @@
     "name": "Ben Brown",
     "pos": "OG",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
   "8801": {
