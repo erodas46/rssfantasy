@@ -783,13 +783,6 @@
     "status": "IR",
     "team": "TEN"
   },
-  "11841": {
-    "name": "Sanoussi Kane",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "11851": {
     "name": "Carter Bradley",
     "pos": "QB",
@@ -5155,7 +5148,7 @@
     "name": "Tyler Smith",
     "pos": "OL",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "DAL"
   },
   "8451": {

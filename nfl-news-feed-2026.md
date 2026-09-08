@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-08 03:37 UTC_ · 351 items total · 342/351 matched to a player
+_Last updated: 2026-09-08 14:47 UTC_ · 355 items total · 346/355 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-09-08 03:37 UTC_ · 351 items total · 342/351 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-07 | De'Zhaun Stribling | WR/SF | NEWS | — | Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
+| 2026-09-07 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
+| 2026-09-07 | George Kittle | TE/SF | NEWS | — | Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
+| 2026-09-07 | Christian Gonzalez | DB/NE | TRANSACTION | — | Gonzalez signed a four-year, $135 million extension, with $102 million guaranteed, with the Patriots on Monday, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-gonzalez-16683)) | Rotowire |
 | 2026-09-07 | Keaton Mitchell | RB/LAC | NEWS | — | Mitchell (undisclosed) returned to practice Monday, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
 | 2026-09-07 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) remained sidelined at Monday's practice, Mike Kadlick of Sports Illustrated reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-07 | Jeremiyah Love | RB/ARI | NEWS | — | Coach Mike LaFleur said he's "optimistic" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
@@ -71,6 +75,10 @@ _Last updated: 2026-09-08 03:37 UTC_ · 351 items total · 342/351 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-07 | De'Zhaun Stribling | WR/SF | NEWS | — | Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
+| 2026-09-07 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
+| 2026-09-07 | George Kittle | TE/SF | NEWS | — | Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
+| 2026-09-07 | Christian Gonzalez | DB/NE | TRANSACTION | — | Gonzalez signed a four-year, $135 million extension, with $102 million guaranteed, with the Patriots on Monday, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-gonzalez-16683)) | Rotowire |
 | 2026-09-07 | Keaton Mitchell | RB/LAC | NEWS | — | Mitchell (undisclosed) returned to practice Monday, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) | Rotowire |
 | 2026-09-07 | TreVeyon Henderson | RB/NE | NEWS | — | Henderson (ankle) remained sidelined at Monday's practice, Mike Kadlick of Sports Illustrated reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-07 | Jeremiyah Love | RB/ARI | NEWS | — | Coach Mike LaFleur said he's "optimistic" Love (ankle) will be able to play Sunday against the Chargers, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
@@ -433,41 +441,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 268168 |
-| Devaughn Vele | WR/NO | 154581 |
-| Tank Dell | WR/HOU | 117800 |
-| Las Vegas Raiders | DEF/LV | 104736 |
-| Malik Davis | RB/DAL | 94149 |
-| Kaelon Black | RB/SF | 80920 |
-| MarShawn Lloyd | RB/GB | 69291 |
-| Jacksonville Jaguars | DEF/JAX | 69156 |
-| Darren Waller | TE/CAR | 66960 |
-| Tyler Loop | K/BAL | 55896 |
-| Isiah Pacheco | RB/DET | 54112 |
-| Tre Tucker | WR/LV | 49512 |
-| Matt Gay | K/LV | 47945 |
-| Caleb Douglas | WR/MIA | 43352 |
-| Seth McGowan | RB/IND | 40624 |
+| Roschon Johnson | RB/CHI | 255128 |
+| Devaughn Vele | WR/NO | 149940 |
+| Tank Dell | WR/HOU | 113200 |
+| Las Vegas Raiders | DEF/LV | 105132 |
+| Malik Davis | RB/DAL | 97677 |
+| Kaelon Black | RB/SF | 90594 |
+| Jacksonville Jaguars | DEF/JAX | 67368 |
+| Darren Waller | TE/CAR | 67014 |
+| MarShawn Lloyd | RB/GB | 65151 |
+| Tyler Loop | K/BAL | 52806 |
+| Matt Gay | K/LV | 51480 |
+| Tre Tucker | WR/LV | 50976 |
+| Isiah Pacheco | RB/DET | 50952 |
+| Seth McGowan | RB/IND | 45256 |
+| Caleb Douglas | WR/MIA | 42208 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 84176 |
-| New England Patriots | DEF/NE | 43407 |
-| Alvin Kamara | RB/NO | 41048 |
-| Jaydon Blue | RB/PHI | 39104 |
-| Brenton Strange | TE/JAX | 38367 |
-| Oronde Gadsden | TE/LAC | 37840 |
-| Kenyon Sadiq | TE/NYJ | 37593 |
-| Travis Hunter | DB/JAX | 32844 |
-| Tyreek Hill | WR/FA | 31648 |
-| Darius Slayton | WR/NYG | 30732 |
-| Cyrus Allen | WR/KC | 28518 |
-| Detroit Lions | DEF/DET | 25758 |
-| Jalen Nailor | WR/LV | 24381 |
-| Omar Cooper | WR/NYJ | 24312 |
-| Fernando Mendoza | QB/LV | 24264 |
+| Roschon Johnson | RB/CHI | 94360 |
+| New England Patriots | DEF/NE | 48020 |
+| Alvin Kamara | RB/NO | 44040 |
+| Jaydon Blue | RB/PHI | 41488 |
+| Brenton Strange | TE/JAX | 41130 |
+| Oronde Gadsden | TE/LAC | 40160 |
+| Kenyon Sadiq | TE/NYJ | 39816 |
+| Darius Slayton | WR/NYG | 39306 |
+| Travis Hunter | DB/JAX | 34620 |
+| Tyreek Hill | WR/FA | 33600 |
+| Cyrus Allen | WR/KC | 30300 |
+| Detroit Lions | DEF/DET | 27603 |
+| Jalen Nailor | WR/LV | 26208 |
+| Fernando Mendoza | QB/LV | 25816 |
+| Omar Cooper | WR/NYJ | 25624 |
 
 
 ---
@@ -480,15 +488,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Tyler Smith | OL/DAL | (unlisted) | Doubtful |
-| Cedric Gray | LB/TEN | (unlisted) | Questionable |
-| Jonathan Greenard | DE/PHI | PUP | Questionable |
-| Ben Brown | OG/NE | Questionable | Out |
-| Anthony Bradford | OL/SEA | Questionable | (cleared) |
-| Isaiah Bond | WR/CLE | Questionable | (cleared) |
-| Will Kacmarek | TE/MIA | Questionable | (cleared) |
-| Ronnie Harrison | DB/MIA | Questionable | (cleared) |
-| Christian Barmore | DT/NE | Questionable | (cleared) |
+| Tyler Smith | OL/DAL | Doubtful | Out |
+| Sanoussi Kane | DB/FA | Questionable | (cleared) |
 
 **Full current report**
 
@@ -604,7 +605,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Matt Hennessy | OL/DAL | IR | — | — |
 | Princeton Fant | TE/DAL | IR | — | — |
 | Tyler Guyton | OL/DAL | Questionable | — | — |
-| Tyler Smith | OL/DAL | Doubtful | — | — |
+| Tyler Smith | OL/DAL | Out | — | — |
 | Caleb Lohner | TE/DEN | IR | — | — |
 | Duplicate Player | ILB/DEN | COV | — | — |
 | Frank Crum | OT/DEN | IR | — | — |
@@ -930,7 +931,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Saahdiq Charles | T/FA | Questionable | — | — |
 | Sam Roberts | DE/FA | Questionable | — | — |
 | Sam Scott | RB/FA | Questionable | — | — |
-| Sanoussi Kane | DB/FA | Questionable | — | — |
 | Sean Brown | LB/FA | Questionable | — | — |
 | Sean Smith | CB/FA | NA | — | — |
 | Sergio Bailey II | WR/FA | NA | — | — |
@@ -1209,12 +1209,12 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Brandon Aiyuk | WR/SF | DNR | — | — |
 | Brett Toth | OL/SF | IR | — | — |
 | Christian Kirk | WR/SF | IR | — | — |
-| Christian McCaffrey | RB/SF | Questionable | — | McCaffrey (undisclosed) suited up and went through drills at Tuesday's practice, according to Matt Lively of CBS Sports Bay Area. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) |
+| Christian McCaffrey | RB/SF | Questionable | — | McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) |
 | Darrick Forrest | DB/SF | IR | — | — |
-| De'Zhaun Stribling | WR/SF | Questionable | — | Stribling (shoulder) won't suit up for Thursday's preseason contest at Las Vegas, David Lombardi of SFStandard.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) |
+| De'Zhaun Stribling | WR/SF | Questionable | — | Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) |
 | Dominick Puni | OL/SF | Questionable | — | — |
 | Ephesians Prysock | CB/SF | Questionable | — | — |
-| George Kittle | TE/SF | Questionable | — | Kittle (Achilles) is slated to practice Monday in Melbourne, Australia, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) |
+| George Kittle | TE/SF | Questionable | — | Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) |
 | Gracen Halton | DT/SF | Questionable | — | — |
 | Isaac Guerendo | RB/SF | PUP | — | — |
 | Jacob Cowing | WR/SF | Questionable | — | — |
