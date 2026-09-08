@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-08 14:47 UTC_ · 355 items total · 346/355 matched to a player
+_Last updated: 2026-09-08 19:38 UTC_ · 360 items total · 351/360 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-08 14:47 UTC_ · 355 items total · 346/355 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-08 | Ben Johnson | TE/ | NEWS | — | Head coach Ben Johnson said that Odunze (leg) won't practice Tuesday, but the wide receiver is considered "more day-to-day," and the Bears remain hopeful that he'll play in Sunday's season opener versus the Panthers, Brad Biggs of the Chicago Tribune reports. Visit RotoWire.com... ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-08 | Kenyon Sadiq | TE/NYJ | NEWS | — | Sadiq (hernia) was spotted taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenyon-sadiq-19279)) | Rotowire |
+| 2026-09-08 | Breece Hall | RB/NYJ | NEWS | — | Hall (groin) was seen taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-09-08 | MarShawn Lloyd | RB/GB | ROLE/DEPTH CHART | — | Packers offensive coordinator Adam Stenavich suggested Tuesday that Lloyd could be part of a backfield committee to begin the season while Josh Jacobs (personal) remains on the Commissioner's Exempt List, Weston Hodkiewicz of the Packers' official site reports. "It's gonna be... ([link](https://www.rotowire.com//football/player/marshawn-lloyd-17795)) | Rotowire |
+| 2026-09-08 | Chris Bell | WR/MIA | TRANSACTION | — | The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-bell-19309)) | Rotowire |
 | 2026-09-07 | De'Zhaun Stribling | WR/SF | NEWS | — | Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
 | 2026-09-07 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-09-07 | George Kittle | TE/SF | NEWS | — | Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -75,6 +80,11 @@ _Last updated: 2026-09-08 14:47 UTC_ · 355 items total · 346/355 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-08 | Ben Johnson | TE/ | NEWS | — | Head coach Ben Johnson said that Odunze (leg) won't practice Tuesday, but the wide receiver is considered "more day-to-day," and the Bears remain hopeful that he'll play in Sunday's season opener versus the Panthers, Brad Biggs of the Chicago Tribune reports. Visit RotoWire.com... ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-08 | Kenyon Sadiq | TE/NYJ | NEWS | — | Sadiq (hernia) was spotted taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenyon-sadiq-19279)) | Rotowire |
+| 2026-09-08 | Breece Hall | RB/NYJ | NEWS | — | Hall (groin) was seen taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-09-08 | MarShawn Lloyd | RB/GB | ROLE/DEPTH CHART | — | Packers offensive coordinator Adam Stenavich suggested Tuesday that Lloyd could be part of a backfield committee to begin the season while Josh Jacobs (personal) remains on the Commissioner's Exempt List, Weston Hodkiewicz of the Packers' official site reports. "It's gonna be... ([link](https://www.rotowire.com//football/player/marshawn-lloyd-17795)) | Rotowire |
+| 2026-09-08 | Chris Bell | WR/MIA | TRANSACTION | — | The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-bell-19309)) | Rotowire |
 | 2026-09-07 | De'Zhaun Stribling | WR/SF | NEWS | — | Stribling (shoulder) is in full uniform for Monday's practice in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
 | 2026-09-07 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey (undisclosed) is in full uniform for the 49ers' practice session taking place Tuesday afternoon local time in Melbourne, Australia, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-09-07 | George Kittle | TE/SF | NEWS | — | Kittle (Achilles) is in full uniform for the 49ers' practice session in Melbourne, Australia on Tuesday (local time), Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -441,41 +451,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 255128 |
-| Devaughn Vele | WR/NO | 149940 |
-| Tank Dell | WR/HOU | 113200 |
-| Las Vegas Raiders | DEF/LV | 105132 |
-| Malik Davis | RB/DAL | 97677 |
-| Kaelon Black | RB/SF | 90594 |
-| Jacksonville Jaguars | DEF/JAX | 67368 |
-| Darren Waller | TE/CAR | 67014 |
-| MarShawn Lloyd | RB/GB | 65151 |
-| Tyler Loop | K/BAL | 52806 |
-| Matt Gay | K/LV | 51480 |
-| Tre Tucker | WR/LV | 50976 |
-| Isiah Pacheco | RB/DET | 50952 |
-| Seth McGowan | RB/IND | 45256 |
-| Caleb Douglas | WR/MIA | 42208 |
+| Roschon Johnson | RB/CHI | 236096 |
+| Devaughn Vele | WR/NO | 150346 |
+| Tank Dell | WR/HOU | 111224 |
+| Las Vegas Raiders | DEF/LV | 106794 |
+| Malik Davis | RB/DAL | 98280 |
+| Kaelon Black | RB/SF | 93884 |
+| Jacksonville Jaguars | DEF/JAX | 67566 |
+| Darren Waller | TE/CAR | 66807 |
+| MarShawn Lloyd | RB/GB | 65727 |
+| Matt Gay | K/LV | 56175 |
+| Tre Tucker | WR/LV | 50880 |
+| Tyler Loop | K/BAL | 50016 |
+| Isiah Pacheco | RB/DET | 49368 |
+| Malachi Fields | WR/NYG | 46695 |
+| Odell Beckham | WR/NYG | 46396 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 94360 |
-| New England Patriots | DEF/NE | 48020 |
-| Alvin Kamara | RB/NO | 44040 |
-| Jaydon Blue | RB/PHI | 41488 |
-| Brenton Strange | TE/JAX | 41130 |
-| Oronde Gadsden | TE/LAC | 40160 |
-| Kenyon Sadiq | TE/NYJ | 39816 |
-| Darius Slayton | WR/NYG | 39306 |
-| Travis Hunter | DB/JAX | 34620 |
-| Tyreek Hill | WR/FA | 33600 |
-| Cyrus Allen | WR/KC | 30300 |
-| Detroit Lions | DEF/DET | 27603 |
-| Jalen Nailor | WR/LV | 26208 |
-| Fernando Mendoza | QB/LV | 25816 |
-| Omar Cooper | WR/NYJ | 25624 |
+| Roschon Johnson | RB/CHI | 91216 |
+| New England Patriots | DEF/NE | 51443 |
+| Darius Slayton | WR/NYG | 48330 |
+| Alvin Kamara | RB/NO | 44920 |
+| Jaydon Blue | RB/PHI | 41768 |
+| Oronde Gadsden | TE/LAC | 41520 |
+| Brenton Strange | TE/JAX | 41508 |
+| Kenyon Sadiq | TE/NYJ | 40500 |
+| Travis Hunter | DB/JAX | 35346 |
+| Tyreek Hill | WR/FA | 33344 |
+| Cyrus Allen | WR/KC | 31188 |
+| Detroit Lions | DEF/DET | 28089 |
+| Jalen Nailor | WR/LV | 28017 |
+| Omar Cooper | WR/NYJ | 25896 |
+| Fernando Mendoza | QB/LV | 25880 |
 
 
 ---
@@ -486,10 +496,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Tyler Smith | OL/DAL | Doubtful | Out |
-| Sanoussi Kane | DB/FA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1159,11 +1166,11 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Theo Johnson | TE/NYG | Questionable | — | — |
 | Tyrone Tracy | RB/NYG | Questionable | — | Tracy (neck) is on the Giants' initial 53-man roster for the 2026 season, Dan Salomone and Matt Citak of the team's official site report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyrone-tracy-17967)) |
 | Anez Cooper | G/NYJ | IR | — | — |
-| Breece Hall | RB/NYJ | Questionable | — | Hall (groin) took part in agility drills on the side at Monday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) |
+| Breece Hall | RB/NYJ | Questionable | — | Hall (groin) was seen taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) |
 | D'Angelo Ponds | DB/NYJ | Questionable | — | — |
 | Isaiah Davis | RB/NYJ | Questionable | — | — |
 | Joseph Ossai | DE/NYJ | Questionable | — | — |
-| Kenyon Sadiq | TE/NYJ | Questionable | — | Taylor could see more opportunities this summer after teammate Kenyon Sadiq (sports hernia) suffered a setback in his return from May surgery, ESPN.com's Rich Cimini reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mason-taylor-18535)) |
+| Kenyon Sadiq | TE/NYJ | Questionable | — | Sadiq (hernia) was spotted taking part in positional drills during Tuesday's practice, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenyon-sadiq-19279)) |
 | Kingsley Jonathan | DT/NYJ | IR | — | — |
 | Nahshon Wright | CB/NYJ | Questionable | — | — |
 | Qwan'tez Stiggers | CB/NYJ | Questionable | — | — |
