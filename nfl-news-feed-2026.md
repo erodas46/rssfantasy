@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-09 03:42 UTC_ · 365 items total · 356/365 matched to a player
+_Last updated: 2026-09-09 14:49 UTC_ · 365 items total · 356/365 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -451,41 +451,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 246560 |
-| Devaughn Vele | WR/NO | 169204 |
-| Malik Davis | RB/DAL | 126090 |
-| Las Vegas Raiders | DEF/LV | 120090 |
-| Tank Dell | WR/HOU | 110104 |
-| Kaelon Black | RB/SF | 108675 |
-| Tyler Allgeier | RB/ARI | 80825 |
-| MarShawn Lloyd | RB/GB | 77202 |
-| Darren Waller | TE/CAR | 76410 |
-| Jacksonville Jaguars | DEF/JAX | 72882 |
-| Matt Gay | K/LV | 70740 |
-| Caleb Douglas | WR/MIA | 55280 |
-| Tre Tucker | WR/LV | 54708 |
-| Odell Beckham | WR/NYG | 49042 |
-| Isiah Pacheco | RB/DET | 48952 |
+| Roschon Johnson | RB/CHI | 258384 |
+| Devaughn Vele | WR/NO | 187299 |
+| Malik Davis | RB/DAL | 147213 |
+| Las Vegas Raiders | DEF/LV | 136086 |
+| Tank Dell | WR/HOU | 118288 |
+| Kaelon Black | RB/SF | 113015 |
+| Tyler Allgeier | RB/ARI | 98300 |
+| Darren Waller | TE/CAR | 86553 |
+| MarShawn Lloyd | RB/GB | 82773 |
+| Matt Gay | K/LV | 82405 |
+| Jacksonville Jaguars | DEF/JAX | 80976 |
+| Caleb Douglas | WR/MIA | 64024 |
+| Charlie Kolar | TE/LAC | 63366 |
+| Tre Tucker | WR/LV | 56112 |
+| Malachi Fields | WR/NYG | 54905 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 89656 |
-| New England Patriots | DEF/NE | 60641 |
-| Darius Slayton | WR/FA | 51108 |
-| Jaydon Blue | RB/PHI | 46152 |
-| Alvin Kamara | RB/NO | 45888 |
-| Oronde Gadsden | TE/LAC | 45415 |
-| Brenton Strange | TE/JAX | 44352 |
-| Kenyon Sadiq | TE/NYJ | 41841 |
-| Cyrus Allen | WR/KC | 39702 |
-| Travis Hunter | DB/JAX | 38430 |
-| Tyreek Hill | WR/FA | 35024 |
-| Jalen Nailor | WR/LV | 29997 |
-| Detroit Lions | DEF/DET | 29691 |
-| Keaton Mitchell | RB/LAC | 28350 |
-| Omar Cooper | WR/NYJ | 27072 |
+| Roschon Johnson | RB/CHI | 95320 |
+| New England Patriots | DEF/NE | 74732 |
+| Darius Slayton | WR/FA | 61524 |
+| Jaydon Blue | RB/PHI | 51904 |
+| Oronde Gadsden | TE/LAC | 49975 |
+| Alvin Kamara | RB/NO | 47760 |
+| Brenton Strange | TE/JAX | 47394 |
+| Kenyon Sadiq | TE/NYJ | 44856 |
+| Cyrus Allen | WR/KC | 44424 |
+| Tyreek Hill | WR/FA | 42280 |
+| Travis Hunter | DB/JAX | 42060 |
+| Jalen Nailor | WR/LV | 32787 |
+| Detroit Lions | DEF/DET | 32562 |
+| Keaton Mitchell | RB/LAC | 30798 |
+| Malik Davis | RB/DAL | 29736 |
 
 
 ---
@@ -498,41 +498,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Devontez Walker | WR/BAL | (unlisted) | Questionable |
-| Aaron Smith | LB/SEA | IR | Questionable |
-| TreVeyon Henderson | RB/NE | Questionable | Out |
-| Drew Sanders | LB/FA | IR | Questionable |
-| Chamarri Conner | DB/KC | (unlisted) | Questionable |
-| Michael Niese | G/DET | IR | Questionable |
-| Kyonte Hamilton | DL/FA | IR | Questionable |
-| Ty Okada | DB/SEA | Questionable | Out |
-| Ben Yurosek | TE/MIN | (unlisted) | IR |
-| Jaylen Watson | DB/LAR | (unlisted) | Questionable |
-| Darren Hall | CB/ATL | IR | Questionable |
-| Grant Stuard | LB/LAR | (unlisted) | Questionable |
-| Alfred Collins | DL/SF | (unlisted) | Out |
-| Dre Greenlaw | LB/SF | (unlisted) | Questionable |
-| Aaron Donald | DT/LAR | (unlisted) | Out |
-| Davis Allen | TE/LAR | Questionable | (cleared) |
-| Keion White | DL/SF | Questionable | (cleared) |
-| Kobie Turner | DT/LAR | Questionable | (cleared) |
-| Art Green | CB/FA | Questionable | (cleared) |
-| Jacob Cowing | WR/SF | Questionable | (cleared) |
-| Dominick Puni | OL/SF | Questionable | (cleared) |
-| Malik Mustapha | DB/SF | Questionable | (cleared) |
-| Kurtis Rourke | QB/SF | Questionable | (cleared) |
-| Terrance Ferguson | TE/LAR | Questionable | (cleared) |
-| Upton Stout | CB/SF | Questionable | (cleared) |
-| Shaun Dolac | LB/LAR | Questionable | (cleared) |
-| De'Zhaun Stribling | WR/SF | Questionable | (cleared) |
-| Ephesians Prysock | CB/SF | Questionable | (cleared) |
-| Mike Evans | WR/SF | Questionable | (cleared) |
-| Christian McCaffrey | RB/SF | Questionable | (cleared) |
-| Josh Jones | OL/SEA | Questionable | (cleared) |
-| Alaric Jackson | OL/LAR | Questionable | (cleared) |
-| Jack Stoll | TE/FA | Questionable | (cleared) |
-| Vederian Lowe | OT/SF | Questionable | (cleared) |
-| Puka Nacua | WR/LAR | Questionable | (cleared) |
+| Tyreek Hill | WR/FA | Questionable | (cleared) |
 
 **Full current report**
 
@@ -1011,7 +977,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Tyler Cooper | G/FA | Questionable | — | — |
 | Tyler Mabry | TE/FA | Questionable | — | — |
 | Tyree Jackson | TE/FA | Questionable | — | — |
-| Tyreek Hill | WR/FA | Questionable | — | — |
 | Tyrek Funderburk | CB/FA | Questionable | — | — |
 | Tyron Herring | CB/FA | Questionable | — | — |
 | Tyrone Broden | WR/FA | Questionable | — | — |
