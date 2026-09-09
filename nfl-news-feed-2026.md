@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-09 14:49 UTC_ · 365 items total · 356/365 matched to a player
+_Last updated: 2026-09-09 19:32 UTC_ · 370 items total · 361/370 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-09 14:49 UTC_ · 365 items total · 356/365 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-09 | Malik Nabers | WR/NYG | NEWS | — | Nabers (knee) participated in drills at Wednesday's practice, Connor Hughes of SNY.tv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
+| 2026-09-09 | Ashton Jeanty | RB/LV | NEWS | — | Coach Klint Kubiak said Jeanty (ankle) will practice Wednesday, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
+| 2026-09-09 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (general soreness) is in uniform and pads at Wednesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
+| 2026-09-09 | Khalil Shakir | WR/BUF | NEWS | — | Shakir (undisclosed) is on the practice field Wednesday, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
+| 2026-09-09 | J.J. McCarthy | QB/MIN | ROLE/DEPTH CHART | — | Head coach Kevin O'Connell announced Wednesday that McCarthy will serve as the Vikings' third-string quarterback for Sunday's season opener versus the Packers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
 | 2026-09-08 | Mike Evans | WR/SF | INJURY | — | Evans (adductor) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-09-08 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (shoulder) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
 | 2026-09-08 | Puka Nacua | WR/LAR | INJURY | — | Nacua (core) was not listed on the injury report the Rams released Tuesday, according to Sarah Barshop of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
@@ -75,6 +80,11 @@ _Last updated: 2026-09-09 14:49 UTC_ · 365 items total · 356/365 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-09 | Malik Nabers | WR/NYG | NEWS | — | Nabers (knee) participated in drills at Wednesday's practice, Connor Hughes of SNY.tv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
+| 2026-09-09 | Ashton Jeanty | RB/LV | NEWS | — | Coach Klint Kubiak said Jeanty (ankle) will practice Wednesday, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) | Rotowire |
+| 2026-09-09 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (general soreness) is in uniform and pads at Wednesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
+| 2026-09-09 | Khalil Shakir | WR/BUF | NEWS | — | Shakir (undisclosed) is on the practice field Wednesday, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) | Rotowire |
+| 2026-09-09 | J.J. McCarthy | QB/MIN | ROLE/DEPTH CHART | — | Head coach Kevin O'Connell announced Wednesday that McCarthy will serve as the Vikings' third-string quarterback for Sunday's season opener versus the Packers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
 | 2026-09-08 | Mike Evans | WR/SF | INJURY | — | Evans (adductor) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-09-08 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (shoulder) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
 | 2026-09-08 | Puka Nacua | WR/LAR | INJURY | — | Nacua (core) was not listed on the injury report the Rams released Tuesday, according to Sarah Barshop of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
@@ -451,41 +461,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 258384 |
-| Devaughn Vele | WR/NO | 187299 |
-| Malik Davis | RB/DAL | 147213 |
-| Las Vegas Raiders | DEF/LV | 136086 |
-| Tank Dell | WR/HOU | 118288 |
-| Kaelon Black | RB/SF | 113015 |
-| Tyler Allgeier | RB/ARI | 98300 |
-| Darren Waller | TE/CAR | 86553 |
-| MarShawn Lloyd | RB/GB | 82773 |
-| Matt Gay | K/LV | 82405 |
-| Jacksonville Jaguars | DEF/JAX | 80976 |
-| Caleb Douglas | WR/MIA | 64024 |
-| Charlie Kolar | TE/LAC | 63366 |
-| Tre Tucker | WR/LV | 56112 |
-| Malachi Fields | WR/NYG | 54905 |
+| Roschon Johnson | RB/CHI | 275632 |
+| Devaughn Vele | WR/NO | 204575 |
+| Malik Davis | RB/DAL | 163998 |
+| Las Vegas Raiders | DEF/LV | 155496 |
+| Tank Dell | WR/HOU | 128968 |
+| Kaelon Black | RB/SF | 111594 |
+| Tyler Allgeier | RB/ARI | 110505 |
+| Darren Waller | TE/CAR | 95688 |
+| Matt Gay | K/LV | 94805 |
+| Jacksonville Jaguars | DEF/JAX | 89526 |
+| MarShawn Lloyd | RB/GB | 88650 |
+| Chris Bell | WR/MIA | 76594 |
+| Caleb Douglas | WR/MIA | 69248 |
+| Charlie Kolar | TE/LAC | 68904 |
+| Malachi Fields | WR/NYG | 61195 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 95320 |
-| New England Patriots | DEF/NE | 74732 |
-| Darius Slayton | WR/FA | 61524 |
-| Jaydon Blue | RB/PHI | 51904 |
-| Oronde Gadsden | TE/LAC | 49975 |
-| Alvin Kamara | RB/NO | 47760 |
-| Brenton Strange | TE/JAX | 47394 |
-| Kenyon Sadiq | TE/NYJ | 44856 |
-| Cyrus Allen | WR/KC | 44424 |
-| Tyreek Hill | WR/FA | 42280 |
-| Travis Hunter | DB/JAX | 42060 |
-| Jalen Nailor | WR/LV | 32787 |
-| Detroit Lions | DEF/DET | 32562 |
-| Keaton Mitchell | RB/LAC | 30798 |
-| Malik Davis | RB/DAL | 29736 |
+| Roschon Johnson | RB/CHI | 103720 |
+| New England Patriots | DEF/NE | 90734 |
+| Darius Slayton | WR/FA | 68808 |
+| Jaydon Blue | RB/PHI | 56664 |
+| Oronde Gadsden | TE/LAC | 55000 |
+| Brenton Strange | TE/JAX | 52533 |
+| Alvin Kamara | RB/NO | 51016 |
+| Cyrus Allen | WR/KC | 49548 |
+| Kenyon Sadiq | TE/NYJ | 49140 |
+| Tyreek Hill | WR/FA | 48728 |
+| Travis Hunter | DB/JAX | 45960 |
+| Detroit Lions | DEF/DET | 36144 |
+| Jalen Nailor | WR/LV | 35082 |
+| Keaton Mitchell | RB/LAC | 34218 |
+| Malik Davis | RB/DAL | 33876 |
 
 
 ---
@@ -496,9 +506,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Tyreek Hill | WR/FA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -545,7 +553,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jedrick Wills | OT/BUF | Questionable | — | — |
 | Jude Bowry | OT/BUF | Questionable | — | — |
 | Keon Coleman | WR/BUF | Questionable | — | Coleman (right foot/toe) isn't expected to play in Saturday's preseason game, Jay Skurski of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) |
-| Khalil Shakir | WR/BUF | Questionable | — | Per Matt Zenitz of CBSSports.com, "there's currently optimism" that Shakir (undisclosed) will be available Week 1 against the Texans on Sunday, Sept. 13 Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) |
+| Khalil Shakir | WR/BUF | Questionable | — | Shakir (undisclosed) is on the practice field Wednesday, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/khalil-shakir-15892)) |
 | Michael Hoecht | DT/BUF | Questionable | — | — |
 | Phidarian Mathis | DL/BUF | Sus | — | — |
 | Ty Johnson | RB/BUF | Questionable | — | Johnson left practice early Saturday due to an apparent right knee injury, Matt Parrino of NYup.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-johnson-13587)) |
@@ -561,7 +569,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Haynes King | QB/CAR | Questionable | — | — |
 | Ikem Ekwonu | T/CAR | PUP | — | — |
 | Jaelan Phillips | LB/CAR | Questionable | — | — |
-| Jonathon Brooks | RB/CAR | Questionable | — | Brooks (general soreness) was spotted working out of to the side during Monday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
+| Jonathon Brooks | RB/CAR | Questionable | — | Brooks (general soreness) is in uniform and pads at Wednesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Taylor Moton | T/CAR | PUP | — | — |
 | Tershawn Wharton | DT/CAR | PUP | — | — |
@@ -1084,7 +1092,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Keir Thomas | DE/LAR | IR | — | — |
 | Matthew Caldwell | QB/LAR | IR | — | — |
 | Myles Garrett | DE/LAR | Questionable | — | Head coach Sean McVay said Monday that Garrett (knee) is making "really good progress" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) |
-| Ashton Jeanty | RB/LV | Questionable | — | Jeanty (ankle) remained sidelined at practice Wednesday, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) |
+| Ashton Jeanty | RB/LV | Questionable | — | Coach Klint Kubiak said Jeanty (ankle) will practice Wednesday, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ashton-jeanty-18487)) |
 | Brennan Jackson | DE/LV | IR | — | — |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
@@ -1158,7 +1166,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jarrick Bernard-Converse | CB/NYG | IR | — | — |
 | John Michael Schmitz | OL/NYG | Questionable | — | — |
 | Korie Black | CB/NYG | IR | — | — |
-| Malik Nabers | WR/NYG | Questionable | — | Coach John Harbaugh said Nabers (knee) participated in individual and team drills at Wednesday's practice, Connor Hughes of SNY.tv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) |
+| Malik Nabers | WR/NYG | Questionable | — | Nabers (knee) participated in drills at Wednesday's practice, Connor Hughes of SNY.tv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) |
 | Paulson Adebo | CB/NYG | Questionable | — | — |
 | Rico Payton | CB/NYG | IR | — | — |
 | Roy Robertson-Harris | DE/NYG | IR | — | — |
