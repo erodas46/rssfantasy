@@ -503,13 +503,6 @@
     "status": "NA",
     "team": "SEA"
   },
-  "11697": {
-    "name": "Renardo Green",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
-  },
   "11699": {
     "name": "Jer'Zhan Newton",
     "pos": "DL",
@@ -837,7 +830,7 @@
     "pos": "LB",
     "since": "",
     "status": "Questionable",
-    "team": "FA"
+    "team": "MIN"
   },
   "12094": {
     "name": "Alex Johnson",
@@ -1537,7 +1530,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "FA"
+    "team": "MIN"
   },
   "12948": {
     "name": "Austin Keys",
@@ -1847,13 +1840,6 @@
     "status": "IR",
     "team": "DAL"
   },
-  "13361": {
-    "name": "Romello Height",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
-  },
   "13372": {
     "name": "R Mason Thomas",
     "pos": "DL",
@@ -2035,13 +2021,6 @@
     "since": "",
     "status": "IR",
     "team": "DAL"
-  },
-  "13501": {
-    "name": "Gracen Halton",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
   },
   "13503": {
     "name": "Kaleb Proctor",
@@ -2266,13 +2245,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "1379": {
-    "name": "Kyle Juszczyk",
-    "pos": "FB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
   },
   "13811": {
     "name": "Drey Norwood",
@@ -2827,13 +2799,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "4217": {
-    "name": "George Kittle",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
-  },
   "4219": {
     "name": "Jeremy McNichols",
     "pos": "RB",
@@ -3303,13 +3268,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "5816": {
-    "name": "Nick Bosa",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
-  },
   "5818": {
     "name": "Freddie Kitchens",
     "pos": "\u2014",
@@ -3449,13 +3407,6 @@
     "since": "",
     "status": "NA",
     "team": "FA"
-  },
-  "6056": {
-    "name": "Dre Greenlaw",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
   },
   "6076": {
     "name": "Justin Hollins",
@@ -3638,13 +3589,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "6612": {
-    "name": "Luke Gifford",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
   },
   "6613": {
     "name": "Lukayus McNeil",
