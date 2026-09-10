@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-10 14:40 UTC_ · 380 items total · 371/380 matched to a player
+_Last updated: 2026-09-10 19:19 UTC_ · 385 items total · 376/385 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-10 14:40 UTC_ · 380 items total · 371/380 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-10 | Sam Darnold | QB/SEA | INJURY | 🔥 Schefter | Darnold (hip) is expected to miss some time due to the hip injury he sustained in Wednesday's 13-10 win over the Patriots, but the Seahawks believe their starting quarterback has "dodged a bullet," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-09-10 | Breece Hall | RB/NYJ | ROLE/DEPTH CHART | — | Hall (groin) could handle a full workload in Sunday's season opener against the Titans, as Jets offensive coordinator Frank Reich said Thursday that "unless [head coach Aaron Glenn] and the training staff give us a rep count, we just go play ball," Rich Cimini of ESPN.com... ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-09-10 | Sam Darnold | QB/SEA | NEWS | — | Darnold (hip) is expected to miss Seattle's Week 2 game against the Cardinals, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-09-10 | Tua Tagovailoa | QB/ATL | NEWS | — | Tagovailoa touched his back and sat down briefly during individual drills Thursday, then wasn't seen throwing again during the portion of practice open to media, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
+| 2026-09-10 | Sam Darnold | QB/SEA | INJURY | — | Darnold (hip) received "really, really good news" regarding his injury, according to coach Mike McDonald, ESPN.com reports. "His hip is intact, and it's good," McDonald said Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-10 | A.J. Brown | WR/NE | INJURY | — | Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
 | 2026-09-09 | Jadarian Price | RB/SEA | NEWS | — | Price rushed 10 times for 52 yards and brought in both targets for six yards in the Seahawks' 13-10 win over the Patriots on Wednesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
 | 2026-09-09 | Rhamondre Stevenson | RB/NE | NEWS | — | Stevenson rushed 18 times for 51 yards and brought in five of six targets for 44 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) | Rotowire |
@@ -80,6 +85,11 @@ _Last updated: 2026-09-10 14:40 UTC_ · 380 items total · 371/380 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-10 | Sam Darnold | QB/SEA | INJURY | 🔥 Schefter | Darnold (hip) is expected to miss some time due to the hip injury he sustained in Wednesday's 13-10 win over the Patriots, but the Seahawks believe their starting quarterback has "dodged a bullet," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-09-10 | Breece Hall | RB/NYJ | ROLE/DEPTH CHART | — | Hall (groin) could handle a full workload in Sunday's season opener against the Titans, as Jets offensive coordinator Frank Reich said Thursday that "unless [head coach Aaron Glenn] and the training staff give us a rep count, we just go play ball," Rich Cimini of ESPN.com... ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-09-10 | Sam Darnold | QB/SEA | NEWS | — | Darnold (hip) is expected to miss Seattle's Week 2 game against the Cardinals, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-09-10 | Tua Tagovailoa | QB/ATL | NEWS | — | Tagovailoa touched his back and sat down briefly during individual drills Thursday, then wasn't seen throwing again during the portion of practice open to media, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
+| 2026-09-10 | Sam Darnold | QB/SEA | INJURY | — | Darnold (hip) received "really, really good news" regarding his injury, according to coach Mike McDonald, ESPN.com reports. "His hip is intact, and it's good," McDonald said Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-10 | A.J. Brown | WR/NE | INJURY | — | Brown received a preliminary diagnosis of a right high-ankle sprain after exiting Wednesday's 13-10 loss to the Seahawks, Ian Rapoport and Mike Garafolo of NFL Network report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
 | 2026-09-09 | Jadarian Price | RB/SEA | NEWS | — | Price rushed 10 times for 52 yards and brought in both targets for six yards in the Seahawks' 13-10 win over the Patriots on Wednesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
 | 2026-09-09 | Rhamondre Stevenson | RB/NE | NEWS | — | Stevenson rushed 18 times for 51 yards and brought in five of six targets for 44 yards in the Patriots' 13-10 loss to the Seahawks on Wednesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) | Rotowire |
@@ -471,41 +481,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 1597518 |
-| Darren Waller | TE/CAR | 173349 |
-| Roschon Johnson | RB/CHI | 164336 |
-| Devaughn Vele | WR/NO | 149653 |
-| AJ Barner | TE/SEA | 148422 |
-| Las Vegas Raiders | DEF/LV | 144432 |
-| Mark Andrews | TE/BAL | 141273 |
-| Juwan Johnson | TE/NO | 108888 |
-| Malik Davis | RB/DAL | 106038 |
-| Tre Tucker | WR/LV | 105972 |
-| Matt Gay | K/LV | 93730 |
-| Tank Dell | WR/HOU | 91600 |
-| Cooper Kupp | WR/SEA | 78138 |
-| Jacksonville Jaguars | DEF/JAX | 76440 |
-| Chris Bell | WR/MIA | 71351 |
+| Michael Mayer | TE/LV | 1694799 |
+| Darren Waller | TE/CAR | 176472 |
+| Mark Andrews | TE/BAL | 144369 |
+| AJ Barner | TE/SEA | 140652 |
+| Roschon Johnson | RB/CHI | 133040 |
+| Devaughn Vele | WR/NO | 130403 |
+| Las Vegas Raiders | DEF/LV | 122184 |
+| Tre Tucker | WR/LV | 118824 |
+| Juwan Johnson | TE/NO | 108988 |
+| Malik Davis | RB/DAL | 91908 |
+| Matt Gay | K/LV | 81575 |
+| Tank Dell | WR/HOU | 77672 |
+| Cooper Kupp | WR/SEA | 77634 |
+| Jalen Nailor | WR/LV | 66456 |
+| Jacksonville Jaguars | DEF/JAX | 65868 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 158560 |
-| New England Patriots | DEF/NE | 99288 |
-| Michael Mayer | TE/LV | 93096 |
-| Kenyon Sadiq | TE/NYJ | 81648 |
-| Oronde Gadsden | TE/LAC | 80660 |
-| Brenton Strange | TE/JAX | 71856 |
-| Romeo Doubs | WR/NE | 70136 |
-| Alvin Kamara | RB/NO | 68232 |
-| Darius Slayton | WR/FA | 66024 |
-| Malik Davis | RB/DAL | 59976 |
-| Keaton Mitchell | RB/LAC | 59634 |
-| Cyrus Allen | WR/KC | 59256 |
-| Kaelon Black | RB/SF | 57841 |
-| Travis Hunter | DB/JAX | 55308 |
-| Tyreek Hill | WR/FA | 55296 |
+| Roschon Johnson | RB/CHI | 154296 |
+| Michael Mayer | TE/LV | 99756 |
+| Kenyon Sadiq | TE/NYJ | 77949 |
+| Romeo Doubs | WR/NE | 77720 |
+| New England Patriots | DEF/NE | 77511 |
+| Oronde Gadsden | TE/LAC | 75870 |
+| Brenton Strange | TE/JAX | 67545 |
+| Alvin Kamara | RB/NO | 64248 |
+| Malik Davis | RB/DAL | 58347 |
+| Keaton Mitchell | RB/LAC | 58086 |
+| Darius Slayton | WR/FA | 56670 |
+| Kaelon Black | RB/SF | 56511 |
+| Cyrus Allen | WR/KC | 54438 |
+| Travis Hunter | DB/JAX | 51210 |
+| Tyreek Hill | WR/FA | 49152 |
 
 
 ---
@@ -516,16 +526,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Renardo Green | DB/SF | Questionable | (cleared) |
-| Romello Height | LB/SF | Questionable | (cleared) |
-| Gracen Halton | DT/SF | Questionable | (cleared) |
-| Kyle Juszczyk | FB/SF | Questionable | (cleared) |
-| George Kittle | TE/SF | Questionable | (cleared) |
-| Nick Bosa | DE/SF | Questionable | (cleared) |
-| Dre Greenlaw | LB/SF | Questionable | (cleared) |
-| Luke Gifford | LB/SF | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1186,7 +1187,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Nick Kallerup | TE/SEA | Out | — | — |
 | Power Echols | LB/SEA | Questionable | — | — |
 | Robbie Ouzts | RB/SEA | IR | — | — |
-| Sam Darnold | QB/SEA | Out | — | Darnold (hip) left Wednesday night's contest against the Patriots in the first quarter, Curtis Crabtree of Fox 13 Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
+| Sam Darnold | QB/SEA | Out | — | Darnold (hip) is expected to miss some time due to the hip injury he sustained in Wednesday's 13-10 win over the Patriots, but the Seahawks believe their starting quarterback has "dodged a bullet," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
 | Terrion Arnold | DB/SEA | NA | — | — |
 | Tory Horton | WR/SEA | Out | — | — |
 | Ty Okada | DB/SEA | Out | — | — |
