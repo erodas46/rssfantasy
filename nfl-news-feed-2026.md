@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-11 14:39 UTC_ · 395 items total · 386/395 matched to a player
+_Last updated: 2026-09-11 19:20 UTC_ · 400 items total · 391/400 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-11 14:39 UTC_ · 395 items total · 386/395 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-11 | Emeka Egbuka | WR/TB | NEWS | — | Coach Todd Bowles said Friday that Egbuka (toe) is "full go" ahead of Sunday's contest in Cincinnati, per River Wells of SI.com, and the second-year wide receiver doesn't have a designation for Week 1 action. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-09-11 | Ja'Marr Chase | WR/CIN | INJURY | — | Chase (knee) doesn't have an injury designation for Sunday's game against Tampa Bay. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jamarr-chase-15183)) | Rotowire |
+| 2026-09-11 | Tee Higgins | WR/CIN | NEWS | — | Higgins (heel) will play in Sunday's game against Tampa Bay after logging full practices Wednesday through Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tee-higgins-14506)) | Rotowire |
+| 2026-09-11 | Rome Odunze | WR/CHI | INJURY | — | Odunze (calf) is listed as questionable for Sunday's game at Carolina. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-11 | Brock Bowers | TE/LV | NEWS | — | Raiders coach Klint Kubiak confirmed Friday that Bowers (knee) won't play Sunday against Miami, but Kubiak did say the tight end "will be back soon," per Levi Edwards of Raiders.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
 | 2026-09-10 | Davante Adams | WR/LAR | NEWS | — | Adams secured three of six targets for 26 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
 | 2026-09-10 | Kaelon Black | RB/SF | NEWS | — | Black rushed 14 times for 65 yards and brought in his only target for five yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
 | 2026-09-10 | Blake Corum | RB/LAR | INJURY | — | Corum rushed 10 times for 54 yards and wasn't targeted during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-corum-17690)) | Rotowire |
@@ -85,6 +90,11 @@ _Last updated: 2026-09-11 14:39 UTC_ · 395 items total · 386/395 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-11 | Emeka Egbuka | WR/TB | NEWS | — | Coach Todd Bowles said Friday that Egbuka (toe) is "full go" ahead of Sunday's contest in Cincinnati, per River Wells of SI.com, and the second-year wide receiver doesn't have a designation for Week 1 action. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
+| 2026-09-11 | Ja'Marr Chase | WR/CIN | INJURY | — | Chase (knee) doesn't have an injury designation for Sunday's game against Tampa Bay. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jamarr-chase-15183)) | Rotowire |
+| 2026-09-11 | Tee Higgins | WR/CIN | NEWS | — | Higgins (heel) will play in Sunday's game against Tampa Bay after logging full practices Wednesday through Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tee-higgins-14506)) | Rotowire |
+| 2026-09-11 | Rome Odunze | WR/CHI | INJURY | — | Odunze (calf) is listed as questionable for Sunday's game at Carolina. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-11 | Brock Bowers | TE/LV | NEWS | — | Raiders coach Klint Kubiak confirmed Friday that Bowers (knee) won't play Sunday against Miami, but Kubiak did say the tight end "will be back soon," per Levi Edwards of Raiders.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
 | 2026-09-10 | Davante Adams | WR/LAR | NEWS | — | Adams secured three of six targets for 26 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
 | 2026-09-10 | Kaelon Black | RB/SF | NEWS | — | Black rushed 14 times for 65 yards and brought in his only target for five yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
 | 2026-09-10 | Blake Corum | RB/LAR | INJURY | — | Corum rushed 10 times for 54 yards and wasn't targeted during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-corum-17690)) | Rotowire |
@@ -491,41 +501,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 406413 |
-| Kaelon Black | RB/SF | 289037 |
-| Tre Tucker | WR/LV | 91842 |
-| Chris Bell | WR/MIA | 83734 |
-| Demarcus Robinson | WR/SF | 81648 |
-| Darren Waller | TE/CAR | 79308 |
-| Devaughn Vele | WR/NO | 56413 |
-| Malik Davis | RB/DAL | 44487 |
-| Cooper Rush | QB/ATL | 38570 |
-| Las Vegas Raiders | DEF/LV | 37074 |
-| Jalen Nailor | WR/LV | 36450 |
-| Mark Andrews | TE/BAL | 32598 |
-| Roschon Johnson | RB/CHI | 31896 |
-| Josh Jacobs | RB/GB | 30890 |
-| Drew Lock | QB/SEA | 30121 |
+| Michael Mayer | TE/LV | 366615 |
+| Kaelon Black | RB/SF | 342671 |
+| Demarcus Robinson | WR/SF | 104658 |
+| Chris Bell | WR/MIA | 95683 |
+| Tre Tucker | WR/LV | 84420 |
+| Darren Waller | TE/CAR | 70344 |
+| Cooper Rush | QB/ATL | 67156 |
+| Devaughn Vele | WR/NO | 50631 |
+| Malik Davis | RB/DAL | 38178 |
+| Las Vegas Raiders | DEF/LV | 32640 |
+| Jalen Nailor | WR/LV | 31563 |
+| Juwan Johnson | TE/NO | 28276 |
+| Mark Andrews | TE/BAL | 28008 |
+| Kyler Murray | QB/MIN | 24080 |
+| Tank Dell | WR/HOU | 23880 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 64160 |
-| Romeo Doubs | WR/NE | 47704 |
-| Terrance Ferguson | TE/LAR | 46248 |
-| Michael Mayer | TE/LV | 40851 |
-| Josh Jacobs | RB/GB | 28025 |
-| Brenton Strange | TE/JAX | 25776 |
-| Kenyon Sadiq | TE/NYJ | 24732 |
-| Alvin Kamara | RB/NO | 24640 |
-| Malik Davis | RB/DAL | 23787 |
-| Chris Rodriguez | RB/JAX | 23760 |
-| Oronde Gadsden | TE/LAC | 23515 |
-| Keaton Mitchell | RB/LAC | 23346 |
-| Malik Washington | WR/MIA | 23160 |
-| KC Concepcion | WR/CLE | 21294 |
-| Cyrus Allen | WR/KC | 21030 |
+| Roschon Johnson | RB/CHI | 64880 |
+| Terrance Ferguson | TE/LAR | 53424 |
+| Romeo Doubs | WR/NE | 44256 |
+| Malik Davis | RB/DAL | 41607 |
+| Michael Mayer | TE/LV | 39492 |
+| Brenton Strange | TE/JAX | 25020 |
+| De'Zhaun Stribling | WR/SF | 23813 |
+| Malik Washington | WR/MIA | 23744 |
+| Alvin Kamara | RB/NO | 23656 |
+| Chris Rodriguez | RB/JAX | 23571 |
+| Keaton Mitchell | RB/LAC | 22977 |
+| Kenyon Sadiq | TE/NYJ | 22914 |
+| Oronde Gadsden | TE/LAC | 21460 |
+| KC Concepcion | WR/CLE | 20772 |
+| Cyrus Allen | WR/KC | 20436 |
 
 
 ---
@@ -607,7 +617,7 @@ _None since last run._
 | Nikola Kalinic | TE/CHI | IR | — | — |
 | Noah Sewell | LB/CHI | PUP | — | — |
 | Ozzy Trapilo | OL/CHI | Questionable | — | — |
-| Rome Odunze | WR/CHI | Questionable | — | Odunze (leg) is not practicing Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) |
+| Rome Odunze | WR/CHI | Questionable | — | Odunze (calf) is listed as questionable for Sunday's game at Carolina. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) |
 | Shemar Turner | DE/CHI | PUP | — | — |
 | Tony Fields | LB/CHI | IR | — | — |
 | Tyson Bagent | QB/CHI | Questionable | — | — |
@@ -1091,7 +1101,7 @@ _None since last run._
 | Tutu Atwell | WR/LAR | Out | — | — |
 | Ty Simpson | QB/LAR | Out | — | Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-simpson-19275)) |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Out | — | — |
+| Brock Bowers | TE/LV | Out | — | Raiders coach Klint Kubiak confirmed Friday that Bowers (knee) won't play Sunday against Miami, but Kubiak did say the tight end "will be back soon," per Levi Edwards of Raiders.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
 | Chris Collier | RB/LV | IR | — | — |
