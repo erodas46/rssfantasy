@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-11 03:38 UTC_ · 390 items total · 381/390 matched to a player
+_Last updated: 2026-09-11 14:39 UTC_ · 395 items total · 386/395 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-11 03:38 UTC_ · 390 items total · 381/390 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-10 | Davante Adams | WR/LAR | NEWS | — | Adams secured three of six targets for 26 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
+| 2026-09-10 | Kaelon Black | RB/SF | NEWS | — | Black rushed 14 times for 65 yards and brought in his only target for five yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
+| 2026-09-10 | Blake Corum | RB/LAR | INJURY | — | Corum rushed 10 times for 54 yards and wasn't targeted during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-corum-17690)) | Rotowire |
+| 2026-09-10 | George Kittle | TE/SF | NEWS | — | Kittle brought in two of five targets for 12 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
+| 2026-09-10 | Deebo Samuel | WR/SF | NEWS | — | Samuel brought in six of seven targets for 48 yards and a touchdown, rushed once for 12 yards and returned two kickoffs for 74 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
 | 2026-09-10 | Jeremiyah Love | RB/ARI | INJURY | — | Love (ankle) remained a limited practice participant Thursday, Bo Brack of GoPHNX.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-09-10 | A.J. Brown | WR/NE | INJURY | — | Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
 | 2026-09-10 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
@@ -80,6 +85,11 @@ _Last updated: 2026-09-11 03:38 UTC_ · 390 items total · 381/390 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-10 | Davante Adams | WR/LAR | NEWS | — | Adams secured three of six targets for 26 yards during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
+| 2026-09-10 | Kaelon Black | RB/SF | NEWS | — | Black rushed 14 times for 65 yards and brought in his only target for five yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
+| 2026-09-10 | Blake Corum | RB/LAR | INJURY | — | Corum rushed 10 times for 54 yards and wasn't targeted during the Rams' 27-7 Week 1 loss to the 49ers in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-corum-17690)) | Rotowire |
+| 2026-09-10 | George Kittle | TE/SF | NEWS | — | Kittle brought in two of five targets for 12 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
+| 2026-09-10 | Deebo Samuel | WR/SF | NEWS | — | Samuel brought in six of seven targets for 48 yards and a touchdown, rushed once for 12 yards and returned two kickoffs for 74 yards during the 49ers' 27-7 Week 1 win over the Rams in Melbourne, Australia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
 | 2026-09-10 | Jeremiyah Love | RB/ARI | INJURY | — | Love (ankle) remained a limited practice participant Thursday, Bo Brack of GoPHNX.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-09-10 | A.J. Brown | WR/NE | INJURY | — | Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
 | 2026-09-10 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
@@ -481,41 +491,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 512901 |
-| Kaelon Black | RB/SF | 196595 |
-| Tre Tucker | WR/LV | 98004 |
-| Darren Waller | TE/CAR | 88569 |
-| Chris Bell | WR/MIA | 71596 |
-| Devaughn Vele | WR/NO | 67284 |
-| Demarcus Robinson | WR/SF | 58914 |
-| Malik Davis | RB/DAL | 49149 |
-| Drew Lock | QB/SEA | 45979 |
-| Las Vegas Raiders | DEF/LV | 45294 |
-| Jalen Nailor | WR/LV | 45252 |
-| Roschon Johnson | RB/CHI | 45112 |
-| Mark Andrews | TE/BAL | 42102 |
-| Tank Dell | WR/HOU | 36032 |
-| Terrance Ferguson | TE/LAR | 35192 |
+| Michael Mayer | TE/LV | 406413 |
+| Kaelon Black | RB/SF | 289037 |
+| Tre Tucker | WR/LV | 91842 |
+| Chris Bell | WR/MIA | 83734 |
+| Demarcus Robinson | WR/SF | 81648 |
+| Darren Waller | TE/CAR | 79308 |
+| Devaughn Vele | WR/NO | 56413 |
+| Malik Davis | RB/DAL | 44487 |
+| Cooper Rush | QB/ATL | 38570 |
+| Las Vegas Raiders | DEF/LV | 37074 |
+| Jalen Nailor | WR/LV | 36450 |
+| Mark Andrews | TE/BAL | 32598 |
+| Roschon Johnson | RB/CHI | 31896 |
+| Josh Jacobs | RB/GB | 30890 |
+| Drew Lock | QB/SEA | 30121 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 74144 |
-| Romeo Doubs | WR/NE | 62264 |
-| Michael Mayer | TE/LV | 44613 |
-| Terrance Ferguson | TE/LAR | 30040 |
-| Josh Jacobs | RB/GB | 29825 |
-| Kenyon Sadiq | TE/NYJ | 29655 |
-| Brenton Strange | TE/JAX | 29007 |
-| Oronde Gadsden | TE/LAC | 28455 |
-| Alvin Kamara | RB/NO | 27512 |
-| Malik Davis | RB/DAL | 25767 |
-| Keaton Mitchell | RB/LAC | 25263 |
-| Chris Rodriguez | RB/JAX | 24912 |
-| Sam Darnold | QB/SEA | 24747 |
-| Malik Washington | WR/MIA | 24328 |
-| Travis Hunter | DB/JAX | 24324 |
+| Roschon Johnson | RB/CHI | 64160 |
+| Romeo Doubs | WR/NE | 47704 |
+| Terrance Ferguson | TE/LAR | 46248 |
+| Michael Mayer | TE/LV | 40851 |
+| Josh Jacobs | RB/GB | 28025 |
+| Brenton Strange | TE/JAX | 25776 |
+| Kenyon Sadiq | TE/NYJ | 24732 |
+| Alvin Kamara | RB/NO | 24640 |
+| Malik Davis | RB/DAL | 23787 |
+| Chris Rodriguez | RB/JAX | 23760 |
+| Oronde Gadsden | TE/LAC | 23515 |
+| Keaton Mitchell | RB/LAC | 23346 |
+| Malik Washington | WR/MIA | 23160 |
+| KC Concepcion | WR/CLE | 21294 |
+| Cyrus Allen | WR/KC | 21030 |
 
 
 ---
@@ -526,58 +536,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Jake Tonges | TE/SF | (unlisted) | Questionable |
-| Pierre Strong | RB/GB | (unlisted) | Questionable |
-| Travis Bell | DL/FA | IR | Questionable |
-| Da'Shawn Hand | DT/ATL | (unlisted) | Questionable |
-| CJ Daniels | WR/LAR | (unlisted) | Out |
-| Tua Tagovailoa | QB/ATL | (unlisted) | Questionable |
-| DJ Turner | DB/CIN | (unlisted) | Questionable |
-| Tutu Atwell | WR/LAR | (unlisted) | Out |
-| Kam Curl | DB/LAR | (unlisted) | Questionable |
-| De'Zhaun Stribling | WR/SF | (unlisted) | Out |
-| Bill Murray | DT/LAR | (unlisted) | Out |
-| Ben Sims | TE/MIA | IR | Questionable |
-| Kendal Daniels | LB/ATL | (unlisted) | Questionable |
-| Xavier Woods | DB/CHI | (unlisted) | Questionable |
-| Davis Allen | TE/LAR | (unlisted) | Questionable |
-| Ephesians Prysock | CB/SF | (unlisted) | Out |
-| Kurtis Rourke | QB/SF | (unlisted) | Out |
-| Ty Simpson | QB/LAR | (unlisted) | Out |
-| Shemar Stewart | DL/CIN | (unlisted) | Questionable |
-| Jordan Watkins | WR/SF | (unlisted) | Out |
-| Daron Payne | DT/WAS | (unlisted) | Questionable |
-| Jordan James | RB/SF | (unlisted) | Out |
-| Enrique Cruz | OL/SF | (unlisted) | Out |
-| Max Klare | TE/LAR | (unlisted) | Out |
-| Alfred Collins | DL/SF | Out | IR |
-| Jawaan Taylor | OL/ATL | (unlisted) | Questionable |
-| Tatum Bethune | LB/SF | (unlisted) | Out |
-| Brock Bowers | TE/LV | Doubtful | Out |
-| Riley Moss | DB/DEN | Questionable | (cleared) |
-| Sedrick Van Pran-Granger | OL/IND | Questionable | (cleared) |
-| Ashton Gillotte | DE/KC | Questionable | (cleared) |
-| RJ Mickens | DB/LAC | Questionable | (cleared) |
-| Rueben Bain | DL/TB | Questionable | (cleared) |
-| R Mason Thomas | DL/KC | Questionable | (cleared) |
-| AJ Haulcy | DB/IND | Questionable | (cleared) |
-| Jude Bowry | OT/BUF | Questionable | (cleared) |
-| Joe Mixon | RB/FA | Out | (cleared) |
-| Patrick Mahomes | QB/KC | Questionable | (cleared) |
-| Jordan Morgan | G/FA | Questionable | (cleared) |
-| Drue Tranquill | LB/KC | Questionable | (cleared) |
-| Alohi Gilman | DB/KC | Questionable | (cleared) |
-| L'Jarius Sneed | CB/KC | Questionable | (cleared) |
-| Kyle Hinton | G/ATL | Questionable | (cleared) |
-| Bobby Brown | DT/CAR | Questionable | (cleared) |
-| Trey Smith | OL/KC | Questionable | (cleared) |
-| Jaylen Watson | DB/LAR | Questionable | (cleared) |
-| Luke Wattenberg | OL/DEN | Questionable | (cleared) |
-| Drew Ogletree | TE/IND | Questionable | (cleared) |
-| Marvin Mims | WR/DEN | Questionable | (cleared) |
-| Zay Flowers | WR/BAL | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
