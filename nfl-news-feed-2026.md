@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-12 03:41 UTC_ · 405 items total · 396/405 matched to a player
+_Last updated: 2026-09-12 13:47 UTC_ · 405 items total · 396/405 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -510,41 +510,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Kaelon Black | RB/SF | 226604 |
-| Michael Mayer | TE/LV | 172800 |
-| Demarcus Robinson | WR/SF | 75528 |
-| Cooper Rush | QB/ATL | 69058 |
-| Chris Bell | WR/MIA | 68810 |
-| Tre Tucker | WR/LV | 50178 |
-| Darren Waller | TE/CAR | 31086 |
-| Devaughn Vele | WR/NO | 29883 |
-| Jalen Nailor | WR/LV | 21627 |
-| Malachi Fields | WR/NYG | 20630 |
-| Malik Davis | RB/DAL | 19449 |
-| Las Vegas Raiders | DEF/LV | 17232 |
-| Mack Hollins | WR/NE | 17118 |
-| Alvin Kamara | RB/NO | 17040 |
-| Jack Strand | QB/ATL | 16275 |
+| Kaelon Black | RB/SF | 163121 |
+| Michael Mayer | TE/LV | 141192 |
+| Cooper Rush | QB/ATL | 73624 |
+| Demarcus Robinson | WR/SF | 66012 |
+| Chris Bell | WR/MIA | 63098 |
+| Tre Tucker | WR/LV | 41772 |
+| Devaughn Vele | WR/NO | 26761 |
+| Darren Waller | TE/CAR | 24300 |
+| Malachi Fields | WR/NYG | 21795 |
+| Alvin Kamara | RB/NO | 19512 |
+| Jalen Nailor | WR/LV | 19107 |
+| Jack Strand | QB/ATL | 17305 |
+| Keaton Mitchell | RB/LAC | 17028 |
+| Mack Hollins | WR/NE | 16245 |
+| Darnell Mooney | WR/NYG | 15372 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Malik Davis | RB/DAL | 160902 |
-| Roschon Johnson | RB/CHI | 47160 |
-| Terrance Ferguson | TE/LAR | 44184 |
-| Michael Mayer | TE/LV | 24480 |
-| Romeo Doubs | WR/NE | 21840 |
-| Matthew Stafford | QB/LAR | 15030 |
-| Brenton Strange | TE/JAX | 14787 |
-| Chris Rodriguez | RB/JAX | 14616 |
-| Malik Washington | WR/MIA | 14120 |
-| De'Zhaun Stribling | WR/SF | 14007 |
-| Jake Tonges | TE/SF | 13990 |
-| Keaton Mitchell | RB/LAC | 13977 |
-| Alvin Kamara | RB/NO | 13656 |
-| Kenyon Sadiq | TE/NYJ | 12672 |
-| Darius Slayton | WR/FA | 12558 |
+| Malik Davis | RB/DAL | 203202 |
+| Roschon Johnson | RB/CHI | 43936 |
+| Terrance Ferguson | TE/LAR | 28832 |
+| Michael Mayer | TE/LV | 20736 |
+| Romeo Doubs | WR/NE | 16408 |
+| Brenton Strange | TE/JAX | 12951 |
+| Malik Washington | WR/MIA | 12024 |
+| Chris Rodriguez | RB/JAX | 11943 |
+| Keaton Mitchell | RB/LAC | 11583 |
+| Alvin Kamara | RB/NO | 11480 |
+| Darius Slayton | WR/FA | 11286 |
+| Jake Tonges | TE/SF | 10935 |
+| Cyrus Allen | WR/KC | 10758 |
+| Jaydon Blue | RB/PHI | 10592 |
+| Matthew Stafford | QB/LAR | 10566 |
 
 
 ---
@@ -555,71 +555,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Cameron Williams | OL/ATL | (unlisted) | Out |
-| Teddye Buchanan | LB/BAL | Questionable | Out |
-| Justin Skule | OT/TB | Questionable | Doubtful |
-| Nnamdi Madubuike | DT/BAL | Questionable | Out |
-| Dadrion Taylor-Demerson | DB/ARI | Questionable | Out |
-| Audric Estime | RB/NO | Questionable | Out |
-| Tua Tagovailoa | QB/ATL | Questionable | Out |
-| Jamari Thrash | WR/CLE | IR | Questionable |
-| Patrick Jones | DE/CAR | Questionable | Out |
-| Jalen McMillan | WR/TB | Questionable | Doubtful |
-| Sean Tucker | RB/TB | Questionable | Doubtful |
-| Jermar Jefferson | RB/MIN | IR | Questionable |
-| Malik Verdon | DB/ATL | IR | Questionable |
-| Billy Bowman | DB/ATL | Questionable | Out |
-| D'Angelo Ponds | DB/NYJ | Questionable | Doubtful |
-| Teven Jenkins | OL/CLE | Questionable | Out |
-| Tim Patrick | WR/NYJ | Questionable | Out |
-| A.J. Brown | WR/NE | Out | IR |
-| Deane Leonard | DB/LAC | Questionable | Out |
-| Cedric Gray | LB/TEN | Questionable | Out |
-| Jonathan Greenard | DE/PHI | Questionable | Out |
-| Chris Jones | DT/KC | (unlisted) | Questionable |
-| Shemar Stewart | DL/CIN | Questionable | Doubtful |
-| Garrett Williams | DB/ARI | Questionable | Out |
-| Kene Nwangwu | RB/NYJ | (unlisted) | Doubtful |
-| Kayden McDonald | DL/HOU | Questionable | IR |
-| Isaiah Adams | OL/ARI | Questionable | Out |
-| Joseph Ossai | DE/NYJ | Questionable | Out |
-| Austin Ajiake | LB/IND | (unlisted) | Questionable |
-| Warren Brinson | DL/GB | Questionable | Out |
-| Malik Davis | RB/DAL | (unlisted) | Out |
-| Oscar Delp | TE/NO | Questionable | Out |
-| Danny Gray | WR/PHI | (unlisted) | Questionable |
-| Xavier Thomas | DE/FA | Questionable | Sus |
-| DJ Turner | DB/CIN | Questionable | (cleared) |
-| Jonathon Brooks | RB/CAR | Questionable | (cleared) |
-| Brandon Dorlus | DE/ATL | Questionable | (cleared) |
-| Mekhi Wingo | DT/DET | Questionable | (cleared) |
-| Jacory Croskey-Merritt | RB/WAS | Questionable | (cleared) |
-| Barryn Sorrell | DE/GB | Questionable | (cleared) |
-| Ajani Cornelius | OL/DAL | Questionable | (cleared) |
-| Zachariah Branch | WR/ATL | Questionable | (cleared) |
-| Brenen Thompson | WR/LAC | Questionable | (cleared) |
-| Will Kacmarek | TE/MIA | Questionable | (cleared) |
-| Derrick Moore | DE/DET | Questionable | (cleared) |
-| Jakobe Thomas | DB/MIN | Questionable | (cleared) |
-| Caleb Tiernan | OT/MIN | Questionable | (cleared) |
-| Kendal Daniels | LB/ATL | Questionable | (cleared) |
-| Jacob Thomas | DB/MIN | Questionable | (cleared) |
-| Maliek Collins | DT/CLE | Questionable | (cleared) |
-| Javon Hargrave | DT/GB | Questionable | (cleared) |
-| Daron Payne | DT/WAS | Questionable | (cleared) |
-| Ronnie Harrison | DB/MIA | Questionable | (cleared) |
-| Da'Shawn Hand | DT/ATL | Questionable | (cleared) |
-| Jakobi Meyers | WR/JAX | Questionable | (cleared) |
-| Jawaan Taylor | OL/ATL | Questionable | (cleared) |
-| K'Lavon Chaisson | LB/WAS | Questionable | (cleared) |
-| Odafe Oweh | LB/WAS | Questionable | (cleared) |
-| Cole Van Lanen | OL/JAX | Questionable | (cleared) |
-| Alec Pierce | WR/IND | Questionable | (cleared) |
-| Devonte Wyatt | DL/GB | Questionable | (cleared) |
-| Obinna Eze | T/FA | Questionable | (cleared) |
-| Keaton Mitchell | RB/LAC | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
