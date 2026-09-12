@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-12 13:47 UTC_ · 405 items total · 396/405 matched to a player
+_Last updated: 2026-09-12 18:50 UTC_ · 409 items total · 400/409 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-09-12 13:47 UTC_ · 405 items total · 396/405 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-12 | Amon-Ra St. Brown | WR/DET | NEWS | 🔥 Schefter | The Lions and St. Brown agreed to a restructured contract Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
+| 2026-09-12 | Tucker Kraft | TE/GB | TRANSACTION | 🔥 Schefter | Kraft and the Packers reached an agreement on a four-year, $75 million contract extension worth up to $92 million Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tucker-kraft-16649)) | Rotowire |
+| 2026-09-12 | Michael Mayer | TE/LV | TRANSACTION | — | Mayer signed a three-year, $45 million contract extension with the Raiders on Saturday, Ian Rapoport of NFL.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-mayer-16666)) | Rotowire |
+| 2026-09-12 | Malik Davis | RB/DAL | INJURY | 🔥 Schefter | The Cowboys placed Davis (hip) on injured reserve Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-davis-15828)) | Rotowire |
 | 2026-09-11 | Malik Nabers | WR/NYG | INJURY | — | Nabers (knee) is listed as questionable for Sunday's game against the Cowboys, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-09-11 | Jakobi Meyers | WR/JAX | INJURY | — | Meyers (thumb) doesn't have an injury designation for Sunday's matchup with Cleveland, Mia O'Brien of ESPN Radio reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) | Rotowire |
 | 2026-09-11 | Jeremiyah Love | RB/ARI | INJURY | — | Love (ankle) is listed as questionable for Sunday's game at the Chargers, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
@@ -94,6 +98,10 @@ _Last updated: 2026-09-12 13:47 UTC_ · 405 items total · 396/405 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-12 | Amon-Ra St. Brown | WR/DET | NEWS | 🔥 Schefter | The Lions and St. Brown agreed to a restructured contract Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
+| 2026-09-12 | Tucker Kraft | TE/GB | TRANSACTION | 🔥 Schefter | Kraft and the Packers reached an agreement on a four-year, $75 million contract extension worth up to $92 million Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tucker-kraft-16649)) | Rotowire |
+| 2026-09-12 | Michael Mayer | TE/LV | TRANSACTION | — | Mayer signed a three-year, $45 million contract extension with the Raiders on Saturday, Ian Rapoport of NFL.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-mayer-16666)) | Rotowire |
+| 2026-09-12 | Malik Davis | RB/DAL | INJURY | 🔥 Schefter | The Cowboys placed Davis (hip) on injured reserve Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-davis-15828)) | Rotowire |
 | 2026-09-11 | Malik Nabers | WR/NYG | INJURY | — | Nabers (knee) is listed as questionable for Sunday's game against the Cowboys, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-09-11 | Jakobi Meyers | WR/JAX | INJURY | — | Meyers (thumb) doesn't have an injury designation for Sunday's matchup with Cleveland, Mia O'Brien of ESPN Radio reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) | Rotowire |
 | 2026-09-11 | Jeremiyah Love | RB/ARI | INJURY | — | Love (ankle) is listed as questionable for Sunday's game at the Chargers, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
@@ -510,41 +518,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Kaelon Black | RB/SF | 163121 |
-| Michael Mayer | TE/LV | 141192 |
-| Cooper Rush | QB/ATL | 73624 |
-| Demarcus Robinson | WR/SF | 66012 |
-| Chris Bell | WR/MIA | 63098 |
-| Tre Tucker | WR/LV | 41772 |
-| Devaughn Vele | WR/NO | 26761 |
-| Darren Waller | TE/CAR | 24300 |
-| Malachi Fields | WR/NYG | 21795 |
-| Alvin Kamara | RB/NO | 19512 |
-| Jalen Nailor | WR/LV | 19107 |
-| Jack Strand | QB/ATL | 17305 |
-| Keaton Mitchell | RB/LAC | 17028 |
-| Mack Hollins | WR/NE | 16245 |
-| Darnell Mooney | WR/NYG | 15372 |
+| Michael Mayer | TE/LV | 214299 |
+| Kaelon Black | RB/SF | 119518 |
+| Chris Bell | WR/MIA | 58653 |
+| Cooper Rush | QB/ATL | 57734 |
+| Demarcus Robinson | WR/SF | 56568 |
+| Tre Tucker | WR/LV | 37962 |
+| Malachi Fields | WR/NYG | 25955 |
+| Devaughn Vele | WR/NO | 25550 |
+| Alvin Kamara | RB/NO | 23680 |
+| Keaton Mitchell | RB/LAC | 20889 |
+| Darren Waller | TE/CAR | 20853 |
+| Darnell Mooney | WR/NYG | 17757 |
+| Justice Hill | RB/BAL | 17451 |
+| Jalen Nailor | WR/LV | 17289 |
+| Odell Beckham | WR/NYG | 14700 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Malik Davis | RB/DAL | 203202 |
-| Roschon Johnson | RB/CHI | 43936 |
-| Terrance Ferguson | TE/LAR | 28832 |
-| Michael Mayer | TE/LV | 20736 |
-| Romeo Doubs | WR/NE | 16408 |
-| Brenton Strange | TE/JAX | 12951 |
-| Malik Washington | WR/MIA | 12024 |
-| Chris Rodriguez | RB/JAX | 11943 |
-| Keaton Mitchell | RB/LAC | 11583 |
-| Alvin Kamara | RB/NO | 11480 |
-| Darius Slayton | WR/FA | 11286 |
-| Jake Tonges | TE/SF | 10935 |
-| Cyrus Allen | WR/KC | 10758 |
-| Jaydon Blue | RB/PHI | 10592 |
-| Matthew Stafford | QB/LAR | 10566 |
+| Malik Davis | RB/DAL | 269847 |
+| Roschon Johnson | RB/CHI | 40880 |
+| Terrance Ferguson | TE/LAR | 23536 |
+| Michael Mayer | TE/LV | 18207 |
+| Brenton Strange | TE/JAX | 13401 |
+| Romeo Doubs | WR/NE | 13192 |
+| Malik Washington | WR/MIA | 11136 |
+| Alvin Kamara | RB/NO | 10816 |
+| Chris Rodriguez | RB/JAX | 10404 |
+| Keaton Mitchell | RB/LAC | 10404 |
+| Cyrus Allen | WR/KC | 10278 |
+| Darius Slayton | WR/FA | 10110 |
+| Kenyon Sadiq | TE/NYJ | 10044 |
+| Oronde Gadsden | TE/LAC | 9900 |
+| Jaydon Blue | RB/PHI | 9832 |
 
 
 ---
@@ -641,7 +649,7 @@ _None since last run._
 | DJ Rogers | TE/DAL | IR | — | — |
 | Devin Moore | CB/DAL | IR | — | — |
 | Kelvin Gilliam | DT/DAL | IR | — | — |
-| Malik Davis | RB/DAL | Out | — | Davis is slated to have surgery on his injured hip Saturday and is expected to be placed on IR, Todd Archer of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-davis-15828)) |
+| Malik Davis | RB/DAL | Out | — | The Cowboys placed Davis (hip) on injured reserve Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-davis-15828)) |
 | Marist Liufau | LB/DAL | IR | — | — |
 | Matt Hennessy | OL/DAL | IR | — | — |
 | Princeton Fant | TE/DAL | IR | — | — |
