@@ -94,7 +94,7 @@
     "name": "Chamarri Conner",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "KC"
   },
   "10958": {
@@ -255,7 +255,7 @@
     "name": "Austin Ajiake",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "IND"
   },
   "11082": {
@@ -395,7 +395,7 @@
     "name": "Audric Estime",
     "pos": "RB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "NO"
   },
   "11589": {
@@ -466,7 +466,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "CLE"
+    "team": "FA"
   },
   "11636": {
     "name": "Johnny Wilson",
@@ -1102,7 +1102,7 @@
     "name": "Josh Simmons",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "KC"
   },
   "12560": {
@@ -1144,7 +1144,7 @@
     "name": "Cameron Williams",
     "pos": "OL",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ATL"
   },
   "12590": {
@@ -1453,7 +1453,7 @@
     "pos": "DB",
     "since": "",
     "status": "Questionable",
-    "team": "ATL"
+    "team": "FA"
   },
   "12902": {
     "name": "Ethan Downs",
@@ -1802,7 +1802,7 @@
     "name": "Eli Stowers",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "PHI"
   },
   "13352": {
@@ -2617,13 +2617,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "3558": {
-    "name": "Chris Jones",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "KC"
-  },
   "3832": {
     "name": "C.J. Ham",
     "pos": "FB",
@@ -2747,7 +2740,7 @@
     "name": "Tim Patrick",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "NYJ"
   },
   "44": {
@@ -2777,6 +2770,13 @@
     "since": "",
     "status": "Out",
     "team": "FA"
+  },
+  "4574": {
+    "name": "Cooper Rush",
+    "pos": "QB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
   },
   "4579": {
     "name": "Josh Banderas",
@@ -3786,6 +3786,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "7030": {
+    "name": "Casey Toohill",
+    "pos": "DE",
+    "since": "",
+    "status": "NA",
+    "team": "FA"
+  },
   "7034": {
     "name": "David Dowell",
     "pos": "S",
@@ -3987,7 +3994,7 @@
     "pos": "RB",
     "since": "",
     "status": "Questionable",
-    "team": "MIN"
+    "team": "FA"
   },
   "7625": {
     "name": "Joe Tryon-Shoyinka",
@@ -4091,7 +4098,7 @@
     "name": "Kene Nwangwu",
     "pos": "RB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "7725": {
@@ -4693,7 +4700,7 @@
     "name": "Malik Davis",
     "pos": "RB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "DAL"
   },
   "8801": {
