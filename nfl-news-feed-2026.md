@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-13 03:49 UTC_ · 414 items total · 405/414 matched to a player
+_Last updated: 2026-09-13 14:42 UTC_ · 419 items total · 410/419 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-13 03:49 UTC_ · 414 items total · 405/414 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-13 | Cooper Rush | QB/ATL | NEWS | 🔥 Schefter | Rush reported improvement after experiencing back spasms Saturday and remains on track to start the Falcons' season opener Sunday versus the Steelers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cooper-rush-11841)) | Rotowire |
+| 2026-09-13 | Michael Penix | QB/ATL | INJURY | — | Penix (knee) will be out for Sunday's season opener in Pittsburgh but is targeting Week 2 or 3 for his 2026 debut, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-09-13 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (ankle) is expected to miss at least one month after he was diagnosed Sunday with a deltoid sprain of his left ankle, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
+| 2026-09-13 | A.J. Brown | WR/NE | INJURY | — | Brown, who was officially placed on injured reserve Saturday, is expected to miss about six weeks due to a right high-ankle sprain, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
+| 2026-09-13 | Sam Darnold | QB/SEA | INJURY | — | Darnold is nursing a glute injury rather than a hip issue and is expected to miss next Sunday's game against the Cardinals, but he could return to action Week 3 versus the Commanders, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-12 | Patrick Mahomes | QB/KC | INJURY | — | Mahomes (knee) does not have an injury designation for Monday's game against the Broncos. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/patrick-mahomes-11839)) | Rotowire |
 | 2026-09-12 | Cooper Rush | QB/ATL | NEWS | 🔥 Schefter | Rush (back) experienced back spasms Saturday but still will start Sunday's game at Pittsburgh, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cooper-rush-11841)) | Rotowire |
 | 2026-09-12 | C.J. Stroud | QB/HOU | TRANSACTION | 🔥 Schefter | Stroud and the Texans will wait until after the 2026 season to work out a long-term contract extension, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cj-stroud-16886)) | Rotowire |
@@ -100,6 +105,11 @@ _Last updated: 2026-09-13 03:49 UTC_ · 414 items total · 405/414 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-13 | Cooper Rush | QB/ATL | NEWS | 🔥 Schefter | Rush reported improvement after experiencing back spasms Saturday and remains on track to start the Falcons' season opener Sunday versus the Steelers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cooper-rush-11841)) | Rotowire |
+| 2026-09-13 | Michael Penix | QB/ATL | INJURY | — | Penix (knee) will be out for Sunday's season opener in Pittsburgh but is targeting Week 2 or 3 for his 2026 debut, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
+| 2026-09-13 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (ankle) is expected to miss at least one month after he was diagnosed Sunday with a deltoid sprain of his left ankle, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
+| 2026-09-13 | A.J. Brown | WR/NE | INJURY | — | Brown, who was officially placed on injured reserve Saturday, is expected to miss about six weeks due to a right high-ankle sprain, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
+| 2026-09-13 | Sam Darnold | QB/SEA | INJURY | — | Darnold is nursing a glute injury rather than a hip issue and is expected to miss next Sunday's game against the Cardinals, but he could return to action Week 3 versus the Commanders, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-12 | Patrick Mahomes | QB/KC | INJURY | — | Mahomes (knee) does not have an injury designation for Monday's game against the Broncos. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/patrick-mahomes-11839)) | Rotowire |
 | 2026-09-12 | Cooper Rush | QB/ATL | NEWS | 🔥 Schefter | Rush (back) experienced back spasms Saturday but still will start Sunday's game at Pittsburgh, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cooper-rush-11841)) | Rotowire |
 | 2026-09-12 | C.J. Stroud | QB/HOU | TRANSACTION | 🔥 Schefter | Stroud and the Texans will wait until after the 2026 season to work out a long-term contract extension, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cj-stroud-16886)) | Rotowire |
@@ -525,41 +535,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 282366 |
-| Kaelon Black | RB/SF | 77294 |
-| Chris Bell | WR/MIA | 50484 |
-| Demarcus Robinson | WR/SF | 43986 |
-| Tre Tucker | WR/LV | 33870 |
-| Cooper Rush | QB/ATL | 33630 |
-| Malachi Fields | WR/NYG | 28360 |
-| Jack Strand | QB/ATL | 26105 |
-| Devaughn Vele | WR/NO | 24038 |
-| Alvin Kamara | RB/NO | 22856 |
-| Darren Waller | TE/CAR | 21078 |
-| Keaton Mitchell | RB/LAC | 20754 |
-| Darnell Mooney | WR/NYG | 20232 |
-| Odell Beckham | WR/NYG | 17178 |
-| Justice Hill | RB/BAL | 16902 |
+| Michael Mayer | TE/LV | 360072 |
+| Kaelon Black | RB/SF | 74018 |
+| Chris Bell | WR/MIA | 62307 |
+| Demarcus Robinson | WR/SF | 47106 |
+| Tre Tucker | WR/LV | 42330 |
+| Malachi Fields | WR/NYG | 39535 |
+| Jack Strand | QB/ATL | 32045 |
+| Devaughn Vele | WR/NO | 31122 |
+| Cooper Rush | QB/ATL | 28132 |
+| Darren Waller | TE/CAR | 27648 |
+| Darnell Mooney | WR/NYG | 27504 |
+| Las Vegas Raiders | DEF/LV | 26838 |
+| Keaton Mitchell | RB/LAC | 25983 |
+| Alvin Kamara | RB/NO | 23360 |
+| Odell Beckham | WR/NYG | 22106 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Malik Davis | RB/DAL | 222399 |
-| Roschon Johnson | RB/CHI | 34352 |
-| Terrance Ferguson | TE/LAR | 18416 |
-| Brenton Strange | TE/JAX | 16002 |
-| Michael Mayer | TE/LV | 14742 |
-| Romeo Doubs | WR/NE | 11240 |
-| Kenyon Sadiq | TE/NYJ | 10962 |
-| Alvin Kamara | RB/NO | 10520 |
-| Malik Washington | WR/MIA | 10336 |
-| Oronde Gadsden | TE/LAC | 10145 |
-| Cyrus Allen | WR/KC | 10002 |
-| Keaton Mitchell | RB/LAC | 9936 |
-| Darren Waller | TE/CAR | 9765 |
-| Chris Rodriguez | RB/JAX | 9369 |
-| Detroit Lions | DEF/DET | 9243 |
+| Malik Davis | RB/DAL | 231948 |
+| Roschon Johnson | RB/CHI | 43008 |
+| Brenton Strange | TE/JAX | 22068 |
+| Terrance Ferguson | TE/LAR | 20936 |
+| Michael Mayer | TE/LV | 18675 |
+| Alvin Kamara | RB/NO | 15752 |
+| Kenyon Sadiq | TE/NYJ | 14913 |
+| Detroit Lions | DEF/DET | 14643 |
+| Oronde Gadsden | TE/LAC | 14180 |
+| Romeo Doubs | WR/NE | 13888 |
+| Malik Washington | WR/MIA | 13240 |
+| Cyrus Allen | WR/KC | 13104 |
+| Chris Rodriguez | RB/JAX | 12726 |
+| Keaton Mitchell | RB/LAC | 12618 |
+| Darren Waller | TE/CAR | 12240 |
 
 
 ---
@@ -572,18 +582,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Cameron Williams | OL/ATL | Out | IR |
-| Audric Estime | RB/NO | Out | IR |
-| Casey Toohill | DE/FA | (unlisted) | NA |
-| Josh Simmons | OL/KC | Questionable | Out |
-| Cooper Rush | QB/ATL | (unlisted) | Questionable |
-| Chamarri Conner | DB/KC | Questionable | Out |
-| Eli Stowers | TE/PHI | Questionable | IR |
-| Tim Patrick | WR/NYJ | Out | IR |
-| Kene Nwangwu | RB/NYJ | Doubtful | Out |
-| Austin Ajiake | LB/IND | Questionable | Out |
-| Malik Davis | RB/DAL | Out | IR |
-| Chris Jones | DT/KC | Questionable | (cleared) |
+| Cooper Rush | QB/ATL | Questionable | (cleared) |
 
 **Full current report**
 
@@ -605,12 +604,11 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Beaux Collins | WR/ATL | IR | — | — |
 | Billy Bowman | DB/ATL | Out | — | — |
 | Cameron Williams | OL/ATL | IR | — | — |
-| Cooper Rush | QB/ATL | Questionable | — | Rush (back) experienced back spasms Saturday but still will start Sunday's game at Pittsburgh, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cooper-rush-11841)) |
 | DeAngelo Malone | DL/ATL | PUP | — | — |
 | JD Bertrand | LB/ATL | IR | — | — |
 | Jalon Walker | DL/ATL | IR | — | — |
 | James Pearce | DL/ATL | Sus | — | — |
-| Michael Penix | QB/ATL | Out | — | Falcons head coach Kevin Stefanski said that Penix (knee) will be inactive for Sunday's season opener in Pittsburgh, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) |
+| Michael Penix | QB/ATL | Out | — | Penix (knee) will be out for Sunday's season opener in Pittsburgh but is targeting Week 2 or 3 for his 2026 debut, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) |
 | Storm Norton | T/ATL | PUP | — | — |
 | Trey Sermon | RB/ATL | IR | — | — |
 | Tua Tagovailoa | QB/ATL | Out | — | Tagovailoa touched his back and sat down briefly during individual drills Thursday, then wasn't seen throwing again during the portion of practice open to media, Marc Raimondi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) |
@@ -1150,7 +1148,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Taki Taimani | DL/MIN | IR | — | — |
 | Tyler Batty | DL/MIN | IR | — | — |
 | Tyreek Chappell | CB/MIN | IR | — | — |
-| A.J. Brown | WR/NE | IR | — | Brown is expected to miss four weeks with the ankle injury he suffered in Monday night's loss to the Seahawks, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) |
+| A.J. Brown | WR/NE | IR | — | Brown, who was officially placed on injured reserve Saturday, is expected to miss about six weeks due to a right high-ankle sprain, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) |
 | Behren Morton | QB/NE | Out | — | — |
 | Ben Brown | OG/NE | Out | — | — |
 | Brenden Schooler | DB/NE | PUP | — | — |
@@ -1222,7 +1220,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Nick Kallerup | TE/SEA | Out | — | — |
 | Power Echols | LB/SEA | Questionable | — | — |
 | Robbie Ouzts | RB/SEA | IR | — | — |
-| Sam Darnold | QB/SEA | Out | — | Darnold (hip) is expected to miss some time due to the hip injury he sustained in Wednesday's 13-10 win over the Patriots, but the Seahawks believe their starting quarterback has "dodged a bullet," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
+| Sam Darnold | QB/SEA | Out | — | Darnold is nursing a glute injury rather than a hip issue and is expected to miss next Sunday's game against the Cardinals, but he could return to action Week 3 versus the Commanders, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
 | Terrion Arnold | DB/SEA | NA | — | — |
 | Tory Horton | WR/SEA | Out | — | — |
 | Ty Okada | DB/SEA | Out | — | — |
@@ -1234,7 +1232,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Brett Toth | OL/SF | IR | — | — |
 | Christian Kirk | WR/SF | IR | — | — |
 | Darrick Forrest | DB/SF | IR | — | — |
-| De'Zhaun Stribling | WR/SF | Out | — | Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) |
+| De'Zhaun Stribling | WR/SF | Out | — | Stribling (ankle) is expected to miss at least one month after he was diagnosed Sunday with a deltoid sprain of his left ankle, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) |
 | Enrique Cruz | OL/SF | Out | — | — |
 | Ephesians Prysock | CB/SF | Out | — | — |
 | Isaac Guerendo | RB/SF | PUP | — | — |
