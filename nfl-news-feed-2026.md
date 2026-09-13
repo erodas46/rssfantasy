@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-13 14:42 UTC_ · 419 items total · 410/419 matched to a player
+_Last updated: 2026-09-13 19:02 UTC_ · 424 items total · 415/424 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-13 14:42 UTC_ · 419 items total · 410/419 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-13 | Rome Odunze | WR/CHI | NEWS | — | Odunze (calf) is active for Sunday's game against the Panthers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-13 | Alvin Kamara | RB/NO | NEWS | — | Kamara (knee) is inactive for Sunday's game against the Lions, Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
+| 2026-09-13 | Dylan Sampson | RB/CLE | INJURY | — | Sampson (knee) has been downgraded to out for Sunday's game against the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) | Rotowire |
+| 2026-09-13 | Brian Thomas | WR/JAX | INJURY | — | Thomas is questionable to return to Sunday's game against the Browns due to a shoulder injury. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
+| 2026-09-13 | Zay Flowers | WR/BAL | INJURY | — | Flowers is questionable to return to Sunday's game against the .Colts due to a hamstring injury, Ryan Mink of the Ravens' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-13 | Cooper Rush | QB/ATL | NEWS | 🔥 Schefter | Rush reported improvement after experiencing back spasms Saturday and remains on track to start the Falcons' season opener Sunday versus the Steelers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cooper-rush-11841)) | Rotowire |
 | 2026-09-13 | Michael Penix | QB/ATL | INJURY | — | Penix (knee) will be out for Sunday's season opener in Pittsburgh but is targeting Week 2 or 3 for his 2026 debut, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-13 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (ankle) is expected to miss at least one month after he was diagnosed Sunday with a deltoid sprain of his left ankle, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
@@ -105,6 +110,11 @@ _Last updated: 2026-09-13 14:42 UTC_ · 419 items total · 410/419 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-13 | Rome Odunze | WR/CHI | NEWS | — | Odunze (calf) is active for Sunday's game against the Panthers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-09-13 | Alvin Kamara | RB/NO | NEWS | — | Kamara (knee) is inactive for Sunday's game against the Lions, Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
+| 2026-09-13 | Dylan Sampson | RB/CLE | INJURY | — | Sampson (knee) has been downgraded to out for Sunday's game against the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) | Rotowire |
+| 2026-09-13 | Brian Thomas | WR/JAX | INJURY | — | Thomas is questionable to return to Sunday's game against the Browns due to a shoulder injury. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
+| 2026-09-13 | Zay Flowers | WR/BAL | INJURY | — | Flowers is questionable to return to Sunday's game against the .Colts due to a hamstring injury, Ryan Mink of the Ravens' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-13 | Cooper Rush | QB/ATL | NEWS | 🔥 Schefter | Rush reported improvement after experiencing back spasms Saturday and remains on track to start the Falcons' season opener Sunday versus the Steelers, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cooper-rush-11841)) | Rotowire |
 | 2026-09-13 | Michael Penix | QB/ATL | INJURY | — | Penix (knee) will be out for Sunday's season opener in Pittsburgh but is targeting Week 2 or 3 for his 2026 debut, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-13 | De'Zhaun Stribling | WR/SF | INJURY | — | Stribling (ankle) is expected to miss at least one month after he was diagnosed Sunday with a deltoid sprain of his left ankle, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) | Rotowire |
@@ -535,41 +545,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 360072 |
-| Kaelon Black | RB/SF | 74018 |
-| Chris Bell | WR/MIA | 62307 |
-| Demarcus Robinson | WR/SF | 47106 |
-| Tre Tucker | WR/LV | 42330 |
-| Malachi Fields | WR/NYG | 39535 |
-| Jack Strand | QB/ATL | 32045 |
-| Devaughn Vele | WR/NO | 31122 |
-| Cooper Rush | QB/ATL | 28132 |
-| Darren Waller | TE/CAR | 27648 |
-| Darnell Mooney | WR/NYG | 27504 |
-| Las Vegas Raiders | DEF/LV | 26838 |
-| Keaton Mitchell | RB/LAC | 25983 |
-| Alvin Kamara | RB/NO | 23360 |
-| Odell Beckham | WR/NYG | 22106 |
+| Michael Mayer | TE/LV | 423378 |
+| Chris Bell | WR/MIA | 96999 |
+| Kaelon Black | RB/SF | 96586 |
+| Malachi Fields | WR/NYG | 86785 |
+| Darnell Mooney | WR/NYG | 66825 |
+| Tre Tucker | WR/LV | 65232 |
+| Demarcus Robinson | WR/SF | 63366 |
+| Las Vegas Raiders | DEF/LV | 55872 |
+| Darren Waller | TE/CAR | 49896 |
+| Devaughn Vele | WR/NO | 49357 |
+| Keaton Mitchell | RB/LAC | 46836 |
+| Odell Beckham | WR/NYG | 45346 |
+| Jack Strand | QB/ATL | 39100 |
+| Matt Gay | K/LV | 34380 |
+| Justice Hill | RB/BAL | 33921 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Malik Davis | RB/DAL | 231948 |
-| Roschon Johnson | RB/CHI | 43008 |
-| Brenton Strange | TE/JAX | 22068 |
-| Terrance Ferguson | TE/LAR | 20936 |
-| Michael Mayer | TE/LV | 18675 |
-| Alvin Kamara | RB/NO | 15752 |
-| Kenyon Sadiq | TE/NYJ | 14913 |
-| Detroit Lions | DEF/DET | 14643 |
-| Oronde Gadsden | TE/LAC | 14180 |
-| Romeo Doubs | WR/NE | 13888 |
-| Malik Washington | WR/MIA | 13240 |
-| Cyrus Allen | WR/KC | 13104 |
-| Chris Rodriguez | RB/JAX | 12726 |
-| Keaton Mitchell | RB/LAC | 12618 |
-| Darren Waller | TE/CAR | 12240 |
+| Malik Davis | RB/DAL | 246771 |
+| Roschon Johnson | RB/CHI | 61064 |
+| Alvin Kamara | RB/NO | 34752 |
+| Michael Mayer | TE/LV | 34317 |
+| Brenton Strange | TE/JAX | 31572 |
+| Terrance Ferguson | TE/LAR | 27112 |
+| Romeo Doubs | WR/NE | 25752 |
+| KC Concepcion | WR/CLE | 24057 |
+| Detroit Lions | DEF/DET | 23049 |
+| Oronde Gadsden | TE/LAC | 23010 |
+| Chris Rodriguez | RB/JAX | 21870 |
+| Kenyon Sadiq | TE/NYJ | 20448 |
+| Darren Waller | TE/CAR | 19548 |
+| Malik Washington | WR/MIA | 19400 |
+| Keaton Mitchell | RB/LAC | 19386 |
 
 
 ---
@@ -580,9 +590,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Cooper Rush | QB/ATL | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -647,7 +655,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Nikola Kalinic | TE/CHI | IR | — | — |
 | Noah Sewell | LB/CHI | PUP | — | — |
 | Ozzy Trapilo | OL/CHI | Questionable | — | — |
-| Rome Odunze | WR/CHI | Questionable | — | Odunze (calf) is listed as questionable for Sunday's game at Carolina. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) |
+| Rome Odunze | WR/CHI | Questionable | — | Odunze (calf) is active for Sunday's game against the Panthers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) |
 | Shemar Turner | DE/CHI | PUP | — | — |
 | Tony Fields | LB/CHI | IR | — | — |
 | Tyson Bagent | QB/CHI | Questionable | — | — |
@@ -1163,7 +1171,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Myles Montgomery | RB/NE | IR | — | — |
 | TreVeyon Henderson | RB/NE | Out | — | Henderson (ankle) remained sidelined at Monday's practice, Mike Kadlick of Sports Illustrated reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Walter Rouse | OL/NE | Out | — | — |
-| Alvin Kamara | RB/NO | Questionable | — | Kamara (knee) avoided a major injury but "will be out for a few weeks," Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
+| Alvin Kamara | RB/NO | Questionable | — | Kamara (knee) is inactive for Sunday's game against the Lions, Nick Underhill of NewOrleans.Football reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
 | Audric Estime | RB/NO | IR | — | — |
 | Bryan Bresee | DT/NO | IR | — | — |
 | Cameron Jordan | DE/NO | Out | — | — |
