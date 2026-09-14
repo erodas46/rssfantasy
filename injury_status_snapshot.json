@@ -1098,6 +1098,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "12140": {
+    "name": "Omar Speights",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
   "12141": {
     "name": "Justin Dedich",
     "pos": "OL",
@@ -3128,13 +3135,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "1395": {
-    "name": "Shawn Williams",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
-    "team": "FA"
-  },
   "13951": {
     "name": "Nathan Voorhis",
     "pos": "DE",
@@ -4654,13 +4654,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "7046": {
-    "name": "J.R. Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
-    "team": "FA"
-  },
   "7053": {
     "name": "Daniel Thomas",
     "pos": "DB",
@@ -5591,6 +5584,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "8659": {
+    "name": "Nate Landman",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
   },
   "8666": {
     "name": "Darrell Baker",
