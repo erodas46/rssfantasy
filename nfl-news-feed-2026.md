@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-14 16:39 UTC_ · 434 items total · 425/434 matched to a player
+_Last updated: 2026-09-14 20:39 UTC_ · 439 items total · 430/439 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-14 16:39 UTC_ · 434 items total · 425/434 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-14 | Kyler Murray | QB/MIN | INJURY | — | Head coach Kevin O'Connell said Monday that Murray is in concussion protocol and will be evaluated day by day leading up Sunday's road game in Chicago, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
+| 2026-09-14 | Jordan Mason | RB/MIN | INJURY | — | Vikings head coach Kevin O'Connell said Monday that Mason is being further evaluated after experiencing thumb soreness coming out of Sunday's 39-22 win over the Packers, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) | Rotowire |
+| 2026-09-14 | Zay Flowers | WR/BAL | INJURY | — | Ravens head coach Jesse Minter said Monday that Flowers (hamstring) is considered day-to-day, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-09-14 | Ja'Kobi Lane | WR/BAL | INJURY | — | Ravens head coach Jesse Minter said that Lane will receive second and third medical opinions on his injured wrist this week before a timeline for his return is established, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) | Rotowire |
+| 2026-09-14 | Brock Bowers | TE/LV | NEWS | — | Raiders head coach Klint Kubiak labeled Bowers (knee) as day-to-day Monday, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
 | 2026-09-14 | Zay Flowers | WR/BAL | INJURY | — | The Ravens are viewing Flowers as day-to-day after he sustained a left hamstring injury in Sunday's 41-23 win over the Colts that isn't considered serious, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-14 | TreVeyon Henderson | RB/NE | NEWS | — | Coach Mike Vrabel said Henderson (ankle) will practice Monday, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-13 | Jaxson Dart | QB/NYG | NEWS | — | Dart completed 23 of 29 passes for 230 yards and three touchdowns in Sunday's 28-20 win over the Cowboys. He also rushed 11 times for 54 yards. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) | Rotowire |
@@ -115,6 +120,11 @@ _Last updated: 2026-09-14 16:39 UTC_ · 434 items total · 425/434 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-14 | Kyler Murray | QB/MIN | INJURY | — | Head coach Kevin O'Connell said Monday that Murray is in concussion protocol and will be evaluated day by day leading up Sunday's road game in Chicago, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
+| 2026-09-14 | Jordan Mason | RB/MIN | INJURY | — | Vikings head coach Kevin O'Connell said Monday that Mason is being further evaluated after experiencing thumb soreness coming out of Sunday's 39-22 win over the Packers, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) | Rotowire |
+| 2026-09-14 | Zay Flowers | WR/BAL | INJURY | — | Ravens head coach Jesse Minter said Monday that Flowers (hamstring) is considered day-to-day, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-09-14 | Ja'Kobi Lane | WR/BAL | INJURY | — | Ravens head coach Jesse Minter said that Lane will receive second and third medical opinions on his injured wrist this week before a timeline for his return is established, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) | Rotowire |
+| 2026-09-14 | Brock Bowers | TE/LV | NEWS | — | Raiders head coach Klint Kubiak labeled Bowers (knee) as day-to-day Monday, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
 | 2026-09-14 | Zay Flowers | WR/BAL | INJURY | — | The Ravens are viewing Flowers as day-to-day after he sustained a left hamstring injury in Sunday's 41-23 win over the Colts that isn't considered serious, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-14 | TreVeyon Henderson | RB/NE | NEWS | — | Coach Mike Vrabel said Henderson (ankle) will practice Monday, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-09-13 | Jaxson Dart | QB/NYG | NEWS | — | Dart completed 23 of 29 passes for 230 yards and three touchdowns in Sunday's 28-20 win over the Cowboys. He also rushed 11 times for 54 yards. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) | Rotowire |
@@ -560,41 +570,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devaughn Vele | WR/NO | 860678 |
-| Mike Gesicki | TE/CIN | 289144 |
-| Caleb Douglas | WR/MIA | 287608 |
-| Carson Wentz | QB/MIN | 248706 |
-| Bryce Young | QB/CAR | 230496 |
-| Kaelon Black | RB/SF | 222117 |
-| Devin Singletary | RB/NYG | 219996 |
-| Michael Mayer | TE/LV | 218799 |
-| Dontayvion Wicks | WR/PHI | 161790 |
-| Tampa Bay Buccaneers | DEF/TB | 144495 |
-| Tyler Shough | QB/NO | 136616 |
-| San Francisco 49ers | DEF/SF | 112641 |
-| Malachi Fields | WR/NYG | 91980 |
-| Jalen Coker | WR/CAR | 84333 |
-| Kenyon Sadiq | TE/NYJ | 77490 |
+| Devaughn Vele | WR/NO | 923930 |
+| Caleb Douglas | WR/MIA | 377432 |
+| Carson Wentz | QB/MIN | 299448 |
+| Devin Singletary | RB/NYG | 294138 |
+| Mike Gesicki | TE/CIN | 253724 |
+| Kaelon Black | RB/SF | 231259 |
+| Bryce Young | QB/CAR | 222140 |
+| Dontayvion Wicks | WR/PHI | 178119 |
+| Tampa Bay Buccaneers | DEF/TB | 165995 |
+| Tyler Shough | QB/NO | 149272 |
+| San Francisco 49ers | DEF/SF | 134634 |
+| Michael Mayer | TE/LV | 88083 |
+| Jalen Coker | WR/CAR | 78612 |
+| Kyle Monangai | RB/CHI | 69576 |
+| Kendrick Bourne | WR/ARI | 65205 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Kyler Murray | QB/MIN | 295816 |
-| MarShawn Lloyd | RB/GB | 159156 |
-| Jordan Addison | WR/MIN | 127422 |
-| Chris Rodriguez | RB/JAX | 119898 |
-| Malik Davis | RB/DAL | 114003 |
-| Roschon Johnson | RB/CHI | 109064 |
-| Romeo Doubs | WR/NE | 104592 |
-| Jayden Reed | WR/GB | 93645 |
-| KC Concepcion | WR/CLE | 93222 |
-| Tre Tucker | WR/LV | 92100 |
-| Kenny Gainwell | RB/TB | 90656 |
-| Kyle Pitts | TE/ATL | 90370 |
-| Malik Washington | WR/MIA | 85760 |
-| Jacksonville Jaguars | DEF/JAX | 83682 |
-| Jalen Nailor | WR/LV | 82692 |
+| Kyler Murray | QB/MIN | 326936 |
+| MarShawn Lloyd | RB/GB | 180495 |
+| Jordan Addison | WR/MIN | 144072 |
+| Chris Rodriguez | RB/JAX | 115884 |
+| Jayden Reed | WR/GB | 104994 |
+| Tre Tucker | WR/LV | 102750 |
+| Jacksonville Jaguars | DEF/JAX | 98574 |
+| Roschon Johnson | RB/CHI | 97592 |
+| Romeo Doubs | WR/NE | 94760 |
+| Malik Washington | WR/MIA | 90112 |
+| Kenny Gainwell | RB/TB | 89816 |
+| Jalen Nailor | WR/LV | 89505 |
+| Keaton Mitchell | RB/LAC | 86103 |
+| Kyle Pitts | TE/ATL | 83692 |
+| KC Concepcion | WR/CLE | 83016 |
 
 
 ---
@@ -605,12 +615,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Nate Landman | LB/LAR | (unlisted) | Questionable |
-| Omar Speights | LB/LAR | (unlisted) | Questionable |
-| Shawn Williams | DB/FA | Out | (cleared) |
-| J.R. Reed | DB/FA | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -655,14 +660,14 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Devontez Walker | WR/BAL | Out | — | — |
 | Elijah Sarratt | WR/BAL | Out | — | — |
 | Emery Jones | OL/BAL | Out | — | — |
-| Ja'Kobi Lane | WR/BAL | Out | — | Lane has been the buzz of Ravens training camp over the first couple weeks, Ryan Mink of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) |
+| Ja'Kobi Lane | WR/BAL | Out | — | Ravens head coach Jesse Minter said that Lane will receive second and third medical opinions on his injured wrist this week before a timeline for his return is established, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-lane-19230)) |
 | Jahquez Robinson | DB/BAL | IR | — | — |
 | Joe Fagnano | QB/BAL | Out | — | — |
 | Nnamdi Madubuike | DT/BAL | Out | — | — |
 | Skylar Thompson | QB/BAL | IR | — | — |
 | T.J. Tampa | DB/BAL | Questionable | — | — |
 | Teddye Buchanan | LB/BAL | Out | — | — |
-| Zay Flowers | WR/BAL | Out | — | The Ravens are viewing Flowers as day-to-day after he sustained a left hamstring injury in Sunday's 41-23 win over the Colts that isn't considered serious, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
+| Zay Flowers | WR/BAL | Out | — | Ravens head coach Jesse Minter said Monday that Flowers (hamstring) is considered day-to-day, Sam Cohn of The Baltimore Sun reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
 | Cole Bishop | DB/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Jalon Kilgore | CB/BUF | Out | — | — |
@@ -1233,7 +1238,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ty Simpson | QB/LAR | Out | — | Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-simpson-19275)) |
 | Aidan O'Connell | QB/LV | Out | — | — |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Out | — | Raiders coach Klint Kubiak confirmed Friday that Bowers (knee) won't play Sunday against Miami, but Kubiak did say the tight end "will be back soon," per Levi Edwards of Raiders.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
+| Brock Bowers | TE/LV | Out | — | Raiders head coach Klint Kubiak labeled Bowers (knee) as day-to-day Monday, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Bryce Cabeldue | OT/LV | Out | — | — |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
@@ -1273,7 +1278,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jakobe Thomas | DB/MIN | Out | — | — |
 | Jamal Adams | SS/MIN | IR | — | — |
 | Jeshaun Jones | WR/MIN | Sus | — | — |
-| Kyler Murray | QB/MIN | Out | — | Murray isn't expected to suit up for Saturday's preseason game against the Ravens, Kevin Seifert of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) |
+| Kyler Murray | QB/MIN | Out | — | Head coach Kevin O'Connell said Monday that Murray is in concussion protocol and will be evaluated day by day leading up Sunday's road game in Chicago, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) |
 | Michael Jurgens | OL/MIN | IR | — | — |
 | Naquan Jones | DT/MIN | Questionable | — | — |
 | Nick Samac | C/MIN | Out | — | — |
