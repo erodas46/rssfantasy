@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-15 03:56 UTC_ · 444 items total · 435/444 matched to a player
+_Last updated: 2026-09-15 15:18 UTC_ · 449 items total · 440/449 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-15 03:56 UTC_ · 444 items total · 435/444 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold (glute) is "looking at about a four-week return to play" but could return "a little bit sooner than that," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-09-15 | Omar Cooper | WR/NYJ | NEWS | — | Cooper (ankle) is "week-to-week," and the hope is he returns "within the next four weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
+| 2026-09-14 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 28 passes for 131 yards with one touchdown and one interception while adding three carries for two yards in the Broncos' 31-10 loss to the Chiefs on Monday night. He also committed three fumbles, losing one and recovering one of the two others that remained... ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
+| 2026-09-14 | Travis Kelce | TE/KC | NEWS | — | Kelce brought in three of five targets for 71 yards in the Chiefs' 31-10 win over the Broncos on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-kelce-8783)) | Rotowire |
+| 2026-09-14 | Xavier Worthy | WR/KC | NEWS | — | Worthy secured three of six targets for 18 yards in the Chiefs' 31-10 win over the Broncos on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-worthy-17687)) | Rotowire |
 | 2026-09-14 | Sam Darnold | QB/SEA | INJURY | — | Darnold (glute) is dealing with a "very unique" soft-tissue injury, but his hip joint is unaffected, and the issue is considered short term, Brady Henderson of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-14 | Kenneth Walker | RB/KC | NEWS | — | Walker rushed 23 times for 173 yards and a touchdown and brought in three of six targets for 18 yards and another score in the Chiefs' 31-10 win over the Broncos on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
 | 2026-09-14 | Jaylen Waddle | WR/DEN | NEWS | — | Waddle brought in one of three targets for two yards in the Broncos' 31-10 loss to the Chiefs on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
@@ -106,6 +111,11 @@ _Last updated: 2026-09-15 03:56 UTC_ · 444 items total · 435/444 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold (glute) is "looking at about a four-week return to play" but could return "a little bit sooner than that," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-09-15 | Omar Cooper | WR/NYJ | NEWS | — | Cooper (ankle) is "week-to-week," and the hope is he returns "within the next four weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
+| 2026-09-14 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 28 passes for 131 yards with one touchdown and one interception while adding three carries for two yards in the Broncos' 31-10 loss to the Chiefs on Monday night. He also committed three fumbles, losing one and recovering one of the two others that remained... ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
+| 2026-09-14 | Travis Kelce | TE/KC | NEWS | — | Kelce brought in three of five targets for 71 yards in the Chiefs' 31-10 win over the Broncos on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-kelce-8783)) | Rotowire |
+| 2026-09-14 | Xavier Worthy | WR/KC | NEWS | — | Worthy secured three of six targets for 18 yards in the Chiefs' 31-10 win over the Broncos on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-worthy-17687)) | Rotowire |
 | 2026-09-14 | Sam Darnold | QB/SEA | INJURY | — | Darnold (glute) is dealing with a "very unique" soft-tissue injury, but his hip joint is unaffected, and the issue is considered short term, Brady Henderson of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-14 | Kenneth Walker | RB/KC | NEWS | — | Walker rushed 23 times for 173 yards and a touchdown and brought in three of six targets for 18 yards and another score in the Chiefs' 31-10 win over the Broncos on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
 | 2026-09-14 | Jaylen Waddle | WR/DEN | NEWS | — | Waddle brought in one of three targets for two yards in the Broncos' 31-10 loss to the Chiefs on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
@@ -561,41 +571,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devaughn Vele | WR/NO | 944321 |
-| Caleb Douglas | WR/MIA | 487424 |
-| Devin Singletary | RB/NYG | 467334 |
-| Kaelon Black | RB/SF | 276374 |
-| Carson Wentz | QB/MIN | 271980 |
-| Mike Gesicki | TE/CIN | 213960 |
-| Tampa Bay Buccaneers | DEF/TB | 202025 |
-| Bryce Young | QB/CAR | 168896 |
-| Pat Bryant | WR/DEN | 161976 |
-| San Francisco 49ers | DEF/SF | 156525 |
-| Tyler Shough | QB/NO | 126640 |
-| Dontayvion Wicks | WR/PHI | 113733 |
-| Emmett Johnson | RB/KC | 86895 |
-| Kendrick Bourne | WR/ARI | 72057 |
-| Jalen Coker | WR/CAR | 67327 |
+| Devaughn Vele | WR/NO | 1829548 |
+| Caleb Douglas | WR/MIA | 1082040 |
+| Devin Singletary | RB/NYG | 893862 |
+| Tampa Bay Buccaneers | DEF/TB | 715600 |
+| Kaelon Black | RB/SF | 636622 |
+| Carson Wentz | QB/MIN | 463878 |
+| San Francisco 49ers | DEF/SF | 426933 |
+| Mike Gesicki | TE/CIN | 314128 |
+| Pat Bryant | WR/DEN | 257168 |
+| Bryce Young | QB/CAR | 253052 |
+| Dontayvion Wicks | WR/PHI | 206337 |
+| Raheim Sanders | RB/CLE | 201184 |
+| Tyler Shough | QB/NO | 182664 |
+| Emmett Johnson | RB/KC | 175842 |
+| Evan Engram | TE/DEN | 156312 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Kyler Murray | QB/MIN | 216288 |
-| MarShawn Lloyd | RB/GB | 157383 |
-| Jordan Addison | WR/MIN | 121923 |
-| Jacksonville Jaguars | DEF/JAX | 119448 |
-| Chris Rodriguez | RB/JAX | 107460 |
-| Tre Tucker | WR/LV | 96924 |
-| Roschon Johnson | RB/CHI | 90960 |
-| Jalen Nailor | WR/LV | 90414 |
-| Kenny Gainwell | RB/TB | 88896 |
-| Jayden Reed | WR/GB | 85761 |
-| Keaton Mitchell | RB/LAC | 85356 |
-| KC Concepcion | WR/CLE | 80082 |
-| Romeo Doubs | WR/NE | 76576 |
-| Michael Mayer | TE/LV | 74394 |
-| Chris Bell | WR/MIA | 72814 |
+| Jacksonville Jaguars | DEF/JAX | 349746 |
+| Kyler Murray | QB/MIN | 310944 |
+| Detroit Lions | DEF/DET | 212814 |
+| MarShawn Lloyd | RB/GB | 202428 |
+| Las Vegas Raiders | DEF/LV | 172218 |
+| Michael Mayer | TE/LV | 169524 |
+| Chris Rodriguez | RB/JAX | 159552 |
+| Jalen Nailor | WR/LV | 157671 |
+| Roschon Johnson | RB/CHI | 156992 |
+| Tre Tucker | WR/LV | 154026 |
+| Jordan Addison | WR/MIN | 153036 |
+| Kenny Gainwell | RB/TB | 135176 |
+| Keaton Mitchell | RB/LAC | 130302 |
+| KC Concepcion | WR/CLE | 123651 |
+| Malik Davis | RB/DAL | 122175 |
 
 
 ---
@@ -606,28 +616,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Mansoor Delane | DB/KC | (unlisted) | Out |
-| Kage Casey | OT/DEN | (unlisted) | Out |
-| Da'Shawn Hand | DT/ATL | Questionable | Out |
-| Cooper McDonald | LB/KC | (unlisted) | Questionable |
-| Sam Ehlinger | QB/DEN | (unlisted) | Out |
-| Juice Scruggs | OL/DET | (unlisted) | Questionable |
-| Jordan Mason | RB/MIN | (unlisted) | Questionable |
-| Landon Dickerson | OL/PHI | (unlisted) | Out |
-| Tyler Badie | RB/DEN | (unlisted) | Out |
-| Tyler Onyedim | DT/DEN | (unlisted) | Out |
-| Marvin Mims | WR/DEN | (unlisted) | Questionable |
-| Jordan Jackson | DL/DEN | (unlisted) | Out |
-| Derius Davis | WR/LAC | (unlisted) | Questionable |
-| Jared Wiley | TE/KC | (unlisted) | Out |
-| Blake Miller | OT/DET | (unlisted) | Questionable |
-| Dallen Bentley | TE/DEN | (unlisted) | Out |
-| Jalen Coker | WR/CAR | (unlisted) | Questionable |
-| Garrett Nussmeier | QB/KC | (unlisted) | Out |
-| Diego Pounds | OT/KC | (unlisted) | Out |
-| Terrel Bernard | LB/BUF | (unlisted) | Questionable |
+_None since last run._
 
 **Full current report**
 
@@ -1370,7 +1359,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kene Nwangwu | RB/NYJ | Out | — | — |
 | Kingsley Jonathan | DT/NYJ | IR | — | — |
 | Minkah Fitzpatrick | DB/NYJ | Questionable | — | — |
-| Omar Cooper | WR/NYJ | Out | — | — |
+| Omar Cooper | WR/NYJ | Out | — | Cooper (ankle) is "week-to-week," and the hope is he returns "within the next four weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) |
 | Tim Patrick | WR/NYJ | IR | — | — |
 | Tre Brown | CB/NYJ | IR | — | — |
 | Trevin Wallace | LB/NYJ | Out | — | — |
@@ -1412,7 +1401,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Nick Kallerup | TE/SEA | Out | — | — |
 | Power Echols | LB/SEA | Questionable | — | — |
 | Robbie Ouzts | RB/SEA | IR | — | — |
-| Sam Darnold | QB/SEA | Out | — | Darnold (glute) is dealing with a "very unique" soft-tissue injury, but his hip joint is unaffected, and the issue is considered short term, Brady Henderson of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
+| Sam Darnold | QB/SEA | Out | — | Darnold (glute) is "looking at about a four-week return to play" but could return "a little bit sooner than that," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
 | Terrion Arnold | DB/SEA | NA | — | — |
 | Tory Horton | WR/SEA | Out | — | — |
 | Ty Okada | DB/SEA | Out | — | — |
