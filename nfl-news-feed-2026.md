@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-15 15:18 UTC_ · 449 items total · 440/449 matched to a player
+_Last updated: 2026-09-15 19:53 UTC_ · 450 items total · 441/450 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-09-15 15:18 UTC_ · 449 items total · 440/449 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-15 | Dylan Sampson | RB/CLE | INJURY | — | Sampson (knee) was placed on injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) | Rotowire |
 | 2026-09-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold (glute) is "looking at about a four-week return to play" but could return "a little bit sooner than that," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-15 | Omar Cooper | WR/NYJ | NEWS | — | Cooper (ankle) is "week-to-week," and the hope is he returns "within the next four weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
 | 2026-09-14 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 28 passes for 131 yards with one touchdown and one interception while adding three carries for two yards in the Broncos' 31-10 loss to the Chiefs on Monday night. He also committed three fumbles, losing one and recovering one of the two others that remained... ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
@@ -111,6 +112,7 @@ _Last updated: 2026-09-15 15:18 UTC_ · 449 items total · 440/449 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-15 | Dylan Sampson | RB/CLE | INJURY | — | Sampson (knee) was placed on injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) | Rotowire |
 | 2026-09-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold (glute) is "looking at about a four-week return to play" but could return "a little bit sooner than that," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-15 | Omar Cooper | WR/NYJ | NEWS | — | Cooper (ankle) is "week-to-week," and the hope is he returns "within the next four weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
 | 2026-09-14 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 28 passes for 131 yards with one touchdown and one interception while adding three carries for two yards in the Broncos' 31-10 loss to the Chiefs on Monday night. He also committed three fumbles, losing one and recovering one of the two others that remained... ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
@@ -571,41 +573,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devaughn Vele | WR/NO | 1829548 |
-| Caleb Douglas | WR/MIA | 1082040 |
-| Devin Singletary | RB/NYG | 893862 |
-| Tampa Bay Buccaneers | DEF/TB | 715600 |
-| Kaelon Black | RB/SF | 636622 |
-| Carson Wentz | QB/MIN | 463878 |
-| San Francisco 49ers | DEF/SF | 426933 |
-| Mike Gesicki | TE/CIN | 314128 |
-| Pat Bryant | WR/DEN | 257168 |
-| Bryce Young | QB/CAR | 253052 |
-| Dontayvion Wicks | WR/PHI | 206337 |
-| Raheim Sanders | RB/CLE | 201184 |
-| Tyler Shough | QB/NO | 182664 |
-| Emmett Johnson | RB/KC | 175842 |
-| Evan Engram | TE/DEN | 156312 |
+| Devaughn Vele | WR/NO | 2350530 |
+| Caleb Douglas | WR/MIA | 1404776 |
+| Devin Singletary | RB/NYG | 1170747 |
+| Tampa Bay Buccaneers | DEF/TB | 1042555 |
+| Kaelon Black | RB/SF | 868812 |
+| San Francisco 49ers | DEF/SF | 594330 |
+| Carson Wentz | QB/MIN | 569826 |
+| Mike Gesicki | TE/CIN | 368348 |
+| Pat Bryant | WR/DEN | 337560 |
+| Raheim Sanders | RB/CLE | 334464 |
+| Bryce Young | QB/CAR | 297960 |
+| Dontayvion Wicks | WR/PHI | 254565 |
+| Emmett Johnson | RB/KC | 237087 |
+| Evan Engram | TE/DEN | 215424 |
+| Demarcus Robinson | WR/SF | 212502 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jacksonville Jaguars | DEF/JAX | 349746 |
-| Kyler Murray | QB/MIN | 310944 |
-| Detroit Lions | DEF/DET | 212814 |
-| MarShawn Lloyd | RB/GB | 202428 |
-| Las Vegas Raiders | DEF/LV | 172218 |
-| Michael Mayer | TE/LV | 169524 |
-| Chris Rodriguez | RB/JAX | 159552 |
-| Jalen Nailor | WR/LV | 157671 |
-| Roschon Johnson | RB/CHI | 156992 |
-| Tre Tucker | WR/LV | 154026 |
-| Jordan Addison | WR/MIN | 153036 |
-| Kenny Gainwell | RB/TB | 135176 |
-| Keaton Mitchell | RB/LAC | 130302 |
-| KC Concepcion | WR/CLE | 123651 |
-| Malik Davis | RB/DAL | 122175 |
+| Jacksonville Jaguars | DEF/JAX | 486624 |
+| Kyler Murray | QB/MIN | 356944 |
+| Detroit Lions | DEF/DET | 314361 |
+| Las Vegas Raiders | DEF/LV | 235854 |
+| Michael Mayer | TE/LV | 229581 |
+| MarShawn Lloyd | RB/GB | 221814 |
+| Jalen Nailor | WR/LV | 194067 |
+| Roschon Johnson | RB/CHI | 193520 |
+| Chris Rodriguez | RB/JAX | 191781 |
+| Tre Tucker | WR/LV | 183798 |
+| Jordan Addison | WR/MIN | 167247 |
+| Kenny Gainwell | RB/TB | 161864 |
+| Cyrus Allen | WR/KC | 158892 |
+| Keaton Mitchell | RB/LAC | 155358 |
+| Malik Davis | RB/DAL | 153072 |
 
 
 ---
@@ -724,7 +726,7 @@ _None since last run._
 | Damarri Mathis | DB/CLE | IR | — | — |
 | Daniel Thomas | DB/CLE | Out | — | — |
 | Dillon Gabriel | QB/CLE | IR | — | — |
-| Dylan Sampson | RB/CLE | Out | — | Sampson (knee) has been downgraded to out for Sunday's game against the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) |
+| Dylan Sampson | RB/CLE | Out | — | Sampson (knee) was placed on injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) |
 | Jeremiah Owusu-Koramoah | LB/CLE | PUP | — | — |
 | Joe Royer | TE/CLE | PUP | — | — |
 | Justin Jefferson | LB/CLE | Out | — | Jefferson and newly named starting quarterback Kyler Murray have been starting to click at practice, Will Ragatz of Bring Me The Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) |
