@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-17 03:59 UTC_ · 463 items total · 454/463 matched to a player
+_Last updated: 2026-09-17 15:20 UTC_ · 464 items total · 455/464 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-09-17 03:59 UTC_ · 463 items total · 454/463 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-17 | Nico Collins | WR/HOU | INJURY | 🔥 Schefter | Collins met with doctors after injuring his hamstring at Wednesday's practice, and although the injury does not seem serious his status for Week 2 "is in jeopardy," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
 | 2026-09-16 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) was listed as a non-participant for Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-16 | Michael Penix | QB/ATL | NEWS | — | Penix (knee) was listed as a full participant in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-16 | Nico Collins | WR/HOU | INJURY | — | Collins was limited at Wednesday's practice due to a hamstring injury. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
@@ -101,6 +102,7 @@ _Last updated: 2026-09-17 03:59 UTC_ · 463 items total · 454/463 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-17 | Nico Collins | WR/HOU | INJURY | 🔥 Schefter | Collins met with doctors after injuring his hamstring at Wednesday's practice, and although the injury does not seem serious his status for Week 2 "is in jeopardy," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
 | 2026-09-16 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) was listed as a non-participant for Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-16 | Michael Penix | QB/ATL | NEWS | — | Penix (knee) was listed as a full participant in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-16 | Nico Collins | WR/HOU | INJURY | — | Collins was limited at Wednesday's practice due to a hamstring injury. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
@@ -575,41 +577,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Caleb Douglas | WR/MIA | 1018344 |
-| Devin Singletary | RB/NYG | 954414 |
-| Tampa Bay Buccaneers | DEF/TB | 944140 |
-| Devaughn Vele | WR/NO | 938455 |
-| Kaelon Black | RB/SF | 543606 |
-| Carson Wentz | QB/MIN | 536082 |
-| Raheim Sanders | RB/CLE | 531656 |
-| San Francisco 49ers | DEF/SF | 505758 |
-| Emmett Johnson | RB/KC | 327519 |
-| Demarcus Robinson | WR/SF | 307074 |
-| Pat Bryant | WR/DEN | 282736 |
-| Mack Hollins | WR/NE | 253518 |
-| Mike Gesicki | TE/CIN | 219568 |
-| Kenyon Sadiq | TE/NYJ | 205443 |
-| Cairo Santos | K/CHI | 197414 |
+| Devin Singletary | RB/NYG | 651681 |
+| Caleb Douglas | WR/MIA | 482488 |
+| Tampa Bay Buccaneers | DEF/TB | 398240 |
+| Devaughn Vele | WR/NO | 327208 |
+| Raheim Sanders | RB/CLE | 318328 |
+| Carson Wentz | QB/MIN | 239610 |
+| Kaelon Black | RB/SF | 232953 |
+| Demarcus Robinson | WR/SF | 219846 |
+| San Francisco 49ers | DEF/SF | 206727 |
+| Emmett Johnson | RB/KC | 190584 |
+| Mack Hollins | WR/NE | 156921 |
+| Pat Bryant | WR/DEN | 152392 |
+| Aaron Jones | RB/MIN | 139311 |
+| Cairo Santos | K/CHI | 135814 |
+| Mike Gesicki | TE/CIN | 128056 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jacksonville Jaguars | DEF/JAX | 528576 |
-| Detroit Lions | DEF/DET | 457947 |
-| Michael Mayer | TE/LV | 371196 |
-| Kyler Murray | QB/MIN | 313704 |
-| Las Vegas Raiders | DEF/LV | 253230 |
-| Minnesota Vikings | DEF/MIN | 201910 |
-| Roschon Johnson | RB/CHI | 196640 |
-| Chris Rodriguez | RB/JAX | 174330 |
-| Jalen Nailor | WR/LV | 169200 |
-| Kenny Gainwell | RB/TB | 166040 |
-| Tre Tucker | WR/LV | 164292 |
-| Cyrus Allen | WR/KC | 151374 |
-| MarShawn Lloyd | RB/GB | 148149 |
-| Keaton Mitchell | RB/LAC | 140589 |
-| KC Concepcion | WR/CLE | 140319 |
+| Detroit Lions | DEF/DET | 269379 |
+| Jacksonville Jaguars | DEF/JAX | 225570 |
+| Michael Mayer | TE/LV | 211482 |
+| Kyler Murray | QB/MIN | 165232 |
+| Las Vegas Raiders | DEF/LV | 122976 |
+| Minnesota Vikings | DEF/MIN | 112310 |
+| Jordan Mason | RB/MIN | 108895 |
+| Roschon Johnson | RB/CHI | 108784 |
+| Chris Rodriguez | RB/JAX | 97281 |
+| Kenny Gainwell | RB/TB | 95680 |
+| Jake Bates | K/DET | 94392 |
+| Jalen Nailor | WR/LV | 90855 |
+| Devin Singletary | RB/NYG | 87948 |
+| Malik Davis | RB/DAL | 84375 |
+| Tre Tucker | WR/LV | 79914 |
 
 
 ---
@@ -622,113 +624,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Kyle Louis | LB/MIA | Out | IR |
-| Jake Tonges | TE/SF | Questionable | IR |
-| Bobby Brown | DT/CAR | (unlisted) | Questionable |
-| Sam Darnold | QB/SEA | Doubtful | Out |
-| Da'Shawn Hand | DT/ATL | Out | IR |
-| Odafe Oweh | LB/WAS | (unlisted) | Questionable |
-| Cooper McDonald | LB/KC | Questionable | IR |
-| D'Andre Swift | RB/CHI | (unlisted) | Questionable |
-| Darnell Wright | OL/CHI | (unlisted) | Questionable |
-| James Houston | LB/DAL | (unlisted) | Questionable |
-| Barryn Sorrell | DE/GB | (unlisted) | Questionable |
-| Trey Hendrickson | DE/BAL | (unlisted) | Questionable |
-| Jamien Sherwood | LB/NYJ | (unlisted) | Questionable |
-| John Simpson | G/BAL | (unlisted) | Questionable |
-| Max Melton | DB/ARI | (unlisted) | Questionable |
-| A.J. Terrell | CB/ATL | (unlisted) | Questionable |
-| Jakobi Meyers | WR/JAX | (unlisted) | Questionable |
-| Andrew Van Ginkel | LB/MIN | (unlisted) | Questionable |
-| Nico Collins | WR/HOU | (unlisted) | Questionable |
-| Miles Killebrew | DB/TB | (unlisted) | Questionable |
-| Jordan Mason | RB/MIN | Questionable | IR |
-| Dalvin Tomlinson | DT/LAC | (unlisted) | Questionable |
-| Cody Simon | LB/ARI | (unlisted) | Questionable |
-| James Williams | DB/TEN | (unlisted) | Questionable |
-| RJ Harvey | RB/DEN | (unlisted) | Questionable |
-| De'Zhaun Stribling | WR/SF | Doubtful | Out |
-| Chop Robinson | DE/MIA | (unlisted) | Questionable |
-| Troy Fautanu | OL/PIT | (unlisted) | Questionable |
-| Jaylin Lane | WR/WAS | (unlisted) | Questionable |
-| Isaiah Stalbird | LB/NO | (unlisted) | Questionable |
-| Dorance Armstrong | DE/WAS | (unlisted) | Questionable |
-| Dawand Jones | OL/CLE | (unlisted) | Questionable |
-| Jordan Magee | LB/WAS | Questionable | IR |
-| Teair Tart | DT/LAC | (unlisted) | Questionable |
-| Jalen Carter | DL/PHI | (unlisted) | Questionable |
-| Isaac Seumalo | G/ARI | (unlisted) | Questionable |
-| Tyrone Tracy | RB/NYG | (unlisted) | Questionable |
-| Marvin Mims | WR/DEN | (unlisted) | Questionable |
-| Jadeveon Clowney | DE/HOU | (unlisted) | Questionable |
-| Cooper DeJean | DB/PHI | (unlisted) | Questionable |
-| Anthony Richardson | QB/IND | (unlisted) | Questionable |
-| Joe Burrow | QB/CIN | (unlisted) | Questionable |
-| Devonte Wyatt | DL/GB | (unlisted) | Questionable |
-| Cooper Kupp | WR/SEA | (unlisted) | Questionable |
-| Seydou Traore | TE/MIA | (unlisted) | Questionable |
-| Javon Hargrave | DT/GB | (unlisted) | Questionable |
-| George Kittle | TE/SF | (unlisted) | Questionable |
-| Khalid Kareem | DE/SF | (unlisted) | Questionable |
-| Zach Bako-Bewele | OL/GB | (unlisted) | Questionable |
-| Charles Omenihu | DE/WAS | (unlisted) | Questionable |
-| Keondre Jackson | DB/BAL | (unlisted) | Questionable |
-| Chris Jones | DT/KC | (unlisted) | Questionable |
-| Elgton Jenkins | G/CLE | (unlisted) | Questionable |
-| Foyesade Oluokun | LB/JAX | (unlisted) | Questionable |
-| Dametrious Crownover | OT/NE | (unlisted) | Questionable |
-| Anthony Bradford | OL/SEA | (unlisted) | Questionable |
-| Blake Miller | OT/DET | Questionable | Out |
-| Robert Spillane | LB/NE | (unlisted) | Questionable |
-| Kyle Monangai | RB/CHI | (unlisted) | Questionable |
-| Roy Lopez | DT/ARI | (unlisted) | Questionable |
-| Eddy Pineiro | K/SF | (unlisted) | Questionable |
-| Trey Pipkins | T/LAC | (unlisted) | Questionable |
-| Kitan Crawford | DB/ARI | Questionable | IR |
-| Josh Jones | OL/SEA | (unlisted) | Questionable |
-| Tucker Addington | LS/MIA | (unlisted) | Questionable |
-| Dayo Odeyingbo | DE/CHI | (unlisted) | Questionable |
-| Keion White | DL/SF | (unlisted) | Questionable |
-| Daron Payne | DT/WAS | (unlisted) | Questionable |
-| Neville Gallimore | DT/CHI | (unlisted) | Questionable |
-| Christian Mahogany | OL/DET | Questionable | Out |
-| Kamren Kinchens | DB/LAR | (unlisted) | Questionable |
-| Blake Cashman | LB/MIN | (unlisted) | Questionable |
-| K'Lavon Chaisson | LB/WAS | (unlisted) | Questionable |
-| LeQuint Allen | RB/JAX | (unlisted) | Questionable |
-| Dre'Mont Jones | DE/NE | (unlisted) | Questionable |
-| Ja'Kobi Lane | WR/BAL | Doubtful | IR |
-| Jack Gibbens | LB/ARI | (unlisted) | Questionable |
-| Kyle Juszczyk | FB/SF | (unlisted) | Questionable |
-| Carlton Davis | CB/NE | (unlisted) | Questionable |
-| Cole Van Lanen | OL/JAX | (unlisted) | Questionable |
-| Ronnie Stanley | T/BAL | (unlisted) | Questionable |
-| Brian O'Neill | T/MIN | (unlisted) | Questionable |
-| Michael Pittman | WR/PIT | (unlisted) | Questionable |
-| Juwan Johnson | TE/NO | (unlisted) | Questionable |
-| Maliek Collins | DT/CLE | (unlisted) | Questionable |
-| Lukas Van Ness | DL/GB | (unlisted) | Questionable |
-| Ashton Dulin | WR/IND | (unlisted) | Questionable |
-| Malik Muhammad | CB/CHI | (unlisted) | Questionable |
-| Josh Whyle | TE/GB | Questionable | (cleared) |
-| Derius Davis | WR/LAC | Questionable | (cleared) |
-| Juice Scruggs | OL/DET | Questionable | (cleared) |
-| Tyson Bagent | QB/CHI | Questionable | (cleared) |
-| Jalen McMillan | WR/TB | Questionable | (cleared) |
-| Devontez Walker | WR/BAL | Questionable | (cleared) |
-| Tyler Owens | DB/WAS | Questionable | (cleared) |
-| Tory Horton | WR/SEA | Questionable | (cleared) |
-| TreVeyon Henderson | RB/NE | Questionable | (cleared) |
-| Shemar Stewart | DL/CIN | Questionable | (cleared) |
-| Billy Bowman | DB/ATL | Questionable | (cleared) |
-| Brandon Cisse | DB/GB | Questionable | (cleared) |
-| Mansoor Delane | DB/KC | Questionable | (cleared) |
-| Michael Heldman | DE/FA | Questionable | (cleared) |
-| Alvin Kamara | RB/NO | Questionable | (cleared) |
-| Justin Skule | OT/TB | Questionable | (cleared) |
-| Alec Pierce | WR/IND | Questionable | (cleared) |
-| Terrel Bernard | LB/BUF | Questionable | (cleared) |
-| Sean Tucker | RB/TB | Questionable | (cleared) |
+| Zach Wood | LS/NO | (unlisted) | Out |
+| Joe Mixon | RB/FA | Out | (cleared) |
 
 **Full current report**
 
@@ -1051,7 +948,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jimmie Ward | DB/FA | Questionable | — | — |
 | Jimmy Kibble | WR/FA | Questionable | — | — |
 | Joe Dineen | ILB/FA | NA | — | — |
-| Joe Mixon | RB/FA | Out | — | — |
 | Joe Tryon-Shoyinka | LB/FA | NA | — | — |
 | John FitzPatrick | TE/FA | Questionable | — | — |
 | John Jiles | WR/FA | Questionable | — | — |
@@ -1252,7 +1148,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | K.C. Ossai | LB/HOU | IR | — | — |
 | Kayden McDonald | DL/HOU | IR | — | — |
 | M.J. Stewart | DB/HOU | PUP | — | — |
-| Nico Collins | WR/HOU | Questionable | — | Collins was limited at Wednesday's practice due to a hamstring injury. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) |
+| Nico Collins | WR/HOU | Questionable | — | Collins met with doctors after injuring his hamstring at Wednesday's practice, and although the injury does not seem serious his status for Week 2 "is in jeopardy," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) |
 | Sam Hagen | OL/HOU | IR | — | — |
 | Tank Dell | WR/HOU | IR | — | Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. "With Tank, he's on his own plan," Ryans noted. "Whatever that entails, geared toward what's best for Tank Dell." Visit... ([link](https://www.rotowire.com//football/player/tank-dell-16935)) |
 | Anthony Richardson | QB/IND | Questionable | — | Richardson is expected to remain with Indianapolis for the 2026 season, Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/anthony-richardson-16653)) |
@@ -1374,6 +1270,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Oscar Delp | TE/NO | Questionable | — | — |
 | Rejzohn Wright | CB/NO | IR | — | — |
 | Ty Chandler | RB/NO | IR | — | — |
+| Zach Wood | LS/NO | Out | — | — |
 | Calvin Austin | WR/NYG | IR | — | — |
 | Gunner Olszewski | WR/NYG | IR | — | — |
 | Jarrick Bernard-Converse | CB/NYG | IR | — | — |
