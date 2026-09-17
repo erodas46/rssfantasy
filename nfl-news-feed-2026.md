@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-17 15:20 UTC_ · 464 items total · 455/464 matched to a player
+_Last updated: 2026-09-17 19:55 UTC_ · 469 items total · 460/469 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-17 15:20 UTC_ · 464 items total · 455/464 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-17 | Brock Bowers | TE/LV | NEWS | — | Bowers (knee) is not participating during the portion of Thursday's practice open to the media, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-17 | D'Andre Swift | RB/CHI | INJURY | — | Swift (ankle/knee) was limited in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
+| 2026-09-17 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (hamstring) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-09-17 | Alec Pierce | WR/IND | NEWS | — | Pierce (heel) didn't participate in practice Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
+| 2026-09-17 | Jalen Coker | WR/CAR | INJURY | — | Coker (ankle) was limited in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
 | 2026-09-17 | Nico Collins | WR/HOU | INJURY | 🔥 Schefter | Collins met with doctors after injuring his hamstring at Wednesday's practice, and although the injury does not seem serious his status for Week 2 "is in jeopardy," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
 | 2026-09-16 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) was listed as a non-participant for Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-16 | Michael Penix | QB/ATL | NEWS | — | Penix (knee) was listed as a full participant in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
@@ -102,6 +107,11 @@ _Last updated: 2026-09-17 15:20 UTC_ · 464 items total · 455/464 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-17 | Brock Bowers | TE/LV | NEWS | — | Bowers (knee) is not participating during the portion of Thursday's practice open to the media, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-17 | D'Andre Swift | RB/CHI | INJURY | — | Swift (ankle/knee) was limited in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
+| 2026-09-17 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (hamstring) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-09-17 | Alec Pierce | WR/IND | NEWS | — | Pierce (heel) didn't participate in practice Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
+| 2026-09-17 | Jalen Coker | WR/CAR | INJURY | — | Coker (ankle) was limited in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
 | 2026-09-17 | Nico Collins | WR/HOU | INJURY | 🔥 Schefter | Collins met with doctors after injuring his hamstring at Wednesday's practice, and although the injury does not seem serious his status for Week 2 "is in jeopardy," Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
 | 2026-09-16 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) was listed as a non-participant for Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-16 | Michael Penix | QB/ATL | NEWS | — | Penix (knee) was listed as a full participant in Wednesday's practice, Daniel Flick of The Atlanta Journal-Constitution reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
@@ -577,41 +587,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 651681 |
-| Caleb Douglas | WR/MIA | 482488 |
-| Tampa Bay Buccaneers | DEF/TB | 398240 |
-| Devaughn Vele | WR/NO | 327208 |
-| Raheim Sanders | RB/CLE | 318328 |
-| Carson Wentz | QB/MIN | 239610 |
-| Kaelon Black | RB/SF | 232953 |
-| Demarcus Robinson | WR/SF | 219846 |
-| San Francisco 49ers | DEF/SF | 206727 |
-| Emmett Johnson | RB/KC | 190584 |
-| Mack Hollins | WR/NE | 156921 |
-| Pat Bryant | WR/DEN | 152392 |
-| Aaron Jones | RB/MIN | 139311 |
-| Cairo Santos | K/CHI | 135814 |
-| Mike Gesicki | TE/CIN | 128056 |
+| Devin Singletary | RB/NYG | 546336 |
+| Caleb Douglas | WR/MIA | 371120 |
+| Tampa Bay Buccaneers | DEF/TB | 290440 |
+| Raheim Sanders | RB/CLE | 257832 |
+| Devaughn Vele | WR/NO | 226121 |
+| Demarcus Robinson | WR/SF | 194538 |
+| Carson Wentz | QB/MIN | 184176 |
+| Kaelon Black | RB/SF | 167272 |
+| San Francisco 49ers | DEF/SF | 150027 |
+| Emmett Johnson | RB/KC | 143361 |
+| Xavier Hutchinson | WR/HOU | 133329 |
+| Mack Hollins | WR/NE | 125235 |
+| Cairo Santos | K/CHI | 118804 |
+| Pat Bryant | WR/DEN | 112504 |
+| Aaron Jones | RB/MIN | 111129 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Detroit Lions | DEF/DET | 269379 |
-| Jacksonville Jaguars | DEF/JAX | 225570 |
-| Michael Mayer | TE/LV | 211482 |
-| Kyler Murray | QB/MIN | 165232 |
-| Las Vegas Raiders | DEF/LV | 122976 |
-| Minnesota Vikings | DEF/MIN | 112310 |
-| Jordan Mason | RB/MIN | 108895 |
-| Roschon Johnson | RB/CHI | 108784 |
-| Chris Rodriguez | RB/JAX | 97281 |
-| Kenny Gainwell | RB/TB | 95680 |
-| Jake Bates | K/DET | 94392 |
-| Jalen Nailor | WR/LV | 90855 |
-| Devin Singletary | RB/NYG | 87948 |
-| Malik Davis | RB/DAL | 84375 |
-| Tre Tucker | WR/LV | 79914 |
+| Detroit Lions | DEF/DET | 226188 |
+| Jacksonville Jaguars | DEF/JAX | 166278 |
+| Michael Mayer | TE/LV | 163440 |
+| Kyler Murray | QB/MIN | 125128 |
+| Las Vegas Raiders | DEF/LV | 91374 |
+| Jordan Mason | RB/MIN | 88145 |
+| Minnesota Vikings | DEF/MIN | 87710 |
+| Jake Bates | K/DET | 86080 |
+| Roschon Johnson | RB/CHI | 85456 |
+| Chris Rodriguez | RB/JAX | 78696 |
+| Devin Singletary | RB/NYG | 78039 |
+| Kenny Gainwell | RB/TB | 76816 |
+| Jalen Nailor | WR/LV | 72612 |
+| Malik Davis | RB/DAL | 66771 |
+| Tre Tucker | WR/LV | 61704 |
 
 
 ---
@@ -622,10 +632,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Zach Wood | LS/NO | (unlisted) | Out |
-| Joe Mixon | RB/FA | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -689,7 +696,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Brady Christensen | T/CAR | IR | — | — |
 | Chris Brazzell | WR/CAR | IR | — | — |
 | Ikem Ekwonu | T/CAR | PUP | — | — |
-| Jalen Coker | WR/CAR | Questionable | — | — |
+| Jalen Coker | WR/CAR | Questionable | — | Coker (ankle) was limited in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Patrick Jones | DE/CAR | Questionable | — | — |
 | Taylor Moton | T/CAR | PUP | — | — |
@@ -697,11 +704,11 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Trevor Etienne | RB/CAR | IR | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
 | Coby Bryant | DB/CHI | IR | — | — |
-| D'Andre Swift | RB/CHI | Questionable | — | Swift (abdomen) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) |
+| D'Andre Swift | RB/CHI | Questionable | — | Swift (ankle/knee) was limited in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) |
 | Darnell Wright | OL/CHI | Questionable | — | — |
 | Dayo Odeyingbo | DE/CHI | Questionable | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
-| Kyle Monangai | RB/CHI | Questionable | — | Monangai (knee) returned to practice Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
+| Kyle Monangai | RB/CHI | Questionable | — | Monangai (hamstring) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
 | Kyler Gordon | DB/CHI | PUP | — | — |
 | Malik Muhammad | CB/CHI | Questionable | — | — |
 | Nephi Sewell | LB/CHI | IR | — | — |
@@ -1204,7 +1211,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Nate Landman | LB/LAR | Questionable | — | — |
 | Omar Speights | LB/LAR | Questionable | — | — |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Questionable | — | Raiders head coach Klint Kubiak labeled Bowers (knee) as day-to-day Monday, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
+| Brock Bowers | TE/LV | Questionable | — | Bowers (knee) is not participating during the portion of Thursday's practice open to the media, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
 | Chris Collier | RB/LV | IR | — | — |
