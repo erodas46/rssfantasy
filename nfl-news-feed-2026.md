@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-18 14:40 UTC_ · 479 items total · 470/479 matched to a player
+_Last updated: 2026-09-18 19:15 UTC_ · 484 items total · 475/484 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-18 14:40 UTC_ · 479 items total · 470/479 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-18 | Brock Bowers | TE/LV | INJURY | — | Bowers (knee) will be listed as doubtful for Sunday's game at the Chargers, and Raiders coach Klint Kubiak said Friday that the tight end will be worked out pregame before a final decision is made, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-18 | Jauan Jennings | WR/MIN | INJURY | — | Jennings (not injury related - personal) won't play Sunday in Chicago. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jauan-jennings-14376)) | Rotowire |
+| 2026-09-18 | Ladd McConkey | WR/LAC | NEWS | — | McConkey (rib) is back at practice Friday for the Chargers, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-09-18 | Carson Wentz | QB/MIN | INJURY | — | Coach Kevin O'Connell said Friday that Wentz will be the Vikings' starting quarterback Sunday at Chicago with Kyler Murray (concussion) ruled out for that contest. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-wentz-10856)) | Rotowire |
+| 2026-09-18 | D'Andre Swift | RB/CHI | NEWS | — | Swift (ankle/knee) doesn't have a designation for Sunday's game against the Vikings. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
 | 2026-09-18 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) is believed to have sustained an AC joint sprain in Thursday's victory over the Lions, and although "it's not a serious injury" he is uncertain for Week 3., Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-09-17 | Jared Goff | QB/DET | NEWS | — | Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
 | 2026-09-17 | Dalton Kincaid | TE/BUF | NEWS | — | Kincaid brought in seven of eight targets for 95 yards and a touchdown in the Bills' 41-31 win over the Lions on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
@@ -101,6 +106,11 @@ _Last updated: 2026-09-18 14:40 UTC_ · 479 items total · 470/479 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-18 | Brock Bowers | TE/LV | INJURY | — | Bowers (knee) will be listed as doubtful for Sunday's game at the Chargers, and Raiders coach Klint Kubiak said Friday that the tight end will be worked out pregame before a final decision is made, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-18 | Jauan Jennings | WR/MIN | INJURY | — | Jennings (not injury related - personal) won't play Sunday in Chicago. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jauan-jennings-14376)) | Rotowire |
+| 2026-09-18 | Ladd McConkey | WR/LAC | NEWS | — | McConkey (rib) is back at practice Friday for the Chargers, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-09-18 | Carson Wentz | QB/MIN | INJURY | — | Coach Kevin O'Connell said Friday that Wentz will be the Vikings' starting quarterback Sunday at Chicago with Kyler Murray (concussion) ruled out for that contest. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-wentz-10856)) | Rotowire |
+| 2026-09-18 | D'Andre Swift | RB/CHI | NEWS | — | Swift (ankle/knee) doesn't have a designation for Sunday's game against the Vikings. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
 | 2026-09-18 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) is believed to have sustained an AC joint sprain in Thursday's victory over the Lions, and although "it's not a serious injury" he is uncertain for Week 3., Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-09-17 | Jared Goff | QB/DET | NEWS | — | Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
 | 2026-09-17 | Dalton Kincaid | TE/BUF | NEWS | — | Kincaid brought in seven of eight targets for 95 yards and a touchdown in the Bills' 41-31 win over the Lions on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
@@ -591,41 +601,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 439137 |
-| Caleb Douglas | WR/MIA | 226176 |
-| Keon Coleman | WR/BUF | 196335 |
-| Tampa Bay Buccaneers | DEF/TB | 188765 |
-| Raheim Sanders | RB/CLE | 158416 |
-| Xavier Hutchinson | WR/HOU | 143934 |
-| Demarcus Robinson | WR/SF | 123738 |
-| Khalil Shakir | WR/BUF | 109377 |
-| Devaughn Vele | WR/NO | 109298 |
-| Carson Wentz | QB/MIN | 108480 |
-| Cairo Santos | K/CHI | 101276 |
-| San Francisco 49ers | DEF/SF | 95697 |
-| Alvin Kamara | RB/NO | 82896 |
-| Mike Gesicki | TE/CIN | 77720 |
-| Mack Hollins | WR/NE | 73575 |
+| Devin Singletary | RB/NYG | 385407 |
+| Keon Coleman | WR/BUF | 264942 |
+| Caleb Douglas | WR/MIA | 196328 |
+| Xavier Hutchinson | WR/HOU | 165284 |
+| Tampa Bay Buccaneers | DEF/TB | 156535 |
+| Raheim Sanders | RB/CLE | 139040 |
+| Demarcus Robinson | WR/SF | 108906 |
+| Carson Wentz | QB/MIN | 104130 |
+| Alvin Kamara | RB/NO | 100264 |
+| Khalil Shakir | WR/BUF | 98667 |
+| Devaughn Vele | WR/NO | 93772 |
+| Cairo Santos | K/CHI | 91063 |
+| San Francisco 49ers | DEF/SF | 79524 |
+| Mike Gesicki | TE/CIN | 76252 |
+| Mack Hollins | WR/NE | 64215 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Detroit Lions | DEF/DET | 185373 |
-| Michael Mayer | TE/LV | 121320 |
-| Jacksonville Jaguars | DEF/JAX | 113844 |
-| Kyler Murray | QB/MIN | 89512 |
-| Devin Singletary | RB/NYG | 76068 |
-| Minnesota Vikings | DEF/MIN | 71095 |
-| Las Vegas Raiders | DEF/LV | 67692 |
-| Jake Bates | K/DET | 63176 |
-| Chris Rodriguez | RB/JAX | 61830 |
-| Roschon Johnson | RB/CHI | 59336 |
-| Kenny Gainwell | RB/TB | 57808 |
-| Jalen Nailor | WR/LV | 56574 |
-| Jordan Mason | RB/MIN | 51995 |
-| Travis Hunter | DB/JAX | 50826 |
-| KC Concepcion | WR/CLE | 45963 |
+| Detroit Lions | DEF/DET | 143199 |
+| Michael Mayer | TE/LV | 112914 |
+| Jacksonville Jaguars | DEF/JAX | 97320 |
+| Kyler Murray | QB/MIN | 83264 |
+| Devin Singletary | RB/NYG | 73215 |
+| Minnesota Vikings | DEF/MIN | 61930 |
+| Chris Rodriguez | RB/JAX | 57276 |
+| Las Vegas Raiders | DEF/LV | 56790 |
+| Kenny Gainwell | RB/TB | 52856 |
+| Jalen Nailor | WR/LV | 52281 |
+| Roschon Johnson | RB/CHI | 52216 |
+| Travis Hunter | DB/JAX | 45828 |
+| Jordan Mason | RB/MIN | 45610 |
+| Jake Bates | K/DET | 45464 |
+| KC Concepcion | WR/CLE | 42822 |
 
 
 ---
@@ -714,7 +724,7 @@ _None since last run._
 | Trevor Etienne | RB/CAR | IR | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
 | Coby Bryant | DB/CHI | IR | — | — |
-| D'Andre Swift | RB/CHI | Questionable | — | Swift (ankle/knee) was limited in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) |
+| D'Andre Swift | RB/CHI | Questionable | — | Swift (ankle/knee) doesn't have a designation for Sunday's game against the Vikings. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) |
 | Darnell Wright | OL/CHI | Questionable | — | — |
 | Dayo Odeyingbo | DE/CHI | Questionable | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
@@ -1209,7 +1219,7 @@ _None since last run._
 | Elijah Molden | CB/LAC | Questionable | — | — |
 | Isaiah World | OT/LAC | PUP | — | — |
 | KeAndre Lambert-Smith | WR/LAC | IR | — | — |
-| Ladd McConkey | WR/LAC | Questionable | — | McConkey (ribs) won't practice Wednesday, Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
+| Ladd McConkey | WR/LAC | Questionable | — | McConkey (rib) is back at practice Friday for the Chargers, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
 | Scott Matlock | DT/LAC | IR | — | — |
 | Teair Tart | DT/LAC | Questionable | — | — |
 | Trey Pipkins | T/LAC | Questionable | — | — |
@@ -1226,7 +1236,7 @@ _None since last run._
 | Nate Landman | LB/LAR | Questionable | — | — |
 | Omar Speights | LB/LAR | Questionable | — | — |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Questionable | — | Bowers (knee) was a non-participant at Thursday's practice, Anthony Galaviz of The Fresno Bee reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
+| Brock Bowers | TE/LV | Questionable | — | Bowers (knee) will be listed as doubtful for Sunday's game at the Chargers, and Raiders coach Klint Kubiak said Friday that the tight end will be worked out pregame before a final decision is made, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
 | Chris Collier | RB/LV | IR | — | — |
