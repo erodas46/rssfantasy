@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-18 03:46 UTC_ · 474 items total · 465/474 matched to a player
+_Last updated: 2026-09-18 14:40 UTC_ · 479 items total · 470/479 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-18 03:46 UTC_ · 474 items total · 465/474 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-18 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) is believed to have sustained an AC joint sprain in Thursday's victory over the Lions, and although "it's not a serious injury" he is uncertain for Week 3., Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-09-17 | Jared Goff | QB/DET | NEWS | — | Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
+| 2026-09-17 | Dalton Kincaid | TE/BUF | NEWS | — | Kincaid brought in seven of eight targets for 95 yards and a touchdown in the Bills' 41-31 win over the Lions on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
+| 2026-09-17 | Sam LaPorta | TE/DET | NEWS | — | LaPorta brought in six of seven targets for 52 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-laporta-17033)) | Rotowire |
+| 2026-09-17 | Jameson Williams | WR/DET | NEWS | — | Williams brought in two of four targets for 33 yards in the Lions' 41-31 loss to the Bills on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jameson-williams-15849)) | Rotowire |
 | 2026-09-17 | Brock Bowers | TE/LV | NEWS | — | Bowers (knee) was a non-participant at Thursday's practice, Anthony Galaviz of The Fresno Bee reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
 | 2026-09-17 | Kaelon Black | RB/SF | INJURY | — | Black was limited at Thursday's practice due to a groin injury, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
 | 2026-09-17 | DJ Moore | WR/BUF | INJURY | — | Moore exited Thursday night's game against the Lions in the second quarter with a shoulder injury, Sal Capaccio of WGR Sports Radio 550 Buffalo reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
@@ -96,6 +101,11 @@ _Last updated: 2026-09-18 03:46 UTC_ · 474 items total · 465/474 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-18 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) is believed to have sustained an AC joint sprain in Thursday's victory over the Lions, and although "it's not a serious injury" he is uncertain for Week 3., Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-09-17 | Jared Goff | QB/DET | NEWS | — | Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jared-goff-10729)) | Rotowire |
+| 2026-09-17 | Dalton Kincaid | TE/BUF | NEWS | — | Kincaid brought in seven of eight targets for 95 yards and a touchdown in the Bills' 41-31 win over the Lions on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
+| 2026-09-17 | Sam LaPorta | TE/DET | NEWS | — | LaPorta brought in six of seven targets for 52 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-laporta-17033)) | Rotowire |
+| 2026-09-17 | Jameson Williams | WR/DET | NEWS | — | Williams brought in two of four targets for 33 yards in the Lions' 41-31 loss to the Bills on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jameson-williams-15849)) | Rotowire |
 | 2026-09-17 | Brock Bowers | TE/LV | NEWS | — | Bowers (knee) was a non-participant at Thursday's practice, Anthony Galaviz of The Fresno Bee reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
 | 2026-09-17 | Kaelon Black | RB/SF | INJURY | — | Black was limited at Thursday's practice due to a groin injury, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaelon-black-19607)) | Rotowire |
 | 2026-09-17 | DJ Moore | WR/BUF | INJURY | — | Moore exited Thursday night's game against the Lions in the second quarter with a shoulder injury, Sal Capaccio of WGR Sports Radio 550 Buffalo reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
@@ -581,41 +591,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 524637 |
-| Caleb Douglas | WR/MIA | 282272 |
-| Tampa Bay Buccaneers | DEF/TB | 237800 |
-| Raheim Sanders | RB/CLE | 205208 |
-| Demarcus Robinson | WR/SF | 154206 |
-| Xavier Hutchinson | WR/HOU | 152642 |
-| Carson Wentz | QB/MIN | 136824 |
-| Devaughn Vele | WR/NO | 136577 |
-| San Francisco 49ers | DEF/SF | 121374 |
-| Khalil Shakir | WR/BUF | 120861 |
-| Cairo Santos | K/CHI | 116634 |
-| Keon Coleman | WR/BUF | 112329 |
-| Kaelon Black | RB/SF | 95564 |
-| Mack Hollins | WR/NE | 93669 |
-| Mike Gesicki | TE/CIN | 89632 |
+| Devin Singletary | RB/NYG | 439137 |
+| Caleb Douglas | WR/MIA | 226176 |
+| Keon Coleman | WR/BUF | 196335 |
+| Tampa Bay Buccaneers | DEF/TB | 188765 |
+| Raheim Sanders | RB/CLE | 158416 |
+| Xavier Hutchinson | WR/HOU | 143934 |
+| Demarcus Robinson | WR/SF | 123738 |
+| Khalil Shakir | WR/BUF | 109377 |
+| Devaughn Vele | WR/NO | 109298 |
+| Carson Wentz | QB/MIN | 108480 |
+| Cairo Santos | K/CHI | 101276 |
+| San Francisco 49ers | DEF/SF | 95697 |
+| Alvin Kamara | RB/NO | 82896 |
+| Mike Gesicki | TE/CIN | 77720 |
+| Mack Hollins | WR/NE | 73575 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Detroit Lions | DEF/DET | 237933 |
-| Michael Mayer | TE/LV | 142848 |
-| Jacksonville Jaguars | DEF/JAX | 139908 |
-| Kyler Murray | QB/MIN | 107320 |
-| Jake Bates | K/DET | 88776 |
-| Las Vegas Raiders | DEF/LV | 82998 |
-| Minnesota Vikings | DEF/MIN | 82300 |
-| Devin Singletary | RB/NYG | 81837 |
-| Roschon Johnson | RB/CHI | 73472 |
-| Chris Rodriguez | RB/JAX | 70893 |
-| Kenny Gainwell | RB/TB | 66328 |
-| Jalen Nailor | WR/LV | 64665 |
-| Jordan Mason | RB/MIN | 63185 |
-| Travis Hunter | DB/JAX | 57714 |
-| Malik Davis | RB/DAL | 54108 |
+| Detroit Lions | DEF/DET | 185373 |
+| Michael Mayer | TE/LV | 121320 |
+| Jacksonville Jaguars | DEF/JAX | 113844 |
+| Kyler Murray | QB/MIN | 89512 |
+| Devin Singletary | RB/NYG | 76068 |
+| Minnesota Vikings | DEF/MIN | 71095 |
+| Las Vegas Raiders | DEF/LV | 67692 |
+| Jake Bates | K/DET | 63176 |
+| Chris Rodriguez | RB/JAX | 61830 |
+| Roschon Johnson | RB/CHI | 59336 |
+| Kenny Gainwell | RB/TB | 57808 |
+| Jalen Nailor | WR/LV | 56574 |
+| Jordan Mason | RB/MIN | 51995 |
+| Travis Hunter | DB/JAX | 50826 |
+| KC Concepcion | WR/CLE | 45963 |
 
 
 ---
@@ -626,62 +636,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Ed Oliver | DT/BUF | (unlisted) | Out |
-| Greg Newsome | CB/NYG | (unlisted) | Questionable |
-| Chase Young | DE/NO | (unlisted) | Questionable |
-| Ennis Rakestraw | DB/DET | (unlisted) | Out |
-| Andrew Mukuba | DB/PHI | (unlisted) | Questionable |
-| Will McDonald | DE/NYJ | (unlisted) | Questionable |
-| Deonte Banks | DB/NYG | (unlisted) | Questionable |
-| Billy Bowman | DB/ATL | (unlisted) | Questionable |
-| T.J. Sanders | DL/BUF | Questionable | Out |
-| Myles Garrett | DE/LAR | Out | IR |
-| Tyson Campbell | CB/CLE | (unlisted) | Questionable |
-| Alec Pierce | WR/IND | (unlisted) | Questionable |
-| Francis Mauigoa | OT/NYG | (unlisted) | Questionable |
-| Avonte Maddox | CB/DET | (unlisted) | Questionable |
-| DJ Moore | WR/BUF | (unlisted) | Out |
-| Kaelon Black | RB/SF | (unlisted) | Questionable |
-| Jude Bowry | OT/BUF | (unlisted) | Out |
-| Kendal Daniels | LB/ATL | (unlisted) | Questionable |
-| Samaje Perine | RB/CIN | (unlisted) | Questionable |
-| Andrew Thomas | T/NYG | (unlisted) | Questionable |
-| Chauncey Golston | DE/NYG | (unlisted) | Questionable |
-| Mekhi Wingo | DT/DET | (unlisted) | Out |
-| Paulson Adebo | CB/NYG | (unlisted) | Questionable |
-| J.R. Reed | DB/FA | (unlisted) | Out |
-| Andrew Billings | DT/ARI | (unlisted) | Questionable |
-| Ahmed Hassanein | DE/DET | (unlisted) | Out |
-| DJ Giddens | RB/IND | (unlisted) | Questionable |
-| Chris Olave | WR/NO | (unlisted) | Questionable |
-| Ty Johnson | RB/BUF | Questionable | Out |
-| Jimmy Rolder | LB/DET | (unlisted) | Out |
-| Keith Abney | DB/DET | (unlisted) | Out |
-| Skyler Bell | WR/BUF | (unlisted) | Out |
-| Jawaan Taylor | OL/ATL | (unlisted) | Questionable |
-| Ed Ingram | G/HOU | (unlisted) | Questionable |
-| Jalon Kilgore | CB/BUF | (unlisted) | Out |
-| Micah McFadden | LB/NYG | (unlisted) | Questionable |
-| Dawand Jones | OL/CLE | Questionable | (cleared) |
-| Austin Ajiake | LB/IND | Questionable | (cleared) |
-| Tyrone Tracy | RB/NYG | Questionable | (cleared) |
-| Cole Bishop | DB/BUF | Questionable | (cleared) |
-| Keondre Jackson | DB/BAL | Questionable | (cleared) |
-| D'Angelo Ponds | DB/NYJ | Questionable | (cleared) |
-| Cooper Kupp | WR/SEA | Questionable | (cleared) |
-| Daron Payne | DT/WAS | Questionable | (cleared) |
-| D.J. Reed | CB/DET | Questionable | (cleared) |
-| Robert Spillane | LB/NE | Questionable | (cleared) |
-| Andy Isabella | WR/FA | Questionable | (cleared) |
-| Blake Cashman | LB/MIN | Questionable | (cleared) |
-| Neville Gallimore | DT/CHI | Questionable | (cleared) |
-| A.J. Terrell | CB/ATL | Questionable | (cleared) |
-| Khalid Kareem | DE/SF | Questionable | (cleared) |
-| Jamien Sherwood | LB/NYJ | Questionable | (cleared) |
-| James Houston | LB/DAL | Questionable | (cleared) |
-| Anthony Richardson | QB/IND | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -735,7 +690,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Teddye Buchanan | LB/BAL | Questionable | — | — |
 | Trey Hendrickson | DE/BAL | Questionable | — | — |
 | Zay Flowers | WR/BAL | Questionable | — | Flowers (hamstring) was listed as a non-participant for Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
-| DJ Moore | WR/BUF | Out | — | Moore exited Thursday night's game against the Lions in the second quarter with a shoulder injury, Sal Capaccio of WGR Sports Radio 550 Buffalo reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
+| DJ Moore | WR/BUF | Out | — | Moore (shoulder) is believed to have sustained an AC joint sprain in Thursday's victory over the Lions, and although "it's not a serious injury" he is uncertain for Week 3., Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Out | — | — |
 | Jalon Kilgore | CB/BUF | Out | — | — |
