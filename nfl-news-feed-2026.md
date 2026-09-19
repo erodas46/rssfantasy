@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-19 14:00 UTC_ · 489 items total · 480/489 matched to a player
+_Last updated: 2026-09-19 19:01 UTC_ · 492 items total · 483/492 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-09-19 14:00 UTC_ · 489 items total · 480/489 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-19 | Omar Cooper | WR/NYJ | INJURY | — | The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
+| 2026-09-19 | Michael Pittman | WR/PIT | INJURY | — | Pittman (foot) has been ruled out for Sunday's game at New England, Burt Lauten of the Steelers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
+| 2026-09-19 | Puka Nacua | WR/LAR | INJURY | — | Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-18 | Jakobi Meyers | WR/JAX | INJURY | — | Meyers (thumb) was limited at Friday's practice but doesn't have an injury designation for Week 2 at Denver, Ryan O'Halloran of the Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) | Rotowire |
 | 2026-09-18 | Brian Thomas | WR/JAX | INJURY | — | Thomas (shoulder) doesn't have an injury designation for Sunday's game at Denver, Ryan O'Halloran of the Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
 | 2026-09-18 | George Kittle | TE/SF | INJURY | — | Kittle (Achilles) practiced fully Friday and does not have an injury designation for Week 2, according to David Furones of the South Florida Sun Sentinel. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -101,6 +104,9 @@ _Last updated: 2026-09-19 14:00 UTC_ · 489 items total · 480/489 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-19 | Omar Cooper | WR/NYJ | INJURY | — | The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
+| 2026-09-19 | Michael Pittman | WR/PIT | INJURY | — | Pittman (foot) has been ruled out for Sunday's game at New England, Burt Lauten of the Steelers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
+| 2026-09-19 | Puka Nacua | WR/LAR | INJURY | — | Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-18 | Jakobi Meyers | WR/JAX | INJURY | — | Meyers (thumb) was limited at Friday's practice but doesn't have an injury designation for Week 2 at Denver, Ryan O'Halloran of the Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) | Rotowire |
 | 2026-09-18 | Brian Thomas | WR/JAX | INJURY | — | Thomas (shoulder) doesn't have an injury designation for Sunday's game at Denver, Ryan O'Halloran of the Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
 | 2026-09-18 | George Kittle | TE/SF | INJURY | — | Kittle (Achilles) practiced fully Friday and does not have an injury designation for Week 2, according to David Furones of the South Florida Sun Sentinel. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
@@ -601,41 +607,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Xavier Hutchinson | WR/HOU | 308350 |
-| Keon Coleman | WR/BUF | 229860 |
-| Devin Singletary | RB/NYG | 141057 |
-| Michael Mayer | TE/LV | 115056 |
-| Alvin Kamara | RB/NO | 93456 |
-| Caleb Douglas | WR/MIA | 76648 |
-| Carson Wentz | QB/MIN | 66864 |
-| Raheim Sanders | RB/CLE | 54376 |
-| Cairo Santos | K/CHI | 50904 |
-| Demarcus Robinson | WR/SF | 49902 |
-| Tampa Bay Buccaneers | DEF/TB | 45250 |
-| Roman Wilson | WR/PIT | 42948 |
-| Devaughn Vele | WR/NO | 41783 |
-| Matthew Golden | WR/GB | 39956 |
-| Mike Gesicki | TE/CIN | 38308 |
+| Xavier Hutchinson | WR/HOU | 355775 |
+| Keon Coleman | WR/BUF | 194508 |
+| Michael Mayer | TE/LV | 144819 |
+| Devin Singletary | RB/NYG | 118827 |
+| Alvin Kamara | RB/NO | 88000 |
+| Carson Wentz | QB/MIN | 66966 |
+| Caleb Douglas | WR/MIA | 66880 |
+| Roman Wilson | WR/PIT | 66168 |
+| Cairo Santos | K/CHI | 56406 |
+| Demarcus Robinson | WR/SF | 48000 |
+| Raheim Sanders | RB/CLE | 46024 |
+| Matthew Golden | WR/GB | 41643 |
+| Devaughn Vele | WR/NO | 41517 |
+| Tampa Bay Buccaneers | DEF/TB | 40480 |
+| Malik Washington | WR/MIA | 35232 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 56772 |
-| Kyler Murray | QB/MIN | 44520 |
-| Devin Singletary | RB/NYG | 44451 |
-| Jacksonville Jaguars | DEF/JAX | 38148 |
-| Chris Rodriguez | RB/JAX | 32337 |
-| Jauan Jennings | WR/MIN | 31150 |
-| Jalen Nailor | WR/LV | 28845 |
-| Kenny Gainwell | RB/TB | 26808 |
-| Roschon Johnson | RB/CHI | 25208 |
-| Minnesota Vikings | DEF/MIN | 24275 |
-| Keaton Mitchell | RB/LAC | 23841 |
-| Brenton Strange | TE/JAX | 23688 |
-| Tre Tucker | WR/LV | 22944 |
-| Malik Davis | RB/DAL | 21654 |
-| Jayden Reed | WR/GB | 21492 |
+| Michael Mayer | TE/LV | 49977 |
+| Kyler Murray | QB/MIN | 43880 |
+| Devin Singletary | RB/NYG | 42894 |
+| Jacksonville Jaguars | DEF/JAX | 35670 |
+| Jauan Jennings | WR/MIN | 34629 |
+| Chris Rodriguez | RB/JAX | 31104 |
+| Jalen Nailor | WR/LV | 27333 |
+| Kenny Gainwell | RB/TB | 25304 |
+| Eddy Pineiro | K/SF | 24903 |
+| Roschon Johnson | RB/CHI | 24056 |
+| Brenton Strange | TE/JAX | 23958 |
+| Keaton Mitchell | RB/LAC | 23355 |
+| Minnesota Vikings | DEF/MIN | 22755 |
+| Kenyon Sadiq | TE/NYJ | 21474 |
+| Xavier Hutchinson | WR/HOU | 21357 |
 
 
 ---
@@ -1214,7 +1220,7 @@ _None since last run._
 | Myles Garrett | DE/LAR | IR | — | Head coach Sean McVay said Monday that Garrett (knee) is making "really good progress" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) |
 | Nate Landman | LB/LAR | Questionable | — | — |
 | Omar Speights | LB/LAR | Questionable | — | — |
-| Puka Nacua | WR/LAR | Questionable | — | Nacua didn't practice Friday due to a hip injury, Benjamin Royer of The Orange County Register reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
+| Puka Nacua | WR/LAR | Questionable | — | Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
 | Aidan O'Connell | QB/LV | Questionable | — | — |
 | Brennan Jackson | DE/LV | IR | — | — |
 | Brock Bowers | TE/LV | Doubtful | — | Bowers (knee) will be listed as doubtful for Sunday's game at the Chargers, and Raiders coach Klint Kubiak said Friday that the tight end will be worked out pregame before a final decision is made, Sam Warren of The Athletic reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
@@ -1299,7 +1305,7 @@ _None since last run._
 | Kene Nwangwu | RB/NYJ | Out | — | — |
 | Kingsley Jonathan | DT/NYJ | IR | — | — |
 | Minkah Fitzpatrick | DB/NYJ | Out | — | — |
-| Omar Cooper | WR/NYJ | Out | — | Cooper (ankle) is "week-to-week," and the hope is he returns "within the next four weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) |
+| Omar Cooper | WR/NYJ | Out | — | The Jets are expected to place Cooper (ankle) on injured reserve, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) |
 | Tim Patrick | WR/NYJ | IR | — | — |
 | Tre Brown | CB/NYJ | IR | — | — |
 | Tyler Baron | DE/NYJ | PUP | — | — |
@@ -1320,7 +1326,7 @@ _None since last run._
 | Jack Driscoll | T/PIT | IR | — | — |
 | Joey Porter | DB/PIT | Out | — | — |
 | Logan Lee | DL/PIT | IR | — | — |
-| Michael Pittman | WR/PIT | Questionable | — | — |
+| Michael Pittman | WR/PIT | Questionable | — | Pittman (foot) has been ruled out for Sunday's game at New England, Burt Lauten of the Steelers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) |
 | Troy Fautanu | OL/PIT | Questionable | — | — |
 | Aaron Smith | LB/SEA | Questionable | — | — |
 | Amari Kight | OT/SEA | Questionable | — | — |
