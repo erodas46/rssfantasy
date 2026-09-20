@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-20 14:21 UTC_ · 502 items total · 493/502 matched to a player
+_Last updated: 2026-09-20 19:07 UTC_ · 507 items total · 498/507 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-20 14:21 UTC_ · 502 items total · 493/502 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-20 | Ladd McConkey | WR/LAC | NEWS | — | McConkey (ribs) is listed as active for Sunday's game against the Raiders, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-09-20 | RJ Harvey | RB/DEN | INJURY | — | Harvey (hamstring) is inactive for Sunday's game against the Jaguars, Susanna Weir of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
+| 2026-09-20 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (shoulder) returned to Sunday's game against the Titans for the start of the third quarter, Brooks Kubena of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-09-20 | Brock Bowers | TE/LV | NEWS | — | Bowers (knee) is inactive for Sunday's game at the Chargers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-20 | Rico Dowdle | RB/PIT | NEWS | — | Dowdle (toe) returned to Sunday's game against the Patriots to begin the second half, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-09-20 | Michael Penix | QB/ATL | NEWS | — | Penix (knee) may start Thursday's game against the Packers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-20 | Keenan Allen | WR/ | SUSPENSION | 🔥 Schefter | Allen "is facing a minimum three-game suspension" in connection with his August arrest, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) | Rotowire |
 | 2026-09-20 | Brock Bowers | TE/LV | INJURY | — | Bowers (knee), who is listed as doubtful for Sunday's game against the Chargers, is expected to sit out Week 2 but appears likely to make his season debut Week 3 in New Orleans, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
@@ -105,6 +110,11 @@ _Last updated: 2026-09-20 14:21 UTC_ · 502 items total · 493/502 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-20 | Ladd McConkey | WR/LAC | NEWS | — | McConkey (ribs) is listed as active for Sunday's game against the Raiders, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-09-20 | RJ Harvey | RB/DEN | INJURY | — | Harvey (hamstring) is inactive for Sunday's game against the Jaguars, Susanna Weir of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
+| 2026-09-20 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (shoulder) returned to Sunday's game against the Titans for the start of the third quarter, Brooks Kubena of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-09-20 | Brock Bowers | TE/LV | NEWS | — | Bowers (knee) is inactive for Sunday's game at the Chargers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-20 | Rico Dowdle | RB/PIT | NEWS | — | Dowdle (toe) returned to Sunday's game against the Patriots to begin the second half, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-09-20 | Michael Penix | QB/ATL | NEWS | — | Penix (knee) may start Thursday's game against the Packers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-09-20 | Keenan Allen | WR/ | SUSPENSION | 🔥 Schefter | Allen "is facing a minimum three-game suspension" in connection with his August arrest, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) | Rotowire |
 | 2026-09-20 | Brock Bowers | TE/LV | INJURY | — | Bowers (knee), who is listed as doubtful for Sunday's game against the Chargers, is expected to sit out Week 2 but appears likely to make his season debut Week 3 in New Orleans, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
@@ -618,41 +628,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Xavier Hutchinson | WR/HOU | 392469 |
-| Roman Wilson | WR/PIT | 229716 |
-| Michael Mayer | TE/LV | 178398 |
-| Keon Coleman | WR/BUF | 117819 |
-| Devin Singletary | RB/NYG | 113283 |
-| Alvin Kamara | RB/NO | 95736 |
-| Cairo Santos | K/CHI | 67823 |
-| Demarcus Robinson | WR/SF | 60654 |
-| Carson Wentz | QB/MIN | 59790 |
-| Caleb Douglas | WR/MIA | 51432 |
-| Tampa Bay Buccaneers | DEF/TB | 51295 |
-| Konata Mumpfield | WR/LAR | 51147 |
-| Devaughn Vele | WR/NO | 43617 |
-| Malik Washington | WR/MIA | 40968 |
-| Emmett Johnson | RB/KC | 40905 |
+| Xavier Hutchinson | WR/HOU | 467159 |
+| Roman Wilson | WR/PIT | 320067 |
+| Michael Mayer | TE/LV | 298899 |
+| Devin Singletary | RB/NYG | 190035 |
+| Alvin Kamara | RB/NO | 153880 |
+| Keon Coleman | WR/BUF | 126702 |
+| Konata Mumpfield | WR/LAR | 114921 |
+| Tank Bigsby | RB/PHI | 113862 |
+| Cairo Santos | K/CHI | 90293 |
+| Demarcus Robinson | WR/SF | 86724 |
+| Tampa Bay Buccaneers | DEF/TB | 78950 |
+| Carson Wentz | QB/MIN | 75060 |
+| Malachi Fields | WR/NYG | 67140 |
+| Chase McLaughlin | K/TB | 64096 |
+| Malik Washington | WR/MIA | 63552 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jacksonville Jaguars | DEF/JAX | 45432 |
-| Devin Singletary | RB/NYG | 44838 |
-| Michael Mayer | TE/LV | 40977 |
-| Kyler Murray | QB/MIN | 36896 |
-| Chris Rodriguez | RB/JAX | 32283 |
-| Minnesota Vikings | DEF/MIN | 31250 |
-| Jalen Nailor | WR/LV | 30051 |
-| Omar Cooper | WR/NYJ | 27448 |
-| Xavier Hutchinson | WR/HOU | 27174 |
-| Jauan Jennings | WR/MIN | 26236 |
-| Michael Pittman | WR/PIT | 25675 |
-| Brenton Strange | TE/JAX | 25560 |
-| Roschon Johnson | RB/CHI | 25288 |
-| Kenny Gainwell | RB/TB | 25072 |
-| Keaton Mitchell | RB/LAC | 24840 |
+| Jacksonville Jaguars | DEF/JAX | 74994 |
+| Devin Singletary | RB/NYG | 72441 |
+| Jayden Reed | WR/GB | 64242 |
+| Michael Mayer | TE/LV | 61326 |
+| Kyler Murray | QB/MIN | 53320 |
+| Minnesota Vikings | DEF/MIN | 51645 |
+| Chris Rodriguez | RB/JAX | 50715 |
+| Jalen Nailor | WR/LV | 44496 |
+| Kenny Gainwell | RB/TB | 40584 |
+| Xavier Hutchinson | WR/HOU | 39935 |
+| Keaton Mitchell | RB/LAC | 37728 |
+| Brenton Strange | TE/JAX | 37467 |
+| Las Vegas Raiders | DEF/LV | 36444 |
+| Kenyon Sadiq | TE/NYJ | 36081 |
+| Omar Cooper | WR/NYJ | 35480 |
 
 
 ---
@@ -663,9 +673,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Divine Deablo | LB/ATL | (unlisted) | Questionable |
+_None since last run._
 
 **Full current report**
 
@@ -782,7 +790,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Matt Henningsen | DE/DEN | IR | — | — |
 | Michael Deiter | OL/DEN | IR | — | — |
 | Nick Gargiulo | OL/DEN | PUP | — | — |
-| RJ Harvey | RB/DEN | Questionable | — | Harvey rushed once for five yards and brought in both targets for 25 yards and a touchdown in the Broncos' 33-13 preseason loss to the Packers on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) |
+| RJ Harvey | RB/DEN | Questionable | — | Harvey (hamstring) is inactive for Sunday's game against the Jaguars, Susanna Weir of the Broncos' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) |
 | Ahmed Hassanein | DE/DET | Out | — | — |
 | Avonte Maddox | CB/DET | Questionable | — | — |
 | Blake Miller | OT/DET | Out | — | — |
@@ -1220,7 +1228,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Elijah Molden | CB/LAC | Out | — | — |
 | Isaiah World | OT/LAC | PUP | — | — |
 | KeAndre Lambert-Smith | WR/LAC | IR | — | — |
-| Ladd McConkey | WR/LAC | Questionable | — | McConkey (rib) is back at practice Friday for the Chargers, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
+| Ladd McConkey | WR/LAC | Questionable | — | McConkey (ribs) is listed as active for Sunday's game against the Raiders, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
 | Scott Matlock | DT/LAC | IR | — | — |
 | Trey Pipkins | T/LAC | Out | — | — |
 | Tyler Biadasz | C/LAC | IR | — | — |
@@ -1236,7 +1244,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Puka Nacua | WR/LAR | Questionable | — | Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
 | Aidan O'Connell | QB/LV | Out | — | — |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Doubtful | — | Bowers (knee), who is listed as doubtful for Sunday's game against the Chargers, is expected to sit out Week 2 but appears likely to make his season debut Week 3 in New Orleans, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
+| Brock Bowers | TE/LV | Doubtful | — | Bowers (knee) is inactive for Sunday's game at the Chargers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
 | Chris Collier | RB/LV | IR | — | — |
