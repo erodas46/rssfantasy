@@ -3972,7 +3972,7 @@
     "name": "Avonte Maddox",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DET"
   },
   "5377": {
@@ -4987,7 +4987,7 @@
     "name": "Mike Onwenu",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
   "7233": {
@@ -5143,6 +5143,13 @@
     "since": "",
     "status": "PUP",
     "team": "CLE"
+  },
+  "7652": {
+    "name": "Sam Cosmi",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
   },
   "7654": {
     "name": "Aaron Banks",
