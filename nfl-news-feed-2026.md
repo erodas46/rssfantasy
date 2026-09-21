@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-21 16:39 UTC_ · 517 items total · 508/517 matched to a player
+_Last updated: 2026-09-21 20:41 UTC_ · 522 items total · 513/522 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-21 16:39 UTC_ · 517 items total · 508/517 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-21 | Zay Flowers | WR/BAL | INJURY | — | Ravens head coach Jesse Minter said Monday that Flowers (hamstring) has a "good shot" to play Week 3 in Dallas, Ryan Mink of the Ravens' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-09-21 | Brock Bowers | TE/LV | NEWS | — | Raiders head coach Klint Kubiak said that Bowers (knee) will practice this week and is gearing up to play Sunday against the Saints, Levi Edwards of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-21 | Caleb Williams | QB/CHI | INJURY | — | Bears head coach Ben Johnson said that he doesn't anticipate Williams (hamstring) practicing in Week 3, though Johnson was unwilling to officially rule out the quarterback from playing Monday against the Eagles, Sean Hammond of the Chicago Tribune reports. Visit RotoWire.com for... ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-09-21 | Mike Evans | WR/SF | NEWS | — | San Francisco head coach Kyle Shanahan said that Evans (hip) will "have to be managed this week" leading up to Sunday's game against the Cardinals, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-09-21 | Demarcus Robinson | WR/SF | INJURY | — | San Francisco head coach Kyle Shanahan said that Robinson is facing a recovery timeline of 3-to-6 weeks after sustaining a high-ankle sprain in Sunday's 35-13 win over the Dolphins, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/demarcus-robinson-11163)) | Rotowire |
 | 2026-09-21 | Dallas Goedert | TE/PHI | INJURY | — | Goedert (knee) is slated to undergo an MRI on Monday after exiting Sunday's 24-20 win over the Titans, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) | Rotowire |
 | 2026-09-21 | J.K. Dobbins | RB/DEN | INJURY | — | The Broncos are optimistic that Dobbins sustained only a minor hamstring injury during Sunday's 20-13 win over the Jaguars and will be available to play Week 3 versus the Rams, James Palmer of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jk-dobbins-14418)) | Rotowire |
 | 2026-09-21 | Caleb Williams | QB/CHI | INJURY | — | Williams was cleared of a major injury to his right hamstring after undergoing tests Monday, and the Bears haven't ruled him out from playing in their Week 3 game against the Eagles, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
@@ -102,6 +107,11 @@ _Last updated: 2026-09-21 16:39 UTC_ · 517 items total · 508/517 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-21 | Zay Flowers | WR/BAL | INJURY | — | Ravens head coach Jesse Minter said Monday that Flowers (hamstring) has a "good shot" to play Week 3 in Dallas, Ryan Mink of the Ravens' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-09-21 | Brock Bowers | TE/LV | NEWS | — | Raiders head coach Klint Kubiak said that Bowers (knee) will practice this week and is gearing up to play Sunday against the Saints, Levi Edwards of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-09-21 | Caleb Williams | QB/CHI | INJURY | — | Bears head coach Ben Johnson said that he doesn't anticipate Williams (hamstring) practicing in Week 3, though Johnson was unwilling to officially rule out the quarterback from playing Monday against the Eagles, Sean Hammond of the Chicago Tribune reports. Visit RotoWire.com for... ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-09-21 | Mike Evans | WR/SF | NEWS | — | San Francisco head coach Kyle Shanahan said that Evans (hip) will "have to be managed this week" leading up to Sunday's game against the Cardinals, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-09-21 | Demarcus Robinson | WR/SF | INJURY | — | San Francisco head coach Kyle Shanahan said that Robinson is facing a recovery timeline of 3-to-6 weeks after sustaining a high-ankle sprain in Sunday's 35-13 win over the Dolphins, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/demarcus-robinson-11163)) | Rotowire |
 | 2026-09-21 | Dallas Goedert | TE/PHI | INJURY | — | Goedert (knee) is slated to undergo an MRI on Monday after exiting Sunday's 24-20 win over the Titans, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) | Rotowire |
 | 2026-09-21 | J.K. Dobbins | RB/DEN | INJURY | — | The Broncos are optimistic that Dobbins sustained only a minor hamstring injury during Sunday's 20-13 win over the Jaguars and will be available to play Week 3 versus the Rams, James Palmer of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jk-dobbins-14418)) | Rotowire |
 | 2026-09-21 | Caleb Williams | QB/CHI | INJURY | — | Williams was cleared of a major injury to his right hamstring after undergoing tests Monday, and the Bears haven't ruled him out from playing in their Week 3 game against the Eagles, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
@@ -630,41 +640,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Bryce Young | QB/CAR | 584248 |
-| Tyler Shough | QB/NO | 422296 |
-| Tank Bigsby | RB/PHI | 321909 |
-| Tre Tucker | WR/LV | 303870 |
-| Darren Waller | TE/CAR | 302310 |
-| Emanuel Wilson | RB/SEA | 267642 |
-| Tyson Bagent | QB/CHI | 207408 |
-| Keon Coleman | WR/BUF | 199044 |
-| Devin Singletary | RB/NYG | 193914 |
-| Adonai Mitchell | WR/NYJ | 174776 |
-| Chase McLaughlin | K/TB | 159432 |
-| Michael Mayer | TE/LV | 144036 |
-| Denzel Boston | WR/CLE | 137376 |
-| Marcus Mariota | QB/WAS | 121268 |
-| Jonah Coleman | RB/DEN | 115582 |
+| Bryce Young | QB/CAR | 577344 |
+| Tyler Shough | QB/NO | 453200 |
+| Emanuel Wilson | RB/SEA | 400428 |
+| Tre Tucker | WR/LV | 374316 |
+| Darren Waller | TE/CAR | 265878 |
+| Tank Bigsby | RB/PHI | 246106 |
+| Adonai Mitchell | WR/NYJ | 218872 |
+| Keon Coleman | WR/BUF | 194040 |
+| Tyson Bagent | QB/CHI | 158490 |
+| Chase McLaughlin | K/TB | 158096 |
+| Denzel Boston | WR/CLE | 157034 |
+| Jonah Coleman | RB/DEN | 149036 |
+| Marcus Mariota | QB/WAS | 147140 |
+| Devin Singletary | RB/NYG | 132363 |
+| Kirk Cousins | QB/LV | 122592 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jayden Reed | WR/GB | 282033 |
-| Caleb Douglas | WR/MIA | 232480 |
-| Jayden Daniels | QB/WAS | 207808 |
-| Tampa Bay Buccaneers | DEF/TB | 192455 |
-| Chris Rodriguez | RB/JAX | 149526 |
-| Quentin Johnston | WR/LAC | 137466 |
-| Michael Mayer | TE/LV | 132138 |
-| Jalen Nailor | WR/LV | 126162 |
-| Devin Singletary | RB/NYG | 121194 |
-| Mike Gesicki | TE/CIN | 118952 |
-| Kenny Gainwell | RB/TB | 109896 |
-| Kenyon Sadiq | TE/NYJ | 102618 |
-| Jordan Addison | WR/MIN | 99099 |
-| Caleb Williams | QB/CHI | 94347 |
-| Kyle Pitts | TE/ATL | 92246 |
+| Caleb Douglas | WR/MIA | 270288 |
+| Jayden Reed | WR/GB | 247941 |
+| Jayden Daniels | QB/WAS | 239088 |
+| Tampa Bay Buccaneers | DEF/TB | 214650 |
+| Quentin Johnston | WR/LAC | 157542 |
+| Chris Rodriguez | RB/JAX | 154467 |
+| Michael Mayer | TE/LV | 128637 |
+| Jalen Nailor | WR/LV | 125613 |
+| Mike Gesicki | TE/CIN | 104656 |
+| Kenny Gainwell | RB/TB | 104176 |
+| Devin Singletary | RB/NYG | 97695 |
+| Kaelon Black | RB/SF | 95613 |
+| Jordan Addison | WR/MIN | 92727 |
+| Kenyon Sadiq | TE/NYJ | 90792 |
+| Pat Bryant | WR/DEN | 85880 |
 
 
 ---
@@ -675,11 +685,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Mike Onwenu | OL/NE | Questionable | Out |
-| Sam Cosmi | OL/WAS | (unlisted) | Questionable |
-| Avonte Maddox | CB/DET | Questionable | Out |
+_None since last run._
 
 **Full current report**
 
@@ -733,7 +739,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Skylar Thompson | QB/BAL | IR | — | — |
 | T.J. Tampa | DB/BAL | IR | — | — |
 | Teddye Buchanan | LB/BAL | Out | — | — |
-| Zay Flowers | WR/BAL | Out | — | Flowers (hamstring) has been downgraded to out for Sunday's game against the Saints. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
+| Zay Flowers | WR/BAL | Out | — | Ravens head coach Jesse Minter said Monday that Flowers (hamstring) has a "good shot" to play Week 3 in Dallas, Ryan Mink of the Ravens' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
 | DJ Moore | WR/BUF | Out | — | The Bills are treating Moore as day-to-day after he was diagnosed with an AC joint sprain in his shoulder after exiting Thursday's 41-31 win over the Lions, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Out | — | — |
@@ -765,7 +771,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Tyrel Dodson | LB/CAR | Out | — | — |
 | Anthony Johnson | DB/CHI | Out | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
-| Caleb Williams | QB/CHI | Out | — | Williams was cleared of a major injury to his right hamstring after undergoing tests Monday, and the Bears haven't ruled him out from playing in their Week 3 game against the Eagles, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
+| Caleb Williams | QB/CHI | Out | — | Bears head coach Ben Johnson said that he doesn't anticipate Williams (hamstring) practicing in Week 3, though Johnson was unwilling to officially rule out the quarterback from playing Monday against the Eagles, Sean Hammond of the Chicago Tribune reports. Visit RotoWire.com for... ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
 | Case Keenum | QB/CHI | Out | — | — |
 | Coby Bryant | DB/CHI | IR | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
@@ -1326,7 +1332,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Puka Nacua | WR/LAR | Questionable | — | Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
 | Aidan O'Connell | QB/LV | Out | — | — |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Out | — | Bowers (knee) is inactive for Sunday's game at the Chargers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
+| Brock Bowers | TE/LV | Out | — | Raiders head coach Klint Kubiak said that Bowers (knee) will practice this week and is gearing up to play Sunday against the Saints, Levi Edwards of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Bryce Cabeldue | OT/LV | Out | — | — |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
@@ -1500,7 +1506,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Christian Kirk | WR/SF | IR | — | — |
 | Darrick Forrest | DB/SF | IR | — | — |
 | De'Zhaun Stribling | WR/SF | IR | — | The 49ers placed Stribling (ankle) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) |
-| Demarcus Robinson | WR/SF | Out | — | — |
+| Demarcus Robinson | WR/SF | Out | — | San Francisco head coach Kyle Shanahan said that Robinson is facing a recovery timeline of 3-to-6 weeks after sustaining a high-ankle sprain in Sunday's 35-13 win over the Dolphins, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/demarcus-robinson-11163)) |
 | Enrique Cruz | OL/SF | Out | — | — |
 | Ephesians Prysock | CB/SF | Out | — | — |
 | Isaac Guerendo | RB/SF | PUP | — | — |
@@ -1510,7 +1516,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jordan Watkins | WR/SF | Out | — | — |
 | Kurtis Rourke | QB/SF | Out | — | — |
 | Mikail Kamara | DE/SF | IR | — | — |
-| Mike Evans | WR/SF | Questionable | — | Evans (adductor) was not listed on the injury report the 49ers released Tuesday, according to Matt Maiocco of NBC Sports Bay Area. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
+| Mike Evans | WR/SF | Questionable | — | San Francisco head coach Kyle Shanahan said that Evans (hip) will "have to be managed this week" leading up to Sunday's game against the Cardinals, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
 | Mykel Williams | DL/SF | PUP | — | — |
 | Nate Hobbs | CB/SF | IR | — | — |
 | Nick Martin | LB/SF | IR | — | — |
