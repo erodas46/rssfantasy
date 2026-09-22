@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-22 03:53 UTC_ · 527 items total · 518/527 matched to a player
+_Last updated: 2026-09-22 15:11 UTC_ · 530 items total · 521/530 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-09-22 03:53 UTC_ · 527 items total · 518/527 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-21 | Matthew Stafford | QB/LAR | NEWS | — | Stafford completed 22 of 31 passes for 327 yards with four touchdowns and one interception and rushed four times for minus-1 yard in the Rams' 28-6 win over the Giants on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
+| 2026-09-21 | Jameis Winston | QB/NYG | NEWS | — | Winston replaced Jaxson Dart (knee) with 9:51 remaining in the first quarter of Monday night's 28-6 loss to the Rams and completed 11 of 27 passes for 111 yards with no touchdowns and one interception while rushing twice for one yard. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
+| 2026-09-21 | Isaiah Likely | TE/NYG | INJURY | — | Likely secured five of 10 targets for 33 yards in the Giants' 28-6 loss to the Rams on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) | Rotowire |
 | 2026-09-21 | Davante Adams | WR/LAR | ROLE/DEPTH CHART | — | Adams secured eight of 10 targets for 195 yards and two touchdowns in the Rams' 28-6 win over the Giants on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
 | 2026-09-21 | Kyren Williams | RB/LAR | NEWS | — | Williams rushed 12 times for 85 yards and brought in both targets for 12 yards and a touchdown in the Rams' 28-6 win over the Giants on Monday night. He also lost a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyren-williams-15807)) | Rotowire |
 | 2026-09-21 | Cam Skattebo | RB/NYG | NEWS | — | Skattebo rushed 12 times for 36 yards and brought in all four targets for 19 yards in the Giants' 28-6 loss to the Rams on Monday night. He also committed a fumble recovered by New York. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
@@ -97,6 +100,9 @@ _Last updated: 2026-09-22 03:53 UTC_ · 527 items total · 518/527 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-21 | Matthew Stafford | QB/LAR | NEWS | — | Stafford completed 22 of 31 passes for 327 yards with four touchdowns and one interception and rushed four times for minus-1 yard in the Rams' 28-6 win over the Giants on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
+| 2026-09-21 | Jameis Winston | QB/NYG | NEWS | — | Winston replaced Jaxson Dart (knee) with 9:51 remaining in the first quarter of Monday night's 28-6 loss to the Rams and completed 11 of 27 passes for 111 yards with no touchdowns and one interception while rushing twice for one yard. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
+| 2026-09-21 | Isaiah Likely | TE/NYG | INJURY | — | Likely secured five of 10 targets for 33 yards in the Giants' 28-6 loss to the Rams on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) | Rotowire |
 | 2026-09-21 | Davante Adams | WR/LAR | ROLE/DEPTH CHART | — | Adams secured eight of 10 targets for 195 yards and two touchdowns in the Rams' 28-6 win over the Giants on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
 | 2026-09-21 | Kyren Williams | RB/LAR | NEWS | — | Williams rushed 12 times for 85 yards and brought in both targets for 12 yards and a touchdown in the Rams' 28-6 win over the Giants on Monday night. He also lost a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyren-williams-15807)) | Rotowire |
 | 2026-09-21 | Cam Skattebo | RB/NYG | NEWS | — | Skattebo rushed 12 times for 36 yards and brought in all four targets for 19 yards in the Giants' 28-6 loss to the Rams on Monday night. He also committed a fumble recovered by New York. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
@@ -635,41 +641,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 775386 |
-| Bryce Young | QB/CAR | 509932 |
-| Tyler Shough | QB/NO | 435320 |
-| Tre Tucker | WR/LV | 426558 |
-| Adonai Mitchell | WR/NYJ | 322688 |
-| Konata Mumpfield | WR/LAR | 285138 |
-| Darren Waller | TE/CAR | 269811 |
-| Zach Ertz | TE/PHI | 268614 |
-| Malachi Fields | WR/NYG | 265470 |
-| Tank Bigsby | RB/PHI | 229628 |
-| Denzel Boston | WR/CLE | 182776 |
-| Jonah Coleman | RB/DEN | 178794 |
-| Chase McLaughlin | K/TB | 169336 |
-| Keon Coleman | WR/BUF | 162324 |
-| Darnell Mooney | WR/NYG | 153396 |
+| Emanuel Wilson | RB/SEA | 1682667 |
+| Adonai Mitchell | WR/NYJ | 884824 |
+| Bryce Young | QB/CAR | 837020 |
+| Tre Tucker | WR/LV | 746934 |
+| Tyler Shough | QB/NO | 720640 |
+| Zach Ertz | TE/PHI | 489186 |
+| Darren Waller | TE/CAR | 438327 |
+| Tank Bigsby | RB/PHI | 330540 |
+| Denzel Boston | WR/CLE | 315558 |
+| Jonah Coleman | RB/DEN | 314698 |
+| Keon Coleman | WR/BUF | 310761 |
+| Konata Mumpfield | WR/LAR | 278244 |
+| Chase McLaughlin | K/TB | 270616 |
+| Malachi Fields | WR/NYG | 254585 |
+| Kirk Cousins | QB/LV | 252304 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Caleb Douglas | WR/MIA | 286544 |
-| Tampa Bay Buccaneers | DEF/TB | 242390 |
-| Jayden Reed | WR/GB | 235305 |
-| Jayden Daniels | QB/WAS | 196184 |
-| Chris Rodriguez | RB/JAX | 176589 |
-| Devin Singletary | RB/NYG | 175311 |
-| Quentin Johnston | WR/LAC | 168889 |
-| Michael Mayer | TE/LV | 155466 |
-| Jalen Nailor | WR/LV | 128133 |
-| Kenny Gainwell | RB/TB | 117944 |
-| Kaelon Black | RB/SF | 101458 |
-| Kenyon Sadiq | TE/NYJ | 98865 |
-| MarShawn Lloyd | RB/GB | 98442 |
-| Mike Gesicki | TE/CIN | 95628 |
-| Jordan Addison | WR/MIN | 93564 |
+| Tampa Bay Buccaneers | DEF/TB | 588155 |
+| Caleb Douglas | WR/MIA | 449816 |
+| Jayden Reed | WR/GB | 358128 |
+| Devin Singletary | RB/NYG | 349362 |
+| Michael Mayer | TE/LV | 314433 |
+| Chris Rodriguez | RB/JAX | 282492 |
+| Jayden Daniels | QB/WAS | 276208 |
+| Quentin Johnston | WR/LAC | 254492 |
+| Jalen Nailor | WR/LV | 196317 |
+| MarShawn Lloyd | RB/GB | 189828 |
+| Carson Wentz | QB/MIN | 189744 |
+| Kenny Gainwell | RB/TB | 184128 |
+| Kaelon Black | RB/SF | 155582 |
+| Kenyon Sadiq | TE/NYJ | 153504 |
+| Jordan Addison | WR/MIN | 140598 |
 
 
 ---
@@ -682,35 +688,9 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| CJ Daniels | WR/LAR | (unlisted) | Out |
-| Jason Pinnock | CB/NYG | (unlisted) | Out |
-| Javon Kinlaw | DT/WAS | (unlisted) | Questionable |
-| Brian Robinson | RB/ATL | (unlisted) | Questionable |
-| Nick Muse | TE/ATL | (unlisted) | Questionable |
-| Nick Cross | DB/WAS | (unlisted) | Questionable |
-| Deonte Banks | DB/NYG | Questionable | Out |
-| Kelvin Banks | OL/NO | Questionable | Out |
-| Puka Nacua | WR/LAR | Questionable | Out |
-| Bill Murray | DT/LAR | (unlisted) | Out |
-| Brandon Cisse | DB/GB | (unlisted) | Questionable |
-| Jaxson Dart | QB/NYG | (unlisted) | Out |
-| Malik Nabers | WR/NYG | (unlisted) | Questionable |
-| Thomas Fidone | TE/NYG | (unlisted) | Out |
-| Bobby Jamison-Travis | DL/NYG | (unlisted) | Out |
-| Ty Simpson | QB/LAR | (unlisted) | Out |
-| Ronnie Rivers | RB/LAR | (unlisted) | Out |
-| J.C. Davis | OT/NYG | (unlisted) | Out |
-| Jordan Whittington | WR/LAR | Doubtful | Out |
-| Andrew Thomas | T/NYG | (unlisted) | Questionable |
-| Brian Burns | DE/NYG | (unlisted) | Questionable |
-| Charlie Kolar | TE/LAC | Questionable | Out |
-| Edgerrin Cooper | LB/GB | (unlisted) | Questionable |
-| Darius Alexander | DL/NYG | (unlisted) | Out |
-| Micah McFadden | LB/NYG | Questionable | Out |
-| Brenden Bates | TE/FA | Questionable | (cleared) |
-| Shawn Williams | DB/FA | Out | (cleared) |
-| Daniel Ekuale | DT/FA | Questionable | (cleared) |
-| J.R. Reed | DB/FA | Out | (cleared) |
+| Will Johnson | DB/ARI | Questionable | Out |
+| P.J. Locke | DB/DAL | Questionable | Out |
+| Cobie Durant | DB/DAL | Questionable | Out |
 
 **Full current report**
 
@@ -730,7 +710,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Reggie Virgil | WR/ARI | Out | — | — |
 | Tip Reiman | TE/ARI | PUP | — | — |
 | Trey Benson | RB/ARI | IR | — | Benson (knee) was waived/injured by the Cardinals on Monday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/trey-benson-17767)) |
-| Will Johnson | DB/ARI | Questionable | — | — |
+| Will Johnson | DB/ARI | Out | — | — |
 | Zach Carter | DL/ARI | IR | — | — |
 | A.J. Terrell | CB/ATL | Questionable | — | — |
 | Anterio Thompson | DT/ATL | PUP | — | — |
@@ -838,7 +818,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ajani Cornelius | OL/DAL | Out | — | — |
 | Caelen Carson | DB/DAL | Out | — | — |
 | Camden Brown | WR/DAL | Out | — | — |
-| Cobie Durant | DB/DAL | Questionable | — | — |
+| Cobie Durant | DB/DAL | Out | — | — |
 | DJ Rogers | TE/DAL | IR | — | — |
 | DeMarvion Overshown | LB/DAL | Out | — | — |
 | Dee Winters | LB/DAL | Questionable | — | — |
@@ -849,7 +829,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Malik Hooker | DB/DAL | Out | — | — |
 | Marist Liufau | LB/DAL | IR | — | — |
 | Matt Hennessy | OL/DAL | IR | — | — |
-| P.J. Locke | DB/DAL | Questionable | — | — |
+| P.J. Locke | DB/DAL | Out | — | — |
 | Princeton Fant | TE/DAL | IR | — | — |
 | Tyler Goodson | RB/DAL | Out | — | — |
 | Tyler Smith | OL/DAL | IR | — | — |
