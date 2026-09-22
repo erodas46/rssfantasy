@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-22 15:11 UTC_ · 530 items total · 521/530 matched to a player
+_Last updated: 2026-09-22 19:56 UTC_ · 535 items total · 526/535 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-22 15:11 UTC_ · 530 items total · 521/530 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-22 | Puka Nacua | WR/LAR | NEWS | — | Rams head coach Sean McVay acknowledged Tuesday that he's uncertain if Nacua (groin) will be available for Sunday's game against the Broncos, Gary Klein of the Los Angeles Times reports. "I'm not sure what his status is as far as this next coming week," McVay said of Nacua. "I'm... ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-09-22 | Zach Ertz | TE/ | TRANSACTION | — | Ertz signed a one-year contract with the Eagles on Tuesday, Chris McPherson of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zach-ertz-8781)) | Rotowire |
+| 2026-09-22 | Tyson Bagent | QB/CHI | INJURY | — | Bagent was diagnosed with a concussion and placed in the five-step protocol Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
+| 2026-09-22 | Jaxson Dart | QB/NYG | INJURY | 🔥 Schefter | Dart is facing the possibility of season-ending surgery after further testing Tuesday revealed that the left knee injury he sustained in Monday's 28-6 loss to the Rams is worse than originally anticipated, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) | Rotowire |
+| 2026-09-22 | Jameis Winston | QB/NYG | INJURY | — | Winston could be in line for an extended run as the Giants' starting quarterback after Jaxson Dart sustained a more serious knee injury than anticipated in Monday's 28-6 loss to the Rams, Ian Rapoport and Mike Garafolo of NFL Network report. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
 | 2026-09-21 | Matthew Stafford | QB/LAR | NEWS | — | Stafford completed 22 of 31 passes for 327 yards with four touchdowns and one interception and rushed four times for minus-1 yard in the Rams' 28-6 win over the Giants on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
 | 2026-09-21 | Jameis Winston | QB/NYG | NEWS | — | Winston replaced Jaxson Dart (knee) with 9:51 remaining in the first quarter of Monday night's 28-6 loss to the Rams and completed 11 of 27 passes for 111 yards with no touchdowns and one interception while rushing twice for one yard. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
 | 2026-09-21 | Isaiah Likely | TE/NYG | INJURY | — | Likely secured five of 10 targets for 33 yards in the Giants' 28-6 loss to the Rams on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) | Rotowire |
@@ -100,6 +105,11 @@ _Last updated: 2026-09-22 15:11 UTC_ · 530 items total · 521/530 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-22 | Puka Nacua | WR/LAR | NEWS | — | Rams head coach Sean McVay acknowledged Tuesday that he's uncertain if Nacua (groin) will be available for Sunday's game against the Broncos, Gary Klein of the Los Angeles Times reports. "I'm not sure what his status is as far as this next coming week," McVay said of Nacua. "I'm... ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-09-22 | Zach Ertz | TE/ | TRANSACTION | — | Ertz signed a one-year contract with the Eagles on Tuesday, Chris McPherson of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zach-ertz-8781)) | Rotowire |
+| 2026-09-22 | Tyson Bagent | QB/CHI | INJURY | — | Bagent was diagnosed with a concussion and placed in the five-step protocol Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
+| 2026-09-22 | Jaxson Dart | QB/NYG | INJURY | 🔥 Schefter | Dart is facing the possibility of season-ending surgery after further testing Tuesday revealed that the left knee injury he sustained in Monday's 28-6 loss to the Rams is worse than originally anticipated, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) | Rotowire |
+| 2026-09-22 | Jameis Winston | QB/NYG | INJURY | — | Winston could be in line for an extended run as the Giants' starting quarterback after Jaxson Dart sustained a more serious knee injury than anticipated in Monday's 28-6 loss to the Rams, Ian Rapoport and Mike Garafolo of NFL Network report. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
 | 2026-09-21 | Matthew Stafford | QB/LAR | NEWS | — | Stafford completed 22 of 31 passes for 327 yards with four touchdowns and one interception and rushed four times for minus-1 yard in the Rams' 28-6 win over the Giants on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
 | 2026-09-21 | Jameis Winston | QB/NYG | NEWS | — | Winston replaced Jaxson Dart (knee) with 9:51 remaining in the first quarter of Monday night's 28-6 loss to the Rams and completed 11 of 27 passes for 111 yards with no touchdowns and one interception while rushing twice for one yard. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jameis-winston-10037)) | Rotowire |
 | 2026-09-21 | Isaiah Likely | TE/NYG | INJURY | — | Likely secured five of 10 targets for 33 yards in the Giants' 28-6 loss to the Rams on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) | Rotowire |
@@ -641,41 +651,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 1682667 |
-| Adonai Mitchell | WR/NYJ | 884824 |
-| Bryce Young | QB/CAR | 837020 |
-| Tre Tucker | WR/LV | 746934 |
-| Tyler Shough | QB/NO | 720640 |
-| Zach Ertz | TE/PHI | 489186 |
-| Darren Waller | TE/CAR | 438327 |
-| Tank Bigsby | RB/PHI | 330540 |
-| Denzel Boston | WR/CLE | 315558 |
-| Jonah Coleman | RB/DEN | 314698 |
-| Keon Coleman | WR/BUF | 310761 |
-| Konata Mumpfield | WR/LAR | 278244 |
-| Chase McLaughlin | K/TB | 270616 |
-| Malachi Fields | WR/NYG | 254585 |
-| Kirk Cousins | QB/LV | 252304 |
+| Emanuel Wilson | RB/SEA | 2232504 |
+| Adonai Mitchell | WR/NYJ | 1353136 |
+| Bryce Young | QB/CAR | 1067148 |
+| Tyler Shough | QB/NO | 933568 |
+| Tre Tucker | WR/LV | 901356 |
+| Zach Ertz | TE/PHI | 664092 |
+| Darren Waller | TE/CAR | 553572 |
+| Keon Coleman | WR/BUF | 439011 |
+| Denzel Boston | WR/CLE | 398668 |
+| Jonah Coleman | RB/DEN | 386140 |
+| Tank Bigsby | RB/PHI | 377188 |
+| Minnesota Vikings | DEF/MIN | 348255 |
+| Kirk Cousins | QB/LV | 344208 |
+| Chase McLaughlin | K/TB | 327344 |
+| Terrance Ferguson | TE/LAR | 293768 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Tampa Bay Buccaneers | DEF/TB | 588155 |
-| Caleb Douglas | WR/MIA | 449816 |
-| Jayden Reed | WR/GB | 358128 |
-| Devin Singletary | RB/NYG | 349362 |
-| Michael Mayer | TE/LV | 314433 |
-| Chris Rodriguez | RB/JAX | 282492 |
-| Jayden Daniels | QB/WAS | 276208 |
-| Quentin Johnston | WR/LAC | 254492 |
-| Jalen Nailor | WR/LV | 196317 |
-| MarShawn Lloyd | RB/GB | 189828 |
-| Carson Wentz | QB/MIN | 189744 |
-| Kenny Gainwell | RB/TB | 184128 |
-| Kaelon Black | RB/SF | 155582 |
-| Kenyon Sadiq | TE/NYJ | 153504 |
-| Jordan Addison | WR/MIN | 140598 |
+| Tampa Bay Buccaneers | DEF/TB | 793905 |
+| Caleb Douglas | WR/MIA | 548552 |
+| Devin Singletary | RB/NYG | 456975 |
+| Jayden Reed | WR/GB | 432621 |
+| Michael Mayer | TE/LV | 419580 |
+| Chris Rodriguez | RB/JAX | 352458 |
+| Jayden Daniels | QB/WAS | 334008 |
+| Quentin Johnston | WR/LAC | 305956 |
+| Carson Wentz | QB/MIN | 249576 |
+| MarShawn Lloyd | RB/GB | 249345 |
+| Jalen Nailor | WR/LV | 238734 |
+| Kenny Gainwell | RB/TB | 231576 |
+| Kenyon Sadiq | TE/NYJ | 189333 |
+| Kaelon Black | RB/SF | 187369 |
+| Malachi Fields | WR/NYG | 172555 |
 
 
 ---
@@ -686,11 +696,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Will Johnson | DB/ARI | Questionable | Out |
-| P.J. Locke | DB/DAL | Questionable | Out |
-| Cobie Durant | DB/DAL | Questionable | Out |
+_None since last run._
 
 **Full current report**
 
@@ -1336,7 +1342,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Keir Thomas | DE/LAR | IR | — | — |
 | Matthew Caldwell | QB/LAR | IR | — | — |
 | Myles Garrett | DE/LAR | IR | — | Head coach Sean McVay said Monday that Garrett (knee) is making "really good progress" in the edge rusher's recovery, with the goal of playing in Week 1 against the 49ers, Lindsey Thiry of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) |
-| Puka Nacua | WR/LAR | Out | — | Coach Sean McVay said Nacua (hip) won't practice Saturday and will be listed as questionable for Monday's game against the Giants, Benjamin Royer of The Orange County Register reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
+| Puka Nacua | WR/LAR | Out | — | Rams head coach Sean McVay acknowledged Tuesday that he's uncertain if Nacua (groin) will be available for Sunday's game against the Broncos, Gary Klein of the Los Angeles Times reports. "I'm not sure what his status is as far as this next coming week," McVay said of Nacua. "I'm... ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
 | Ronnie Rivers | RB/LAR | Out | — | — |
 | Ty Simpson | QB/LAR | Out | — | Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-simpson-19275)) |
 | Aidan O'Connell | QB/LV | Out | — | — |
@@ -1446,7 +1452,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | J.C. Davis | OT/NYG | Out | — | — |
 | Jarrick Bernard-Converse | CB/NYG | IR | — | — |
 | Jason Pinnock | CB/NYG | Out | — | — |
-| Jaxson Dart | QB/NYG | Out | — | Dart completed 23 of 29 passes for 230 yards and three touchdowns in Sunday's 28-20 win over the Cowboys. He also rushed 11 times for 54 yards. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) |
+| Jaxson Dart | QB/NYG | Out | — | Dart is facing the possibility of season-ending surgery after further testing Tuesday revealed that the left knee injury he sustained in Monday's 28-6 loss to the Rams is worse than originally anticipated, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) |
 | Korie Black | CB/NYG | IR | — | — |
 | Malik Nabers | WR/NYG | Questionable | — | Nabers brought in one of four targets for one yard in the Giants' 28-6 loss to the Rams on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) |
 | Micah McFadden | LB/NYG | Out | — | — |
