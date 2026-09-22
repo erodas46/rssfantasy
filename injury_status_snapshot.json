@@ -45,7 +45,7 @@
     "name": "Deonte Banks",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYG"
   },
   "10897": {
@@ -570,8 +570,15 @@
     "name": "Jordan Whittington",
     "pos": "WR",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "LAR"
+  },
+  "11632": {
+    "name": "Malik Nabers",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
   },
   "11633": {
     "name": "Jamari Thrash",
@@ -635,6 +642,13 @@
     "since": "",
     "status": "Out",
     "team": "MIA"
+  },
+  "11687": {
+    "name": "Edgerrin Cooper",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
   },
   "11689": {
     "name": "Ennis Rakestraw",
@@ -1217,13 +1231,6 @@
     "status": "IR",
     "team": "FA"
   },
-  "12374": {
-    "name": "Brenden Bates",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "12383": {
     "name": "John Jiles",
     "pos": "WR",
@@ -1357,6 +1364,13 @@
     "status": "Out",
     "team": "JAX"
   },
+  "12508": {
+    "name": "Jaxson Dart",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "NYG"
+  },
   "12511": {
     "name": "Will Howard",
     "pos": "QB",
@@ -1431,8 +1445,15 @@
     "name": "Kelvin Banks",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
+  },
+  "12581": {
+    "name": "Darius Alexander",
+    "pos": "DL",
+    "since": "",
+    "status": "Out",
+    "team": "NYG"
   },
   "12584": {
     "name": "Darien Porter",
@@ -1699,6 +1720,13 @@
     "since": "",
     "status": "IR",
     "team": "BAL"
+  },
+  "12715": {
+    "name": "Thomas Fidone",
+    "pos": "TE",
+    "since": "",
+    "status": "Out",
+    "team": "NYG"
   },
   "12716": {
     "name": "Korie Black",
@@ -2141,12 +2169,26 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "13270": {
+    "name": "CJ Daniels",
+    "pos": "WR",
+    "since": "",
+    "status": "Out",
+    "team": "LAR"
+  },
   "13272": {
     "name": "Carson Beck",
     "pos": "QB",
     "since": "",
     "status": "Out",
     "team": "ARI"
+  },
+  "13275": {
+    "name": "Ty Simpson",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "LAR"
   },
   "13276": {
     "name": "Omar Cooper",
@@ -2315,6 +2357,13 @@
     "since": "",
     "status": "Questionable",
     "team": "SF"
+  },
+  "13369": {
+    "name": "Brandon Cisse",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
   },
   "13374": {
     "name": "Kayden McDonald",
@@ -2700,6 +2749,20 @@
     "since": "",
     "status": "Questionable",
     "team": "TEN"
+  },
+  "13530": {
+    "name": "J.C. Davis",
+    "pos": "OT",
+    "since": "",
+    "status": "Out",
+    "team": "NYG"
+  },
+  "13532": {
+    "name": "Bobby Jamison-Travis",
+    "pos": "DL",
+    "since": "",
+    "status": "Out",
+    "team": "NYG"
   },
   "13534": {
     "name": "Alex Harkey",
@@ -3154,13 +3217,6 @@
     "pos": "WR",
     "since": "",
     "status": "NA",
-    "team": "FA"
-  },
-  "1395": {
-    "name": "Shawn Williams",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
     "team": "FA"
   },
   "13951": {
@@ -4052,13 +4108,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "5532": {
-    "name": "Daniel Ekuale",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "5555": {
     "name": "Dakoda Shepley",
     "pos": "C",
@@ -4212,6 +4261,13 @@
     "since": "",
     "status": "IR",
     "team": "NE"
+  },
+  "5862": {
+    "name": "Brian Burns",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
   },
   "5865": {
     "name": "Dre'Mont Jones",
@@ -4640,6 +4696,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "6792": {
+    "name": "Javon Kinlaw",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
   "6803": {
     "name": "Brandon Aiyuk",
     "pos": "WR",
@@ -4653,6 +4716,13 @@
     "since": "",
     "status": "Questionable",
     "team": "DEN"
+  },
+  "6810": {
+    "name": "Andrew Thomas",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
   },
   "6818": {
     "name": "Nnamdi Madubuike",
@@ -4864,13 +4934,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "7046": {
-    "name": "J.R. Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
-    "team": "FA"
-  },
   "7049": {
     "name": "Jauan Jennings",
     "pos": "WR",
@@ -5017,6 +5080,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "7369": {
+    "name": "Bill Murray",
+    "pos": "DT",
+    "since": "",
+    "status": "Out",
+    "team": "LAR"
   },
   "7393": {
     "name": "Sirgeo Hoffman",
@@ -5312,6 +5382,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "7816": {
+    "name": "Jason Pinnock",
+    "pos": "CB",
+    "since": "",
+    "status": "Out",
+    "team": "NYG"
+  },
   "7823": {
     "name": "Nate Hobbs",
     "pos": "CB",
@@ -5449,7 +5526,7 @@
     "name": "Charlie Kolar",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "8142": {
@@ -5466,6 +5543,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "8154": {
+    "name": "Brian Robinson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
+  },
   "8176": {
     "name": "Danny Gray",
     "pos": "WR",
@@ -5479,6 +5563,13 @@
     "since": "",
     "status": "IR",
     "team": "PHI"
+  },
+  "8195": {
+    "name": "Ronnie Rivers",
+    "pos": "RB",
+    "since": "",
+    "status": "Out",
+    "team": "LAR"
   },
   "8202": {
     "name": "Michael Woods",
@@ -5739,11 +5830,18 @@
     "status": "Questionable",
     "team": "NO"
   },
+  "8392": {
+    "name": "Nick Cross",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
   "8396": {
     "name": "Micah McFadden",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYG"
   },
   "8408": {
@@ -5892,6 +5990,13 @@
     "since": "",
     "status": "Out",
     "team": "LAC"
+  },
+  "8523": {
+    "name": "Nick Muse",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
   },
   "8527": {
     "name": "Dareke Young",
@@ -6072,7 +6177,7 @@
     "name": "Puka Nacua",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAR"
   },
   "9494": {
