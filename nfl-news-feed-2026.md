@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-24 15:31 UTC_ · 556 items total · 547/556 matched to a player
+_Last updated: 2026-09-24 20:12 UTC_ · 561 items total · 552/561 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-24 15:31 UTC_ · 556 items total · 547/556 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-24 | Jalen Coker | WR/CAR | INJURY | — | Coker (ankle) was listed as a non-participant on Thursday's injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
+| 2026-09-24 | Tony Pollard | RB/TEN | NEWS | — | Pollard (ankle) returned to practice Thursday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tony-pollard-13590)) | Rotowire |
+| 2026-09-24 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (shoulder) is taking part in practice Thursday while sporting a protective device on his shoulder and neck area, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-09-24 | Tyjae Spears | RB/TEN | NEWS | — | Spears (ankle) wasn't seen on the field during the open portion of Thursday's practice, Turron Davenport of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
+| 2026-09-24 | Sam Darnold | QB/SEA | NEWS | — | Darnold (glute) said Thursday that he's "feeling good" and aiming to play Sunday at Washington, but the Seahawks are taking the situation "day by day," John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-24 | Puka Nacua | WR/LAR | INJURY | — | Nacua, who was listed as a non-participant on Wednesday's estimated practice report, doesn't appear to be making much progress in his recovery from a groin injury and could be trending toward a second consecutive absence Sunday against the Broncos, Ian Rapoport of NFL Network... ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-24 | Mike Evans | WR/SF | INJURY | — | The hip injury Evans sustained in Sunday's win over the Dolphins "does not seem to be major," and the wideout has a "good chance" of practicing Thursday and/or Friday and playing this weekend against the Cardinals, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-09-24 | Sam Darnold | QB/SEA | NEWS | — | Seahawks head coach Mike Macdonald said after Wednesday's practice that Darnold (glute) is "on a good track" to play Sunday against the Commanders, Brady Henderson of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
@@ -110,6 +115,11 @@ _Last updated: 2026-09-24 15:31 UTC_ · 556 items total · 547/556 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-24 | Jalen Coker | WR/CAR | INJURY | — | Coker (ankle) was listed as a non-participant on Thursday's injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
+| 2026-09-24 | Tony Pollard | RB/TEN | NEWS | — | Pollard (ankle) returned to practice Thursday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tony-pollard-13590)) | Rotowire |
+| 2026-09-24 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (shoulder) is taking part in practice Thursday while sporting a protective device on his shoulder and neck area, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-09-24 | Tyjae Spears | RB/TEN | NEWS | — | Spears (ankle) wasn't seen on the field during the open portion of Thursday's practice, Turron Davenport of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
+| 2026-09-24 | Sam Darnold | QB/SEA | NEWS | — | Darnold (glute) said Thursday that he's "feeling good" and aiming to play Sunday at Washington, but the Seahawks are taking the situation "day by day," John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-09-24 | Puka Nacua | WR/LAR | INJURY | — | Nacua, who was listed as a non-participant on Wednesday's estimated practice report, doesn't appear to be making much progress in his recovery from a groin injury and could be trending toward a second consecutive absence Sunday against the Broncos, Ian Rapoport of NFL Network... ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-09-24 | Mike Evans | WR/SF | INJURY | — | The hip injury Evans sustained in Sunday's win over the Dolphins "does not seem to be major," and the wideout has a "good chance" of practicing Thursday and/or Friday and playing this weekend against the Cardinals, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-09-24 | Sam Darnold | QB/SEA | NEWS | — | Seahawks head coach Mike Macdonald said after Wednesday's practice that Darnold (glute) is "on a good track" to play Sunday against the Commanders, Brady Henderson of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
@@ -677,41 +687,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 683073 |
-| Adonai Mitchell | WR/NYJ | 548808 |
-| Tyler Shough | QB/NO | 379488 |
-| Kyler Murray | QB/MIN | 319144 |
-| Zach Ertz | TE/PHI | 303507 |
-| Kirk Cousins | QB/LV | 291296 |
-| Darren Waller | TE/CAR | 289881 |
-| Keon Coleman | WR/BUF | 287325 |
-| Alvin Kamara | RB/NO | 238584 |
-| Tre Tucker | WR/LV | 228570 |
-| AJ Dillon | RB/CAR | 224592 |
-| Chase McLaughlin | K/TB | 214488 |
-| Tank Bigsby | RB/PHI | 201628 |
-| Terrance Ferguson | TE/LAR | 167424 |
-| Minnesota Vikings | DEF/MIN | 166955 |
+| Emanuel Wilson | RB/SEA | 491760 |
+| Adonai Mitchell | WR/NYJ | 377744 |
+| Darren Waller | TE/CAR | 242622 |
+| Tyler Shough | QB/NO | 237360 |
+| Kyler Murray | QB/MIN | 217120 |
+| Alvin Kamara | RB/NO | 212976 |
+| Zach Ertz | TE/PHI | 211383 |
+| AJ Dillon | RB/CAR | 202104 |
+| Kirk Cousins | QB/LV | 191576 |
+| Keon Coleman | WR/BUF | 176832 |
+| Chase McLaughlin | K/TB | 161216 |
+| Tank Bigsby | RB/PHI | 151403 |
+| Tre Tucker | WR/LV | 142404 |
+| Terrance Ferguson | TE/LAR | 130240 |
+| Minnesota Vikings | DEF/MIN | 116450 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jaxson Dart | QB/NYG | 304318 |
-| Jayden Reed | WR/GB | 293769 |
-| Tampa Bay Buccaneers | DEF/TB | 284600 |
-| Caleb Douglas | WR/MIA | 233120 |
-| Michael Mayer | TE/LV | 209754 |
-| Devin Singletary | RB/NYG | 171315 |
-| Jayden Daniels | QB/WAS | 165448 |
-| Chris Rodriguez | RB/JAX | 163089 |
-| Quentin Johnston | WR/LAC | 121058 |
-| Carson Wentz | QB/MIN | 116514 |
-| Kenny Gainwell | RB/TB | 112784 |
-| Emanuel Wilson | RB/SEA | 111456 |
-| MarShawn Lloyd | RB/GB | 105084 |
-| Jalen Nailor | WR/LV | 99243 |
-| Jacksonville Jaguars | DEF/JAX | 91980 |
+| Jayden Reed | WR/GB | 204867 |
+| Tampa Bay Buccaneers | DEF/TB | 191170 |
+| Jaxson Dart | QB/NYG | 168736 |
+| Caleb Douglas | WR/MIA | 165344 |
+| Michael Mayer | TE/LV | 149643 |
+| Chris Rodriguez | RB/JAX | 125226 |
+| Devin Singletary | RB/NYG | 124029 |
+| Jayden Daniels | QB/WAS | 111864 |
+| Quentin Johnston | WR/LAC | 90181 |
+| Kenny Gainwell | RB/TB | 84512 |
+| MarShawn Lloyd | RB/GB | 84348 |
+| Carson Wentz | QB/MIN | 81456 |
+| Emanuel Wilson | RB/SEA | 79587 |
+| Jalen Nailor | WR/LV | 72468 |
+| Jacksonville Jaguars | DEF/JAX | 69864 |
 
 
 ---
@@ -787,7 +797,7 @@ _None since last run._
 | Devin Lloyd | LB/CAR | Questionable | — | — |
 | Ikem Ekwonu | T/CAR | PUP | — | — |
 | Jaelan Phillips | LB/CAR | Questionable | — | — |
-| Jalen Coker | WR/CAR | Questionable | — | Coker (ankle) was limited in Wednesday's practice, Joe Person of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
+| Jalen Coker | WR/CAR | Questionable | — | Coker (ankle) was listed as a non-participant on Thursday's injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
 | Jonathon Brooks | RB/CAR | IR | — | Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Nick Scott | DB/CAR | Questionable | — | — |
@@ -1444,7 +1454,7 @@ _None since last run._
 | Johnny Wilson | WR/PHI | IR | — | — |
 | Jonathan Greenard | DE/PHI | Questionable | — | — |
 | Landon Dickerson | OL/PHI | IR | — | — |
-| Saquon Barkley | RB/PHI | Questionable | — | Barkley (shoulder) returned to Sunday's game against the Titans for the start of the third quarter, Brooks Kubena of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
+| Saquon Barkley | RB/PHI | Questionable | — | Barkley (shoulder) is taking part in practice Thursday while sporting a protective device on his shoulder and neck area, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
 | Tucker Large | DB/PHI | PUP | — | — |
 | DeShon Elliott | DB/PIT | IR | — | — |
 | Donte Kent | CB/PIT | PUP | — | — |
@@ -1470,7 +1480,7 @@ _None since last run._
 | Mason Richman | OL/SEA | IR | — | — |
 | Power Echols | LB/SEA | Questionable | — | — |
 | Robbie Ouzts | RB/SEA | IR | — | — |
-| Sam Darnold | QB/SEA | Questionable | — | Seahawks head coach Mike Macdonald said after Wednesday's practice that Darnold (glute) is "on a good track" to play Sunday against the Commanders, Brady Henderson of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
+| Sam Darnold | QB/SEA | Questionable | — | Darnold (glute) said Thursday that he's "feeling good" and aiming to play Sunday at Washington, but the Seahawks are taking the situation "day by day," John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
 | Terrion Arnold | DB/SEA | NA | — | — |
 | Ty Okada | DB/SEA | Questionable | — | — |
 | Zach Charbonnet | RB/SEA | PUP | — | Head coach Mike Macdonald said Wednesday that the Seahawks won't open Charbonnet's (knee) practice window this week, John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zach-charbonnet-16897)) |
@@ -1515,8 +1525,8 @@ _None since last run._
 | Milo Eifler | LB/TEN | IR | — | — |
 | Solomon Thomas | DT/TEN | Questionable | — | — |
 | Tanoh Kpassagnon | DE/TEN | IR | — | — |
-| Tony Pollard | RB/TEN | Questionable | — | Pollard rushed twice for 12 yards and caught his only target for 33 yards in Sunday's 19-16 preseason win over the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tony-pollard-13590)) |
-| Tyjae Spears | RB/TEN | Questionable | — | Spears is dealing with some soreness and irritation, which caused him to depart practice early Friday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) |
+| Tony Pollard | RB/TEN | Questionable | — | Pollard (ankle) returned to practice Thursday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tony-pollard-13590)) |
+| Tyjae Spears | RB/TEN | Questionable | — | Spears (ankle) wasn't seen on the field during the open portion of Thursday's practice, Turron Davenport of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) |
 | Charles Omenihu | DE/WAS | Questionable | — | — |
 | Chig Okonkwo | TE/WAS | Questionable | — | — |
 | Deatrich Wise | DE/WAS | PUP | — | — |
