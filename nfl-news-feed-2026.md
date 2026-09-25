@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-25 15:35 UTC_ · 571 items total · 562/571 matched to a player
+_Last updated: 2026-09-25 20:10 UTC_ · 576 items total · 567/576 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-25 15:35 UTC_ · 571 items total · 562/571 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-25 | Jaylen Warren | RB/PIT | INJURY | — | Warren (shoulder) is listed as questionable for Sunday's game against the Bengals after being a limited participant in Friday's practice, Alan Saunders of Steelers Now reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
+| 2026-09-25 | Mike Evans | WR/SF | NEWS | — | Evans (hip) is taking part in Friday's practice, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-09-25 | Rico Dowdle | RB/PIT | INJURY | — | Dowdle (toe) has been ruled out for Sunday's gam at Cincinnati, Alan Saunders of Steelers Now reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-09-25 | Nico Collins | WR/HOU | INJURY | — | Collins (hamstring) will not play in Sunday's game at Indianapolis. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
+| 2026-09-25 | Michael Pittman | WR/PIT | INJURY | — | Pittman (foot) is listed as questionable for Sunday's game, according to Alan Saunders of Steelers Now. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
 | 2026-09-25 | Jayden Daniels | QB/WAS | INJURY | — | Commanders GM Adam Peters, via JP Finlay of NBC Sports Washington, said Friday morning that "as of right now surgery is not on the table" for Jayden Daniels (elbow) and that the team "has not discussed" placing him on injured reserve. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) | Rotowire |
 | 2026-09-25 | Nico Collins | WR/HOU | INJURY | — | Collins (hamstring) is "very much in doubt" for Sunday's game against the Colts, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
 | 2026-09-25 | Adonai Mitchell | WR/NYJ | INJURY | — | Mitchell (finger) will be limited in Friday's practice, according to the Jets' official X account. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/adonai-mitchell-17668)) | Rotowire |
@@ -110,6 +115,11 @@ _Last updated: 2026-09-25 15:35 UTC_ · 571 items total · 562/571 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-25 | Jaylen Warren | RB/PIT | INJURY | — | Warren (shoulder) is listed as questionable for Sunday's game against the Bengals after being a limited participant in Friday's practice, Alan Saunders of Steelers Now reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
+| 2026-09-25 | Mike Evans | WR/SF | NEWS | — | Evans (hip) is taking part in Friday's practice, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-09-25 | Rico Dowdle | RB/PIT | INJURY | — | Dowdle (toe) has been ruled out for Sunday's gam at Cincinnati, Alan Saunders of Steelers Now reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-09-25 | Nico Collins | WR/HOU | INJURY | — | Collins (hamstring) will not play in Sunday's game at Indianapolis. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
+| 2026-09-25 | Michael Pittman | WR/PIT | INJURY | — | Pittman (foot) is listed as questionable for Sunday's game, according to Alan Saunders of Steelers Now. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
 | 2026-09-25 | Jayden Daniels | QB/WAS | INJURY | — | Commanders GM Adam Peters, via JP Finlay of NBC Sports Washington, said Friday morning that "as of right now surgery is not on the table" for Jayden Daniels (elbow) and that the team "has not discussed" placing him on injured reserve. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) | Rotowire |
 | 2026-09-25 | Nico Collins | WR/HOU | INJURY | — | Collins (hamstring) is "very much in doubt" for Sunday's game against the Colts, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
 | 2026-09-25 | Adonai Mitchell | WR/NYJ | INJURY | — | Mitchell (finger) will be limited in Friday's practice, according to the Jets' official X account. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/adonai-mitchell-17668)) | Rotowire |
@@ -692,41 +702,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 337797 |
-| Darren Waller | TE/CAR | 326205 |
-| Adonai Mitchell | WR/NYJ | 210744 |
-| AJ Dillon | RB/CAR | 210120 |
-| Kyler Murray | QB/MIN | 182576 |
-| Terrance Ferguson | TE/LAR | 168880 |
-| Kirk Cousins | QB/LV | 167392 |
-| Tyler Shough | QB/NO | 151880 |
-| Alvin Kamara | RB/NO | 151384 |
-| Chase McLaughlin | K/TB | 139560 |
-| Keon Coleman | WR/BUF | 101025 |
-| Zach Ertz | TE/PHI | 93492 |
-| Minnesota Vikings | DEF/MIN | 90520 |
-| Xavier Worthy | WR/KC | 90306 |
-| Tre Tucker | WR/LV | 89646 |
+| Darren Waller | TE/CAR | 335592 |
+| Emanuel Wilson | RB/SEA | 298116 |
+| AJ Dillon | RB/CAR | 213096 |
+| Terrance Ferguson | TE/LAR | 201344 |
+| Adonai Mitchell | WR/NYJ | 181736 |
+| Kyler Murray | QB/MIN | 167536 |
+| Kirk Cousins | QB/LV | 162424 |
+| Alvin Kamara | RB/NO | 138096 |
+| Chase McLaughlin | K/TB | 131000 |
+| Tyler Shough | QB/NO | 129480 |
+| Keon Coleman | WR/BUF | 95778 |
+| Malik Washington | WR/MIA | 88328 |
+| Tre Tucker | WR/LV | 86826 |
+| Xavier Worthy | WR/KC | 86526 |
+| Emmett Johnson | RB/KC | 83718 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 164277 |
-| Tampa Bay Buccaneers | DEF/TB | 131480 |
-| Jayden Reed | WR/GB | 118944 |
-| Caleb Douglas | WR/MIA | 117504 |
-| Michael Mayer | TE/LV | 112374 |
-| Chris Rodriguez | RB/JAX | 97326 |
-| Jaxson Dart | QB/NYG | 94134 |
-| Jayden Daniels | QB/WAS | 92384 |
-| Cairo Santos | K/CHI | 91203 |
-| Devin Singletary | RB/NYG | 89001 |
-| Tank Bigsby | RB/PHI | 71540 |
-| Kenny Gainwell | RB/TB | 65632 |
-| Emanuel Wilson | RB/SEA | 65547 |
-| Quentin Johnston | WR/LAC | 64862 |
-| Kyle Pitts | TE/ATL | 59661 |
+| MarShawn Lloyd | RB/GB | 184473 |
+| Caleb Douglas | WR/MIA | 116872 |
+| Tampa Bay Buccaneers | DEF/TB | 113725 |
+| Michael Mayer | TE/LV | 103023 |
+| Jayden Reed | WR/GB | 101817 |
+| Cairo Santos | K/CHI | 90412 |
+| Chris Rodriguez | RB/JAX | 89361 |
+| Jayden Daniels | QB/WAS | 82872 |
+| Devin Singletary | RB/NYG | 81171 |
+| Jaxson Dart | QB/NYG | 79896 |
+| Tank Bigsby | RB/PHI | 78134 |
+| Kyle Pitts | TE/ATL | 64316 |
+| Emanuel Wilson | RB/SEA | 64233 |
+| Kenny Gainwell | RB/TB | 59840 |
+| Quentin Johnston | WR/LAC | 59549 |
 
 
 ---
@@ -737,13 +747,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Caleb Douglas | WR/MIA | Questionable | Out |
-| Jacob Monk | OL/GB | (unlisted) | Questionable |
-| Mason Taylor | TE/NYJ | Doubtful | Out |
-| Kiko Mauigoa | LB/NYJ | Questionable | Out |
-| Minkah Fitzpatrick | DB/NYJ | Questionable | Out |
+_None since last run._
 
 **Full current report**
 
@@ -1269,7 +1273,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | K.C. Ossai | LB/HOU | IR | — | — |
 | Kayden McDonald | DL/HOU | IR | — | — |
 | M.J. Stewart | DB/HOU | PUP | — | — |
-| Nico Collins | WR/HOU | Questionable | — | Collins (hamstring) is "very much in doubt" for Sunday's game against the Colts, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) |
+| Nico Collins | WR/HOU | Questionable | — | Collins (hamstring) will not play in Sunday's game at Indianapolis. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) |
 | Sam Hagen | OL/HOU | IR | — | — |
 | Tank Dell | WR/HOU | IR | — | Coach DeMeco Ryans said Monday that he's unsure if Dell (knee) will play during the Texans' preseason slate, Aaron Wilson of KPRC 2 Houston reports. "With Tank, he's on his own plan," Ryans noted. "Whatever that entails, geared toward what's best for Tank Dell." Visit... ([link](https://www.rotowire.com//football/player/tank-dell-16935)) |
 | Trent Brown | OL/HOU | Questionable | — | — |
@@ -1458,12 +1462,12 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Gennings Dunker | OT/PIT | Questionable | — | — |
 | Jack Driscoll | T/PIT | IR | — | — |
 | Jamel Dean | CB/PIT | Questionable | — | — |
-| Jaylen Warren | RB/PIT | Questionable | — | Warren rushed five times for 17 yards in Friday's 17-0 preseason loss to the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) |
+| Jaylen Warren | RB/PIT | Questionable | — | Warren (shoulder) is listed as questionable for Sunday's game against the Bengals after being a limited participant in Friday's practice, Alan Saunders of Steelers Now reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) |
 | Joey Porter | DB/PIT | Questionable | — | — |
 | Logan Lee | DL/PIT | IR | — | — |
 | Max Hurleman | CB/PIT | Out | — | — |
-| Michael Pittman | WR/PIT | Questionable | — | Pittman (foot) has been ruled out for Sunday's game at New England, Burt Lauten of the Steelers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) |
-| Rico Dowdle | RB/PIT | Questionable | — | Dowdle "checked out relatively OK" after undergoing testing on his toe injury Tuesday and is considered day-to-day, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) |
+| Michael Pittman | WR/PIT | Questionable | — | Pittman (foot) is listed as questionable for Sunday's game, according to Alan Saunders of Steelers Now. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) |
+| Rico Dowdle | RB/PIT | Questionable | — | Dowdle (toe) has been ruled out for Sunday's gam at Cincinnati, Alan Saunders of Steelers Now reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) |
 | Aaron Smith | LB/SEA | Questionable | — | — |
 | Anthony Bradford | OL/SEA | IR | — | — |
 | Brandon Pili | DT/SEA | Questionable | — | — |
@@ -1493,7 +1497,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jake Tonges | TE/SF | IR | — | — |
 | James Thompson | DT/SF | Doubtful | — | — |
 | Mikail Kamara | DE/SF | IR | — | — |
-| Mike Evans | WR/SF | Questionable | — | The hip injury Evans sustained in Sunday's win over the Dolphins "does not seem to be major," and the wideout has a "good chance" of practicing Thursday and/or Friday and playing this weekend against the Cardinals, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
+| Mike Evans | WR/SF | Questionable | — | Evans (hip) is taking part in Friday's practice, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
 | Mykel Williams | DL/SF | PUP | — | — |
 | Nate Hobbs | CB/SF | IR | — | — |
 | Nick Bosa | DE/SF | Questionable | — | Bosa (knee) worked to the side on the practice field Monday and is expected to do the same Tuesday, with a return to practice planned for Wednesday, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nick-bosa-13421)) |
