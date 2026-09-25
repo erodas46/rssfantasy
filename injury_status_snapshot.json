@@ -741,6 +741,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "11776": {
+    "name": "Jacob Monk",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
+  },
   "11778": {
     "name": "Jordan Magee",
     "pos": "LB",
@@ -1172,7 +1179,7 @@
     "name": "Mason Taylor",
     "pos": "TE",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "12508": {
@@ -1431,7 +1438,7 @@
     "name": "Kiko Mauigoa",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "12669": {
@@ -1907,7 +1914,7 @@
     "name": "Caleb Douglas",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "13300": {
@@ -3202,7 +3209,7 @@
     "name": "Minkah Fitzpatrick",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "4983": {
