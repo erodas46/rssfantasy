@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-26 14:45 UTC_ · 582 items total · 573/582 matched to a player
+_Last updated: 2026-09-26 19:28 UTC_ · 587 items total · 578/587 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-26 14:45 UTC_ · 582 items total · 573/582 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-26 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) is participating in Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-09-26 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) will not participate in Saturday's practice, Jason Lieser of the Chicago Suns-Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-09-26 | Tyson Bagent | QB/CHI | INJURY | — | Bagent (concussion) will be back at practice Saturday after progressing through the league's concussion protocol, Kevin Fishbain of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
+| 2026-09-26 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) has been ruled out for Monday's game against the Eagles. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-09-26 | Tyson Bagent | QB/CHI | INJURY | — | Bagent (concussion) was a full participant in Saturday's practice but is listed as questionable for Monday's game against the Eagles. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
 | 2026-09-26 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) is expected to "test his injury" prior to Sunday's game against the Cowboys, and if he suits up he "will likely be on a pitch count," Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) said Friday that he's "feeling good" this week and will wear protective gear around his neck during Monday's contest at Chicago, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) was a full practice participant Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
@@ -110,6 +115,11 @@ _Last updated: 2026-09-26 14:45 UTC_ · 582 items total · 573/582 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-26 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) is participating in Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-09-26 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) will not participate in Saturday's practice, Jason Lieser of the Chicago Suns-Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-09-26 | Tyson Bagent | QB/CHI | INJURY | — | Bagent (concussion) will be back at practice Saturday after progressing through the league's concussion protocol, Kevin Fishbain of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
+| 2026-09-26 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) has been ruled out for Monday's game against the Eagles. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-09-26 | Tyson Bagent | QB/CHI | INJURY | — | Bagent (concussion) was a full participant in Saturday's practice but is listed as questionable for Monday's game against the Eagles. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
 | 2026-09-26 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) is expected to "test his injury" prior to Sunday's game against the Cowboys, and if he suits up he "will likely be on a pitch count," Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) said Friday that he's "feeling good" this week and will wear protective gear around his neck during Monday's contest at Chicago, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) was a full practice participant Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
@@ -703,41 +713,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Terrance Ferguson | TE/LAR | 286160 |
-| Darren Waller | TE/CAR | 194445 |
-| Sam Darnold | QB/SEA | 127119 |
-| AJ Dillon | RB/CAR | 117320 |
-| Emanuel Wilson | RB/SEA | 102636 |
-| Malik Washington | WR/MIA | 96880 |
-| Kirk Cousins | QB/LV | 89536 |
-| Adonai Mitchell | WR/NYJ | 85352 |
-| Emmett Johnson | RB/KC | 81270 |
-| Xavier Hutchinson | WR/HOU | 74690 |
-| Alvin Kamara | RB/NO | 66928 |
-| Kyler Murray | QB/MIN | 64624 |
-| Chase McLaughlin | K/TB | 58312 |
-| Keon Coleman | WR/BUF | 55242 |
-| Deshaun Watson | QB/CLE | 46752 |
+| Terrance Ferguson | TE/LAR | 340968 |
+| Darren Waller | TE/CAR | 168552 |
+| Sam Darnold | QB/SEA | 125085 |
+| Malik Washington | WR/MIA | 114248 |
+| AJ Dillon | RB/CAR | 104272 |
+| Xavier Hutchinson | WR/HOU | 93674 |
+| Emmett Johnson | RB/KC | 88488 |
+| Kirk Cousins | QB/LV | 85232 |
+| Emanuel Wilson | RB/SEA | 79344 |
+| Adonai Mitchell | WR/NYJ | 76776 |
+| Alvin Kamara | RB/NO | 62848 |
+| Kyler Murray | QB/MIN | 58008 |
+| Chase McLaughlin | K/TB | 55920 |
+| Keon Coleman | WR/BUF | 53496 |
+| Khalil Shakir | WR/BUF | 46080 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 104931 |
-| Caleb Douglas | WR/MIA | 82416 |
-| Emanuel Wilson | RB/SEA | 76977 |
-| Tank Bigsby | RB/PHI | 56364 |
-| Drew Lock | QB/SEA | 54381 |
-| Michael Mayer | TE/LV | 49050 |
-| Chris Rodriguez | RB/JAX | 43713 |
-| Jayden Reed | WR/GB | 38664 |
-| Tampa Bay Buccaneers | DEF/TB | 38195 |
-| Devin Singletary | RB/NYG | 37944 |
-| Jonah Coleman | RB/DEN | 31052 |
-| Kyle Pitts | TE/ATL | 30814 |
-| Keon Coleman | WR/BUF | 30510 |
-| Cairo Santos | K/CHI | 30177 |
-| Kenny Gainwell | RB/TB | 29184 |
+| MarShawn Lloyd | RB/GB | 90027 |
+| Emanuel Wilson | RB/SEA | 87255 |
+| Caleb Douglas | WR/MIA | 65440 |
+| Tank Bigsby | RB/PHI | 58030 |
+| Drew Lock | QB/SEA | 51179 |
+| Michael Mayer | TE/LV | 47358 |
+| Chris Rodriguez | RB/JAX | 41247 |
+| Tampa Bay Buccaneers | DEF/TB | 36385 |
+| Jayden Reed | WR/GB | 35352 |
+| Devin Singletary | RB/NYG | 34380 |
+| Jonah Coleman | RB/DEN | 33340 |
+| Cairo Santos | K/CHI | 30107 |
+| Keon Coleman | WR/BUF | 28845 |
+| Kenny Gainwell | RB/TB | 27672 |
+| Darren Waller | TE/CAR | 27198 |
 
 
 ---
@@ -820,7 +830,7 @@ _None since last run._
 | Anthony Johnson | DB/CHI | Out | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
 | Cairo Santos | K/CHI | Questionable | — | — |
-| Caleb Williams | QB/CHI | Doubtful | — | Bears head coach Ben Johnson said that he doesn't anticipate Williams (hamstring) practicing in Week 3, though Johnson was unwilling to officially rule out the quarterback from playing Monday against the Eagles, Sean Hammond of the Chicago Tribune reports. Visit RotoWire.com for... ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
+| Caleb Williams | QB/CHI | Doubtful | — | Williams (hamstring) will not participate in Saturday's practice, Jason Lieser of the Chicago Suns-Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
 | Coby Bryant | DB/CHI | IR | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
 | Kyler Gordon | DB/CHI | PUP | — | — |
@@ -830,7 +840,7 @@ _None since last run._
 | Shemar Turner | DE/CHI | PUP | — | — |
 | Tony Fields | LB/CHI | IR | — | — |
 | Tyrique Stevenson | CB/CHI | Questionable | — | — |
-| Tyson Bagent | QB/CHI | Questionable | — | Bagent was diagnosed with a concussion and placed in the five-step protocol Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) |
+| Tyson Bagent | QB/CHI | Questionable | — | Bagent (concussion) will be back at practice Saturday after progressing through the league's concussion protocol, Kevin Fishbain of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) |
 | Andrei Iosivas | WR/CIN | Out | — | — |
 | B.J. Hill | DT/CIN | Doubtful | — | — |
 | Ja'Sir Taylor | DB/CIN | IR | — | — |
@@ -1417,7 +1427,7 @@ _None since last run._
 | VJ Payne | DB/NYJ | IR | — | — |
 | Andre' Sam | DB/PHI | IR | — | — |
 | Dallas Goedert | TE/PHI | Doubtful | — | Goedert (knee) didn't practice Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) |
-| DeVonta Smith | WR/PHI | Questionable | — | Smith (hamstring) practiced in a limited capacity Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
+| DeVonta Smith | WR/PHI | Questionable | — | Smith (hamstring) is participating in Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
 | Eli Stowers | TE/PHI | IR | — | — |
 | Grant Calcaterra | TE/PHI | IR | — | — |
 | Jakorian Bennett | DB/PHI | IR | — | — |
