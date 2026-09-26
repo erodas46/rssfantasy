@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-26 04:04 UTC_ · 581 items total · 572/581 matched to a player
+_Last updated: 2026-09-26 14:45 UTC_ · 582 items total · 573/582 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-09-26 04:04 UTC_ · 581 items total · 572/581 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-26 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) is expected to "test his injury" prior to Sunday's game against the Cowboys, and if he suits up he "will likely be on a pitch count," Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) said Friday that he's "feeling good" this week and will wear protective gear around his neck during Monday's contest at Chicago, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) was a full practice participant Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-09-25 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) practiced in a limited capacity Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
@@ -109,6 +110,7 @@ _Last updated: 2026-09-26 04:04 UTC_ · 581 items total · 572/581 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-26 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) is expected to "test his injury" prior to Sunday's game against the Cowboys, and if he suits up he "will likely be on a pitch count," Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) said Friday that he's "feeling good" this week and will wear protective gear around his neck during Monday's contest at Chicago, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-09-25 | Saquon Barkley | RB/PHI | NEWS | — | Barkley (stinger) was a full practice participant Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-09-25 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) practiced in a limited capacity Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
@@ -701,41 +703,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Terrance Ferguson | TE/LAR | 242920 |
-| Darren Waller | TE/CAR | 240849 |
-| Emanuel Wilson | RB/SEA | 149130 |
-| AJ Dillon | RB/CAR | 142152 |
-| Sam Darnold | QB/SEA | 108063 |
-| Adonai Mitchell | WR/NYJ | 105672 |
-| Kirk Cousins | QB/LV | 101144 |
-| Malik Washington | WR/MIA | 89568 |
-| Kyler Murray | QB/MIN | 85352 |
-| Alvin Kamara | RB/NO | 84232 |
-| Emmett Johnson | RB/KC | 81693 |
-| Chase McLaughlin | K/TB | 74160 |
-| Keon Coleman | WR/BUF | 64161 |
-| Xavier Hutchinson | WR/HOU | 56203 |
-| Tre Tucker | WR/LV | 54708 |
+| Terrance Ferguson | TE/LAR | 286160 |
+| Darren Waller | TE/CAR | 194445 |
+| Sam Darnold | QB/SEA | 127119 |
+| AJ Dillon | RB/CAR | 117320 |
+| Emanuel Wilson | RB/SEA | 102636 |
+| Malik Washington | WR/MIA | 96880 |
+| Kirk Cousins | QB/LV | 89536 |
+| Adonai Mitchell | WR/NYJ | 85352 |
+| Emmett Johnson | RB/KC | 81270 |
+| Xavier Hutchinson | WR/HOU | 74690 |
+| Alvin Kamara | RB/NO | 66928 |
+| Kyler Murray | QB/MIN | 64624 |
+| Chase McLaughlin | K/TB | 58312 |
+| Keon Coleman | WR/BUF | 55242 |
+| Deshaun Watson | QB/CLE | 46752 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 156519 |
-| Caleb Douglas | WR/MIA | 88208 |
-| Emanuel Wilson | RB/SEA | 70515 |
-| Tank Bigsby | RB/PHI | 60200 |
-| Michael Mayer | TE/LV | 57906 |
-| Chris Rodriguez | RB/JAX | 51624 |
-| Tampa Bay Buccaneers | DEF/TB | 49555 |
-| Kyle Pitts | TE/ATL | 48678 |
-| Jayden Reed | WR/GB | 48591 |
-| Drew Lock | QB/SEA | 47212 |
-| Devin Singletary | RB/NYG | 46728 |
-| Jayden Daniels | QB/WAS | 37064 |
-| Cairo Santos | K/CHI | 36470 |
-| Keon Coleman | WR/BUF | 35847 |
-| Kenny Gainwell | RB/TB | 35768 |
+| MarShawn Lloyd | RB/GB | 104931 |
+| Caleb Douglas | WR/MIA | 82416 |
+| Emanuel Wilson | RB/SEA | 76977 |
+| Tank Bigsby | RB/PHI | 56364 |
+| Drew Lock | QB/SEA | 54381 |
+| Michael Mayer | TE/LV | 49050 |
+| Chris Rodriguez | RB/JAX | 43713 |
+| Jayden Reed | WR/GB | 38664 |
+| Tampa Bay Buccaneers | DEF/TB | 38195 |
+| Devin Singletary | RB/NYG | 37944 |
+| Jonah Coleman | RB/DEN | 31052 |
+| Kyle Pitts | TE/ATL | 30814 |
+| Keon Coleman | WR/BUF | 30510 |
+| Cairo Santos | K/CHI | 30177 |
+| Kenny Gainwell | RB/TB | 29184 |
 
 
 ---
@@ -746,107 +748,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Jake Hummel | LB/HOU | Questionable | Out |
-| Dadrion Taylor-Demerson | DB/ARI | Questionable | Out |
-| Julian Love | DB/SEA | Questionable | Out |
-| Brenen Thompson | WR/LAC | Questionable | Out |
-| Rueben Bain | DL/TB | Questionable | Out |
-| Josh Simmons | OL/KC | Questionable | Out |
-| Claudin Cherelus | LB/CAR | Questionable | Out |
-| Ben Bartch | OL/DET | Questionable | Out |
-| Devin Lloyd | LB/CAR | Questionable | Out |
-| Chamarri Conner | DB/KC | Questionable | Doubtful |
-| Sam Cosmi | OL/WAS | Questionable | Out |
-| Nico Collins | WR/HOU | Questionable | Out |
-| Jordan Hancock | DB/BUF | Questionable | IR |
-| Rico Dowdle | RB/PIT | Questionable | Out |
-| Dalvin Tomlinson | DT/LAC | Doubtful | Out |
-| Brett Thorson | P/MIN | Questionable | Out |
-| T.J. Sanders | DL/BUF | Questionable | Out |
-| Teven Jenkins | OL/CLE | Questionable | Out |
-| Puka Nacua | WR/LAR | Questionable | Doubtful |
-| Gennings Dunker | OT/PIT | Questionable | Out |
-| Rob Beal | LB/MIA | Questionable | Out |
-| Christen Miller | DL/NO | Questionable | Out |
-| Romello Height | LB/SF | Questionable | Out |
-| Treydan Stukes | DB/LV | Questionable | Out |
-| Jadeveon Clowney | DE/HOU | Questionable | Out |
-| Marquise Brown | WR/PHI | (unlisted) | Questionable |
-| Josiah Trotter | LB/TB | Questionable | Out |
-| B.J. Hill | DT/CIN | Questionable | Doubtful |
-| Trey Lance | QB/LAC | (unlisted) | Questionable |
-| Ty Okada | DB/SEA | Questionable | Out |
-| Kene Nwangwu | RB/NYJ | Questionable | Doubtful |
-| Nick Samac | C/MIN | Questionable | Out |
-| Elijah Molden | CB/LAC | Questionable | Out |
-| James Thompson | DT/SF | Doubtful | Out |
-| Barion Brown | WR/NO | Questionable | Out |
-| Trey Pipkins | T/LAC | Questionable | Out |
-| Quintayvious Hutchins | DE/NE | Questionable | IR |
-| Frankie Luvu | LB/WAS | Questionable | Out |
-| Kamren Kinchens | DB/LAR | Questionable | Doubtful |
-| Nick Scott | DB/CAR | Questionable | Out |
-| Dre'Mont Jones | DE/NE | Questionable | Out |
-| Jonah Coleman | RB/DEN | Questionable | Out |
-| Kayode Awosika | OL/LAC | Doubtful | Out |
-| Nick Bosa | DE/SF | Questionable | Out |
-| Thomas Harper | DB/DET | Questionable | Out |
-| Chig Okonkwo | TE/WAS | Questionable | Out |
-| Albert Regis | DT/JAX | (unlisted) | Doubtful |
-| Ronnie Stanley | T/BAL | Questionable | Out |
-| Jaylen Wright | RB/MIA | Questionable | Doubtful |
-| Ed Ingram | G/HOU | Questionable | Out |
-| Ashton Dulin | WR/IND | Questionable | Out |
-| Ajani Carter | DB/FA | (unlisted) | Sus |
-| Jalen Carter | DL/PHI | Questionable | (cleared) |
-| Tuli Tuipulotu | DL/LAC | Questionable | (cleared) |
-| Garrett Williams | DB/ARI | Questionable | (cleared) |
-| Jalen Redmond | DE/MIN | Questionable | (cleared) |
-| Jordan Whittington | WR/LAR | Questionable | (cleared) |
-| Christian Mahogany | OL/DET | Questionable | (cleared) |
-| Kyle Monangai | RB/CHI | Questionable | (cleared) |
-| LeQuint Allen | RB/JAX | Questionable | (cleared) |
-| Malaki Starks | DB/BAL | Questionable | (cleared) |
-| Andrew Mukuba | DB/PHI | Questionable | (cleared) |
-| Tate Ratledge | OL/DET | Questionable | (cleared) |
-| Jaylin Lane | WR/WAS | Questionable | (cleared) |
-| Micah Robinson | CB/TEN | Questionable | (cleared) |
-| Jadarian Price | RB/SEA | Questionable | (cleared) |
-| Chris Bell | WR/MIA | Questionable | (cleared) |
-| Jake Golday | LB/MIN | Questionable | (cleared) |
-| Blake Miller | OT/DET | Questionable | (cleared) |
-| Shelby Harris | DE/NYG | Questionable | (cleared) |
-| Morgan Moses | OL/NE | Questionable | (cleared) |
-| Chris Moore | WR/BAL | Questionable | (cleared) |
-| Chris Jones | DT/KC | Questionable | (cleared) |
-| Solomon Thomas | DT/TEN | Questionable | (cleared) |
-| Trey Hendrickson | DE/BAL | Questionable | (cleared) |
-| Aaron Jones | RB/MIN | Questionable | (cleared) |
-| Saquon Barkley | RB/PHI | Questionable | (cleared) |
-| Dorance Armstrong | DE/WAS | Questionable | (cleared) |
-| Charles Omenihu | DE/WAS | Questionable | (cleared) |
-| Jakobi Meyers | WR/JAX | Questionable | (cleared) |
-| Tony Pollard | RB/TEN | Questionable | (cleared) |
-| Anthony Nelson | LB/TB | Questionable | (cleared) |
-| Hjalte Froholdt | G/ARI | Questionable | (cleared) |
-| Quincy Williams | LB/CLE | Questionable | (cleared) |
-| Javon Kinlaw | DT/WAS | Questionable | (cleared) |
-| Andrew Thomas | T/NYG | Questionable | (cleared) |
-| DeeJay Dallas | RB/MIN | Questionable | (cleared) |
-| DaVon Hamilton | DT/JAX | Questionable | (cleared) |
-| L'Jarius Sneed | CB/KC | Questionable | (cleared) |
-| Reggie Gilliam | RB/NE | Questionable | (cleared) |
-| Travis Etienne | RB/NO | Questionable | (cleared) |
-| Robert Hainsey | OL/JAX | Questionable | (cleared) |
-| Cole Van Lanen | OL/JAX | Questionable | (cleared) |
-| Daniel Bellinger | TE/TEN | Questionable | (cleared) |
-| Leo Chenal | LB/WAS | Questionable | (cleared) |
-| Percy Butler | DB/WAS | Questionable | (cleared) |
-| Nate Landman | LB/LAR | Questionable | (cleared) |
-| Tucker Addington | LS/MIA | Questionable | (cleared) |
-| Kendre Miller | RB/NO | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -891,7 +793,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ronnie Stanley | T/BAL | Out | — | — |
 | Skylar Thompson | QB/BAL | IR | — | — |
 | T.J. Tampa | DB/BAL | IR | — | — |
-| Zay Flowers | WR/BAL | Questionable | — | Ravens head coach Jesse Minter said Monday that Flowers (hamstring) has a "good shot" to play Week 3 in Dallas, Ryan Mink of the Ravens' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
+| Zay Flowers | WR/BAL | Questionable | — | Flowers (hamstring) is expected to "test his injury" prior to Sunday's game against the Cowboys, and if he suits up he "will likely be on a pitch count," Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
 | DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) "felt great" after getting in a limited practice Wednesday, Matt Parrino of The Syracuse Post-Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Questionable | — | — |
