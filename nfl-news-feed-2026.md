@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-27 15:23 UTC_ · 595 items total · 586/595 matched to a player
+_Last updated: 2026-09-27 19:54 UTC_ · 600 items total · 591/600 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-27 15:23 UTC_ · 595 items total · 586/595 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-27 | Jalen Coker | WR/CAR | INJURY | — | Coker (quad) won't reenter Sunday's contest at Cleveland, Kassidy Hill of the Panther's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
+| 2026-09-27 | Ollie Gordon | RB/MIA | NEWS | — | Gordon (cramps) checked back into Sunday's game against the Chiefs in the fourth quarter, Marcel Louis-Jacques of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ollie-gordon-18450)) | Rotowire |
+| 2026-09-27 | Rachaad White | RB/WAS | NEWS | — | White (shoulder) has returned to Sunday's game against the Seahawks in the third quarter, JP Finlay of NBC Sports Washington reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
+| 2026-09-27 | Breece Hall | RB/NYJ | INJURY | — | Hall was ruled out for the remainder of Sunday's game against the Lions after sustaining a thigh injury with 11:30 remaining in the fourth quarter. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-09-27 | Tyjae Spears | RB/TEN | INJURY | — | Spears (ankle) is questionable to return to Sunday's game against the Giants, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
 | 2026-09-27 | Tyjae Spears | RB/TEN | INJURY | — | Spears (ankle), who is listed as questionable for Sunday's game against the Giants, will be monitored pregame, but the Titans are hopeful he'll be able to play, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
 | 2026-09-27 | Caleb Williams | QB/CHI | INJURY | 🔥 Schefter | Williams, who is ruled out for Monday's game against the Eagles, has been diagnosed with a Grade 2 hamstring strain, which doctors consider a 3-to-4-week injury, Adam Schefter and Ian Rapoport of ESPN report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
 | 2026-09-27 | Keon Coleman | WR/BUF | INJURY | — | Coleman (ankle), who is listed as questionable for Sunday's game against the Chargers, is expected to play, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
@@ -115,6 +120,11 @@ _Last updated: 2026-09-27 15:23 UTC_ · 595 items total · 586/595 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-27 | Jalen Coker | WR/CAR | INJURY | — | Coker (quad) won't reenter Sunday's contest at Cleveland, Kassidy Hill of the Panther's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
+| 2026-09-27 | Ollie Gordon | RB/MIA | NEWS | — | Gordon (cramps) checked back into Sunday's game against the Chiefs in the fourth quarter, Marcel Louis-Jacques of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ollie-gordon-18450)) | Rotowire |
+| 2026-09-27 | Rachaad White | RB/WAS | NEWS | — | White (shoulder) has returned to Sunday's game against the Seahawks in the third quarter, JP Finlay of NBC Sports Washington reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
+| 2026-09-27 | Breece Hall | RB/NYJ | INJURY | — | Hall was ruled out for the remainder of Sunday's game against the Lions after sustaining a thigh injury with 11:30 remaining in the fourth quarter. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
+| 2026-09-27 | Tyjae Spears | RB/TEN | INJURY | — | Spears (ankle) is questionable to return to Sunday's game against the Giants, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
 | 2026-09-27 | Tyjae Spears | RB/TEN | INJURY | — | Spears (ankle), who is listed as questionable for Sunday's game against the Giants, will be monitored pregame, but the Titans are hopeful he'll be able to play, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) | Rotowire |
 | 2026-09-27 | Caleb Williams | QB/CHI | INJURY | 🔥 Schefter | Williams, who is ruled out for Monday's game against the Eagles, has been diagnosed with a Grade 2 hamstring strain, which doctors consider a 3-to-4-week injury, Adam Schefter and Ian Rapoport of ESPN report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
 | 2026-09-27 | Keon Coleman | WR/BUF | INJURY | — | Coleman (ankle), who is listed as questionable for Sunday's game against the Chargers, is expected to play, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keon-coleman-17732)) | Rotowire |
@@ -721,41 +731,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Terrance Ferguson | TE/LAR | 510408 |
-| Malik Washington | WR/MIA | 223296 |
-| Emmett Johnson | RB/KC | 184086 |
-| Xavier Hutchinson | WR/HOU | 174846 |
-| Tyreek Hill | WR/FA | 152600 |
-| Darren Waller | TE/CAR | 136125 |
-| Sam Darnold | QB/SEA | 113811 |
-| Alvin Kamara | RB/NO | 98744 |
-| Kirk Cousins | QB/LV | 84760 |
-| AJ Dillon | RB/CAR | 79368 |
-| New York Giants | DEF/NYG | 78596 |
-| Tyson Bagent | QB/CHI | 76878 |
-| Isaiah Williams | WR/NYJ | 76596 |
-| Adonai Mitchell | WR/NYJ | 71464 |
-| Chase McLaughlin | K/TB | 68568 |
+| Terrance Ferguson | TE/LAR | 632888 |
+| Tyreek Hill | WR/FA | 403208 |
+| Ollie Gordon | RB/MIA | 295351 |
+| Malik Washington | WR/MIA | 288120 |
+| Xavier Hutchinson | WR/HOU | 219513 |
+| Emmett Johnson | RB/KC | 218826 |
+| Isaiah Williams | WR/NYJ | 193032 |
+| Darren Waller | TE/CAR | 144243 |
+| Sam Darnold | QB/SEA | 133191 |
+| Alvin Kamara | RB/NO | 132992 |
+| Kenyon Sadiq | TE/NYJ | 130122 |
+| Kirk Cousins | QB/LV | 122224 |
+| New York Giants | DEF/NYG | 121556 |
+| Travis Homer | RB/PIT | 100240 |
+| Chase McLaughlin | K/TB | 89768 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 96246 |
-| MarShawn Lloyd | RB/GB | 81036 |
-| Jonah Coleman | RB/DEN | 76590 |
-| Caleb Douglas | WR/MIA | 70536 |
-| Michael Mayer | TE/LV | 67095 |
-| Tampa Bay Buccaneers | DEF/TB | 55125 |
-| Tank Bigsby | RB/PHI | 53074 |
-| Chris Rodriguez | RB/JAX | 52596 |
-| Jayden Reed | WR/GB | 39762 |
-| Darren Waller | TE/CAR | 36666 |
-| Detroit Lions | DEF/DET | 35397 |
-| Adonai Mitchell | WR/NYJ | 35224 |
-| Drew Lock | QB/SEA | 34443 |
-| Devin Singletary | RB/NYG | 34425 |
-| Jacksonville Jaguars | DEF/JAX | 33126 |
+| Emanuel Wilson | RB/SEA | 151533 |
+| Adonai Mitchell | WR/NYJ | 135672 |
+| Devin Singletary | RB/NYG | 119970 |
+| MarShawn Lloyd | RB/GB | 110790 |
+| Michael Mayer | TE/LV | 105669 |
+| Caleb Douglas | WR/MIA | 99400 |
+| Jonah Coleman | RB/DEN | 91218 |
+| Tampa Bay Buccaneers | DEF/TB | 79015 |
+| Tank Bigsby | RB/PHI | 73017 |
+| Chris Rodriguez | RB/JAX | 71559 |
+| Darren Waller | TE/CAR | 64575 |
+| Keon Coleman | WR/BUF | 57681 |
+| Jayden Reed | WR/GB | 57510 |
+| Detroit Lions | DEF/DET | 50706 |
+| Kenny Gainwell | RB/TB | 49864 |
 
 
 ---
@@ -766,10 +776,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Demarcus Robinson | WR/SF | Doubtful | IR |
-| Chamarri Conner | DB/KC | Doubtful | Out |
+_None since last run._
 
 **Full current report**
 
@@ -830,7 +837,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Claudin Cherelus | LB/CAR | IR | — | — |
 | Devin Lloyd | LB/CAR | Out | — | — |
 | Ikem Ekwonu | T/CAR | PUP | — | — |
-| Jalen Coker | WR/CAR | Questionable | — | Coker (ankle) is in uniform and catching punts at Friday's practice, Joe Person of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
+| Jalen Coker | WR/CAR | Questionable | — | Coker (quad) won't reenter Sunday's contest at Cleveland, Kassidy Hill of the Panther's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
 | Jonathon Brooks | RB/CAR | IR | — | Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Nick Scott | DB/CAR | Out | — | — |
@@ -1509,7 +1516,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kendell Brooks | DB/TEN | IR | — | — |
 | Milo Eifler | LB/TEN | IR | — | — |
 | Tanoh Kpassagnon | DE/TEN | IR | — | — |
-| Tyjae Spears | RB/TEN | Questionable | — | Spears (ankle), who is listed as questionable for Sunday's game against the Giants, will be monitored pregame, but the Titans are hopeful he'll be able to play, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) |
+| Tyjae Spears | RB/TEN | Questionable | — | Spears (ankle) is questionable to return to Sunday's game against the Giants, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) |
 | Chig Okonkwo | TE/WAS | Out | — | — |
 | Deatrich Wise | DE/WAS | PUP | — | — |
 | Frankie Luvu | LB/WAS | Out | — | — |
