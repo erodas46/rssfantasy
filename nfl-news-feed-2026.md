@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-28 18:16 UTC_ · 610 items total · 601/610 matched to a player
+_Last updated: 2026-09-28 22:18 UTC_ · 615 items total · 606/615 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-09-28 18:16 UTC_ · 610 items total · 601/610 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-28 | De'Von Achane | RB/MIA | INJURY | — | The Dolphins placed Achane (knee) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devon-achane-16661)) | Rotowire |
+| 2026-09-28 | Zach Ertz | TE/ | TRANSACTION | — | The Eagles elevated Ertz from the practice squad ahead of Monday's game against the Bears. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zach-ertz-8781)) | Rotowire |
+| 2026-09-28 | Mike Evans | WR/SF | NEWS | — | Evans is considered day-to-day after sustaining a rib strain during Sunday's 36-30 win over the Cardinals, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-09-28 | Rico Dowdle | RB/PIT | NEWS | — | Dowdle (toe) wasn't present for Monday's walkthrough practice, Brooke Pryor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-09-28 | Josh Allen | QB/BUF | NEWS | — | Bills head coach Joe Brady downplayed any concern about Allen's health after the quarterback took a hit to his knee area during the fourth quarter of Sunday's 24-16 win over the Chargers, Alex Brasky of SI.com and Alec White of the team's official site report. "We're gonna have... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
 | 2026-09-28 | Baker Mayfield | QB/TB | NEWS | 🔥 Schefter | Buccaneers head coach Todd Bowles said Monday that Mayfield (thumb) is expected to miss three weeks, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-09-28 | Baker Mayfield | QB/TB | INJURY | — | Head coach Todd Bowles said Monday that Daniels will step in as the Buccaneers' new starting quarterback while Baker Mayfield is out for a "minimum of three weeks" due to a dislocated right thumb, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jalon-daniels-19292)) | Rotowire |
 | 2026-09-28 | A.J. Brown | WR/NE | INJURY | — | Brown was spotted Monday in the Patriots' locker room walking without a limp and wearing a small wrap on his injured right ankle, Taylor Kyles of CLNSMedia.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
@@ -114,6 +119,11 @@ _Last updated: 2026-09-28 18:16 UTC_ · 610 items total · 601/610 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-28 | De'Von Achane | RB/MIA | INJURY | — | The Dolphins placed Achane (knee) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devon-achane-16661)) | Rotowire |
+| 2026-09-28 | Zach Ertz | TE/ | TRANSACTION | — | The Eagles elevated Ertz from the practice squad ahead of Monday's game against the Bears. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zach-ertz-8781)) | Rotowire |
+| 2026-09-28 | Mike Evans | WR/SF | NEWS | — | Evans is considered day-to-day after sustaining a rib strain during Sunday's 36-30 win over the Cardinals, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-09-28 | Rico Dowdle | RB/PIT | NEWS | — | Dowdle (toe) wasn't present for Monday's walkthrough practice, Brooke Pryor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-09-28 | Josh Allen | QB/BUF | NEWS | — | Bills head coach Joe Brady downplayed any concern about Allen's health after the quarterback took a hit to his knee area during the fourth quarter of Sunday's 24-16 win over the Chargers, Alex Brasky of SI.com and Alec White of the team's official site report. "We're gonna have... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
 | 2026-09-28 | Baker Mayfield | QB/TB | NEWS | 🔥 Schefter | Buccaneers head coach Todd Bowles said Monday that Mayfield (thumb) is expected to miss three weeks, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-09-28 | Baker Mayfield | QB/TB | INJURY | — | Head coach Todd Bowles said Monday that Daniels will step in as the Buccaneers' new starting quarterback while Baker Mayfield is out for a "minimum of three weeks" due to a dislocated right thumb, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/jalon-daniels-19292)) | Rotowire |
 | 2026-09-28 | A.J. Brown | WR/NE | INJURY | — | Brown was spotted Monday in the Patriots' locker room walking without a limp and wearing a small wrap on his injured right ankle, Taylor Kyles of CLNSMedia.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
@@ -735,41 +745,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Ollie Gordon | RB/MIA | 3802120 |
-| Kenyon Sadiq | TE/NYJ | 798489 |
-| Tyreek Hill | WR/FA | 589400 |
-| Braelon Allen | RB/NYJ | 361448 |
-| Jordan Addison | WR/MIN | 209853 |
-| Kirk Cousins | QB/LV | 199096 |
-| Sam Darnold | QB/SEA | 163608 |
-| Roman Wilson | WR/PIT | 153045 |
-| Keaton Mitchell | RB/LAC | 149661 |
-| Terrance Ferguson | TE/LAR | 140000 |
-| Konata Mumpfield | WR/LAR | 128736 |
-| Las Vegas Raiders | DEF/LV | 128136 |
-| Malik Washington | WR/MIA | 109928 |
-| Darren Waller | TE/CAR | 106290 |
-| Keenan Allen | WR/IND | 98320 |
+| Ollie Gordon | RB/MIA | 4147262 |
+| Kenyon Sadiq | TE/NYJ | 842121 |
+| Braelon Allen | RB/NYJ | 485944 |
+| Tyreek Hill | WR/FA | 464896 |
+| Jordan Addison | WR/MIN | 218889 |
+| Kirk Cousins | QB/LV | 206472 |
+| Keaton Mitchell | RB/LAC | 176526 |
+| Konata Mumpfield | WR/LAR | 168120 |
+| Alvin Kamara | RB/NO | 155480 |
+| Sam Darnold | QB/SEA | 146283 |
+| Las Vegas Raiders | DEF/LV | 143934 |
+| Roman Wilson | WR/PIT | 142605 |
+| Darren Waller | TE/CAR | 116406 |
+| Keenan Allen | WR/IND | 109292 |
+| Malik Washington | WR/MIA | 100352 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 478359 |
-| De'Von Achane | RB/MIA | 386490 |
-| MarShawn Lloyd | RB/GB | 281295 |
-| Terrance Ferguson | TE/LAR | 257416 |
-| Devin Singletary | RB/NYG | 202653 |
-| Khalil Shakir | WR/BUF | 159291 |
-| Oronde Gadsden | TE/LAC | 158070 |
-| Adonai Mitchell | WR/NYJ | 146920 |
-| Kenny Gainwell | RB/TB | 143632 |
-| KC Concepcion | WR/CLE | 139896 |
-| Emmett Johnson | RB/KC | 137565 |
-| Kaelon Black | RB/SF | 131936 |
-| Caleb Douglas | WR/MIA | 126176 |
-| Keon Coleman | WR/BUF | 120303 |
-| Tank Bigsby | RB/PHI | 119448 |
+| De'Von Achane | RB/MIA | 570012 |
+| Emanuel Wilson | RB/SEA | 492462 |
+| MarShawn Lloyd | RB/GB | 305091 |
+| Terrance Ferguson | TE/LAR | 299760 |
+| Devin Singletary | RB/NYG | 199692 |
+| Khalil Shakir | WR/BUF | 159156 |
+| Oronde Gadsden | TE/LAC | 154115 |
+| Kenny Gainwell | RB/TB | 153128 |
+| Adonai Mitchell | WR/NYJ | 148832 |
+| KC Concepcion | WR/CLE | 144054 |
+| Kaelon Black | RB/SF | 143262 |
+| Emmett Johnson | RB/KC | 142686 |
+| Caleb Douglas | WR/MIA | 128192 |
+| Keon Coleman | WR/BUF | 123012 |
+| Tank Bigsby | RB/PHI | 120169 |
 
 
 ---
@@ -780,11 +790,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Jaycee Horn | CB/CAR | (unlisted) | Out |
-| Baker Mayfield | QB/TB | Questionable | Out |
-| Jackson Slater | OL/TEN | (unlisted) | Questionable |
+_None since last run._
 
 **Full current report**
 
@@ -1449,7 +1455,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Cole Turner | TE/MIA | IR | — | — |
 | DJ Campbell | G/MIA | Out | — | — |
 | Darrell Baker | CB/MIA | PUP | — | — |
-| De'Von Achane | RB/MIA | Out | — | Achane rushed seven times for 39 yards and a touchdown and wasn't targeted in the Dolphins' 20-7 preseason loss to the Commanders on Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devon-achane-16661)) |
+| De'Von Achane | RB/MIA | Out | — | The Dolphins placed Achane (knee) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devon-achane-16661)) |
 | Jaylen Wright | RB/MIA | Out | — | — |
 | Kenneth Grant | DL/MIA | IR | — | — |
 | Kyle Louis | LB/MIA | IR | — | — |
@@ -1581,7 +1587,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kevin Jobity | DL/PIT | Out | — | — |
 | Logan Lee | DL/PIT | IR | — | — |
 | Max Hurleman | CB/PIT | Out | — | — |
-| Rico Dowdle | RB/PIT | Out | — | Dowdle (toe) has been ruled out for Sunday's gam at Cincinnati, Alan Saunders of Steelers Now reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) |
+| Rico Dowdle | RB/PIT | Out | — | Dowdle (toe) wasn't present for Monday's walkthrough practice, Brooke Pryor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) |
 | Will Howard | QB/PIT | Out | — | — |
 | Aaron Smith | LB/SEA | Questionable | — | — |
 | Anthony Bradford | OL/SEA | IR | — | — |
@@ -1619,7 +1625,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | James Thompson | DT/SF | Out | — | — |
 | Kurtis Rourke | QB/SF | Out | — | — |
 | Mikail Kamara | DE/SF | IR | — | — |
-| Mike Evans | WR/SF | Out | — | Evans (hip) is taking part in Friday's practice, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
+| Mike Evans | WR/SF | Out | — | Evans is considered day-to-day after sustaining a rib strain during Sunday's 36-30 win over the Cardinals, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
 | Mykel Williams | DL/SF | PUP | — | — |
 | Nate Hobbs | CB/SF | IR | — | — |
 | Nick Bosa | DE/SF | Out | — | Bosa (knee) worked to the side on the practice field Monday and is expected to do the same Tuesday, with a return to practice planned for Wednesday, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nick-bosa-13421)) |
