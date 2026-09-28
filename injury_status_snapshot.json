@@ -480,7 +480,7 @@
     "pos": "QB",
     "since": "",
     "status": "Out",
-    "team": "MIN"
+    "team": "NYG"
   },
   "11566": {
     "name": "Jayden Daniels",
@@ -1580,6 +1580,13 @@
     "since": "",
     "status": "IR",
     "team": "BUF"
+  },
+  "12664": {
+    "name": "Jackson Slater",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
   },
   "12666": {
     "name": "Kiko Mauigoa",
@@ -3748,7 +3755,7 @@
     "name": "Baker Mayfield",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TB"
   },
   "4950": {
@@ -5199,6 +5206,13 @@
     "since": "",
     "status": "PUP",
     "team": "GB"
+  },
+  "7642": {
+    "name": "Jaycee Horn",
+    "pos": "CB",
+    "since": "",
+    "status": "Out",
+    "team": "CAR"
   },
   "7647": {
     "name": "Pete Werner",
