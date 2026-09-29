@@ -1406,6 +1406,13 @@
     "status": "Out",
     "team": "KC"
   },
+  "12559": {
+    "name": "Shavon Revel",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DAL"
+  },
   "12562": {
     "name": "Nic Scourton",
     "pos": "DL",
@@ -3470,6 +3477,13 @@
     "since": "",
     "status": "IR",
     "team": "FA"
+  },
+  "3241": {
+    "name": "Jonathan Bullard",
+    "pos": "DE",
+    "since": "",
+    "status": "Out",
+    "team": "DAL"
   },
   "3259": {
     "name": "Graham Glasgow",

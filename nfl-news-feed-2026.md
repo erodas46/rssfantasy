@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-09-29 04:50 UTC_ · 620 items total · 611/620 matched to a player
+_Last updated: 2026-09-29 16:39 UTC_ · 621 items total · 612/621 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-09-29 04:50 UTC_ · 620 items total · 611/620 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-29 | Jayden Daniels | QB/WAS | INJURY | 🔥 Schefter | Daniels will avoid a procedure on his dislocated left elbow for the time being, but Adam Schefter of ESPN reports that the quarterback could undergo surgery after the season. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) | Rotowire |
 | 2026-09-28 | Jalen Hurts | QB/PHI | NEWS | — | Hurts completed 16 of 25 passes for 153 yards with no touchdowns and one interception while rushing four times for 25 yards and a touchdown in the Eagles' 27-7 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) | Rotowire |
 | 2026-09-28 | Luther Burden | WR/CHI | NEWS | — | Burden secured seven of 11 targets for 61 yards and a touchdown while rushing once for seven yards in the Bears' 27-7 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-09-28 | Rome Odunze | WR/CHI | NEWS | — | Odunze secured three of six targets for 44 yards in the Bears' 27-7 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
@@ -107,6 +108,7 @@ _Last updated: 2026-09-29 04:50 UTC_ · 620 items total · 611/620 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-09-29 | Jayden Daniels | QB/WAS | INJURY | 🔥 Schefter | Daniels will avoid a procedure on his dislocated left elbow for the time being, but Adam Schefter of ESPN reports that the quarterback could undergo surgery after the season. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) | Rotowire |
 | 2026-09-28 | Jalen Hurts | QB/PHI | NEWS | — | Hurts completed 16 of 25 passes for 153 yards with no touchdowns and one interception while rushing four times for 25 yards and a touchdown in the Eagles' 27-7 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) | Rotowire |
 | 2026-09-28 | Luther Burden | WR/CHI | NEWS | — | Burden secured seven of 11 targets for 61 yards and a touchdown while rushing once for seven yards in the Bears' 27-7 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
 | 2026-09-28 | Rome Odunze | WR/CHI | NEWS | — | Odunze secured three of six targets for 44 yards in the Bears' 27-7 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
@@ -738,41 +740,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Ollie Gordon | RB/MIA | 4269475 |
-| Kenyon Sadiq | TE/NYJ | 940932 |
-| Braelon Allen | RB/NYJ | 706896 |
-| Tyreek Hill | WR/FA | 362288 |
-| Keaton Mitchell | RB/LAC | 243072 |
-| Alvin Kamara | RB/NO | 240080 |
-| Kirk Cousins | QB/LV | 213616 |
-| Konata Mumpfield | WR/LAR | 211365 |
-| Jordan Addison | WR/MIN | 188883 |
-| Las Vegas Raiders | DEF/LV | 172608 |
-| Roman Wilson | WR/PIT | 150192 |
-| Keenan Allen | WR/IND | 143548 |
-| Darren Waller | TE/CAR | 125361 |
-| Sam Darnold | QB/SEA | 110886 |
-| Jaylen Wright | RB/MIA | 108458 |
+| Ollie Gordon | RB/MIA | 5055435 |
+| Braelon Allen | RB/NYJ | 1581612 |
+| Kenyon Sadiq | TE/NYJ | 1550700 |
+| Alvin Kamara | RB/NO | 517160 |
+| Tyreek Hill | WR/FA | 473272 |
+| Konata Mumpfield | WR/LAR | 404307 |
+| Keaton Mitchell | RB/LAC | 397368 |
+| Tyler Higbee | TE/LAR | 353844 |
+| Jordan Addison | WR/MIN | 324486 |
+| Keenan Allen | WR/IND | 321044 |
+| Kirk Cousins | QB/LV | 305928 |
+| Kalif Raymond | WR/CHI | 259398 |
+| Las Vegas Raiders | DEF/LV | 258714 |
+| Darren Waller | TE/CAR | 235926 |
+| Roman Wilson | WR/PIT | 223074 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| De'Von Achane | RB/MIA | 779952 |
-| Emanuel Wilson | RB/SEA | 493758 |
-| Terrance Ferguson | TE/LAR | 352544 |
-| MarShawn Lloyd | RB/GB | 334899 |
-| Devin Singletary | RB/NYG | 205164 |
-| Khalil Shakir | WR/BUF | 172989 |
-| Tank Bigsby | RB/PHI | 163933 |
-| Adonai Mitchell | WR/NYJ | 161560 |
-| Oronde Gadsden | TE/LAC | 156430 |
-| KC Concepcion | WR/CLE | 156177 |
-| Kenny Gainwell | RB/TB | 153368 |
-| Emmett Johnson | RB/KC | 152325 |
-| Kaelon Black | RB/SF | 148764 |
-| Caleb Douglas | WR/MIA | 134312 |
-| Keon Coleman | WR/BUF | 133416 |
+| De'Von Achane | RB/MIA | 1008852 |
+| Emanuel Wilson | RB/SEA | 621936 |
+| Terrance Ferguson | TE/LAR | 555032 |
+| MarShawn Lloyd | RB/GB | 473634 |
+| Devin Singletary | RB/NYG | 301923 |
+| Tank Bigsby | RB/PHI | 297647 |
+| Khalil Shakir | WR/BUF | 261315 |
+| Oronde Gadsden | TE/LAC | 238110 |
+| Adonai Mitchell | WR/NYJ | 229728 |
+| KC Concepcion | WR/CLE | 210564 |
+| Emmett Johnson | RB/KC | 204192 |
+| Kenny Gainwell | RB/TB | 203432 |
+| Keon Coleman | WR/BUF | 199035 |
+| Kaelon Black | RB/SF | 195790 |
+| Caleb Douglas | WR/MIA | 193376 |
 
 
 ---
@@ -785,34 +787,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Jordan McFadden | OL/CHI | (unlisted) | Out |
-| Jayden Loving | DT/CHI | (unlisted) | Out |
-| Jalen McMillan | WR/TB | Questionable | Out |
-| Josh Oliver | TE/MIN | Questionable | Out |
-| Cam Lewis | CB/CHI | (unlisted) | Questionable |
-| A.J. Epenesa | DE/PHI | (unlisted) | Out |
-| Cole Payton | QB/PHI | (unlisted) | Out |
-| Tytus Howard | OL/CLE | (unlisted) | Questionable |
-| Braxton Jones | OL/CHI | (unlisted) | Questionable |
-| De'Von Achane | RB/MIA | Out | IR |
-| Grant Delpit | DB/CLE | (unlisted) | Questionable |
-| Jovaughn Gwyn | OL/BAL | (unlisted) | Out |
-| Zach Bako-Bewele | OL/GB | Out | IR |
-| Elgton Jenkins | G/CLE | (unlisted) | Questionable |
-| Travis Etienne | RB/NO | Questionable | Out |
-| Ethan Pocic | OL/BAL | (unlisted) | Out |
-| Jalen Ramsey | CB/PIT | (unlisted) | Questionable |
-| Brian Burns | DE/NYG | Questionable | Out |
-| Tylan Wallace | WR/CLE | (unlisted) | Questionable |
-| Tanner McKee | QB/PHI | (unlisted) | Out |
-| J.R. Reed | DB/FA | Out | Questionable |
-| Josh Allen | QB/BUF | (unlisted) | Questionable |
-| Jamree Kromah | DL/CHI | (unlisted) | Out |
-| Ozzy Trapilo | OL/CHI | (unlisted) | Out |
-| P.J. Mustipher | NT/FA | Questionable | (cleared) |
-| Miles Kitselman | TE/FA | Questionable | (cleared) |
-| Jonathan Greenard | DE/PHI | Questionable | (cleared) |
-| Mykal Walker | LB/FA | Questionable | (cleared) |
+| Shavon Revel | DB/DAL | (unlisted) | Questionable |
+| Jonathan Bullard | DE/DAL | (unlisted) | Out |
 
 **Full current report**
 
@@ -953,6 +929,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Devin Moore | CB/DAL | IR | — | — |
 | Emari Demercado | RB/DAL | Out | — | — |
 | Jalen Thompson | DB/DAL | Out | — | — |
+| Jonathan Bullard | DE/DAL | Out | — | — |
 | Kelvin Gilliam | DT/DAL | IR | — | — |
 | Malik Davis | RB/DAL | IR | — | The Cowboys placed Davis (hip) on injured reserve Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-davis-15828)) |
 | Malik Hooker | DB/DAL | Out | — | — |
@@ -961,6 +938,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Matt Hennessy | OL/DAL | IR | — | — |
 | P.J. Locke | DB/DAL | IR | — | — |
 | Princeton Fant | TE/DAL | IR | — | — |
+| Shavon Revel | DB/DAL | Questionable | — | — |
 | Tyler Smith | OL/DAL | IR | — | — |
 | Caleb Lohner | TE/DEN | IR | — | — |
 | Dallen Bentley | TE/DEN | Out | — | — |
@@ -1704,7 +1682,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Deatrich Wise | DE/WAS | PUP | — | — |
 | Frankie Luvu | LB/WAS | Out | — | — |
 | Javontae Jean-Baptiste | DL/WAS | Out | — | — |
-| Jayden Daniels | QB/WAS | Out | — | Daniels (elbow) is expected to return to action for the Commanders in "three weeks or sooner," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) |
+| Jayden Daniels | QB/WAS | Out | — | Daniels will avoid a procedure on his dislocated left elbow for the time being, but Adam Schefter of ESPN reports that the quarterback could undergo surgery after the season. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) |
 | Jer'Zhan Newton | DL/WAS | IR | — | — |
 | Jeremy McNichols | RB/WAS | IR | — | — |
 | Jordan Magee | LB/WAS | IR | — | — |
