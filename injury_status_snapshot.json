@@ -94,7 +94,7 @@
     "name": "Joey Porter",
     "pos": "DB",
     "since": "",
-    "status": "Out",
+    "status": "Questionable",
     "team": "DAL"
   },
   "10915": {
@@ -396,7 +396,7 @@
     "pos": "LB",
     "since": "",
     "status": "Questionable",
-    "team": "CAR"
+    "team": "FA"
   },
   "11309": {
     "name": "Trey Dean",
@@ -1440,6 +1440,13 @@
     "since": "",
     "status": "IR",
     "team": "TEN"
+  },
+  "12665": {
+    "name": "Yahya Black",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
   },
   "12666": {
     "name": "Kiko Mauigoa",
@@ -4864,13 +4871,6 @@
     "status": "Questionable",
     "team": "BUF"
   },
-  "7796": {
-    "name": "Brandin Echols",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PIT"
-  },
   "7799": {
     "name": "Roy Lopez",
     "pos": "DT",
@@ -5248,6 +5248,13 @@
     "since": "",
     "status": "PUP",
     "team": "CHI"
+  },
+  "8369": {
+    "name": "Chance Campbell",
+    "pos": "LB",
+    "since": "",
+    "status": "Out",
+    "team": "PHI"
   },
   "8372": {
     "name": "DeAngelo Malone",
