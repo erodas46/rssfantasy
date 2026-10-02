@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-02 16:23 UTC_ · 659 items total · 650/659 matched to a player
+_Last updated: 2026-10-02 21:04 UTC_ · 664 items total · 655/664 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-02 16:23 UTC_ · 659 items total · 650/659 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-02 | Nico Collins | WR/HOU | INJURY | — | Collins (hamstring) was a full participant in Friday's practice and doesn't have an injury designation for Sunday's game against the Cowboys. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
+| 2026-10-02 | Mike Evans | WR/SF | NEWS | — | Evans (ribs) was in uniform and running on the side during the media-access portion of Friday's practice, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-02 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) is questionable for Sunday's game against the Titans after being limited in Friday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-10-02 | Jadarian Price | RB/SEA | INJURY | — | Coach Mike Macdonald said Friday that Price has been ruled out for Sunday's game against the Chargers, Curtis Crabtree of Fox 13 Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-10-02 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (foot) is questionable for Sunday's game against Seattle, Kris Rhim of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
 | 2026-10-02 | Marcus Mariota | QB/WAS | NEWS | — | Mariota will start at quarterback for the Commanders in Sunday's game against the Colts in London, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) | Rotowire |
 | 2026-10-02 | Breece Hall | RB/NYJ | INJURY | — | Hall (quadriceps) is out for Sunday's game at Chicago, according to Zack Rosenblatt of The Athletic. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-10-02 | Jalen Coker | WR/CAR | NEWS | — | Coker (quadriceps) is present for Friday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
@@ -109,6 +114,11 @@ _Last updated: 2026-10-02 16:23 UTC_ · 659 items total · 650/659 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-02 | Nico Collins | WR/HOU | INJURY | — | Collins (hamstring) was a full participant in Friday's practice and doesn't have an injury designation for Sunday's game against the Cowboys. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) | Rotowire |
+| 2026-10-02 | Mike Evans | WR/SF | NEWS | — | Evans (ribs) was in uniform and running on the side during the media-access portion of Friday's practice, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-02 | Zay Flowers | WR/BAL | INJURY | — | Flowers (hamstring) is questionable for Sunday's game against the Titans after being limited in Friday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
+| 2026-10-02 | Jadarian Price | RB/SEA | INJURY | — | Coach Mike Macdonald said Friday that Price has been ruled out for Sunday's game against the Chargers, Curtis Crabtree of Fox 13 Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-10-02 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (foot) is questionable for Sunday's game against Seattle, Kris Rhim of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
 | 2026-10-02 | Marcus Mariota | QB/WAS | NEWS | — | Mariota will start at quarterback for the Commanders in Sunday's game against the Colts in London, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) | Rotowire |
 | 2026-10-02 | Breece Hall | RB/NYJ | INJURY | — | Hall (quadriceps) is out for Sunday's game at Chicago, according to Zack Rosenblatt of The Athletic. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-10-02 | Jalen Coker | WR/CAR | NEWS | — | Coker (quadriceps) is present for Friday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
@@ -779,41 +789,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Tyreek Hill | WR/FA | 538256 |
-| Roman Wilson | WR/PIT | 446670 |
-| Isaiah Davis | RB/NYJ | 385317 |
-| Alvin Kamara | RB/NO | 336360 |
-| Konata Mumpfield | WR/LAR | 286704 |
-| Darren Waller | TE/CAR | 202698 |
-| Tyler Higbee | TE/LAR | 186462 |
-| Cleveland Browns | DEF/CLE | 149947 |
-| Kendre Miller | RB/NO | 125596 |
-| Kirk Cousins | QB/LV | 121736 |
-| Kenyon Sadiq | TE/NYJ | 116217 |
-| Jaylen Wright | RB/MIA | 100032 |
-| Las Vegas Raiders | DEF/LV | 93456 |
-| Deshaun Watson | QB/CLE | 90272 |
-| KC Concepcion | WR/CLE | 89316 |
+| Roman Wilson | WR/PIT | 620460 |
+| Tyreek Hill | WR/FA | 464400 |
+| Isaiah Davis | RB/NYJ | 461691 |
+| Alvin Kamara | RB/NO | 327352 |
+| Konata Mumpfield | WR/LAR | 255438 |
+| Emanuel Wilson | RB/SEA | 239229 |
+| Darren Waller | TE/CAR | 214380 |
+| Tyler Higbee | TE/LAR | 176877 |
+| Jauan Jennings | WR/MIN | 170842 |
+| Kendre Miller | RB/NO | 130932 |
+| Dontayvion Wicks | WR/PHI | 114510 |
+| Kirk Cousins | QB/LV | 110680 |
+| Jaylen Wright | RB/MIA | 107170 |
+| Kenyon Sadiq | TE/NYJ | 107019 |
+| Makai Lemon | WR/PHI | 101516 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jayden Reed | WR/GB | 192087 |
-| De'Von Achane | RB/MIA | 170856 |
-| Adonai Mitchell | WR/NYJ | 148792 |
-| MarShawn Lloyd | RB/GB | 142092 |
-| Emanuel Wilson | RB/SEA | 135864 |
-| New England Patriots | DEF/NE | 122185 |
-| Terrance Ferguson | TE/LAR | 119760 |
-| Devin Singletary | RB/NYG | 102240 |
-| Konata Mumpfield | WR/LAR | 101133 |
-| Khalil Shakir | WR/BUF | 93231 |
-| Keaton Mitchell | RB/LAC | 87606 |
-| Caleb Douglas | WR/MIA | 84672 |
-| Quentin Johnston | WR/LAC | 76650 |
-| Tyreek Hill | WR/FA | 76376 |
-| Kyle Pitts | TE/ATL | 73689 |
+| Jayden Reed | WR/GB | 175365 |
+| De'Von Achane | RB/MIA | 156432 |
+| Adonai Mitchell | WR/NYJ | 151184 |
+| MarShawn Lloyd | RB/GB | 139905 |
+| Terrance Ferguson | TE/LAR | 126424 |
+| Emanuel Wilson | RB/SEA | 121437 |
+| New England Patriots | DEF/NE | 119966 |
+| Konata Mumpfield | WR/LAR | 116568 |
+| Devin Singletary | RB/NYG | 96156 |
+| Caleb Douglas | WR/MIA | 93272 |
+| Khalil Shakir | WR/BUF | 91782 |
+| Keaton Mitchell | RB/LAC | 90477 |
+| Tyreek Hill | WR/FA | 82144 |
+| Quentin Johnston | WR/LAC | 76601 |
+| Michael Pittman | WR/PIT | 75200 |
 
 
 ---
@@ -824,16 +834,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Caleb Douglas | WR/MIA | Questionable | Out |
-| Rob Beal | LB/MIA | Questionable | Out |
-| Dylan Parham | OL/NYJ | Doubtful | Out |
-| Mason Taylor | TE/NYJ | Doubtful | Out |
-| Kiko Mauigoa | LB/NYJ | Questionable | Out |
-| Adonai Mitchell | WR/NYJ | Doubtful | Out |
-| Jayden Daniels | QB/WAS | Questionable | Out |
-| Breece Hall | RB/NYJ | Doubtful | Out |
+_None since last run._
 
 **Full current report**
 
@@ -1352,7 +1353,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kayden McDonald | DL/HOU | IR | — | — |
 | M.J. Stewart | DB/HOU | PUP | — | — |
 | Mario Edwards | DE/HOU | IR | — | — |
-| Nico Collins | WR/HOU | Questionable | — | Collins (hamstring) was on the field for Friday's practice, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) |
+| Nico Collins | WR/HOU | Questionable | — | Collins (hamstring) was a full participant in Friday's practice and doesn't have an injury designation for Sunday's game against the Cowboys. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nico-collins-15200)) |
 | Noah Whittington | RB/HOU | Out | — | — |
 | Sam Hagen | OL/HOU | IR | — | — |
 | Solomon Byrd | DE/HOU | IR | — | — |
@@ -1404,7 +1405,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kayode Awosika | OL/LAC | Questionable | — | — |
 | KeAndre Lambert-Smith | WR/LAC | IR | — | — |
 | Keaton Mitchell | RB/LAC | Questionable | — | Mitchell (hamstring) was a full participant in Friday's practice and does not have an injury designation for Sunday's game against the Cardinals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keaton-mitchell-16810)) |
-| Ladd McConkey | WR/LAC | Questionable | — | McConkey (foot) was seen walking out of the locker room with a limp after not taking part in Thursday's practice, Kris Rhim of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
+| Ladd McConkey | WR/LAC | Questionable | — | McConkey (foot) is questionable for Sunday's game against Seattle, Kris Rhim of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
 | Scott Matlock | DT/LAC | IR | — | — |
 | Trey Lance | QB/LAC | Questionable | — | — |
 | Trey Pipkins | T/LAC | IR | — | — |
@@ -1573,7 +1574,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Bud Clark | DB/SEA | IR | — | — |
 | George Holani | RB/SEA | Questionable | — | Holani rushed 12 times for 42 yards in the Seahawks' 17-7 preseason loss to the Cowboys on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-holani-17968)) |
 | Irv Charles | WR/SEA | IR | — | — |
-| Jadarian Price | RB/SEA | Questionable | — | Price (chest) didn't practice Thursday, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) |
+| Jadarian Price | RB/SEA | Questionable | — | Coach Mike Macdonald said Friday that Price has been ruled out for Sunday's game against the Chargers, Curtis Crabtree of Fox 13 Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) |
 | Jake Bobo | WR/SEA | IR | — | — |
 | Julian Love | DB/SEA | Questionable | — | — |
 | Mason Richman | OL/SEA | IR | — | — |
@@ -1597,7 +1598,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | James Thompson | DT/SF | Out | — | — |
 | Keion White | DL/SF | Questionable | — | — |
 | Mikail Kamara | DE/SF | IR | — | — |
-| Mike Evans | WR/SF | Questionable | — | Evans is considered day-to-day after sustaining a rib strain during Sunday's 36-30 win over the Cardinals, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
+| Mike Evans | WR/SF | Questionable | — | Evans (ribs) was in uniform and running on the side during the media-access portion of Friday's practice, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
 | Mykel Williams | DL/SF | PUP | — | — |
 | Nate Hobbs | CB/SF | IR | — | — |
 | Nick Bosa | DE/SF | Out | — | Bosa (knee) worked to the side on the practice field Monday and is expected to do the same Tuesday, with a return to practice planned for Wednesday, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nick-bosa-13421)) |
