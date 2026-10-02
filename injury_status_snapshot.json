@@ -164,7 +164,7 @@
     "name": "Rob Beal",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "10967": {
@@ -451,7 +451,7 @@
     "name": "Jayden Daniels",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "WAS"
   },
   "11577": {
@@ -521,7 +521,7 @@
     "name": "Adonai Mitchell",
     "pos": "WR",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "11626": {
@@ -1165,7 +1165,7 @@
     "name": "Mason Taylor",
     "pos": "TE",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "12508": {
@@ -1431,7 +1431,7 @@
     "name": "Kiko Mauigoa",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "12669": {
@@ -1893,7 +1893,7 @@
     "name": "Caleb Douglas",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "13299": {
@@ -3588,7 +3588,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "SF"
+    "team": "FA"
   },
   "5788": {
     "name": "Dante Sawyer",
@@ -5043,7 +5043,7 @@
     "name": "Breece Hall",
     "pos": "RB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "8176": {
@@ -5379,7 +5379,7 @@
     "name": "Dylan Parham",
     "pos": "OL",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "8463": {
