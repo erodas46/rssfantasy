@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-03 04:22 UTC_ · 669 items total · 660/669 matched to a player
+_Last updated: 2026-10-03 14:57 UTC_ · 672 items total · 663/672 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-10-03 04:22 UTC_ · 669 items total · 660/669 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-03 | Justin Jefferson | WR/MIN | INJURY | — | Jefferson (ankle) has been already been ruled out for Sunday's game against the Dolphins, but the Vikings are hopeful that the superstar wide receiver will return for Week 5 against the Saints, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) | Rotowire |
+| 2026-10-03 | Keenan Allen | WR/ | INJURY | — | Allen (groin) has been downgraded to out for Sunday's game against Washington. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) | Rotowire |
+| 2026-10-03 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring) is now likely to miss Sunday's game against the Colts in London, Ben Standig of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-02 | Tyson Bagent | QB/CHI | ROLE/DEPTH CHART | — | Bagent is expected to start Sunday versus the Jets after getting most of the first-team reps in practice, Ian Rapoport of NFL Network reports. However, coach Ben Johnson has not yet confirmed the plan. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
 | 2026-10-02 | Justin Jefferson | WR/MIN | NEWS | — | Addison will serve as the Vikings' top wide receiver against the Dolphins on Sunday due to the absence of Justin Jefferson (ankle), Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
 | 2026-10-02 | Travis Etienne | RB/NO | INJURY | — | Kamara figures to serve as the Saints' top running back for as long as Travis Etienne (hamstring) is on injured reserve, starting with Monday's game against the Falcons, John DeShazier of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
@@ -105,6 +108,9 @@ _Last updated: 2026-10-03 04:22 UTC_ · 669 items total · 660/669 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-03 | Justin Jefferson | WR/MIN | INJURY | — | Jefferson (ankle) has been already been ruled out for Sunday's game against the Dolphins, but the Vikings are hopeful that the superstar wide receiver will return for Week 5 against the Saints, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) | Rotowire |
+| 2026-10-03 | Keenan Allen | WR/ | INJURY | — | Allen (groin) has been downgraded to out for Sunday's game against Washington. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) | Rotowire |
+| 2026-10-03 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring) is now likely to miss Sunday's game against the Colts in London, Ben Standig of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-02 | Tyson Bagent | QB/CHI | ROLE/DEPTH CHART | — | Bagent is expected to start Sunday versus the Jets after getting most of the first-team reps in practice, Ian Rapoport of NFL Network reports. However, coach Ben Johnson has not yet confirmed the plan. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyson-bagent-16946)) | Rotowire |
 | 2026-10-02 | Justin Jefferson | WR/MIN | NEWS | — | Addison will serve as the Vikings' top wide receiver against the Dolphins on Sunday due to the absence of Justin Jefferson (ankle), Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) | Rotowire |
 | 2026-10-02 | Travis Etienne | RB/NO | INJURY | — | Kamara figures to serve as the Saints' top running back for as long as Travis Etienne (hamstring) is on injured reserve, starting with Monday's game against the Falcons, John DeShazier of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
@@ -785,41 +791,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 604629 |
-| Roman Wilson | WR/PIT | 573921 |
-| Isaiah Davis | RB/NYJ | 321291 |
-| Jauan Jennings | WR/MIN | 247457 |
-| Tyreek Hill | WR/FA | 239984 |
-| Darren Waller | TE/CAR | 169191 |
-| Tyler Higbee | TE/LAR | 156690 |
-| Konata Mumpfield | WR/LAR | 122733 |
-| Alvin Kamara | RB/NO | 114448 |
-| Dontayvion Wicks | WR/PHI | 98061 |
-| Jordan Addison | WR/MIN | 96759 |
-| Makai Lemon | WR/PHI | 92068 |
-| Tyson Bagent | QB/CHI | 75486 |
-| Kenyon Sadiq | TE/NYJ | 67374 |
-| Las Vegas Raiders | DEF/LV | 65652 |
+| Emanuel Wilson | RB/SEA | 760221 |
+| Roman Wilson | WR/PIT | 506745 |
+| Jauan Jennings | WR/MIN | 301994 |
+| Isaiah Davis | RB/NYJ | 287163 |
+| Tyreek Hill | WR/FA | 169160 |
+| Darren Waller | TE/CAR | 160704 |
+| Tyler Higbee | TE/LAR | 155511 |
+| Jordan Addison | WR/MIN | 103068 |
+| Tyson Bagent | QB/CHI | 99426 |
+| Dontayvion Wicks | WR/PHI | 91677 |
+| Makai Lemon | WR/PHI | 91144 |
+| Konata Mumpfield | WR/LAR | 86472 |
+| Alvin Kamara | RB/NO | 81664 |
+| Malik Washington | WR/MIA | 61448 |
+| Las Vegas Raiders | DEF/LV | 59334 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Terrance Ferguson | TE/LAR | 147512 |
-| Adonai Mitchell | WR/NYJ | 106608 |
-| Jayden Reed | WR/GB | 98379 |
-| MarShawn Lloyd | RB/GB | 92979 |
-| Konata Mumpfield | WR/LAR | 92475 |
-| De'Von Achane | RB/MIA | 82314 |
-| New England Patriots | DEF/NE | 75943 |
-| Caleb Douglas | WR/MIA | 71720 |
-| Jadarian Price | RB/SEA | 67212 |
-| Michael Pittman | WR/PIT | 66065 |
-| Khalil Shakir | WR/BUF | 64314 |
-| Tyreek Hill | WR/FA | 59960 |
-| Devin Singletary | RB/NYG | 59616 |
-| Keaton Mitchell | RB/LAC | 59427 |
-| Emanuel Wilson | RB/SEA | 57627 |
+| Terrance Ferguson | TE/LAR | 147496 |
+| Adonai Mitchell | WR/NYJ | 95040 |
+| Konata Mumpfield | WR/LAR | 88254 |
+| MarShawn Lloyd | RB/GB | 84600 |
+| Jayden Reed | WR/GB | 83727 |
+| De'Von Achane | RB/MIA | 69810 |
+| New England Patriots | DEF/NE | 69531 |
+| Caleb Douglas | WR/MIA | 67952 |
+| Jadarian Price | RB/SEA | 67590 |
+| Khalil Shakir | WR/BUF | 56502 |
+| Tyreek Hill | WR/FA | 54576 |
+| Devin Singletary | RB/NYG | 52011 |
+| Keaton Mitchell | RB/LAC | 49860 |
+| Quentin Johnston | WR/LAC | 47173 |
+| Michael Pittman | WR/PIT | 45960 |
 
 
 ---
@@ -832,115 +838,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Dadrion Taylor-Demerson | DB/ARI | Questionable | Out |
-| Rachaad White | RB/WAS | Questionable | Out |
-| Jackson Powers-Johnson | OL/LV | Questionable | Out |
-| Ko Kieft | TE/TB | Questionable | Out |
-| Brenen Thompson | WR/LAC | Questionable | Out |
-| Rueben Bain | DL/TB | Questionable | Out |
-| Josh Simmons | OL/KC | Questionable | Out |
-| Azeez Al-Shaair | LB/HOU | Doubtful | Out |
-| Jaden Dugger | LB/SF | (unlisted) | Questionable |
-| Kevin Winston | DB/TEN | (unlisted) | Questionable |
-| Ben Bartch | OL/DET | Questionable | Out |
-| Trey Hendrickson | DE/BAL | Questionable | Out |
-| Terrance Ferguson | TE/LAR | Doubtful | IR |
-| Cam Lewis | CB/CHI | Questionable | Doubtful |
-| Dalvin Tomlinson | DT/LAC | Questionable | Out |
-| Brett Thorson | P/MIN | Questionable | Out |
-| British Brooks | RB/HOU | Questionable | IR |
-| T.J. Sanders | DL/BUF | Questionable | Doubtful |
-| Logan Hall | DL/HOU | (unlisted) | Questionable |
-| Aaron Banks | OL/GB | Questionable | Out |
-| Jadarian Price | RB/SEA | Questionable | Out |
-| DeMarvion Overshown | LB/DAL | Questionable | Out |
-| Dallas Goedert | TE/PHI | Doubtful | Out |
-| Braxton Jones | OL/CHI | Doubtful | Out |
-| Cobie Durant | DB/DAL | Doubtful | Out |
-| Kendal Daniels | LB/ATL | (unlisted) | Questionable |
-| DeVonta Smith | WR/PHI | Questionable | Out |
-| Marquise Brown | WR/PHI | Questionable | Out |
-| Chazz Surratt | LB/SEA | (unlisted) | Questionable |
-| Jacob Monk | OL/GB | Questionable | Out |
-| Jaylen Watson | DB/LAR | Doubtful | Out |
-| Terry McLaurin | WR/WAS | (unlisted) | Questionable |
-| Josh Sweat | DE/ARI | (unlisted) | Questionable |
-| Xavier Legette | WR/CAR | Doubtful | Out |
-| Anthony Campbell | DT/GB | Questionable | Out |
-| Justin Jefferson | WR/MIN | Questionable | Out |
-| Christian Gonzalez | DB/NE | Questionable | Out |
-| Zack Baun | LB/PHI | Questionable | Out |
-| Zay Flowers | WR/BAL | (unlisted) | Questionable |
-| Kayode Awosika | OL/LAC | Questionable | Out |
-| Charlie Kolar | TE/LAC | Doubtful | Out |
-| Warren Brinson | DL/GB | Questionable | Out |
-| Benjamin Morrison | DB/TB | Questionable | Out |
-| Caleb Williams | QB/CHI | Doubtful | Out |
-| Cam Jackson | DT/CAR | (unlisted) | Questionable |
-| Christian Barmore | DT/NE | Questionable | Out |
-| Marcus Epps | DB/PHI | Questionable | Out |
-| Fred Johnson | T/PHI | Questionable | Out |
-| Ray Davis | RB/BUF | (unlisted) | Questionable |
-| Kyle Dugger | DB/CIN | Questionable | Out |
-| Dondrea Tillman | DT/DEN | Questionable | Out |
-| Aaron Donald | DT/LAR | Questionable | Out |
-| Deonte Banks | DB/NYG | Questionable | (cleared) |
-| Lukas Van Ness | DL/GB | Questionable | (cleared) |
-| DJ Turner | DB/CIN | Questionable | (cleared) |
-| Yaya Diaby | DL/TB | Questionable | (cleared) |
-| Jordan Battle | DB/CIN | Questionable | (cleared) |
-| Karl Brooks | DT/GB | Questionable | (cleared) |
-| Moro Ojomo | DE/PHI | Questionable | (cleared) |
-| Will Shipley | RB/PHI | Questionable | (cleared) |
-| Bucky Irving | RB/TB | Questionable | (cleared) |
-| Ben Sinnott | TE/WAS | Questionable | (cleared) |
-| Keon Coleman | WR/BUF | Questionable | (cleared) |
-| Tyrone Tracy | RB/NYG | Questionable | (cleared) |
-| Tyler Nubin | DB/NYG | Questionable | (cleared) |
-| Kamren Kinchens | DB/LAR | Questionable | (cleared) |
-| Justin Eboigbe | DL/LAC | Questionable | (cleared) |
-| George Holani | RB/SEA | Questionable | (cleared) |
-| Josh Wallace | DB/LAR | Questionable | (cleared) |
-| Joe Andreessen | LB/BUF | Questionable | (cleared) |
-| LeQuint Allen | RB/JAX | Questionable | (cleared) |
-| Walter Nolen | DL/ARI | Questionable | (cleared) |
-| Shavon Revel | DB/DAL | Questionable | (cleared) |
-| Nate Boerkircher | TE/JAX | Questionable | (cleared) |
-| Chris Bell | WR/MIA | Questionable | (cleared) |
-| Romello Height | LB/SF | Questionable | (cleared) |
-| Keionte Scott | DB/TB | Questionable | (cleared) |
-| Jalen Walthall | WR/FA | Questionable | (cleared) |
-| Lucas Patrick | G/WAS | Questionable | (cleared) |
-| Malik Hooker | DB/DAL | Questionable | (cleared) |
-| DJ Moore | WR/BUF | Questionable | (cleared) |
-| John Franklin-Myers | DT/TEN | Questionable | (cleared) |
-| Frankie Luvu | LB/WAS | Questionable | (cleared) |
-| Julian Love | DB/SEA | Questionable | (cleared) |
-| Charles Omenihu | DE/WAS | Questionable | (cleared) |
-| Jakobi Meyers | WR/JAX | Questionable | (cleared) |
-| Hjalte Froholdt | G/ARI | Questionable | (cleared) |
-| Blake Cashman | LB/MIN | Questionable | (cleared) |
-| Nick Allegretti | G/WAS | Questionable | (cleared) |
-| D'Andre Swift | RB/CHI | Questionable | (cleared) |
-| Javon Kinlaw | DT/WAS | Questionable | (cleared) |
-| Andrew Thomas | T/NYG | Questionable | (cleared) |
-| DaVon Hamilton | DT/JAX | Questionable | (cleared) |
-| Julian Blackmon | DB/NO | Questionable | (cleared) |
-| L'Jarius Sneed | CB/KC | Questionable | (cleared) |
-| Trent Williams | T/SF | Questionable | (cleared) |
-| Aaron Brewer | OL/MIA | Questionable | (cleared) |
-| Nico Collins | WR/HOU | Questionable | (cleared) |
-| Cole Van Lanen | OL/JAX | Questionable | (cleared) |
-| Damar Hamlin | DB/BUF | Questionable | (cleared) |
-| Roy Lopez | DT/ARI | Questionable | (cleared) |
-| Jeremy Ruckert | TE/NYJ | Questionable | (cleared) |
-| Chig Okonkwo | TE/WAS | Questionable | (cleared) |
-| Jordan Davis | DL/PHI | Questionable | (cleared) |
-| Nate Landman | LB/LAR | Questionable | (cleared) |
-| Tucker Addington | LS/MIA | Questionable | (cleared) |
-| Justin Shorter | WR/FA | Questionable | (cleared) |
-| Puka Nacua | WR/LAR | Questionable | (cleared) |
-| Keaton Mitchell | RB/LAC | Questionable | (cleared) |
+| Keenan Allen | WR/IND | Questionable | Out |
 
 **Full current report**
 
@@ -1040,7 +938,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Elgton Jenkins | G/CLE | Out | — | — |
 | Jeremiah Owusu-Koramoah | LB/CLE | PUP | — | — |
 | Joe Royer | TE/CLE | PUP | — | — |
-| Justin Jefferson | LB/CLE | Out | — | Addison will serve as the Vikings' top wide receiver against the Dolphins on Sunday due to the absence of Justin Jefferson (ankle), Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) |
+| Justin Jefferson | LB/CLE | Out | — | Jefferson (ankle) has been already been ruled out for Sunday's game against the Dolphins, but the Vikings are hopeful that the superstar wide receiver will return for Week 5 against the Saints, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) |
 | Kalia Davis | DL/CLE | IR | — | — |
 | Mason Graham | DL/CLE | Questionable | — | — |
 | Mike Hall | DT/CLE | Questionable | — | — |
@@ -1458,7 +1356,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Cameron Mitchell | DB/IND | IR | — | — |
 | Carson Towt | TE/IND | IR | — | — |
 | D.J. Montgomery | WR/IND | IR | — | — |
-| Keenan Allen | WR/IND | Questionable | — | Allen "is facing a minimum three-game suspension" in connection with his August arrest, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) |
+| Keenan Allen | WR/IND | Out | — | Allen (groin) has been downgraded to out for Sunday's game against Washington. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/keenan-allen-8627)) |
 | Micheal Clemons | DL/IND | IR | — | — |
 | Mo Alie-Cox | TE/IND | Questionable | — | — |
 | Will Mallory | TE/IND | IR | — | — |
@@ -1537,7 +1435,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jamal Adams | SS/MIN | IR | — | — |
 | Jordan Mason | RB/MIN | IR | — | Vikings head coach Kevin O'Connell said Monday that Mason is being further evaluated after experiencing thumb soreness coming out of Sunday's 39-22 win over the Packers, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) |
 | Josh Oliver | TE/MIN | IR | — | — |
-| Justin Jefferson | WR/MIN | Out | — | Addison will serve as the Vikings' top wide receiver against the Dolphins on Sunday due to the absence of Justin Jefferson (ankle), Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-addison-16895)) |
+| Justin Jefferson | WR/MIN | Out | — | Jefferson (ankle) has been already been ruled out for Sunday's game against the Dolphins, but the Vikings are hopeful that the superstar wide receiver will return for Week 5 against the Saints, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) |
 | Michael Jurgens | OL/MIN | IR | — | — |
 | Nick Samac | C/MIN | IR | — | — |
 | Tyler Batty | DL/MIN | IR | — | — |
@@ -1710,6 +1608,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Percy Butler | DB/WAS | Questionable | — | — |
 | Rachaad White | RB/WAS | Out | — | White rushed eight times for 35 yards and caught his only target for a six-yard touchdown during Sunday's 33-31 win over Seattle. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) |
 | Sam Cosmi | OL/WAS | Out | — | — |
-| Terry McLaurin | WR/WAS | Questionable | — | McLaurin will be joined by Diggs in the Commanders' receiving corps after the latter agreed to a one-year contract with the team Wednesday, John Keim and Seth Walder of ESPN.com report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
+| Terry McLaurin | WR/WAS | Questionable | — | McLaurin (hamstring) is now likely to miss Sunday's game against the Colts in London, Ben Standig of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
 | Trey Amos | DB/WAS | IR | — | — |
 
