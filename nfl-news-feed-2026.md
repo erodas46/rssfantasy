@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-03 14:57 UTC_ · 672 items total · 663/672 matched to a player
+_Last updated: 2026-10-03 19:33 UTC_ · 672 items total · 663/672 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -791,41 +791,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 760221 |
-| Roman Wilson | WR/PIT | 506745 |
-| Jauan Jennings | WR/MIN | 301994 |
-| Isaiah Davis | RB/NYJ | 287163 |
-| Tyreek Hill | WR/FA | 169160 |
-| Darren Waller | TE/CAR | 160704 |
-| Tyler Higbee | TE/LAR | 155511 |
-| Jordan Addison | WR/MIN | 103068 |
-| Tyson Bagent | QB/CHI | 99426 |
-| Dontayvion Wicks | WR/PHI | 91677 |
-| Makai Lemon | WR/PHI | 91144 |
-| Konata Mumpfield | WR/LAR | 86472 |
-| Alvin Kamara | RB/NO | 81664 |
-| Malik Washington | WR/MIA | 61448 |
-| Las Vegas Raiders | DEF/LV | 59334 |
+| Emanuel Wilson | RB/SEA | 891234 |
+| Roman Wilson | WR/PIT | 470277 |
+| Jauan Jennings | WR/MIN | 375284 |
+| Isaiah Davis | RB/NYJ | 229185 |
+| Darren Waller | TE/CAR | 159894 |
+| Tyler Higbee | TE/LAR | 159840 |
+| Tyreek Hill | WR/FA | 123216 |
+| Tyson Bagent | QB/CHI | 113706 |
+| Jordan Addison | WR/MIN | 110970 |
+| Makai Lemon | WR/PHI | 95720 |
+| Dontayvion Wicks | WR/PHI | 92409 |
+| Austin Ekeler | RB/WAS | 72628 |
+| Konata Mumpfield | WR/LAR | 72387 |
+| Alvin Kamara | RB/NO | 67072 |
+| Malik Washington | WR/MIA | 65944 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Terrance Ferguson | TE/LAR | 147496 |
-| Adonai Mitchell | WR/NYJ | 95040 |
-| Konata Mumpfield | WR/LAR | 88254 |
-| MarShawn Lloyd | RB/GB | 84600 |
-| Jayden Reed | WR/GB | 83727 |
-| De'Von Achane | RB/MIA | 69810 |
-| New England Patriots | DEF/NE | 69531 |
-| Caleb Douglas | WR/MIA | 67952 |
-| Jadarian Price | RB/SEA | 67590 |
-| Khalil Shakir | WR/BUF | 56502 |
-| Tyreek Hill | WR/FA | 54576 |
-| Devin Singletary | RB/NYG | 52011 |
-| Keaton Mitchell | RB/LAC | 49860 |
-| Quentin Johnston | WR/LAC | 47173 |
-| Michael Pittman | WR/PIT | 45960 |
+| Terrance Ferguson | TE/LAR | 140464 |
+| Konata Mumpfield | WR/LAR | 78966 |
+| MarShawn Lloyd | RB/GB | 78165 |
+| Adonai Mitchell | WR/NYJ | 75784 |
+| Keenan Allen | WR/IND | 73256 |
+| Jayden Reed | WR/GB | 71937 |
+| Jadarian Price | RB/SEA | 67473 |
+| De'Von Achane | RB/MIA | 61200 |
+| New England Patriots | DEF/NE | 60263 |
+| Caleb Douglas | WR/MIA | 54504 |
+| Khalil Shakir | WR/BUF | 50751 |
+| Tyreek Hill | WR/FA | 49544 |
+| Devin Singletary | RB/NYG | 45639 |
+| Quentin Johnston | WR/LAC | 44198 |
+| Keaton Mitchell | RB/LAC | 41562 |
 
 
 ---
@@ -836,9 +836,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Keenan Allen | WR/IND | Questionable | Out |
+_None since last run._
 
 **Full current report**
 
