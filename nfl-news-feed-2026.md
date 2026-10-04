@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-04 15:31 UTC_ · 678 items total · 669/678 matched to a player
+_Last updated: 2026-10-04 19:49 UTC_ · 683 items total · 674/683 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-04 15:31 UTC_ · 678 items total · 669/678 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-04 | Mike Evans | WR/SF | NEWS | — | Evans (ribs) is active for Sunday's game against the Broncos. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-04 | Daniel Jones | QB/IND | NEWS | — | Jones completed 19 of 34 passes for 143 yards and an interception in Sunday's 30-13 win over the Commanders. He added two yards and a rushing touchdown on four carries while committing a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/daniel-jones-13491)) | Rotowire |
+| 2026-10-04 | Athan Kaliakmanis | QB/WAS | NEWS | — | Kaliakmanis completed 15 of 33 passes for 186 yards and a touchdown with an interception in Sunday's 30-13 loss to the Colts. He added 16 yards on three carries. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/athan-kaliakmanis-19368)) | Rotowire |
+| 2026-10-04 | Jacory Croskey-Merritt | RB/WAS | NEWS | — | Croskey-Merritt carried the ball nine times for a season-low 15 yards and caught two of four targets for 35 yards in Sunday's 30-13 loss to the Colts. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-10-04 | Stefon Diggs | WR/ | NEWS | — | Diggs caught five of nine targets for 35 yards in Sunday's 30-13 loss to the Colts. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
 | 2026-10-04 | Baker Mayfield | QB/TB | NEWS | 🔥 Schefter | Mayfield's dislocated right thumb could keep him out anywhere from 3-to-6 weeks, depending on how quickly he's able to resume gripping the football without issue, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-10-04 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring), who has been ruled out for Sunday's game against the Rams, is viewed "at very best, questionable" for the Eagles' Week 5 game versus the Jaguars in London, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
 | 2026-10-04 | Marcus Mariota | QB/WAS | INJURY | — | Mariota sustained an undisclosed injury in the first quarter of Sunday's game against the Colts in London and headed to the locker room for further evaluation, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) | Rotowire |
@@ -105,6 +110,11 @@ _Last updated: 2026-10-04 15:31 UTC_ · 678 items total · 669/678 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-04 | Mike Evans | WR/SF | NEWS | — | Evans (ribs) is active for Sunday's game against the Broncos. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-04 | Daniel Jones | QB/IND | NEWS | — | Jones completed 19 of 34 passes for 143 yards and an interception in Sunday's 30-13 win over the Commanders. He added two yards and a rushing touchdown on four carries while committing a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/daniel-jones-13491)) | Rotowire |
+| 2026-10-04 | Athan Kaliakmanis | QB/WAS | NEWS | — | Kaliakmanis completed 15 of 33 passes for 186 yards and a touchdown with an interception in Sunday's 30-13 loss to the Colts. He added 16 yards on three carries. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/athan-kaliakmanis-19368)) | Rotowire |
+| 2026-10-04 | Jacory Croskey-Merritt | RB/WAS | NEWS | — | Croskey-Merritt carried the ball nine times for a season-low 15 yards and caught two of four targets for 35 yards in Sunday's 30-13 loss to the Colts. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-10-04 | Stefon Diggs | WR/ | NEWS | — | Diggs caught five of nine targets for 35 yards in Sunday's 30-13 loss to the Colts. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
 | 2026-10-04 | Baker Mayfield | QB/TB | NEWS | 🔥 Schefter | Mayfield's dislocated right thumb could keep him out anywhere from 3-to-6 weeks, depending on how quickly he's able to resume gripping the football without issue, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-10-04 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring), who has been ruled out for Sunday's game against the Rams, is viewed "at very best, questionable" for the Eagles' Week 5 game versus the Jaguars in London, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
 | 2026-10-04 | Marcus Mariota | QB/WAS | INJURY | — | Mariota sustained an undisclosed injury in the first quarter of Sunday's game against the Colts in London and headed to the locker room for further evaluation, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) | Rotowire |
@@ -794,41 +804,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 1251423 |
-| Jauan Jennings | WR/MIN | 429919 |
-| Roman Wilson | WR/PIT | 392337 |
-| Isaiah Davis | RB/NYJ | 209601 |
-| Darren Waller | TE/CAR | 207567 |
-| Brycen Tremayne | WR/CAR | 203688 |
-| Austin Ekeler | RB/WAS | 137856 |
-| Tyler Higbee | TE/LAR | 132327 |
-| Tyson Bagent | QB/CHI | 110016 |
-| Arizona Cardinals | DEF/ARI | 106976 |
-| Makai Lemon | WR/PHI | 99548 |
-| Dontayvion Wicks | WR/PHI | 90084 |
-| Malik Washington | WR/MIA | 88792 |
-| Jordan Addison | WR/MIN | 79398 |
-| C.J. Stroud | QB/HOU | 74291 |
+| Emanuel Wilson | RB/SEA | 1244871 |
+| Jauan Jennings | WR/MIN | 485716 |
+| Roman Wilson | WR/PIT | 401796 |
+| Brycen Tremayne | WR/CAR | 375012 |
+| Darren Waller | TE/CAR | 246258 |
+| Isaiah Davis | RB/NYJ | 210609 |
+| Arizona Cardinals | DEF/ARI | 145688 |
+| Tyler Higbee | TE/LAR | 137763 |
+| Austin Ekeler | RB/WAS | 127092 |
+| Tank Bigsby | RB/PHI | 117005 |
+| Darius Cooper | WR/PHI | 116599 |
+| Tyson Bagent | QB/CHI | 107502 |
+| Malik Washington | WR/MIA | 97512 |
+| Makai Lemon | WR/PHI | 89092 |
+| C.J. Stroud | QB/HOU | 88095 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jadarian Price | RB/SEA | 235854 |
-| Keenan Allen | WR/IND | 116732 |
-| MarShawn Lloyd | RB/GB | 100611 |
-| Jayden Reed | WR/GB | 99693 |
-| New England Patriots | DEF/NE | 95578 |
-| Terrance Ferguson | TE/LAR | 89664 |
-| De'Von Achane | RB/MIA | 84438 |
-| Konata Mumpfield | WR/LAR | 83556 |
-| Adonai Mitchell | WR/NYJ | 81624 |
-| Caleb Douglas | WR/MIA | 62880 |
-| Tyreek Hill | WR/FA | 62824 |
-| Khalil Shakir | WR/BUF | 61821 |
-| Devin Singletary | RB/NYG | 61155 |
-| Quentin Johnston | WR/LAC | 56749 |
-| Kenny Gainwell | RB/TB | 49760 |
+| Jadarian Price | RB/SEA | 272385 |
+| MarShawn Lloyd | RB/GB | 112185 |
+| Jayden Reed | WR/GB | 111114 |
+| New England Patriots | DEF/NE | 109900 |
+| De'Von Achane | RB/MIA | 102612 |
+| Konata Mumpfield | WR/LAR | 101682 |
+| Terrance Ferguson | TE/LAR | 91784 |
+| Adonai Mitchell | WR/NYJ | 87760 |
+| Tyreek Hill | WR/FA | 81312 |
+| Devin Singletary | RB/NYG | 80775 |
+| Keenan Allen | WR/IND | 79576 |
+| Caleb Douglas | WR/MIA | 70440 |
+| Khalil Shakir | WR/BUF | 63585 |
+| Quentin Johnston | WR/LAC | 62734 |
+| Kenny Gainwell | RB/TB | 61296 |
 
 
 ---
@@ -839,24 +849,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| George Gumbs | DE/IND | (unlisted) | Out |
-| Josaiah Stewart | DE/LAR | (unlisted) | Questionable |
-| Luke McCaffrey | WR/WAS | (unlisted) | Out |
-| Lane Johnson | T/PHI | (unlisted) | Questionable |
-| Riley Leonard | QB/IND | (unlisted) | Out |
-| Jacob Parrish | DB/TB | (unlisted) | Questionable |
-| Charles Omenihu | DE/WAS | (unlisted) | Questionable |
-| Terry McLaurin | WR/WAS | Doubtful | Out |
-| Dalton Tucker | OL/IND | (unlisted) | Out |
-| DJ Giddens | RB/IND | (unlisted) | Out |
-| Marcus Mariota | QB/WAS | (unlisted) | Out |
-| Darius Slayton | WR/IND | (unlisted) | Out |
-| Javontae Jean-Baptiste | DL/WAS | (unlisted) | Out |
-| Mo Alie-Cox | TE/IND | Questionable | (cleared) |
-| Sam Franklin | DB/BUF | Questionable | (cleared) |
-| Percy Butler | DB/WAS | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1584,7 +1577,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | James Thompson | DT/SF | Out | — | — |
 | Keion White | DL/SF | Questionable | — | — |
 | Mikail Kamara | DE/SF | IR | — | — |
-| Mike Evans | WR/SF | Questionable | — | Evans (ribs) was in uniform and running on the side during the media-access portion of Friday's practice, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
+| Mike Evans | WR/SF | Questionable | — | Evans (ribs) is active for Sunday's game against the Broncos. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
 | Mykel Williams | DL/SF | PUP | — | — |
 | Nate Hobbs | CB/SF | IR | — | — |
 | Nick Bosa | DE/SF | Out | — | Bosa (knee) worked to the side on the practice field Monday and is expected to do the same Tuesday, with a return to practice planned for Wednesday, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nick-bosa-13421)) |
