@@ -73,7 +73,7 @@
     "name": "Paris Johnson",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ARI"
   },
   "10905": {
@@ -416,7 +416,7 @@
     "name": "Reese Taylor",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "11330": {
@@ -668,7 +668,7 @@
     "name": "Edgerrin Cooper",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "GB"
   },
   "11692": {
@@ -712,6 +712,13 @@
     "since": "",
     "status": "IR",
     "team": "BAL"
+  },
+  "11738": {
+    "name": "Decamerion Richardson",
+    "pos": "CB",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
   },
   "11744": {
     "name": "Dadrion Taylor-Demerson",
@@ -1025,7 +1032,7 @@
     "name": "Braiden McGregor",
     "pos": "DE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "12035": {
@@ -1410,14 +1417,14 @@
     "name": "Donovan Jackson",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIN"
   },
   "12561": {
     "name": "Derrick Harmon",
     "pos": "DL",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "PIT"
   },
   "12562": {
@@ -2218,6 +2225,13 @@
     "status": "IR",
     "team": "SEA"
   },
+  "13287": {
+    "name": "Jeremiyah Love",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "ARI"
+  },
   "13289": {
     "name": "Drew Allar",
     "pos": "QB",
@@ -2393,12 +2407,26 @@
     "status": "IR",
     "team": "HOU"
   },
+  "13379": {
+    "name": "Josiah Trotter",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
   "13380": {
     "name": "Brenen Thompson",
     "pos": "WR",
     "since": "",
     "status": "Out",
     "team": "LAC"
+  },
+  "13387": {
+    "name": "Christen Miller",
+    "pos": "DL",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
   },
   "13392": {
     "name": "Jeff Caldwell",
@@ -2636,6 +2664,13 @@
     "pos": "CB",
     "since": "",
     "status": "IR",
+    "team": "DAL"
+  },
+  "13498": {
+    "name": "Drew Shelton",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
     "team": "DAL"
   },
   "13499": {
@@ -3532,7 +3567,7 @@
     "pos": "RB",
     "since": "",
     "status": "Active",
-    "team": "FA"
+    "team": "SEA"
   },
   "4033": {
     "name": "David Njoku",
@@ -3930,7 +3965,7 @@
     "name": "Braxton Berrios",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYG"
   },
   "5133": {
@@ -4266,7 +4301,7 @@
     "name": "Noah Fant",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
   },
   "5859": {
@@ -4882,7 +4917,7 @@
     "name": "Antoine Winfield",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TB"
   },
   "6900": {
@@ -5037,13 +5072,6 @@
     "pos": "S",
     "since": "",
     "status": "NA",
-    "team": "FA"
-  },
-  "7046": {
-    "name": "J.R. Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
     "team": "FA"
   },
   "7057": {
@@ -5228,6 +5256,13 @@
     "status": "Questionable",
     "team": "ARI"
   },
+  "7538": {
+    "name": "Zach Wilson",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
+  },
   "7543": {
     "name": "Travis Etienne",
     "pos": "RB",
@@ -5330,7 +5365,7 @@
     "name": "Rashawn Slater",
     "pos": "T",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "7640": {
@@ -5353,13 +5388,6 @@
     "since": "",
     "status": "IR",
     "team": "CAR"
-  },
-  "7647": {
-    "name": "Pete Werner",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
   },
   "7650": {
     "name": "Dillon Radunz",
@@ -6247,7 +6275,7 @@
     "name": "Tank Bigsby",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PHI"
   },
   "9226": {
