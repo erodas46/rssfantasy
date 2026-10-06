@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-06 16:57 UTC_ · 699 items total · 690/699 matched to a player
+_Last updated: 2026-10-06 21:20 UTC_ · 701 items total · 692/701 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-10-06 16:57 UTC_ · 699 items total · 690/699 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-06 | Joe Mixon | RB/ | NEWS | 🔥 Schefter | The Seahawks opted not to sign Mixon (foot) after he underwent a physical for the team Tuesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/joe-mixon-11707)) | Rotowire |
+| 2026-10-06 | Lamar Jackson | QB/BAL | INJURY | — | Jackson appears "unlikely" to play Sunday against the Falcons due to a "rarer type of ankle sprain" that could put him at risk of missing multiple games, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-06 | Lamar Jackson | QB/BAL | INJURY | — | Jackson (ankle) is not dealing with a long-term injury, but he has "only an outside chance to play" in Week 5 and "could end up missing multiple games," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-05 | Michael Penix | QB/ATL | NEWS | — | Penix completed 15 of 20 passes for 223 yards with one touchdown and no interceptions and rushed twice for minus-2 yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-10-05 | Brian Robinson | RB/ATL | NEWS | — | Robinson rushed 14 times for 62 yards and three touchdowns and brought in his sole target for five yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-robinson-15907)) | Rotowire |
@@ -96,6 +98,8 @@ _Last updated: 2026-10-06 16:57 UTC_ · 699 items total · 690/699 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-06 | Joe Mixon | RB/ | NEWS | 🔥 Schefter | The Seahawks opted not to sign Mixon (foot) after he underwent a physical for the team Tuesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/joe-mixon-11707)) | Rotowire |
+| 2026-10-06 | Lamar Jackson | QB/BAL | INJURY | — | Jackson appears "unlikely" to play Sunday against the Falcons due to a "rarer type of ankle sprain" that could put him at risk of missing multiple games, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-06 | Lamar Jackson | QB/BAL | INJURY | — | Jackson (ankle) is not dealing with a long-term injury, but he has "only an outside chance to play" in Week 5 and "could end up missing multiple games," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-05 | Michael Penix | QB/ATL | NEWS | — | Penix completed 15 of 20 passes for 223 yards with one touchdown and no interceptions and rushed twice for minus-2 yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-10-05 | Brian Robinson | RB/ATL | NEWS | — | Robinson rushed 14 times for 62 yards and three touchdowns and brought in his sole target for five yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-robinson-15907)) | Rotowire |
@@ -806,41 +810,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Keon Coleman | WR/BUF | 2316600 |
-| Dohnte Meyers | WR/CIN | 1565712 |
-| Emanuel Wilson | RB/SEA | 1006542 |
-| Roman Wilson | WR/PIT | 794520 |
-| Will Shipley | RB/PHI | 594640 |
-| Tyreek Hill | WR/FA | 547584 |
-| Kirk Cousins | QB/LV | 490704 |
-| Jacksonville Jaguars | DEF/JAX | 443922 |
-| Brian Robinson | RB/ATL | 422508 |
-| Keaton Mitchell | RB/LAC | 393084 |
-| Romeo Doubs | WR/NE | 344024 |
-| Joe Mixon | RB/SEA | 338664 |
-| Michael Mayer | TE/LV | 307224 |
-| Tyler Higbee | TE/LAR | 227223 |
-| Mike Gesicki | TE/CIN | 211780 |
+| Keon Coleman | WR/BUF | 2887776 |
+| Dohnte Meyers | WR/CIN | 1975824 |
+| Emanuel Wilson | RB/SEA | 1251828 |
+| Roman Wilson | WR/PIT | 938304 |
+| Will Shipley | RB/PHI | 823922 |
+| Jacksonville Jaguars | DEF/JAX | 601512 |
+| Kirk Cousins | QB/LV | 592648 |
+| Brian Robinson | RB/ATL | 534708 |
+| Tyreek Hill | WR/FA | 518816 |
+| Keaton Mitchell | RB/LAC | 516339 |
+| Romeo Doubs | WR/NE | 444616 |
+| Michael Mayer | TE/LV | 372465 |
+| Joe Mixon | RB/SEA | 343367 |
+| Tyler Higbee | TE/LAR | 306918 |
+| Mike Gesicki | TE/CIN | 273980 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Darren Waller | TE/CAR | 453384 |
-| Isaiah Davis | RB/NYJ | 328140 |
-| Kenyon Sadiq | TE/NYJ | 306459 |
-| Jauan Jennings | WR/MIN | 291648 |
-| Tank Bigsby | RB/PHI | 274729 |
-| Konata Mumpfield | WR/LAR | 236898 |
-| Courtland Sutton | WR/DEN | 235872 |
-| Jadarian Price | RB/SEA | 211383 |
-| Kyler Murray | QB/MIN | 192648 |
-| Quentin Johnston | WR/LAC | 189679 |
-| Adonai Mitchell | WR/NYJ | 187208 |
-| Harrison Butker | K/KC | 172636 |
-| Chase McLaughlin | K/TB | 169944 |
-| Kaelon Black | RB/SF | 167587 |
-| Emmett Johnson | RB/KC | 164655 |
+| Darren Waller | TE/CAR | 556596 |
+| Isaiah Davis | RB/NYJ | 394101 |
+| Jauan Jennings | WR/MIN | 353500 |
+| Kenyon Sadiq | TE/NYJ | 350451 |
+| Tank Bigsby | RB/PHI | 337939 |
+| Konata Mumpfield | WR/LAR | 279594 |
+| Courtland Sutton | WR/DEN | 269784 |
+| Jadarian Price | RB/SEA | 245970 |
+| Kyler Murray | QB/MIN | 234520 |
+| Chase McLaughlin | K/TB | 233840 |
+| Quentin Johnston | WR/LAC | 229586 |
+| Adonai Mitchell | WR/NYJ | 223144 |
+| Harrison Butker | K/KC | 215224 |
+| Kaelon Black | RB/SF | 201782 |
+| Emmett Johnson | RB/KC | 201240 |
 
 
 ---
@@ -851,10 +855,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| K.J. Henry | DE/FA | Questionable | (cleared) |
-| Jamari Thrash | WR/FA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -911,7 +912,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jahquez Robinson | DB/BAL | IR | — | — |
 | Joe Fagnano | QB/BAL | Out | — | — |
 | Jovaughn Gwyn | OL/BAL | IR | — | — |
-| Lamar Jackson | QB/BAL | Questionable | — | Jackson (ankle) is not dealing with a long-term injury, but he has "only an outside chance to play" in Week 5 and "could end up missing multiple games," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
+| Lamar Jackson | QB/BAL | Questionable | — | Jackson appears "unlikely" to play Sunday against the Falcons due to a "rarer type of ankle sprain" that could put him at risk of missing multiple games, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
 | Marlon Humphrey | CB/BAL | Questionable | — | — |
 | Ronnie Stanley | T/BAL | Questionable | — | — |
 | Skylar Thompson | QB/BAL | IR | — | — |
@@ -1684,7 +1685,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jadarian Price | RB/SEA | IR | — | Price (chest) was placed on injured reserve Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) |
 | Jake Bobo | WR/SEA | IR | — | — |
 | Jalen Milroe | QB/SEA | Out | — | — |
-| Joe Mixon | RB/SEA | Active | — | — |
+| Joe Mixon | RB/SEA | Active | — | The Seahawks opted not to sign Mixon (foot) after he underwent a physical for the team Tuesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/joe-mixon-11707)) |
 | Leonard Williams | DE/SEA | Questionable | — | — |
 | Mason Richman | OL/SEA | IR | — | — |
 | Montorie Foster | WR/SEA | Out | — | — |
