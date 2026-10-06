@@ -202,13 +202,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "10992": {
-    "name": "Yasir Abdullah",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "ATL"
-  },
   "10994": {
     "name": "Scott Matlock",
     "pos": "DT",
@@ -1693,6 +1686,13 @@
     "status": "PUP",
     "team": "BUF"
   },
+  "12695": {
+    "name": "Robert Longerbeam",
+    "pos": "DB",
+    "since": "",
+    "status": "Out",
+    "team": "ATL"
+  },
   "12696": {
     "name": "Aeneas Peebles",
     "pos": "DT",
@@ -2028,6 +2028,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "13048": {
+    "name": "Jared Ivey",
+    "pos": "DE",
+    "since": "",
+    "status": "Out",
+    "team": "ATL"
   },
   "13051": {
     "name": "K.C. Ossai",
@@ -2883,6 +2890,13 @@
     "status": "Out",
     "team": "DEN"
   },
+  "13583": {
+    "name": "Ethan Onianwa",
+    "pos": "G",
+    "since": "",
+    "status": "Out",
+    "team": "ATL"
+  },
   "13587": {
     "name": "Parker Hughes",
     "pos": "LB",
@@ -2917,6 +2931,13 @@
     "since": "",
     "status": "IR",
     "team": "LAR"
+  },
+  "13602": {
+    "name": "Jack Strand",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "ATL"
   },
   "13604": {
     "name": "Sincere Brown",
@@ -3240,6 +3261,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "13974": {
+    "name": "Malcolm DeWalt",
+    "pos": "CB",
+    "since": "",
+    "status": "Out",
+    "team": "ATL"
+  },
   "13975": {
     "name": "Le'Meke Brockington",
     "pos": "WR",
@@ -3366,6 +3394,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "2172": {
+    "name": "Jake Matthews",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
+  },
   "2187": {
     "name": "Kony Ealy",
     "pos": "DE",
@@ -3421,6 +3456,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "2427": {
+    "name": "Za'Darius Smith",
+    "pos": "LB",
+    "since": "",
+    "status": "Out",
+    "team": "ATL"
   },
   "2625": {
     "name": "Jonathon Mincy",
@@ -3576,6 +3618,13 @@
     "status": "IR",
     "team": "LAC"
   },
+  "4035": {
+    "name": "Alvin Kamara",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
   "4059": {
     "name": "Marshon Lattimore",
     "pos": "CB",
@@ -3667,13 +3716,6 @@
     "status": "IR",
     "team": "ARI"
   },
-  "4170": {
-    "name": "Samson Ebukam",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "ATL"
-  },
   "4174": {
     "name": "Deatrich Wise",
     "pos": "DE",
@@ -3694,6 +3736,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "4207": {
+    "name": "Davon Godchaux",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
   },
   "4219": {
     "name": "Jeremy McNichols",
@@ -3743,6 +3792,13 @@
     "since": "",
     "status": "Out",
     "team": "FA"
+  },
+  "4574": {
+    "name": "Cooper Rush",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "ATL"
   },
   "4579": {
     "name": "Josh Banderas",
@@ -3849,6 +3905,13 @@
     "status": "IR",
     "team": "SF"
   },
+  "4965": {
+    "name": "Marcus Davenport",
+    "pos": "DE",
+    "since": "",
+    "status": "NA",
+    "team": "CHI"
+  },
   "4971": {
     "name": "Derwin James",
     "pos": "DB",
@@ -3939,6 +4002,13 @@
     "since": "",
     "status": "IR",
     "team": "HOU"
+  },
+  "5067": {
+    "name": "Arden Key",
+    "pos": "DE",
+    "since": "",
+    "status": "Out",
+    "team": "IND"
   },
   "5071": {
     "name": "DeShon Elliott",
@@ -5459,13 +5529,6 @@
     "status": "Out",
     "team": "SEA"
   },
-  "7677": {
-    "name": "Divine Deablo",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "ATL"
-  },
   "7687": {
     "name": "Nahshon Wright",
     "pos": "CB",
@@ -6011,6 +6074,13 @@
     "since": "",
     "status": "PUP",
     "team": "CAR"
+  },
+  "8453": {
+    "name": "Cam Jurgens",
+    "pos": "OL",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
   },
   "8458": {
     "name": "Dylan Parham",
