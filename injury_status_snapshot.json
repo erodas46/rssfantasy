@@ -195,13 +195,6 @@
     "status": "IR",
     "team": "IND"
   },
-  "10991": {
-    "name": "K.J. Henry",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "10994": {
     "name": "Scott Matlock",
     "pos": "DT",
@@ -565,13 +558,6 @@
     "since": "",
     "status": "IR",
     "team": "CAR"
-  },
-  "11633": {
-    "name": "Jamari Thrash",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "11635": {
     "name": "Ladd McConkey",
@@ -3301,7 +3287,7 @@
     "pos": "CB",
     "since": "",
     "status": "IR",
-    "team": "GB"
+    "team": "FA"
   },
   "14060": {
     "name": "Blake Cotton",
@@ -3910,7 +3896,7 @@
     "pos": "DE",
     "since": "",
     "status": "NA",
-    "team": "CHI"
+    "team": "FA"
   },
   "4971": {
     "name": "Derwin James",

@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-06 05:26 UTC_ · 698 items total · 689/698 matched to a player
+_Last updated: 2026-10-06 16:57 UTC_ · 699 items total · 690/699 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-10-06 05:26 UTC_ · 698 items total · 689/698 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-06 | Lamar Jackson | QB/BAL | INJURY | — | Jackson (ankle) is not dealing with a long-term injury, but he has "only an outside chance to play" in Week 5 and "could end up missing multiple games," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-05 | Michael Penix | QB/ATL | NEWS | — | Penix completed 15 of 20 passes for 223 yards with one touchdown and no interceptions and rushed twice for minus-2 yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-10-05 | Brian Robinson | RB/ATL | NEWS | — | Robinson rushed 14 times for 62 yards and three touchdowns and brought in his sole target for five yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-robinson-15907)) | Rotowire |
 | 2026-10-05 | Alvin Kamara | RB/NO | NEWS | — | Kamara rushed seven times for 23 yards and two touchdowns and brought in five of seven targets for 35 yards in the Saints' 45-24 loss to the Falcons on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
@@ -95,6 +96,7 @@ _Last updated: 2026-10-06 05:26 UTC_ · 698 items total · 689/698 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-06 | Lamar Jackson | QB/BAL | INJURY | — | Jackson (ankle) is not dealing with a long-term injury, but he has "only an outside chance to play" in Week 5 and "could end up missing multiple games," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-05 | Michael Penix | QB/ATL | NEWS | — | Penix completed 15 of 20 passes for 223 yards with one touchdown and no interceptions and rushed twice for minus-2 yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-penix-17700)) | Rotowire |
 | 2026-10-05 | Brian Robinson | RB/ATL | NEWS | — | Robinson rushed 14 times for 62 yards and three touchdowns and brought in his sole target for five yards in the Falcons' 45-24 win over the Saints on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-robinson-15907)) | Rotowire |
 | 2026-10-05 | Alvin Kamara | RB/NO | NEWS | — | Kamara rushed seven times for 23 yards and two touchdowns and brought in five of seven targets for 35 yards in the Saints' 45-24 loss to the Falcons on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
@@ -804,41 +806,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Keon Coleman | WR/BUF | 1032462 |
-| Dohnte Meyers | WR/CIN | 738342 |
-| Tyreek Hill | WR/FA | 572920 |
-| Emanuel Wilson | RB/SEA | 568584 |
-| Roman Wilson | WR/PIT | 520209 |
-| Kirk Cousins | QB/LV | 262112 |
-| Joe Mixon | RB/SEA | 260856 |
-| Will Shipley | RB/PHI | 226530 |
-| Brian Robinson | RB/ATL | 196320 |
-| Michael Mayer | TE/LV | 159066 |
-| Keaton Mitchell | RB/LAC | 144927 |
-| Romeo Doubs | WR/NE | 139872 |
-| Tank Bigsby | RB/PHI | 120351 |
-| Darius Cooper | WR/PHI | 109977 |
-| Mike Gesicki | TE/CIN | 98736 |
+| Keon Coleman | WR/BUF | 2316600 |
+| Dohnte Meyers | WR/CIN | 1565712 |
+| Emanuel Wilson | RB/SEA | 1006542 |
+| Roman Wilson | WR/PIT | 794520 |
+| Will Shipley | RB/PHI | 594640 |
+| Tyreek Hill | WR/FA | 547584 |
+| Kirk Cousins | QB/LV | 490704 |
+| Jacksonville Jaguars | DEF/JAX | 443922 |
+| Brian Robinson | RB/ATL | 422508 |
+| Keaton Mitchell | RB/LAC | 393084 |
+| Romeo Doubs | WR/NE | 344024 |
+| Joe Mixon | RB/SEA | 338664 |
+| Michael Mayer | TE/LV | 307224 |
+| Tyler Higbee | TE/LAR | 227223 |
+| Mike Gesicki | TE/CIN | 211780 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Darren Waller | TE/CAR | 216279 |
-| Kenyon Sadiq | TE/NYJ | 190386 |
-| Isaiah Davis | RB/NYJ | 166923 |
-| Courtland Sutton | WR/DEN | 154485 |
-| Konata Mumpfield | WR/LAR | 137880 |
-| Jauan Jennings | WR/MIN | 134925 |
-| Tank Bigsby | RB/PHI | 132958 |
-| Jadarian Price | RB/SEA | 125703 |
-| Quentin Johnston | WR/LAC | 102515 |
-| Kyler Murray | QB/MIN | 101592 |
-| Blake Corum | RB/LAR | 101424 |
-| Adonai Mitchell | WR/NYJ | 98712 |
-| Chase McLaughlin | K/TB | 98184 |
-| Emmett Johnson | RB/KC | 93159 |
-| Kaelon Black | RB/SF | 90286 |
+| Darren Waller | TE/CAR | 453384 |
+| Isaiah Davis | RB/NYJ | 328140 |
+| Kenyon Sadiq | TE/NYJ | 306459 |
+| Jauan Jennings | WR/MIN | 291648 |
+| Tank Bigsby | RB/PHI | 274729 |
+| Konata Mumpfield | WR/LAR | 236898 |
+| Courtland Sutton | WR/DEN | 235872 |
+| Jadarian Price | RB/SEA | 211383 |
+| Kyler Murray | QB/MIN | 192648 |
+| Quentin Johnston | WR/LAC | 189679 |
+| Adonai Mitchell | WR/NYJ | 187208 |
+| Harrison Butker | K/KC | 172636 |
+| Chase McLaughlin | K/TB | 169944 |
+| Kaelon Black | RB/SF | 167587 |
+| Emmett Johnson | RB/KC | 164655 |
 
 
 ---
@@ -851,22 +853,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Cooper Rush | QB/ATL | (unlisted) | Out |
-| Robert Longerbeam | DB/ATL | (unlisted) | Out |
-| Davon Godchaux | DT/NO | (unlisted) | Questionable |
-| Cam Jurgens | OL/PHI | (unlisted) | Questionable |
-| Arden Key | DE/IND | (unlisted) | Out |
-| Jared Ivey | DE/ATL | (unlisted) | Out |
-| Ethan Onianwa | G/ATL | (unlisted) | Out |
-| Za'Darius Smith | LB/ATL | (unlisted) | Out |
-| Marcus Davenport | DE/CHI | (unlisted) | NA |
-| Jake Matthews | T/ATL | (unlisted) | Questionable |
-| Alvin Kamara | RB/NO | (unlisted) | Questionable |
-| Jack Strand | QB/ATL | (unlisted) | Out |
-| Malcolm DeWalt | CB/ATL | (unlisted) | Out |
-| Yasir Abdullah | LB/ATL | Questionable | (cleared) |
-| Samson Ebukam | DE/ATL | Questionable | (cleared) |
-| Divine Deablo | LB/ATL | Questionable | (cleared) |
+| K.J. Henry | DE/FA | Questionable | (cleared) |
+| Jamari Thrash | WR/FA | Questionable | (cleared) |
 
 **Full current report**
 
@@ -923,7 +911,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jahquez Robinson | DB/BAL | IR | — | — |
 | Joe Fagnano | QB/BAL | Out | — | — |
 | Jovaughn Gwyn | OL/BAL | IR | — | — |
-| Lamar Jackson | QB/BAL | Questionable | — | Jackson (back) is participating at the start of Thursday's practice, Cordell Woodland of 105.7 The Fan Baltimore Sports Radio reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
+| Lamar Jackson | QB/BAL | Questionable | — | Jackson (ankle) is not dealing with a long-term injury, but he has "only an outside chance to play" in Week 5 and "could end up missing multiple games," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
 | Marlon Humphrey | CB/BAL | Questionable | — | — |
 | Ronnie Stanley | T/BAL | Questionable | — | — |
 | Skylar Thompson | QB/BAL | IR | — | — |
@@ -974,7 +962,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jayden Loving | DT/CHI | Out | — | — |
 | Kyle Monangai | RB/CHI | Questionable | — | Monangai rushed 10 times for 31 yards and wasn't targeted in the Bears' 27-7 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
 | Kyler Gordon | DB/CHI | PUP | — | — |
-| Marcus Davenport | DE/CHI | NA | — | — |
 | Nephi Sewell | LB/CHI | IR | — | — |
 | Nikola Kalinic | TE/CHI | IR | — | — |
 | Noah Sewell | LB/CHI | PUP | — | — |
@@ -1226,7 +1213,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jamal Agnew | WR/FA | Questionable | — | — |
 | Jamarco Jones | T/FA | Questionable | — | — |
 | Jamaree Salyer | OL/FA | Questionable | — | — |
-| Jamari Thrash | WR/FA | Questionable | — | — |
 | Jason Davis | OLB/FA | NA | — | — |
 | Jason Maitre | CB/FA | Questionable | — | — |
 | Jaxson Kirkland | G/FA | Questionable | — | — |
@@ -1253,7 +1239,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Joshua Miles | OL/FA | NA | — | — |
 | Justin Hardee | CB/FA | Questionable | — | — |
 | Justin Hollins | LB/FA | Questionable | — | — |
-| K.J. Henry | DE/FA | Questionable | — | — |
 | KC Eziomume | DB/FA | Questionable | — | — |
 | Kadarius Calloway | RB/FA | Questionable | — | — |
 | Kaleb Barker | QB/FA | NA | — | — |
@@ -1299,9 +1284,11 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Malik Verdon | DB/FA | Questionable | — | — |
 | Marcus Allen | LB/FA | Questionable | — | — |
 | Marcus Banks | DB/FA | Questionable | — | — |
+| Marcus Davenport | DE/FA | NA | — | — |
 | Marcus Tate | OL/FA | Questionable | — | — |
 | Mario Williams | WR/FA | Questionable | — | — |
 | Markees Watts | DE/FA | NA | — | — |
+| Marlon Jones | CB/FA | IR | — | — |
 | Marshon Lattimore | CB/FA | Questionable | — | — |
 | Marvin Jones | WR/FA | Questionable | — | — |
 | Mason Fine | QB/FA | NA | — | — |
@@ -1404,7 +1391,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Josh Jacobs | RB/GB | NA | — | Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) |
 | Kevin Zeitler | OG/GB | Out | — | — |
 | Luke Musgrave | TE/GB | PUP | — | — |
-| Marlon Jones | CB/GB | IR | — | — |
 | Micah Parsons | LB/GB | PUP | — | — |
 | Pierre Strong | RB/GB | Questionable | — | — |
 | Savion Williams | WR/GB | IR | — | — |
