@@ -73,7 +73,7 @@
     "name": "Paris Johnson",
     "pos": "OL",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ARI"
   },
   "10905": {
@@ -601,13 +601,6 @@
     "status": "PUP",
     "team": "SF"
   },
-  "11654": {
-    "name": "Dante Miller",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "11661": {
     "name": "Terrion Arnold",
     "pos": "DB",
@@ -647,7 +640,7 @@
     "name": "Edgerrin Cooper",
     "pos": "LB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "GB"
   },
   "11692": {
@@ -782,6 +775,13 @@
     "since": "",
     "status": "Out",
     "team": "GB"
+  },
+  "11777": {
+    "name": "Jaylon Carlies",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
   },
   "11778": {
     "name": "Jordan Magee",
@@ -1396,7 +1396,7 @@
     "name": "Donovan Jackson",
     "pos": "OL",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "MIN"
   },
   "12561": {
@@ -1529,7 +1529,7 @@
     "name": "Jaylin Smith",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "HOU"
   },
   "12630": {
@@ -1550,7 +1550,7 @@
     "name": "Caleb Ransaw",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "JAX"
   },
   "12637": {
@@ -1564,7 +1564,7 @@
     "name": "Jaylin Lane",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "WAS"
   },
   "12643": {
@@ -2014,6 +2014,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "13047": {
+    "name": "Jacardia Wright",
+    "pos": "RB",
+    "since": "",
+    "status": "Out",
+    "team": "SEA"
   },
   "13048": {
     "name": "Jared Ivey",
@@ -3156,6 +3163,13 @@
     "status": "IR",
     "team": "BAL"
   },
+  "13862": {
+    "name": "Treyvhon Saunders",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "HOU"
+  },
   "13864": {
     "name": "Aidan Keanaaina",
     "pos": "DL",
@@ -3589,13 +3603,6 @@
     "since": "",
     "status": "IR",
     "team": "LAR"
-  },
-  "4018": {
-    "name": "Joe Mixon",
-    "pos": "RB",
-    "since": "",
-    "status": "Active",
-    "team": "SEA"
   },
   "4033": {
     "name": "David Njoku",
@@ -4486,6 +4493,13 @@
     "status": "IR",
     "team": "MIN"
   },
+  "6003": {
+    "name": "Anthony Nelson",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
   "6024": {
     "name": "Fred Johnson",
     "pos": "T",
@@ -4779,6 +4793,13 @@
     "since": "",
     "status": "NA",
     "team": "FA"
+  },
+  "6650": {
+    "name": "Chase McLaughlin",
+    "pos": "K",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
   },
   "6677": {
     "name": "Joe Forson",
@@ -5309,7 +5330,7 @@
     "name": "Hunter Long",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "ARI"
   },
   "7538": {
@@ -5360,13 +5381,6 @@
     "since": "",
     "status": "Out",
     "team": "CLE"
-  },
-  "7597": {
-    "name": "Kenny Yeboah",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "7599": {
     "name": "Jermar Jefferson",
@@ -6236,13 +6250,6 @@
     "status": "IR",
     "team": "SF"
   },
-  "8702": {
-    "name": "Jaylon Jones",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "8726": {
     "name": "Brenden Schooler",
     "pos": "DB",
@@ -6331,7 +6338,7 @@
     "name": "Tank Bigsby",
     "pos": "RB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "PHI"
   },
   "9226": {
