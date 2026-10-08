@@ -4031,13 +4031,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "5877": {
-    "name": "Elgton Jenkins",
-    "pos": "G",
-    "since": "",
-    "status": "Questionable",
-    "team": "CLE"
-  },
   "5880": {
     "name": "Parris Campbell",
     "pos": "WR",
@@ -4588,7 +4581,7 @@
     "name": "Michael Pittman",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PIT"
   },
   "6821": {
