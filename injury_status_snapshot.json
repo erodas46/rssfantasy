@@ -535,7 +535,7 @@
     "name": "Adonai Mitchell",
     "pos": "WR",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "11626": {
@@ -607,13 +607,6 @@
     "since": "",
     "status": "NA",
     "team": "SEA"
-  },
-  "11662": {
-    "name": "Quinyon Mitchell",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PHI"
   },
   "11673": {
     "name": "Joe Alt",
@@ -1284,7 +1277,7 @@
     "name": "Kyle Monangai",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CHI"
   },
   "12539": {
@@ -1592,7 +1585,7 @@
     "name": "Kiko Mauigoa",
     "pos": "LB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "12668": {
@@ -2063,13 +2056,6 @@
     "since": "",
     "status": "IR",
     "team": "NYJ"
-  },
-  "13279": {
-    "name": "Carnell Tate",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
   },
   "13281": {
     "name": "Jordyn Tyson",
@@ -3546,7 +3532,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "SF"
+    "team": "FA"
   },
   "5006": {
     "name": "J'Mon Moore",
@@ -5477,7 +5463,7 @@
     "name": "Breece Hall",
     "pos": "RB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "8176": {
@@ -5834,7 +5820,7 @@
     "name": "Dylan Parham",
     "pos": "OL",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "8463": {
