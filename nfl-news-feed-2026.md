@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-10 04:54 UTC_ · 744 items total · 735/744 matched to a player
+_Last updated: 2026-10-10 15:58 UTC_ · 747 items total · 738/747 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-10-10 04:54 UTC_ · 744 items total · 735/744 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | The Cardinals are "finalizing a deal to trade Harrison" to an unspecified team, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | A trade for Harrison will not be completed "until after Sunday's games are played," but the Cardinals "feel comfortable enough" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-10-09 | Saquon Barkley | RB/PHI | INJURY | — | Shipley is slated to lead the Eagles backfield against the Jaguars in Week 5 due to the absences of both Saquon Barkley (hamstring) and Tank Bigsby (abdomen, IR), Chris McPherson of the Eagles' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) | Rotowire |
 | 2026-10-09 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) remained a non-participant in Friday's practice for the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-09 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring), who is officially questionable for Sunday's game against the Giants, will be a game-time decision, as Jeremy Fowler of ESPN highlighted Friday in a Week 5 injury update on SportsCenter. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-09 | Quentin Johnston | WR/LAC | INJURY | — | Johnston (chest) has been ruled out for Sunday's game against Denver Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
@@ -92,6 +95,9 @@ _Last updated: 2026-10-10 04:54 UTC_ · 744 items total · 735/744 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | The Cardinals are "finalizing a deal to trade Harrison" to an unspecified team, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | A trade for Harrison will not be completed "until after Sunday's games are played," but the Cardinals "feel comfortable enough" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-10-09 | Saquon Barkley | RB/PHI | INJURY | — | Shipley is slated to lead the Eagles backfield against the Jaguars in Week 5 due to the absences of both Saquon Barkley (hamstring) and Tank Bigsby (abdomen, IR), Chris McPherson of the Eagles' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) | Rotowire |
 | 2026-10-09 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) remained a non-participant in Friday's practice for the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-09 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring), who is officially questionable for Sunday's game against the Giants, will be a game-time decision, as Jeremy Fowler of ESPN highlighted Friday in a Week 5 injury update on SportsCenter. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-09 | Quentin Johnston | WR/LAC | INJURY | — | Johnston (chest) has been ruled out for Sunday's game against Denver Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
@@ -847,41 +853,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roman Wilson | WR/PIT | 482904 |
-| Roschon Johnson | RB/CHI | 433488 |
-| Dameon Pierce | RB/PHI | 256232 |
-| Darius Cooper | WR/PHI | 157318 |
-| Dohnte Meyers | WR/CIN | 140958 |
-| Keaton Mitchell | RB/LAC | 125964 |
-| Tyler Higbee | TE/LAR | 124470 |
-| Kirk Cousins | QB/LV | 106768 |
-| Malik Washington | WR/MIA | 104640 |
-| MarShawn Lloyd | RB/GB | 90387 |
-| Romeo Doubs | WR/NE | 83208 |
-| Efton Chism | WR/NE | 79292 |
-| Keon Coleman | WR/BUF | 74502 |
-| Isaiah Williams | WR/NYJ | 73878 |
-| Cleveland Browns | DEF/CLE | 72401 |
+| Roschon Johnson | RB/CHI | 532616 |
+| Roman Wilson | WR/PIT | 405288 |
+| Dameon Pierce | RB/PHI | 229216 |
+| Darius Cooper | WR/PHI | 167398 |
+| Dohnte Meyers | WR/CIN | 122769 |
+| Marvin Harrison | WR/ARI | 120500 |
+| Keaton Mitchell | RB/LAC | 111087 |
+| Tyler Higbee | TE/LAR | 109296 |
+| Efton Chism | WR/NE | 108328 |
+| Malik Washington | WR/MIA | 100800 |
+| Kirk Cousins | QB/LV | 95912 |
+| MarShawn Lloyd | RB/GB | 87264 |
+| Romeo Doubs | WR/NE | 84272 |
+| Tre' Harris | WR/LAC | 78968 |
+| Keon Coleman | WR/BUF | 72387 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dohnte Meyers | WR/CIN | 123498 |
-| Tyreek Hill | WR/FA | 87256 |
-| Darren Waller | TE/CAR | 71847 |
-| Quentin Johnston | WR/LAC | 67718 |
-| Adonai Mitchell | WR/NYJ | 66032 |
-| Kenyon Sadiq | TE/NYJ | 57546 |
-| Michael Pittman | WR/PIT | 54005 |
-| Jauan Jennings | WR/MIN | 52234 |
-| Courtland Sutton | WR/DEN | 47916 |
-| Jordan Addison | WR/MIN | 46170 |
-| Emmett Johnson | RB/KC | 46008 |
-| Kaelon Black | RB/SF | 43253 |
-| Kyle Pitts | TE/ATL | 42497 |
-| Pat Bryant | WR/DEN | 42488 |
-| Dameon Pierce | RB/PHI | 41912 |
+| Dohnte Meyers | WR/CIN | 154899 |
+| Tyreek Hill | WR/FA | 97696 |
+| Quentin Johnston | WR/LAC | 74326 |
+| Darren Waller | TE/CAR | 68301 |
+| Kenyon Sadiq | TE/NYJ | 63684 |
+| Adonai Mitchell | WR/NYJ | 62144 |
+| Emmett Johnson | RB/KC | 48753 |
+| Jauan Jennings | WR/MIN | 48552 |
+| Michael Pittman | WR/PIT | 47700 |
+| Jordan Addison | WR/MIN | 47628 |
+| Kaelon Black | RB/SF | 46116 |
+| Courtland Sutton | WR/DEN | 46017 |
+| Pat Bryant | WR/DEN | 45480 |
+| Dameon Pierce | RB/PHI | 43840 |
+| Jadarian Price | RB/SEA | 40842 |
 
 
 ---
@@ -894,151 +900,10 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Eric Murray | DB/JAX | Questionable | Doubtful |
-| Trey Zuhn | OT/LV | Questionable | Out |
-| Chris Brooks | RB/GB | Questionable | Out |
-| Brenen Thompson | WR/LAC | Questionable | Out |
-| Justin Joly | TE/MIA | Questionable | Out |
-| Jason Pinnock | CB/NYG | Questionable | Out |
-| Charles Demmings | CB/MIN | Questionable | Out |
-| Will McDonald | DE/NYJ | (unlisted) | Questionable |
-| Ben Bartch | OL/DET | Questionable | Out |
-| Jamel Dean | CB/PIT | Doubtful | Out |
-| Jalen Nailor | WR/LV | Questionable | Out |
-| Lamar Jackson | QB/BAL | Questionable | Out |
-| Nick Cross | DB/WAS | Questionable | Out |
-| Trey Hendrickson | DE/BAL | Questionable | Out |
-| Karon Prunty | DB/NE | Questionable | Out |
-| Christian Darrisaw | T/MIN | Questionable | Out |
-| Caleb Douglas | WR/MIA | Questionable | Out |
-| Uar Bernard | DT/PHI | (unlisted) | Out |
-| Teven Jenkins | OL/CLE | Questionable | Out |
-| Aaron Banks | OL/GB | Questionable | Doubtful |
-| Rock Ya-Sin | CB/DET | Doubtful | Out |
-| Saquon Barkley | RB/PHI | Questionable | Out |
-| Rob Beal | LB/MIA | Questionable | Out |
-| Julian Neal | DB/SEA | Questionable | Out |
-| Yasir Abdullah | LB/ATL | Questionable | Out |
-| Rodney Shelley | CB/LAC | (unlisted) | Questionable |
-| Carnell Tate | WR/TEN | (unlisted) | Questionable |
-| DeVonta Smith | WR/PHI | Questionable | Out |
-| Mack Hollins | WR/NE | Questionable | Out |
-| Marquise Brown | WR/PHI | Questionable | Out |
-| Jaylon Carlies | DB/IND | Questionable | Out |
-| Trey Lance | QB/LAC | Questionable | Doubtful |
-| Mason Graham | DL/CLE | Doubtful | Out |
-| Keyshaun Elliott | LB/CHI | Questionable | Out |
-| Javon Hargrave | DT/GB | (unlisted) | Questionable |
-| Reggie Gilliam | RB/NE | Questionable | Out |
-| Charles Omenihu | DE/WAS | Questionable | Out |
-| Donte Jackson | CB/LAC | Questionable | Out |
-| Cam Jurgens | OL/BAL | Questionable | Out |
-| Chazz Surratt | LB/SEA | Questionable | Out |
-| Pat Bryant | WR/DEN | Doubtful | IR |
-| Jacob Monk | OL/GB | Questionable | Doubtful |
-| Stefon Diggs | WR/WAS | Questionable | Out |
-| James Thompson | DT/SF | Doubtful | Out |
-| Jeremiah Wright | G/NO | Questionable | Out |
-| Pat Surtain | CB/DEN | Doubtful | Out |
-| Drew Kendall | C/PHI | Questionable | Out |
-| Mike Hall | DT/CLE | Questionable | Out |
-| Percy Butler | DB/WAS | Questionable | Out |
-| Kaden Elliss | LB/NO | Questionable | Out |
-| Colbie Young | WR/CIN | (unlisted) | Questionable |
-| Tylan Wallace | WR/CLE | Questionable | Out |
-| Andrew Wingard | DB/ARI | Questionable | Out |
-| Joe Alt | OL/LAC | Questionable | Out |
-| Quentin Johnston | WR/LAC | Questionable | Out |
-| Christian Gonzalez | DB/NE | Questionable | Out |
-| Amani Hooker | DB/TEN | Questionable | Out |
-| Jaylon Jones | CB/JAX | Questionable | Out |
-| Trevor Penning | T/LAC | Questionable | Out |
-| Kayode Awosika | OL/LAC | Questionable | Out |
-| Nick Bosa | DE/SF | Doubtful | Out |
-| Tyler Owens | DB/WAS | Questionable | Out |
-| Caleb Williams | QB/CHI | Out | Questionable |
-| Carlton Davis | CB/NE | Questionable | Out |
-| Channing Canada | CB/NE | Questionable | Out |
-| Anfernee Jennings | LB/NO | Questionable | Out |
-| Marcus Epps | DB/PHI | Questionable | Out |
-| Marcus Mariota | QB/WAS | Doubtful | Out |
-| Darius Slayton | WR/IND | (unlisted) | Questionable |
-| Derwin James | DB/LAC | Questionable | Out |
-| Carsen Ryan | TE/CLE | Questionable | Out |
-| Rashawn Slater | T/LAC | Out | IR |
-| Riley Moss | DB/DEN | Questionable | Out |
-| Kyle Dugger | DB/CIN | Questionable | Out |
-| Ashton Dulin | WR/IND | Questionable | Out |
-| Anton Harrison | OL/JAX | Questionable | (cleared) |
-| Lukas Van Ness | DL/GB | Questionable | (cleared) |
-| Darnell Wright | OL/CHI | Questionable | (cleared) |
-| Will Anderson | DL/HOU | Questionable | (cleared) |
-| JuJu Brents | DB/MIA | Questionable | (cleared) |
-| Mekhi Blackmon | CB/CLE | Questionable | (cleared) |
-| Malik Nabers | WR/NYG | Questionable | (cleared) |
-| Jarrian Jones | DB/JAX | Questionable | (cleared) |
-| Tanor Bortolini | OL/IND | Questionable | (cleared) |
-| Dadrion Taylor-Demerson | DB/ARI | Questionable | (cleared) |
-| Cam Hart | CB/LAC | Questionable | (cleared) |
-| Nehemiah Pritchett | CB/SEA | Questionable | (cleared) |
-| Jarvis Brownlee | DB/NYJ | Questionable | (cleared) |
-| Jamal Hill | LB/HOU | Questionable | (cleared) |
-| Cam Skattebo | RB/NYG | Questionable | (cleared) |
-| Gunnar Helm | TE/TEN | Questionable | (cleared) |
-| Jacory Croskey-Merritt | RB/WAS | Questionable | (cleared) |
-| Jihaad Campbell | LB/PHI | Questionable | (cleared) |
-| Anthony Belton | OT/GB | Questionable | (cleared) |
-| Kevin Winston | DB/TEN | Questionable | (cleared) |
-| Dante Trader | DB/MIA | Questionable | (cleared) |
-| Marcus Harris | DB/TEN | Questionable | (cleared) |
-| Dontae Manning | CB/FA | Questionable | (cleared) |
-| Jeremiyah Love | RB/ARI | Questionable | (cleared) |
-| Chris Bell | WR/MIA | Questionable | (cleared) |
-| Mike Evans | WR/SF | Questionable | (cleared) |
-| Aaron Donald | DT/LAR | Questionable | (cleared) |
-| Leonard Williams | DE/SEA | Questionable | (cleared) |
-| Chris Manhertz | TE/NYG | Questionable | (cleared) |
-| Joe Thuney | OL/CHI | Questionable | (cleared) |
-| Derek Barnett | DE/CLE | Questionable | (cleared) |
-| Dalvin Tomlinson | DT/LAC | Questionable | (cleared) |
-| Jourdan Lewis | CB/JAX | Questionable | (cleared) |
-| B.J. Hill | DT/CIN | Questionable | (cleared) |
-| Dallas Goedert | TE/PHI | Questionable | (cleared) |
-| John Franklin-Myers | DT/TEN | Questionable | (cleared) |
-| Frankie Luvu | LB/WAS | Questionable | (cleared) |
-| Josh Hines-Allen | DE/JAX | Questionable | (cleared) |
-| Dexter Lawrence | DT/CIN | Questionable | (cleared) |
-| Noah Fant | TE/NO | Questionable | (cleared) |
-| Dalton Risner | G/CIN | Questionable | (cleared) |
-| Carl Granderson | DE/NO | Questionable | (cleared) |
-| Fred Johnson | T/PHI | Questionable | (cleared) |
-| Alec Ingold | FB/LAC | Questionable | (cleared) |
-| Jeffery Simmons | DT/TEN | Questionable | (cleared) |
-| Nick Allegretti | G/WAS | Questionable | (cleared) |
-| Azeez Al-Shaair | LB/HOU | Questionable | (cleared) |
-| D'Andre Swift | RB/CHI | Questionable | (cleared) |
-| Andrew Thomas | T/NYG | Questionable | (cleared) |
-| Zack Baun | LB/PHI | Questionable | (cleared) |
-| Austin Jackson | T/MIA | Questionable | (cleared) |
-| Colby Parkinson | TE/LAR | Questionable | (cleared) |
-| DJ Wonnum | DE/DET | Questionable | (cleared) |
-| John Simpson | G/BAL | Questionable | (cleared) |
-| Jonah Jackson | G/CHI | Questionable | (cleared) |
-| DaVon Hamilton | DT/JAX | Questionable | (cleared) |
-| Cody White | WR/LV | Questionable | (cleared) |
-| Sam Cosmi | OL/WAS | Questionable | (cleared) |
-| Israel Mukuamu | DB/FA | Questionable | (cleared) |
-| Cole Van Lanen | OL/JAX | Questionable | (cleared) |
-| Isaiah Likely | TE/NYG | Questionable | (cleared) |
-| Rachaad White | RB/WAS | Questionable | (cleared) |
-| Chris Olave | WR/NO | Questionable | (cleared) |
-| Chig Okonkwo | TE/WAS | Questionable | (cleared) |
-| Devonte Wyatt | DL/GB | Questionable | (cleared) |
-| Montaric Brown | DB/JAX | Questionable | (cleared) |
-| Spencer Burford | OL/LV | Questionable | (cleared) |
-| Deane Leonard | DB/LAC | Questionable | (cleared) |
-| Tucker Addington | LS/MIA | Questionable | (cleared) |
-| Dontayvion Wicks | WR/PHI | Questionable | (cleared) |
+| Christen Miller | DL/NO | (unlisted) | Questionable |
+| Marvin Harrison | WR/ARI | (unlisted) | Out |
+| Joshua Palmer | WR/BUF | (unlisted) | Questionable |
+| Landon Jackson | DL/BUF | Questionable | (cleared) |
 
 **Full current report**
 
@@ -1054,6 +919,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kaleb Proctor | DT/ARI | IR | — | — |
 | Karson Sharar | LB/ARI | Questionable | — | — |
 | Kitan Crawford | DB/ARI | IR | — | — |
+| Marvin Harrison | WR/ARI | Out | — | The Cardinals are "finalizing a deal to trade Harrison" to an unspecified team, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) |
 | Paris Johnson | OL/ARI | IR | — | — |
 | Tip Reiman | TE/ARI | PUP | — | — |
 | Trey Benson | RB/ARI | IR | — | Benson (knee) was waived/injured by the Cardinals on Monday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/trey-benson-17767)) |
@@ -1099,7 +965,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Questionable | — | — |
 | Jordan Hancock | DB/BUF | IR | — | — |
-| Landon Jackson | DL/BUF | Questionable | — | — |
+| Joshua Palmer | WR/BUF | Questionable | — | — |
 | Te'Cory Couch | CB/BUF | Questionable | — | — |
 | Tyrell Shavers | WR/BUF | PUP | — | — |
 | Zane Durant | DT/BUF | IR | — | — |
@@ -1711,6 +1577,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Anfernee Jennings | LB/NO | Out | — | — |
 | Barion Brown | WR/NO | Questionable | — | — |
 | Bryan Bresee | DT/NO | IR | — | — |
+| Christen Miller | DL/NO | Questionable | — | — |
 | David Long | CB/NO | IR | — | — |
 | Dillon Radunz | OL/NO | IR | — | — |
 | Jaylan Ford | LB/NO | IR | — | — |
@@ -1767,7 +1634,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Landon Dickerson | OL/PHI | IR | — | — |
 | Marcus Epps | DB/PHI | Out | — | — |
 | Marquise Brown | WR/PHI | Out | — | — |
-| Saquon Barkley | RB/PHI | Out | — | Barkley (stinger) said Friday that he's "feeling good" this week and will wear protective gear around his neck during Monday's contest at Chicago, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
+| Saquon Barkley | RB/PHI | Out | — | Shipley is slated to lead the Eagles backfield against the Jaguars in Week 5 due to the absences of both Saquon Barkley (hamstring) and Tank Bigsby (abdomen, IR), Chris McPherson of the Eagles' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) |
 | Tank Bigsby | RB/PHI | IR | — | The Eagles placed Bigsby (abdomen) on injured reserve Tuesday, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-bigsby-16705)) |
 | Tucker Large | DB/PHI | PUP | — | — |
 | Uar Bernard | DT/PHI | Out | — | — |

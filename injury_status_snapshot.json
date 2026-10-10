@@ -510,6 +510,13 @@
     "status": "IR",
     "team": "CAR"
   },
+  "11628": {
+    "name": "Marvin Harrison",
+    "pos": "WR",
+    "since": "",
+    "status": "Out",
+    "team": "ARI"
+  },
   "11635": {
     "name": "Ladd McConkey",
     "pos": "WR",
@@ -1265,13 +1272,6 @@
     "since": "",
     "status": "Out",
     "team": "TB"
-  },
-  "12580": {
-    "name": "Landon Jackson",
-    "pos": "DL",
-    "since": "",
-    "status": "Questionable",
-    "team": "BUF"
   },
   "12585": {
     "name": "James Pearce",
@@ -2042,6 +2042,13 @@
     "since": "",
     "status": "Out",
     "team": "LAC"
+  },
+  "13387": {
+    "name": "Christen Miller",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
   },
   "13392": {
     "name": "Jeff Caldwell",
@@ -4849,6 +4856,13 @@
     "since": "",
     "status": "IR",
     "team": "NYG"
+  },
+  "7670": {
+    "name": "Joshua Palmer",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
   },
   "7673": {
     "name": "Chazz Surratt",
