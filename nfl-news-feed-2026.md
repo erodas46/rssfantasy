@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-10 15:58 UTC_ · 747 items total · 738/747 matched to a player
+_Last updated: 2026-10-10 20:21 UTC_ · 751 items total · 742/751 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-10-10 15:58 UTC_ · 747 items total · 738/747 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-10 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) was on the field for the start of Saturday's practice, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-10-10 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) is listed as questionable for Monday's game against the Rams, Katherine Fitzgerald of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-10-10 | Michael Pittman | WR/PIT | INJURY | — | Pittman (foot) is being placed on injured reserve, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
+| 2026-10-10 | Michael Pittman | WR/PIT | INJURY | — | The Steelers placed Pittman (foot) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
 | 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | The Cardinals are "finalizing a deal to trade Harrison" to an unspecified team, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
 | 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | A trade for Harrison will not be completed "until after Sunday's games are played," but the Cardinals "feel comfortable enough" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
 | 2026-10-09 | Saquon Barkley | RB/PHI | INJURY | — | Shipley is slated to lead the Eagles backfield against the Jaguars in Week 5 due to the absences of both Saquon Barkley (hamstring) and Tank Bigsby (abdomen, IR), Chris McPherson of the Eagles' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) | Rotowire |
@@ -95,6 +99,10 @@ _Last updated: 2026-10-10 15:58 UTC_ · 747 items total · 738/747 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-10 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) was on the field for the start of Saturday's practice, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-10-10 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) is listed as questionable for Monday's game against the Rams, Katherine Fitzgerald of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-10-10 | Michael Pittman | WR/PIT | INJURY | — | Pittman (foot) is being placed on injured reserve, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
+| 2026-10-10 | Michael Pittman | WR/PIT | INJURY | — | The Steelers placed Pittman (foot) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
 | 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | The Cardinals are "finalizing a deal to trade Harrison" to an unspecified team, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
 | 2026-10-10 | Marvin Harrison | WR/ARI | TRANSACTION | 🔥 Schefter | A trade for Harrison will not be completed "until after Sunday's games are played," but the Cardinals "feel comfortable enough" knowing it will occur that they will deactivate him for Sunday's game against the Lions, Adam Schefter of ESPN reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
 | 2026-10-09 | Saquon Barkley | RB/PHI | INJURY | — | Shipley is slated to lead the Eagles backfield against the Jaguars in Week 5 due to the absences of both Saquon Barkley (hamstring) and Tank Bigsby (abdomen, IR), Chris McPherson of the Eagles' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) | Rotowire |
@@ -853,41 +861,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 532616 |
-| Roman Wilson | WR/PIT | 405288 |
-| Dameon Pierce | RB/PHI | 229216 |
-| Darius Cooper | WR/PHI | 167398 |
-| Dohnte Meyers | WR/CIN | 122769 |
-| Marvin Harrison | WR/ARI | 120500 |
-| Keaton Mitchell | RB/LAC | 111087 |
-| Tyler Higbee | TE/LAR | 109296 |
-| Efton Chism | WR/NE | 108328 |
-| Malik Washington | WR/MIA | 100800 |
-| Kirk Cousins | QB/LV | 95912 |
-| MarShawn Lloyd | RB/GB | 87264 |
-| Romeo Doubs | WR/NE | 84272 |
-| Tre' Harris | WR/LAC | 78968 |
-| Keon Coleman | WR/BUF | 72387 |
+| Roschon Johnson | RB/CHI | 479536 |
+| Roman Wilson | WR/PIT | 354546 |
+| Marvin Harrison | WR/ARI | 224956 |
+| Dameon Pierce | RB/PHI | 191056 |
+| Darius Cooper | WR/PHI | 168875 |
+| Efton Chism | WR/NE | 123172 |
+| Dohnte Meyers | WR/CIN | 100413 |
+| Tyler Higbee | TE/LAR | 95346 |
+| Malik Washington | WR/MIA | 94400 |
+| Tre' Harris | WR/LAC | 90848 |
+| Keaton Mitchell | RB/LAC | 89091 |
+| Romeo Doubs | WR/NE | 83128 |
+| MarShawn Lloyd | RB/GB | 82458 |
+| Kirk Cousins | QB/LV | 76168 |
+| Keon Coleman | WR/BUF | 71244 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dohnte Meyers | WR/CIN | 154899 |
-| Tyreek Hill | WR/FA | 97696 |
-| Quentin Johnston | WR/LAC | 74326 |
-| Darren Waller | TE/CAR | 68301 |
-| Kenyon Sadiq | TE/NYJ | 63684 |
-| Adonai Mitchell | WR/NYJ | 62144 |
-| Emmett Johnson | RB/KC | 48753 |
-| Jauan Jennings | WR/MIN | 48552 |
-| Michael Pittman | WR/PIT | 47700 |
-| Jordan Addison | WR/MIN | 47628 |
-| Kaelon Black | RB/SF | 46116 |
-| Courtland Sutton | WR/DEN | 46017 |
-| Pat Bryant | WR/DEN | 45480 |
-| Dameon Pierce | RB/PHI | 43840 |
-| Jadarian Price | RB/SEA | 40842 |
+| Dohnte Meyers | WR/CIN | 166176 |
+| Tyreek Hill | WR/FA | 97416 |
+| Quentin Johnston | WR/LAC | 76832 |
+| Kenyon Sadiq | TE/NYJ | 64080 |
+| Darren Waller | TE/CAR | 61596 |
+| Michael Pittman | WR/PIT | 56970 |
+| Adonai Mitchell | WR/NYJ | 53736 |
+| Jordan Addison | WR/MIN | 46998 |
+| Pat Bryant | WR/DEN | 45392 |
+| Jauan Jennings | WR/MIN | 44667 |
+| Courtland Sutton | WR/DEN | 42885 |
+| Emmett Johnson | RB/KC | 40716 |
+| Kaelon Black | RB/SF | 40698 |
+| Dameon Pierce | RB/PHI | 38624 |
+| Kyle Pitts | TE/ATL | 37541 |
 
 
 ---
@@ -898,12 +906,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Christen Miller | DL/NO | (unlisted) | Questionable |
-| Marvin Harrison | WR/ARI | (unlisted) | Out |
-| Joshua Palmer | WR/BUF | (unlisted) | Questionable |
-| Landon Jackson | DL/BUF | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -960,7 +963,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Trey Hendrickson | DE/BAL | Out | — | — |
 | Zay Flowers | WR/BAL | Questionable | — | Flowers (foot) was limited in Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) |
 | Christian Benford | DB/BUF | Questionable | — | — |
-| DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) remained a non-participant in Friday's practice for the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
+| DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) was on the field for the start of Saturday's practice, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dee Alford | DB/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Questionable | — | — |
@@ -1647,7 +1650,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jamel Dean | CB/PIT | Out | — | — |
 | Logan Lee | DL/PIT | IR | — | — |
 | Max Hurleman | CB/PIT | Out | — | — |
-| Michael Pittman | WR/PIT | Out | — | Pittman (foot) is listed as questionable for Sunday's game, according to Alan Saunders of Steelers Now. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) |
+| Michael Pittman | WR/PIT | Out | — | Pittman (foot) is being placed on injured reserve, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) |
 | Rico Dowdle | RB/PIT | Questionable | — | Head coach mike McCarthy said Thursday that it remains up in the air whether Dowdle (toe) will be available Sunday against the Colts, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) |
 | Aaron Smith | LB/SEA | Questionable | — | — |
 | Anthony Bradford | OL/SEA | IR | — | — |
