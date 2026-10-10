@@ -48,33 +48,19 @@
     "status": "IR",
     "team": "NO"
   },
-  "10876": {
-    "name": "Anton Harrison",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
-  },
   "10881": {
     "name": "Christian Gonzalez",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
-  "10885": {
-    "name": "Lukas Van Ness",
-    "pos": "DL",
+  "10883": {
+    "name": "Will McDonald",
+    "pos": "DE",
     "since": "",
     "status": "Questionable",
-    "team": "GB"
-  },
-  "10887": {
-    "name": "Darnell Wright",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "CHI"
+    "team": "NYJ"
   },
   "10890": {
     "name": "Paris Johnson",
@@ -83,26 +69,12 @@
     "status": "IR",
     "team": "ARI"
   },
-  "10892": {
-    "name": "Will Anderson",
-    "pos": "DL",
-    "since": "",
-    "status": "Questionable",
-    "team": "HOU"
-  },
   "10905": {
     "name": "Brian Branch",
     "pos": "DB",
     "since": "",
     "status": "PUP",
     "team": "DET"
-  },
-  "10906": {
-    "name": "JuJu Brents",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIA"
   },
   "10913": {
     "name": "Joey Porter",
@@ -118,13 +90,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "10918": {
-    "name": "Mekhi Blackmon",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "CLE"
-  },
   "10929": {
     "name": "Drew Sanders",
     "pos": "LB",
@@ -136,7 +101,7 @@
     "name": "Riley Moss",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DEN"
   },
   "10933": {
@@ -185,7 +150,7 @@
     "name": "Rob Beal",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "10967": {
@@ -227,7 +192,7 @@
     "name": "Yasir Abdullah",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ATL"
   },
   "10994": {
@@ -423,7 +388,7 @@
     "name": "Chris Brooks",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "GB"
   },
   "11371": {
@@ -472,7 +437,7 @@
     "name": "Caleb Williams",
     "pos": "QB",
     "since": "",
-    "status": "Out",
+    "status": "Questionable",
     "team": "CHI"
   },
   "11583": {
@@ -545,13 +510,6 @@
     "status": "IR",
     "team": "CAR"
   },
-  "11632": {
-    "name": "Malik Nabers",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "NYG"
-  },
   "11635": {
     "name": "Ladd McConkey",
     "pos": "WR",
@@ -612,7 +570,7 @@
     "name": "Joe Alt",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "11684": {
@@ -633,7 +591,7 @@
     "name": "Mike Hall",
     "pos": "DT",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CLE"
   },
   "11699": {
@@ -664,33 +622,12 @@
     "status": "IR",
     "team": "DAL"
   },
-  "11725": {
-    "name": "Jarrian Jones",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
-  },
   "11730": {
     "name": "T.J. Tampa",
     "pos": "DB",
     "since": "",
     "status": "IR",
     "team": "BAL"
-  },
-  "11735": {
-    "name": "Tanor Bortolini",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "IND"
-  },
-  "11744": {
-    "name": "Dadrion Taylor-Demerson",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "ARI"
   },
   "11746": {
     "name": "Giovanni Manu",
@@ -706,13 +643,6 @@
     "status": "IR",
     "team": "NO"
   },
-  "11749": {
-    "name": "Cam Hart",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "LAC"
-  },
   "11750": {
     "name": "Dominique Hampton",
     "pos": "CB",
@@ -727,13 +657,6 @@
     "status": "IR",
     "team": "LV"
   },
-  "11753": {
-    "name": "Nehemiah Pritchett",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "SEA"
-  },
   "11754": {
     "name": "Mohamed Kamara",
     "pos": "DL",
@@ -747,13 +670,6 @@
     "since": "",
     "status": "IR",
     "team": "FA"
-  },
-  "11766": {
-    "name": "Jarvis Brownlee",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "NYJ"
   },
   "11770": {
     "name": "JD Bertrand",
@@ -773,14 +689,14 @@
     "name": "Jacob Monk",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "GB"
   },
   "11777": {
     "name": "Jaylon Carlies",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "IND"
   },
   "11778": {
@@ -810,13 +726,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "11805": {
-    "name": "Jamal Hill",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "HOU"
   },
   "11811": {
     "name": "Logan Lee",
@@ -927,7 +836,7 @@
     "name": "Tyler Owens",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "WAS"
   },
   "11938": {
@@ -1182,13 +1091,6 @@
     "status": "IR",
     "team": "NO"
   },
-  "12481": {
-    "name": "Cam Skattebo",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "NYG"
-  },
   "12482": {
     "name": "Savion Williams",
     "pos": "WR",
@@ -1228,15 +1130,8 @@
     "name": "Pat Bryant",
     "pos": "WR",
     "since": "",
-    "status": "Doubtful",
+    "status": "IR",
     "team": "DEN"
-  },
-  "12502": {
-    "name": "Gunnar Helm",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
   },
   "12508": {
     "name": "Jaxson Dart",
@@ -1265,13 +1160,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "12533": {
-    "name": "Jacory Croskey-Merritt",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
   },
   "12534": {
     "name": "Kyle Monangai",
@@ -1350,13 +1238,6 @@
     "status": "IR",
     "team": "ARI"
   },
-  "12566": {
-    "name": "Jihaad Campbell",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PHI"
-  },
   "12568": {
     "name": "Jalon Walker",
     "pos": "DL",
@@ -1375,7 +1256,7 @@
     "name": "Mason Graham",
     "pos": "DL",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "CLE"
   },
   "12576": {
@@ -1384,13 +1265,6 @@
     "since": "",
     "status": "Out",
     "team": "TB"
-  },
-  "12577": {
-    "name": "Anthony Belton",
-    "pos": "OT",
-    "since": "",
-    "status": "Questionable",
-    "team": "GB"
   },
   "12580": {
     "name": "Landon Jackson",
@@ -1412,13 +1286,6 @@
     "since": "",
     "status": "IR",
     "team": "ATL"
-  },
-  "12588": {
-    "name": "Kevin Winston",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
   },
   "12590": {
     "name": "Alfred Collins",
@@ -1571,7 +1438,7 @@
     "name": "Drew Kendall",
     "pos": "C",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PHI"
   },
   "12664": {
@@ -1608,13 +1475,6 @@
     "since": "",
     "status": "IR",
     "team": "LAC"
-  },
-  "12673": {
-    "name": "Dante Trader",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIA"
   },
   "12682": {
     "name": "Cam Jackson",
@@ -1657,13 +1517,6 @@
     "since": "",
     "status": "IR",
     "team": "HOU"
-  },
-  "12712": {
-    "name": "Marcus Harris",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
   },
   "12714": {
     "name": "Bilhal Kone",
@@ -1773,13 +1626,6 @@
   "12861": {
     "name": "Ethan Robinson",
     "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
-  "12885": {
-    "name": "Dontae Manning",
-    "pos": "CB",
     "since": "",
     "status": "Questionable",
     "team": "FA"
@@ -2057,6 +1903,13 @@
     "status": "IR",
     "team": "NYJ"
   },
+  "13279": {
+    "name": "Carnell Tate",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "TEN"
+  },
   "13281": {
     "name": "Jordyn Tyson",
     "pos": "WR",
@@ -2070,13 +1923,6 @@
     "since": "",
     "status": "IR",
     "team": "SEA"
-  },
-  "13287": {
-    "name": "Jeremiyah Love",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "ARI"
   },
   "13291": {
     "name": "Kejon Owens",
@@ -2096,7 +1942,7 @@
     "name": "Caleb Douglas",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "13300": {
@@ -2119,13 +1965,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "13311": {
-    "name": "Chris Bell",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIA"
   },
   "13326": {
     "name": "DT Sheffield",
@@ -2201,7 +2040,7 @@
     "name": "Brenen Thompson",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "13392": {
@@ -2215,7 +2054,7 @@
     "name": "Julian Neal",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "SEA"
   },
   "1340": {
@@ -2229,7 +2068,7 @@
     "name": "Justin Joly",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "13404": {
@@ -2355,7 +2194,7 @@
     "name": "Trey Zuhn",
     "pos": "OT",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LV"
   },
   "13471": {
@@ -2364,6 +2203,13 @@
     "since": "",
     "status": "IR",
     "team": "PIT"
+  },
+  "13477": {
+    "name": "Colbie Young",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "CIN"
   },
   "13479": {
     "name": "Kyle Louis",
@@ -2376,7 +2222,7 @@
     "name": "Jeremiah Wright",
     "pos": "G",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
   },
   "13484": {
@@ -2432,21 +2278,21 @@
     "name": "Karon Prunty",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
   "13512": {
     "name": "Keyshaun Elliott",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CHI"
   },
   "13513": {
     "name": "Charles Demmings",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIN"
   },
   "13515": {
@@ -2512,6 +2358,13 @@
     "status": "PUP",
     "team": "ATL"
   },
+  "13560": {
+    "name": "Uar Bernard",
+    "pos": "DT",
+    "since": "",
+    "status": "Out",
+    "team": "PHI"
+  },
   "13567": {
     "name": "VJ Payne",
     "pos": "DB",
@@ -2530,7 +2383,7 @@
     "name": "Carsen Ryan",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CLE"
   },
   "13587": {
@@ -2582,6 +2435,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "13633": {
+    "name": "Rodney Shelley",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
+  },
   "13642": {
     "name": "Keeshawn Silver",
     "pos": "DT",
@@ -2600,7 +2460,7 @@
     "name": "James Thompson",
     "pos": "DT",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "SF"
   },
   "13657": {
@@ -2740,7 +2600,7 @@
     "name": "Channing Canada",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
   "13839": {
@@ -3002,20 +2862,6 @@
     "status": "Sus",
     "team": "FA"
   },
-  "2216": {
-    "name": "Mike Evans",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "SF"
-  },
-  "2227": {
-    "name": "Aaron Donald",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "LAR"
-  },
   "2267": {
     "name": "Jimmie Ward",
     "pos": "DB",
@@ -3027,15 +2873,8 @@
     "name": "Marcus Mariota",
     "pos": "QB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "WAS"
-  },
-  "2311": {
-    "name": "Leonard Williams",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "SEA"
   },
   "2340": {
     "name": "Mario Edwards",
@@ -3069,7 +2908,7 @@
     "name": "Stefon Diggs",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "WAS"
   },
   "2625": {
@@ -3092,13 +2931,6 @@
     "since": "",
     "status": "NA",
     "team": "FA"
-  },
-  "3048": {
-    "name": "Chris Manhertz",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "NYG"
   },
   "3159": {
     "name": "Laremy Tunsil",
@@ -3142,18 +2974,18 @@
     "status": "IR",
     "team": "DAL"
   },
-  "3247": {
-    "name": "Joe Thuney",
-    "pos": "OL",
+  "3256": {
+    "name": "Javon Hargrave",
+    "pos": "DT",
     "since": "",
     "status": "Questionable",
-    "team": "CHI"
+    "team": "GB"
   },
   "3268": {
     "name": "Eric Murray",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "JAX"
   },
   "3281": {
@@ -3233,13 +3065,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "4065": {
-    "name": "Derek Barnett",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "CLE"
-  },
   "4068": {
     "name": "Mike Williams",
     "pos": "WR",
@@ -3267,13 +3092,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "4092": {
-    "name": "Dalvin Tomlinson",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "LAC"
   },
   "4104": {
     "name": "Taylor Moton",
@@ -3310,18 +3128,11 @@
     "status": "NA",
     "team": "FA"
   },
-  "4129": {
-    "name": "Jourdan Lewis",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
-  },
   "4135": {
     "name": "Trey Hendrickson",
     "pos": "DE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "BAL"
   },
   "4137": {
@@ -3349,7 +3160,7 @@
     "name": "Mack Hollins",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
   "4198": {
@@ -3482,7 +3293,7 @@
     "name": "Saquon Barkley",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PHI"
   },
   "4879": {
@@ -3496,7 +3307,7 @@
     "name": "Lamar Jackson",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "BAL"
   },
   "4892": {
@@ -3517,7 +3328,7 @@
     "name": "Derwin James",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "4983": {
@@ -3555,20 +3366,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "5020": {
-    "name": "B.J. Hill",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "CIN"
-  },
-  "5022": {
-    "name": "Dallas Goedert",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "PHI"
-  },
   "5025": {
     "name": "Ronnie Harrison",
     "pos": "DB",
@@ -3601,14 +3398,14 @@
     "name": "Donte Jackson",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "5054": {
     "name": "Carlton Davis",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
   "5055": {
@@ -3793,13 +3590,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "5466": {
-    "name": "John Franklin-Myers",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
-  },
   "5469": {
     "name": "Chris Schleuger",
     "pos": "G",
@@ -3834,13 +3624,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "5580": {
-    "name": "Frankie Luvu",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
   },
   "5618": {
     "name": "Larry Rose",
@@ -3951,7 +3734,7 @@
     "name": "Nick Bosa",
     "pos": "DE",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "SF"
   },
   "5818": {
@@ -3968,13 +3751,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "5840": {
-    "name": "Josh Hines-Allen",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
-  },
   "5841": {
     "name": "Ed Oliver",
     "pos": "DT",
@@ -3982,18 +3758,11 @@
     "status": "Questionable",
     "team": "BUF"
   },
-  "5847": {
-    "name": "Dexter Lawrence",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "CIN"
-  },
   "5848": {
     "name": "Marquise Brown",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PHI"
   },
   "5850": {
@@ -4002,13 +3771,6 @@
     "since": "",
     "status": "NA",
     "team": "GB"
-  },
-  "5857": {
-    "name": "Noah Fant",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
   },
   "5859": {
     "name": "A.J. Brown",
@@ -4030,13 +3792,6 @@
     "since": "",
     "status": "Questionable",
     "team": "NE"
-  },
-  "5867": {
-    "name": "Dalton Risner",
-    "pos": "G",
-    "since": "",
-    "status": "Questionable",
-    "team": "CIN"
   },
   "5874": {
     "name": "Kaleb McGary",
@@ -4084,15 +3839,8 @@
     "name": "Amani Hooker",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TEN"
-  },
-  "5912": {
-    "name": "Carl Granderson",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
   },
   "5914": {
     "name": "David Long",
@@ -4126,14 +3874,14 @@
     "name": "Charles Omenihu",
     "pos": "DE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "WAS"
   },
   "5946": {
     "name": "Jamel Dean",
     "pos": "CB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "PIT"
   },
   "5956": {
@@ -4149,13 +3897,6 @@
     "since": "",
     "status": "IR",
     "team": "MIN"
-  },
-  "6024": {
-    "name": "Fred Johnson",
-    "pos": "T",
-    "since": "",
-    "status": "Questionable",
-    "team": "PHI"
   },
   "6025": {
     "name": "Mike Jackson",
@@ -4192,13 +3933,6 @@
     "status": "IR",
     "team": "JAX"
   },
-  "6109": {
-    "name": "Alec Ingold",
-    "pos": "FB",
-    "since": "",
-    "status": "Questionable",
-    "team": "LAC"
-  },
   "6117": {
     "name": "Dennis Allen",
     "pos": "\u2014",
@@ -4220,13 +3954,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "6125": {
-    "name": "Jeffery Simmons",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
-  },
   "6126": {
     "name": "Irv Smith",
     "pos": "TE",
@@ -4238,7 +3965,7 @@
     "name": "Rock Ya-Sin",
     "pos": "CB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "DET"
   },
   "6140": {
@@ -4247,6 +3974,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "6149": {
+    "name": "Darius Slayton",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
   },
   "6154": {
     "name": "David Sills",
@@ -4301,15 +4035,8 @@
     "name": "Marcus Epps",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PHI"
-  },
-  "6292": {
-    "name": "Nick Allegretti",
-    "pos": "G",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
   },
   "6294": {
     "name": "Ty Summers",
@@ -4322,7 +4049,7 @@
     "name": "Kaden Elliss",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
   },
   "6303": {
@@ -4343,7 +4070,7 @@
     "name": "Andrew Wingard",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ARI"
   },
   "6419": {
@@ -4357,7 +4084,7 @@
     "name": "Ashton Dulin",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "IND"
   },
   "6441": {
@@ -4380,13 +4107,6 @@
     "since": "",
     "status": "COV",
     "team": "DEN"
-  },
-  "6485": {
-    "name": "Azeez Al-Shaair",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "HOU"
   },
   "6546": {
     "name": "Kenny Bigelow",
@@ -4535,13 +4255,6 @@
     "status": "Questionable",
     "team": "DAL"
   },
-  "6790": {
-    "name": "D'Andre Swift",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "CHI"
-  },
   "6794": {
     "name": "Justin Jefferson",
     "pos": "WR",
@@ -4563,13 +4276,6 @@
     "status": "DNR",
     "team": "SF"
   },
-  "6810": {
-    "name": "Andrew Thomas",
-    "pos": "T",
-    "since": "",
-    "status": "Questionable",
-    "team": "NYG"
-  },
   "6811": {
     "name": "Kenneth Murray",
     "pos": "LB",
@@ -4577,26 +4283,12 @@
     "status": "Questionable",
     "team": "HOU"
   },
-  "6815": {
-    "name": "Zack Baun",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PHI"
-  },
   "6819": {
     "name": "Michael Pittman",
     "pos": "WR",
     "since": "",
     "status": "Out",
     "team": "PIT"
-  },
-  "6821": {
-    "name": "Austin Jackson",
-    "pos": "T",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIA"
   },
   "6835": {
     "name": "Tyler Biadasz",
@@ -4623,7 +4315,7 @@
     "name": "Anfernee Jennings",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
   },
   "6850": {
@@ -4633,33 +4325,12 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "6865": {
-    "name": "Colby Parkinson",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "LAR"
-  },
-  "6868": {
-    "name": "DJ Wonnum",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "DET"
-  },
   "6872": {
     "name": "Kyle Dugger",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CIN"
-  },
-  "6875": {
-    "name": "John Simpson",
-    "pos": "G",
-    "since": "",
-    "status": "Questionable",
-    "team": "BAL"
   },
   "6881": {
     "name": "Matt Hennessy",
@@ -4724,13 +4395,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "6952": {
-    "name": "Jonah Jackson",
-    "pos": "G",
-    "since": "",
-    "status": "Questionable",
-    "team": "CHI"
-  },
   "6953": {
     "name": "Qaadir Sheppard",
     "pos": "LB",
@@ -4765,13 +4429,6 @@
     "since": "",
     "status": "NA",
     "team": "FA"
-  },
-  "6972": {
-    "name": "DaVon Hamilton",
-    "pos": "DT",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
   },
   "6978": {
     "name": "Reggie Corbin",
@@ -4843,13 +4500,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "7039": {
-    "name": "Cody White",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "LV"
-  },
   "7044": {
     "name": "Julian Blackmon",
     "pos": "DB",
@@ -4868,7 +4518,7 @@
     "name": "Ben Bartch",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DET"
   },
   "7070": {
@@ -4966,7 +4616,7 @@
     "name": "Reggie Gilliam",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NE"
   },
   "7233": {
@@ -5022,7 +4672,7 @@
     "name": "DeVonta Smith",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PHI"
   },
   "7535": {
@@ -5064,7 +4714,7 @@
     "name": "Tylan Wallace",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CLE"
   },
   "7599": {
@@ -5078,7 +4728,7 @@
     "name": "Trey Lance",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "LAC"
   },
   "7611": {
@@ -5106,7 +4756,7 @@
     "name": "Christian Darrisaw",
     "pos": "T",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIN"
   },
   "7635": {
@@ -5120,7 +4770,7 @@
     "name": "Rashawn Slater",
     "pos": "T",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "LAC"
   },
   "7640": {
@@ -5134,7 +4784,7 @@
     "name": "Pat Surtain",
     "pos": "CB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "DEN"
   },
   "7642": {
@@ -5158,18 +4808,11 @@
     "status": "PUP",
     "team": "CLE"
   },
-  "7652": {
-    "name": "Sam Cosmi",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
-  },
   "7654": {
     "name": "Aaron Banks",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "GB"
   },
   "7660": {
@@ -5183,7 +4826,7 @@
     "name": "Teven Jenkins",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CLE"
   },
   "7664": {
@@ -5211,7 +4854,7 @@
     "name": "Chazz Surratt",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "SEA"
   },
   "7677": {
@@ -5277,20 +4920,6 @@
     "status": "NA",
     "team": "DEN"
   },
-  "7776": {
-    "name": "Israel Mukuamu",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
-  "7785": {
-    "name": "Cole Van Lanen",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
-  },
   "7813": {
     "name": "Shemar Jean-Charles",
     "pos": "CB",
@@ -5302,7 +4931,7 @@
     "name": "Jason Pinnock",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYG"
   },
   "7823": {
@@ -5358,7 +4987,7 @@
     "name": "Kayode Awosika",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "7989": {
@@ -5424,33 +5053,12 @@
     "status": "Questionable",
     "team": "LAC"
   },
-  "8131": {
-    "name": "Isaiah Likely",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "NYG"
-  },
-  "8136": {
-    "name": "Rachaad White",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
-  },
   "8142": {
     "name": "Alec Pierce",
     "pos": "WR",
     "since": "",
     "status": "IR",
     "team": "IND"
-  },
-  "8144": {
-    "name": "Chris Olave",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
   },
   "815": {
     "name": "Nick Bellore",
@@ -5484,7 +5092,7 @@
     "name": "Jalen Nailor",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LV"
   },
   "8188": {
@@ -5522,13 +5130,6 @@
     "status": "IR",
     "team": "BAL"
   },
-  "8210": {
-    "name": "Chig Okonkwo",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
-  },
   "8214": {
     "name": "Cole Turner",
     "pos": "TE",
@@ -5564,13 +5165,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "8270": {
-    "name": "Devonte Wyatt",
-    "pos": "DL",
-    "since": "",
-    "status": "Questionable",
-    "team": "GB"
-  },
   "8274": {
     "name": "LaBryan Ray",
     "pos": "DL",
@@ -5605,13 +5199,6 @@
     "since": "",
     "status": "IR",
     "team": "ARI"
-  },
-  "8305": {
-    "name": "Montaric Brown",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "JAX"
   },
   "8309": {
     "name": "Damone Clark",
@@ -5750,14 +5337,14 @@
     "name": "Nick Cross",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "WAS"
   },
   "8394": {
     "name": "Percy Butler",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "WAS"
   },
   "8408": {
@@ -5792,7 +5379,7 @@
     "name": "Trevor Penning",
     "pos": "T",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "8451": {
@@ -5813,7 +5400,7 @@
     "name": "Cam Jurgens",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "BAL"
   },
   "8458": {
@@ -5829,13 +5416,6 @@
     "since": "",
     "status": "IR",
     "team": "GB"
-  },
-  "8465": {
-    "name": "Spencer Burford",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "LV"
   },
   "8470": {
     "name": "Joshua Williams",
@@ -5921,13 +5501,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "8519": {
-    "name": "Deane Leonard",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "LAC"
-  },
   "8540": {
     "name": "Sam Okuayinonu",
     "pos": "DE",
@@ -5988,7 +5561,7 @@
     "name": "Jaylon Jones",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "JAX"
   },
   "8726": {
@@ -6075,13 +5648,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "8933": {
-    "name": "Tucker Addington",
-    "pos": "LS",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIA"
-  },
   "9225": {
     "name": "Tank Bigsby",
     "pos": "RB",
@@ -6102,13 +5668,6 @@
     "since": "",
     "status": "PUP",
     "team": "GB"
-  },
-  "9486": {
-    "name": "Dontayvion Wicks",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "PHI"
   },
   "9499": {
     "name": "Bryce Ford-Wheaton",
@@ -6135,7 +5694,7 @@
     "name": "Quentin Johnston",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "LAC"
   },
   "9756": {
