@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-11 16:26 UTC_ · 758 items total · 749/758 matched to a player
+_Last updated: 2026-10-11 20:39 UTC_ · 763 items total · 754/763 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-11 16:26 UTC_ · 758 items total · 749/758 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-11 | Ollie Gordon | RB/MIA | NEWS | — | Gordon (undisclosed) went to the medical tent during Sunday's game against the Bengals, Chris Perkins of the South Florida Sun Sentinel reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ollie-gordon-18450)) | Rotowire |
+| 2026-10-11 | Ollie Gordon | RB/MIA | NEWS | — | Gordon (undisclosed) checked back into Sunday's game against the Bengals following a brief departure in the fourth quarter, Omar Kelly of the Miami Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ollie-gordon-18450)) | Rotowire |
+| 2026-10-11 | Justin Jefferson | WR/MIN | NEWS | — | Jefferson (ankle) brought in six of seven targets for 79 yards and a touchdown and rushed once for minus-11 yards in the Vikings' 23-13 win over the Saints on Sunday. He also committed a fumble that remained with Minnesota. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) | Rotowire |
+| 2026-10-11 | Marvin Harrison | WR/ARI | TRANSACTION | — | The Cardinals agreed to trade Harrison and a seventh-round pick to the Texans for second- and sixth-round selections, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-10-11 | Chris Olave | WR/NO | NEWS | — | Olave secured four of six targets for 46 yards in the Saints' 23-13 loss to the Vikings on Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
 | 2026-10-11 | Alvin Kamara | RB/NO | NEWS | — | Kamara (back) is listed as active Sunday against the Vikings. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
 | 2026-10-11 | Will Shipley | RB/PHI | INJURY | — | The Eagles ruled out Shipley (foot) for the remainder of Sunday's game versus the Jaguars in London. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) | Rotowire |
 | 2026-10-11 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring) is officially active for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
@@ -102,6 +107,11 @@ _Last updated: 2026-10-11 16:26 UTC_ · 758 items total · 749/758 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-11 | Ollie Gordon | RB/MIA | NEWS | — | Gordon (undisclosed) went to the medical tent during Sunday's game against the Bengals, Chris Perkins of the South Florida Sun Sentinel reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ollie-gordon-18450)) | Rotowire |
+| 2026-10-11 | Ollie Gordon | RB/MIA | NEWS | — | Gordon (undisclosed) checked back into Sunday's game against the Bengals following a brief departure in the fourth quarter, Omar Kelly of the Miami Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ollie-gordon-18450)) | Rotowire |
+| 2026-10-11 | Justin Jefferson | WR/MIN | NEWS | — | Jefferson (ankle) brought in six of seven targets for 79 yards and a touchdown and rushed once for minus-11 yards in the Vikings' 23-13 win over the Saints on Sunday. He also committed a fumble that remained with Minnesota. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) | Rotowire |
+| 2026-10-11 | Marvin Harrison | WR/ARI | TRANSACTION | — | The Cardinals agreed to trade Harrison and a seventh-round pick to the Texans for second- and sixth-round selections, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-10-11 | Chris Olave | WR/NO | NEWS | — | Olave secured four of six targets for 46 yards in the Saints' 23-13 loss to the Vikings on Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) | Rotowire |
 | 2026-10-11 | Alvin Kamara | RB/NO | NEWS | — | Kamara (back) is listed as active Sunday against the Vikings. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
 | 2026-10-11 | Will Shipley | RB/PHI | INJURY | — | The Eagles ruled out Shipley (foot) for the remainder of Sunday's game versus the Jaguars in London. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) | Rotowire |
 | 2026-10-11 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring) is officially active for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
@@ -871,41 +881,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roschon Johnson | RB/CHI | 542464 |
-| Roman Wilson | WR/PIT | 411651 |
-| Darius Cooper | WR/PHI | 271936 |
-| Marvin Harrison | WR/ARI | 230840 |
-| Kendrick Bourne | WR/ARI | 225627 |
-| Efton Chism | WR/NE | 191088 |
-| Tyler Higbee | TE/LAR | 185148 |
-| Tre' Harris | WR/LAC | 150508 |
-| Malik Washington | WR/MIA | 140928 |
-| MarShawn Lloyd | RB/GB | 138330 |
-| Dameon Pierce | RB/PHI | 134728 |
-| Keaton Mitchell | RB/LAC | 129681 |
-| Keon Coleman | WR/BUF | 125712 |
-| Cleveland Browns | DEF/CLE | 119770 |
-| Kirk Cousins | QB/LV | 107760 |
+| Roschon Johnson | RB/CHI | 469856 |
+| Roman Wilson | WR/PIT | 359208 |
+| Darius Cooper | WR/PHI | 300118 |
+| Kendrick Bourne | WR/ARI | 245214 |
+| Tyler Higbee | TE/LAR | 242577 |
+| MarShawn Lloyd | RB/GB | 211788 |
+| Efton Chism | WR/NE | 174352 |
+| Tre' Harris | WR/LAC | 166720 |
+| Keaton Mitchell | RB/LAC | 156717 |
+| Keon Coleman | WR/BUF | 151191 |
+| Malik Washington | WR/MIA | 135464 |
+| Cleveland Browns | DEF/CLE | 132664 |
+| Kirk Cousins | QB/LV | 111272 |
+| Dameon Pierce | RB/PHI | 110240 |
+| Khalil Shakir | WR/BUF | 106803 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dohnte Meyers | WR/CIN | 319761 |
-| Tyreek Hill | WR/FA | 115544 |
-| Michael Pittman | WR/PIT | 96050 |
-| Jordan Addison | WR/MIN | 91269 |
-| Quentin Johnston | WR/LAC | 89565 |
-| Kenyon Sadiq | TE/NYJ | 86607 |
-| Mack Hollins | WR/NE | 79236 |
-| Darren Waller | TE/CAR | 76806 |
-| Jauan Jennings | WR/MIN | 64288 |
-| Adonai Mitchell | WR/NYJ | 64200 |
-| Courtland Sutton | WR/DEN | 53721 |
-| Jadarian Price | RB/SEA | 49860 |
-| Kyle Pitts | TE/ATL | 49707 |
-| Kaelon Black | RB/SF | 48244 |
-| Emmett Johnson | RB/KC | 46719 |
+| Dohnte Meyers | WR/CIN | 383472 |
+| Kenyon Sadiq | TE/NYJ | 125010 |
+| Tyreek Hill | WR/FA | 110904 |
+| Jordan Addison | WR/MIN | 108423 |
+| Roman Wilson | WR/PIT | 106047 |
+| Quentin Johnston | WR/LAC | 97265 |
+| Michael Pittman | WR/PIT | 82350 |
+| Darren Waller | TE/CAR | 80469 |
+| Mack Hollins | WR/NE | 68196 |
+| Jauan Jennings | WR/MIN | 63644 |
+| Adonai Mitchell | WR/NYJ | 61248 |
+| Tyler Shough | QB/NO | 59624 |
+| Kirk Cousins | QB/LV | 58504 |
+| Michael Mayer | TE/LV | 56520 |
+| Courtland Sutton | WR/DEN | 55944 |
 
 
 ---
@@ -916,121 +926,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Eric Murray | DB/JAX | Doubtful | Out |
-| Behren Morton | QB/NE | (unlisted) | Out |
-| Dalton Johnson | DB/LV | (unlisted) | Out |
-| Nathan Shepherd | DT/NO | Questionable | Out |
-| Landon Robinson | NT/CIN | (unlisted) | Out |
-| Nate Lynn | DL/NYJ | (unlisted) | Out |
-| CJ Williams | WR/JAX | (unlisted) | Out |
-| Jack Endries | TE/CIN | (unlisted) | Out |
-| Parker Brailsford | C/CLE | (unlisted) | Out |
-| Chance Campbell | LB/FA | Out | Questionable |
-| Ross Matiscik | LS/JAX | (unlisted) | Questionable |
-| Devin Singletary | RB/NYG | (unlisted) | Out |
-| Zach Wilson | QB/NO | (unlisted) | Out |
-| Vernon Broughton | DT/NO | Questionable | Out |
-| Alijah Huzzie | DB/JAX | (unlisted) | Out |
-| Donovan Jennings | OL/GB | (unlisted) | Out |
-| Tristin McCollum | DB/LV | (unlisted) | Out |
-| Jalyx Hunt | DL/PHI | (unlisted) | Questionable |
-| Jayden Loving | DT/CHI | (unlisted) | Out |
-| JJ Pegues | DT/LV | (unlisted) | Out |
-| Michael Carter | RB/TEN | (unlisted) | Out |
-| Wesley Williams | DE/JAX | (unlisted) | Out |
-| Rico Dowdle | RB/PIT | Questionable | Out |
-| Jake Haener | QB/NYG | (unlisted) | Out |
-| Eli Heidenreich | RB/PIT | (unlisted) | Out |
-| Lane Johnson | T/FA | NA | Out |
-| Nahshon Wright | CB/NYJ | (unlisted) | Out |
-| Aaron Banks | OL/GB | Doubtful | Out |
-| Sabastian Harsh | DE/HOU | (unlisted) | Out |
-| Will Shipley | RB/PHI | (unlisted) | Out |
-| Marlin Klein | TE/HOU | (unlisted) | Out |
-| Jakobe Thomas | DB/MIN | (unlisted) | Out |
-| Roman Hemby | RB/LV | (unlisted) | Out |
-| Terell Smith | DB/PIT | (unlisted) | Out |
-| Mike Reid | CB/NO | (unlisted) | Out |
-| Riley Leonard | QB/IND | (unlisted) | Out |
-| Tyler Steen | OL/PHI | (unlisted) | Questionable |
-| Nikko Reed | DB/NYG | (unlisted) | Out |
-| Montaric Brown | DB/JAX | (unlisted) | Questionable |
-| Max Brosmer | QB/MIN | (unlisted) | Out |
-| Will Howard | QB/PIT | (unlisted) | Out |
-| Michael Carter | CB/PHI | (unlisted) | Questionable |
-| DJ Campbell | G/MIA | (unlisted) | Out |
-| Elijah Williams | DL/MIN | (unlisted) | Out |
-| Aidan O'Connell | QB/LV | (unlisted) | Out |
-| Bobby Jamison-Travis | DL/NYG | (unlisted) | Out |
-| Jonathan Greenard | DE/PHI | Questionable | Out |
-| Connor Lew | C/CIN | (unlisted) | Out |
-| Chris Braswell | LB/HOU | (unlisted) | Out |
-| Kaytron Allen | RB/MIA | (unlisted) | Out |
-| Dametrious Crownover | OT/NE | (unlisted) | Out |
-| Odell Beckham | WR/MIN | (unlisted) | Out |
-| Nate Thomas | OL/HOU | (unlisted) | Out |
-| Jacob Monk | OL/GB | Doubtful | Out |
-| J.C. Davis | OT/NYG | (unlisted) | Out |
-| Aiden Fisher | LB/HOU | (unlisted) | Out |
-| Anthony Campbell | DT/GB | Questionable | Out |
-| Jackie Marshall | DE/TEN | (unlisted) | Out |
-| Colbie Young | WR/CIN | Questionable | Out |
-| Jaylon Jones | DB/TEN | (unlisted) | Out |
-| Dalton Tucker | OL/IND | (unlisted) | Out |
-| Nicholas Singleton | RB/TEN | (unlisted) | Out |
-| Febechi Nwaiwu | OL/HOU | (unlisted) | Out |
-| David Martin-Robinson | TE/TEN | Questionable | Out |
-| Chukwuebuka Godrick | OL/MIA | (unlisted) | Out |
-| Myles Hinton | OT/CIN | (unlisted) | Out |
-| Caleb Williams | QB/CHI | Questionable | Out |
-| Jamree Kromah | DL/CHI | (unlisted) | Out |
-| Collin Wright | CB/HOU | (unlisted) | Out |
-| Taylen Green | QB/CLE | (unlisted) | Out |
-| Drew Allar | QB/PIT | (unlisted) | Out |
-| Albert Regis | DT/JAX | (unlisted) | Out |
-| Jordan Addison | WR/MIN | Questionable | Out |
-| Kevin Jobity | DL/PIT | (unlisted) | Out |
-| Daniel Faalele | T/JAX | (unlisted) | Out |
-| Ozzy Trapilo | OL/CHI | (unlisted) | Out |
-| Will McDonald | DE/NYJ | Questionable | (cleared) |
-| Noah Sewell | LB/CHI | Questionable | (cleared) |
-| Jaylen Wright | RB/MIA | Questionable | (cleared) |
-| Blake Fisher | OL/HOU | Questionable | (cleared) |
-| Jaylan Ford | LB/NO | Questionable | (cleared) |
-| Michael Jurgens | OL/MIN | Questionable | (cleared) |
-| Charles Woods | CB/NE | Questionable | (cleared) |
-| Swayze Bozeman | LB/CIN | Questionable | (cleared) |
-| Ashton Jeanty | RB/LV | Questionable | (cleared) |
-| Aireontae Ersery | OL/HOU | Questionable | (cleared) |
-| Craig Woodson | DB/NE | Questionable | (cleared) |
-| Ben Yurosek | TE/MIN | Questionable | (cleared) |
-| Jackson Woodard | LB/MIA | Questionable | (cleared) |
-| Carnell Tate | WR/TEN | Questionable | (cleared) |
-| Kayden McDonald | DL/HOU | Questionable | (cleared) |
-| Christen Miller | DL/NO | Questionable | (cleared) |
-| Lorenzo Styles | DB/NO | Questionable | (cleared) |
-| Barion Brown | WR/NO | Questionable | (cleared) |
-| Keenan Allen | WR/IND | Questionable | (cleared) |
-| Morgan Moses | OL/NE | Questionable | (cleared) |
-| Jalen Ramsey | CB/PIT | Questionable | (cleared) |
-| Alvin Kamara | RB/NO | Questionable | (cleared) |
-| Brian O'Neill | T/MIN | Questionable | (cleared) |
-| M.J. Stewart | DB/HOU | Questionable | (cleared) |
-| Charvarius Ward | CB/IND | Questionable | (cleared) |
-| Dre'Mont Jones | DE/NE | Questionable | (cleared) |
-| Terry McLaurin | WR/WAS | Questionable | (cleared) |
-| Justin Jefferson | WR/MIN | Questionable | (cleared) |
-| Tee Higgins | WR/CIN | Questionable | (cleared) |
-| Julian Blackmon | DB/NO | Questionable | (cleared) |
-| Ja'Marr Chase | WR/CIN | Questionable | (cleared) |
-| Rhamondre Stevenson | RB/NE | Questionable | (cleared) |
-| Christian Barmore | DT/NE | Questionable | (cleared) |
-| Christian Elliss | LB/NE | Questionable | (cleared) |
-| Bryan Cook | DB/CIN | Questionable | (cleared) |
-| Kingsley Enagbare | DL/NYJ | Questionable | (cleared) |
-| Ed Ingram | G/HOU | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1046,7 +942,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kaleb Proctor | DT/ARI | IR | — | — |
 | Karson Sharar | LB/ARI | Questionable | — | — |
 | Kitan Crawford | DB/ARI | IR | — | — |
-| Marvin Harrison | WR/ARI | Out | — | The Cardinals are "finalizing a deal to trade Harrison" to an unspecified team, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) |
+| Marvin Harrison | WR/ARI | Out | — | The Cardinals agreed to trade Harrison and a seventh-round pick to the Texans for second- and sixth-round selections, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) |
 | Paris Johnson | OL/ARI | IR | — | — |
 | Tip Reiman | TE/ARI | PUP | — | — |
 | Trey Benson | RB/ARI | IR | — | Benson (knee) was waived/injured by the Cardinals on Monday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/trey-benson-17767)) |
