@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-12 20:00 UTC_ · 773 items total · 764/773 matched to a player
+_Last updated: 2026-10-12 23:18 UTC_ · 776 items total · 767/776 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,9 @@ _Last updated: 2026-10-12 20:00 UTC_ · 773 items total · 764/773 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-12 | Rico Dowdle | RB/PIT | NEWS | — | Steelers offensive coordinator Brian Angelichio said Monday that he anticipates Dowdle (toe) returning to action Week 6 against the Buccaneers, Mike DeFabo of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-10-12 | Jaxon Smith-Njigba | WR/SEA | INJURY | — | Smith-Njigba was estimated as a limited practice participant Monday due to an ankle injury, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaxon-smith-njigba-16654)) | Rotowire |
+| 2026-10-12 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) is listed as inactive Monday at the Rams. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-12 | Roman Wilson | WR/PIT | NEWS | — | Head coach Mike McCarthy said Monday that Wilson (finger) will not play against the Buccaneers on Sunday, Nick Farabaugh of SteelersNow.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/roman-wilson-17043)) | Rotowire |
 | 2026-10-12 | Jaylen Warren | RB/PIT | NEWS | — | Head coach Mike McCarthy said Monday that he views Warren as "our featured player right now," Brooke Pryor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
 | 2026-10-12 | Deebo Samuel | WR/SF | INJURY | — | Samuel is expected to miss at least a couple weeks due to a hamstring injury he sustained during the 49ers' 32-29 win over the Seahawks on Sunday, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
@@ -102,6 +105,9 @@ _Last updated: 2026-10-12 20:00 UTC_ · 773 items total · 764/773 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-12 | Rico Dowdle | RB/PIT | NEWS | — | Steelers offensive coordinator Brian Angelichio said Monday that he anticipates Dowdle (toe) returning to action Week 6 against the Buccaneers, Mike DeFabo of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-10-12 | Jaxon Smith-Njigba | WR/SEA | INJURY | — | Smith-Njigba was estimated as a limited practice participant Monday due to an ankle injury, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaxon-smith-njigba-16654)) | Rotowire |
+| 2026-10-12 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) is listed as inactive Monday at the Rams. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-12 | Roman Wilson | WR/PIT | NEWS | — | Head coach Mike McCarthy said Monday that Wilson (finger) will not play against the Buccaneers on Sunday, Nick Farabaugh of SteelersNow.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/roman-wilson-17043)) | Rotowire |
 | 2026-10-12 | Jaylen Warren | RB/PIT | NEWS | — | Head coach Mike McCarthy said Monday that he views Warren as "our featured player right now," Brooke Pryor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
 | 2026-10-12 | Deebo Samuel | WR/SF | INJURY | — | Samuel is expected to miss at least a couple weeks due to a hamstring injury he sustained during the 49ers' 32-29 win over the Seahawks on Sunday, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
@@ -886,41 +892,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 345087 |
-| Darius Cooper | WR/PHI | 302169 |
-| Brenton Strange | TE/JAX | 213939 |
-| Tyler Higbee | TE/LAR | 174744 |
-| Dameon Pierce | RB/PHI | 165176 |
-| New England Patriots | DEF/NE | 140875 |
-| Kimani Vidal | RB/LAC | 117575 |
-| Jayden Daniels | QB/WAS | 95424 |
-| Keon Coleman | WR/BUF | 77445 |
-| Kendrick Bourne | WR/ARI | 76935 |
-| San Francisco 49ers | DEF/SF | 65700 |
-| Aaron Rodgers | QB/PIT | 61304 |
-| Marvin Harrison | WR/HOU | 59960 |
-| Jacory Croskey-Merritt | RB/WAS | 55800 |
-| C.J. Stroud | QB/HOU | 55748 |
+| MarShawn Lloyd | RB/GB | 341442 |
+| Darius Cooper | WR/PHI | 285887 |
+| Dameon Pierce | RB/PHI | 213224 |
+| Brenton Strange | TE/JAX | 212994 |
+| Tyler Higbee | TE/LAR | 175482 |
+| New England Patriots | DEF/NE | 138068 |
+| Kimani Vidal | RB/LAC | 127410 |
+| Keon Coleman | WR/BUF | 96831 |
+| Kendrick Bourne | WR/ARI | 71952 |
+| Khalil Shakir | WR/BUF | 67779 |
+| Jayden Daniels | QB/WAS | 67680 |
+| San Francisco 49ers | DEF/SF | 67299 |
+| Samaje Perine | RB/CIN | 54412 |
+| Aaron Rodgers | QB/PIT | 53420 |
+| C.J. Stroud | QB/HOU | 48951 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roman Wilson | WR/PIT | 274284 |
-| Dohnte Meyers | WR/CIN | 212787 |
-| Kenyon Sadiq | TE/NYJ | 183942 |
-| Tyler Shough | QB/NO | 91784 |
-| Michael Mayer | TE/LV | 91179 |
-| Kirk Cousins | QB/LV | 84544 |
-| Keaton Mitchell | RB/LAC | 79677 |
-| Las Vegas Raiders | DEF/LV | 75648 |
-| Alvin Kamara | RB/NO | 73208 |
-| KC Concepcion | WR/CLE | 72981 |
-| Will Shipley | RB/PHI | 66824 |
-| Tyreek Hill | WR/FA | 62552 |
-| Bo Nix | QB/DEN | 59694 |
-| Romeo Doubs | WR/NE | 56840 |
-| Tre' Harris | WR/LAC | 55580 |
+| Roman Wilson | WR/PIT | 254763 |
+| Dohnte Meyers | WR/CIN | 200205 |
+| Kenyon Sadiq | TE/NYJ | 153459 |
+| Keaton Mitchell | RB/LAC | 81027 |
+| Michael Mayer | TE/LV | 80721 |
+| Will Shipley | RB/PHI | 75470 |
+| Kirk Cousins | QB/LV | 69960 |
+| Tyler Shough | QB/NO | 68864 |
+| Alvin Kamara | RB/NO | 67824 |
+| KC Concepcion | WR/CLE | 66672 |
+| Las Vegas Raiders | DEF/LV | 64584 |
+| Tyreek Hill | WR/FA | 62304 |
+| Tre' Harris | WR/LAC | 59532 |
+| Bo Nix | QB/DEN | 56838 |
+| Brian Robinson | RB/ATL | 56478 |
 
 
 ---
@@ -931,16 +937,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Ladd McConkey | WR/LAC | (unlisted) | Questionable |
-| Swayze Bozeman | LB/CIN | Questionable | Out |
-| Ben Skowronek | WR/PIT | Questionable | Out |
-| Garret Wallow | LB/SF | (unlisted) | Out |
-| Dre Greenlaw | LB/SF | (unlisted) | Sus |
-| Tom Kennedy | WR/DET | Questionable | Out |
-| Tanner Hudson | TE/CIN | (unlisted) | Questionable |
-| Tyquan Thornton | WR/KC | Out | IR |
+_None since last run._
 
 **Full current report**
 
@@ -1004,7 +1001,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Skylar Thompson | QB/BAL | IR | — | — |
 | T.J. Tampa | DB/BAL | IR | — | — |
 | Trey Hendrickson | DE/BAL | Out | — | — |
-| DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) was on the field for the start of Saturday's practice, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
+| DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) is listed as inactive Monday at the Rams. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dee Alford | DB/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Out | — | — |
@@ -1752,7 +1749,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Logan Lee | DL/PIT | IR | — | — |
 | Max Hurleman | CB/PIT | Out | — | — |
 | Michael Pittman | WR/PIT | IR | — | Pittman (foot) is being placed on injured reserve, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) |
-| Rico Dowdle | RB/PIT | Out | — | Head coach mike McCarthy said Thursday that it remains up in the air whether Dowdle (toe) will be available Sunday against the Colts, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) |
+| Rico Dowdle | RB/PIT | Out | — | Steelers offensive coordinator Brian Angelichio said Monday that he anticipates Dowdle (toe) returning to action Week 6 against the Buccaneers, Mike DeFabo of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) |
 | Roman Wilson | WR/PIT | Out | — | Head coach Mike McCarthy said Monday that Wilson (finger) will not play against the Buccaneers on Sunday, Nick Farabaugh of SteelersNow.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/roman-wilson-17043)) |
 | Terell Smith | DB/PIT | Out | — | — |
 | Will Howard | QB/PIT | Out | — | — |
