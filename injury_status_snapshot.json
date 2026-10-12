@@ -594,6 +594,13 @@
     "status": "Out",
     "team": "PIT"
   },
+  "11635": {
+    "name": "Ladd McConkey",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
+  },
   "11636": {
     "name": "Johnny Wilson",
     "pos": "WR",
@@ -1123,7 +1130,7 @@
     "name": "Swayze Bozeman",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CIN"
   },
   "12319": {
@@ -4038,6 +4045,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "5409": {
+    "name": "Tanner Hudson",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "CIN"
+  },
   "5426": {
     "name": "McKay Murphy",
     "pos": "DT",
@@ -4416,6 +4430,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "6056": {
+    "name": "Dre Greenlaw",
+    "pos": "LB",
+    "since": "",
+    "status": "Sus",
+    "team": "SF"
+  },
   "6076": {
     "name": "Justin Hollins",
     "pos": "LB",
@@ -4644,7 +4665,7 @@
     "name": "Tom Kennedy",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DET"
   },
   "660": {
@@ -5456,7 +5477,7 @@
     "name": "Ben Skowronek",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PIT"
   },
   "7765": {
@@ -5493,6 +5514,13 @@
     "since": "",
     "status": "Out",
     "team": "NYG"
+  },
+  "7821": {
+    "name": "Garret Wallow",
+    "pos": "LB",
+    "since": "",
+    "status": "Out",
+    "team": "SF"
   },
   "7823": {
     "name": "Nate Hobbs",
@@ -5659,7 +5687,7 @@
     "name": "Tyquan Thornton",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "KC"
   },
   "8195": {
