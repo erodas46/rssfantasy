@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-13 05:58 UTC_ · 781 items total · 772/781 matched to a player
+_Last updated: 2026-10-13 17:49 UTC_ · 783 items total · 774/783 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-10-13 05:58 UTC_ · 781 items total · 772/781 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-13 | TreVeyon Henderson | RB/NE | INJURY | 🔥 Schefter | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
+| 2026-10-13 | David Montgomery | RB/HOU | NEWS | — | Marks is expected to handle a lead role out of the backfield during Sunday's game against the Jaguars in London after Texans head coach DeMeco Ryans announced Monday that fellow running back David Montgomery (groin) is viewed as week-to-week, Aaron Wilson of KPRC 2 Houston... ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
 | 2026-10-12 | Josh Allen | QB/BUF | NEWS | — | Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
 | 2026-10-12 | Matthew Stafford | QB/LAR | NEWS | — | Stafford completed 40 of 54 passes for 383 yards with three touchdowns and no interceptions in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
 | 2026-10-12 | Kyren Williams | RB/LAR | NEWS | — | Williams rushed 16 times for 49 yards and a touchdown and brought in six of eight targets for 27 yards in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyren-williams-15807)) | Rotowire |
@@ -100,6 +102,8 @@ _Last updated: 2026-10-13 05:58 UTC_ · 781 items total · 772/781 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-13 | TreVeyon Henderson | RB/NE | INJURY | 🔥 Schefter | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
+| 2026-10-13 | David Montgomery | RB/HOU | NEWS | — | Marks is expected to handle a lead role out of the backfield during Sunday's game against the Jaguars in London after Texans head coach DeMeco Ryans announced Monday that fellow running back David Montgomery (groin) is viewed as week-to-week, Aaron Wilson of KPRC 2 Houston... ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
 | 2026-10-12 | Josh Allen | QB/BUF | NEWS | — | Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
 | 2026-10-12 | Matthew Stafford | QB/LAR | NEWS | — | Stafford completed 40 of 54 passes for 383 yards with three touchdowns and no interceptions in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
 | 2026-10-12 | Kyren Williams | RB/LAR | NEWS | — | Williams rushed 16 times for 49 yards and a touchdown and brought in six of eight targets for 27 yards in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyren-williams-15807)) | Rotowire |
@@ -892,41 +896,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 530748 |
-| Dameon Pierce | RB/PHI | 466744 |
-| Darius Cooper | WR/PHI | 327299 |
-| Brenton Strange | TE/JAX | 318843 |
-| Tyler Higbee | TE/LAR | 239040 |
-| New England Patriots | DEF/NE | 210084 |
-| Kimani Vidal | RB/LAC | 157105 |
-| Keon Coleman | WR/BUF | 120105 |
-| San Francisco 49ers | DEF/SF | 108171 |
-| Tyler Loop | K/BAL | 101982 |
-| Kendrick Bourne | WR/ARI | 98655 |
-| Khalil Shakir | WR/BUF | 92925 |
-| Konata Mumpfield | WR/LAR | 85257 |
-| Indianapolis Colts | DEF/IND | 70902 |
-| Samaje Perine | RB/CIN | 69932 |
+| Dameon Pierce | RB/PHI | 1550264 |
+| MarShawn Lloyd | RB/GB | 1278855 |
+| Brenton Strange | TE/JAX | 739728 |
+| New England Patriots | DEF/NE | 673820 |
+| Darius Cooper | WR/PHI | 569149 |
+| Tyler Higbee | TE/LAR | 386973 |
+| Tyler Loop | K/BAL | 357144 |
+| Kimani Vidal | RB/LAC | 345445 |
+| Indianapolis Colts | DEF/IND | 278892 |
+| San Francisco 49ers | DEF/SF | 276978 |
+| Kendrick Bourne | WR/ARI | 224853 |
+| Nick Folk | K/ATL | 212808 |
+| Efton Chism | WR/NE | 200476 |
+| Aaron Rodgers | QB/PIT | 178436 |
+| Germie Bernard | WR/PIT | 177238 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roman Wilson | WR/PIT | 340569 |
-| Dohnte Meyers | WR/CIN | 247113 |
-| Kenyon Sadiq | TE/NYJ | 188937 |
-| Will Shipley | RB/PHI | 124454 |
-| Keaton Mitchell | RB/LAC | 99738 |
-| Michael Mayer | TE/LV | 95607 |
-| Las Vegas Raiders | DEF/LV | 86484 |
-| Kirk Cousins | QB/LV | 84984 |
-| Keon Coleman | WR/BUF | 84051 |
-| Tyreek Hill | WR/FA | 82696 |
-| Jacksonville Jaguars | DEF/JAX | 82686 |
-| KC Concepcion | WR/CLE | 81918 |
-| Alvin Kamara | RB/NO | 81616 |
-| Tre' Harris | WR/LAC | 77608 |
-| Tyler Shough | QB/NO | 76800 |
+| Roman Wilson | WR/PIT | 720999 |
+| Dohnte Meyers | WR/CIN | 533403 |
+| Kenyon Sadiq | TE/NYJ | 422334 |
+| Jake Bates | K/DET | 325024 |
+| Will Shipley | RB/PHI | 310866 |
+| Keon Coleman | WR/BUF | 248022 |
+| Jacksonville Jaguars | DEF/JAX | 240516 |
+| Keaton Mitchell | RB/LAC | 221490 |
+| Cleveland Browns | DEF/CLE | 213983 |
+| Las Vegas Raiders | DEF/LV | 203382 |
+| Tre' Harris | WR/LAC | 191372 |
+| Michael Mayer | TE/LV | 189576 |
+| Mike Gesicki | TE/CIN | 174760 |
+| Kirk Cousins | QB/LV | 174424 |
+| Tyreek Hill | WR/FA | 167736 |
 
 
 ---
@@ -939,27 +943,10 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Beau Stephens | G/SEA | (unlisted) | Questionable |
-| Leonard Williams | DE/SEA | (unlisted) | Questionable |
-| Drew Lock | QB/SEA | (unlisted) | Questionable |
-| CJ Daniels | WR/LAR | (unlisted) | Out |
-| Jaxon Smith-Njigba | WR/SEA | (unlisted) | Questionable |
-| Bill Murray | DT/LAR | (unlisted) | Out |
-| Dee Alford | DB/BUF | Questionable | Out |
-| DJ Moore | WR/BUF | Questionable | Out |
-| Jude Bowry | OT/BUF | (unlisted) | Out |
-| Ty Simpson | QB/LAR | (unlisted) | Out |
-| Swayze Bozeman | LB/CIN | Out | IR |
-| Landon Jackson | DL/BUF | Questionable | Out |
-| Jonathan Garvin | LB/FA | IR | Questionable |
-| J.R. Reed | DB/FA | (unlisted) | Out |
-| Max Klare | TE/LAR | (unlisted) | Out |
-| Tyler Scott | WR/LV | (unlisted) | Out |
-| Sai'vion Jones | DE/DEN | (unlisted) | Questionable |
-| Larrell Murchison | DT/LAR | (unlisted) | Out |
-| Spencer Brown | OT/BUF | (unlisted) | Out |
-| Isaiah Iton | DL/FA | Questionable | (cleared) |
-| Quentin Lake | DB/LAR | Questionable | (cleared) |
+| Anton Harrison | OL/JAX | Questionable | Out |
+| Cam Jackson | DT/CAR | Out | IR |
+| Tanner Hudson | TE/CIN | Questionable | Out |
+| J.R. Reed | DB/FA | Out | (cleared) |
 
 **Full current report**
 
@@ -1037,7 +1024,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Zane Durant | DT/BUF | IR | — | — |
 | Bam Martin-Scott | LB/CAR | IR | — | — |
 | Brady Christensen | T/CAR | IR | — | — |
-| Cam Jackson | DT/CAR | Out | — | — |
+| Cam Jackson | DT/CAR | IR | — | — |
 | Chris Brazzell | WR/CAR | IR | — | — |
 | Damien Lewis | G/CAR | Out | — | — |
 | Haynes King | QB/CAR | Out | — | — |
@@ -1083,7 +1070,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Landon Robinson | NT/CIN | Out | — | — |
 | Myles Hinton | OT/CIN | Out | — | — |
 | Swayze Bozeman | LB/CIN | IR | — | — |
-| Tanner Hudson | TE/CIN | Questionable | — | — |
+| Tanner Hudson | TE/CIN | Out | — | — |
 | Alex Wright | DL/CLE | IR | — | — |
 | Carsen Ryan | TE/CLE | Out | — | — |
 | Carson Schwesinger | LB/CLE | Questionable | — | — |
@@ -1308,7 +1295,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | J'Mon Moore | WR/FA | Questionable | — | — |
 | J.J. Russell | LB/FA | Questionable | — | — |
 | J.P. Quinn | C/FA | NA | — | — |
-| J.R. Reed | DB/FA | Out | — | — |
 | Ja'Corey Brooks | WR/FA | Questionable | — | — |
 | Ja'Lynn Polk | WR/FA | NA | — | — |
 | Ja'Markis Weston | DE/FA | Questionable | — | — |
@@ -1513,7 +1499,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | British Brooks | RB/HOU | IR | — | — |
 | Chris Braswell | LB/HOU | Out | — | — |
 | Collin Wright | CB/HOU | Out | — | — |
-| David Montgomery | RB/HOU | Out | — | — |
+| David Montgomery | RB/HOU | Out | — | Marks is expected to handle a lead role out of the backfield during Sunday's game against the Jaguars in London after Texans head coach DeMeco Ryans announced Monday that fellow running back David Montgomery (groin) is viewed as week-to-week, Aaron Wilson of KPRC 2 Houston... ([link](https://www.rotowire.com//football/player/woody-marks-18449)) |
 | Dylan Horton | DL/HOU | IR | — | — |
 | E.J. Speed | LB/HOU | PUP | — | — |
 | Febechi Nwaiwu | OL/HOU | Out | — | — |
@@ -1548,7 +1534,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Will Mallory | TE/IND | IR | — | — |
 | Albert Regis | DT/JAX | Out | — | — |
 | Alijah Huzzie | DB/JAX | Out | — | — |
-| Anton Harrison | OL/JAX | Questionable | — | — |
+| Anton Harrison | OL/JAX | Out | — | — |
 | B.J. Green | DE/JAX | IR | — | — |
 | CJ Williams | WR/JAX | Out | — | — |
 | Caleb Ransaw | DB/JAX | IR | — | — |
@@ -1688,7 +1674,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Myles Montgomery | RB/NE | IR | — | — |
 | Quintayvious Hutchins | DE/NE | IR | — | — |
 | Reggie Gilliam | RB/NE | IR | — | — |
-| TreVeyon Henderson | RB/NE | Out | — | Coach Mike Vrabel said Henderson (ankle) will practice Monday, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
+| TreVeyon Henderson | RB/NE | Out | — | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Will Campbell | OT/NE | Questionable | — | — |
 | Anfernee Jennings | LB/NO | Out | — | — |
 | Bryan Bresee | DT/NO | IR | — | — |

@@ -66,7 +66,7 @@
     "name": "Anton Harrison",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "JAX"
   },
   "10881": {
@@ -1648,7 +1648,7 @@
     "name": "Cam Jackson",
     "pos": "DT",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "CAR"
   },
   "12687": {
@@ -4091,7 +4091,7 @@
     "name": "Tanner Hudson",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CIN"
   },
   "5426": {
@@ -5086,13 +5086,6 @@
     "pos": "S",
     "since": "",
     "status": "NA",
-    "team": "FA"
-  },
-  "7046": {
-    "name": "J.R. Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
     "team": "FA"
   },
   "7057": {
