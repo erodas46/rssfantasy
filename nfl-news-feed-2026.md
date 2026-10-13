@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-13 17:49 UTC_ · 783 items total · 774/783 matched to a player
+_Last updated: 2026-10-13 21:37 UTC_ · 784 items total · 775/784 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-10-13 17:49 UTC_ · 783 items total · 774/783 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-13 | Jalen Coker | WR/CAR | NEWS | — | Coker (quadriceps) was spotted participating in the Panthers' unofficial practice session Tuesday, Alex Zietlow of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
 | 2026-10-13 | TreVeyon Henderson | RB/NE | INJURY | 🔥 Schefter | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-10-13 | David Montgomery | RB/HOU | NEWS | — | Marks is expected to handle a lead role out of the backfield during Sunday's game against the Jaguars in London after Texans head coach DeMeco Ryans announced Monday that fellow running back David Montgomery (groin) is viewed as week-to-week, Aaron Wilson of KPRC 2 Houston... ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
 | 2026-10-12 | Josh Allen | QB/BUF | NEWS | — | Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
@@ -102,6 +103,7 @@ _Last updated: 2026-10-13 17:49 UTC_ · 783 items total · 774/783 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-13 | Jalen Coker | WR/CAR | NEWS | — | Coker (quadriceps) was spotted participating in the Panthers' unofficial practice session Tuesday, Alex Zietlow of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
 | 2026-10-13 | TreVeyon Henderson | RB/NE | INJURY | 🔥 Schefter | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-10-13 | David Montgomery | RB/HOU | NEWS | — | Marks is expected to handle a lead role out of the backfield during Sunday's game against the Jaguars in London after Texans head coach DeMeco Ryans announced Monday that fellow running back David Montgomery (groin) is viewed as week-to-week, Aaron Wilson of KPRC 2 Houston... ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
 | 2026-10-12 | Josh Allen | QB/BUF | NEWS | — | Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
@@ -896,41 +898,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dameon Pierce | RB/PHI | 1550264 |
-| MarShawn Lloyd | RB/GB | 1278855 |
-| Brenton Strange | TE/JAX | 739728 |
-| New England Patriots | DEF/NE | 673820 |
-| Darius Cooper | WR/PHI | 569149 |
-| Tyler Higbee | TE/LAR | 386973 |
-| Tyler Loop | K/BAL | 357144 |
-| Kimani Vidal | RB/LAC | 345445 |
-| Indianapolis Colts | DEF/IND | 278892 |
-| San Francisco 49ers | DEF/SF | 276978 |
-| Kendrick Bourne | WR/ARI | 224853 |
-| Nick Folk | K/ATL | 212808 |
-| Efton Chism | WR/NE | 200476 |
-| Aaron Rodgers | QB/PIT | 178436 |
-| Germie Bernard | WR/PIT | 177238 |
+| Dameon Pierce | RB/PHI | 1888048 |
+| MarShawn Lloyd | RB/GB | 1487295 |
+| Brenton Strange | TE/JAX | 856071 |
+| New England Patriots | DEF/NE | 806120 |
+| Darius Cooper | WR/PHI | 629321 |
+| Tyler Loop | K/BAL | 443862 |
+| Tyler Higbee | TE/LAR | 428715 |
+| Kimani Vidal | RB/LAC | 415415 |
+| Indianapolis Colts | DEF/IND | 337533 |
+| San Francisco 49ers | DEF/SF | 311898 |
+| Nick Folk | K/ATL | 274146 |
+| Kendrick Bourne | WR/ARI | 263847 |
+| Efton Chism | WR/NE | 244544 |
+| Germie Bernard | WR/PIT | 228483 |
+| Aaron Rodgers | QB/PIT | 204768 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roman Wilson | WR/PIT | 720999 |
-| Dohnte Meyers | WR/CIN | 533403 |
-| Kenyon Sadiq | TE/NYJ | 422334 |
-| Jake Bates | K/DET | 325024 |
-| Will Shipley | RB/PHI | 310866 |
-| Keon Coleman | WR/BUF | 248022 |
-| Jacksonville Jaguars | DEF/JAX | 240516 |
-| Keaton Mitchell | RB/LAC | 221490 |
-| Cleveland Browns | DEF/CLE | 213983 |
-| Las Vegas Raiders | DEF/LV | 203382 |
-| Tre' Harris | WR/LAC | 191372 |
-| Michael Mayer | TE/LV | 189576 |
-| Mike Gesicki | TE/CIN | 174760 |
-| Kirk Cousins | QB/LV | 174424 |
-| Tyreek Hill | WR/FA | 167736 |
+| Roman Wilson | WR/PIT | 808623 |
+| Dohnte Meyers | WR/CIN | 609624 |
+| Kenyon Sadiq | TE/NYJ | 485496 |
+| Jake Bates | K/DET | 393456 |
+| Will Shipley | RB/PHI | 357884 |
+| Keon Coleman | WR/BUF | 301023 |
+| Jacksonville Jaguars | DEF/JAX | 290766 |
+| Cleveland Browns | DEF/CLE | 262647 |
+| Keaton Mitchell | RB/LAC | 254511 |
+| Las Vegas Raiders | DEF/LV | 230790 |
+| Tre' Harris | WR/LAC | 228192 |
+| Michael Mayer | TE/LV | 211473 |
+| Mike Gesicki | TE/CIN | 204256 |
+| Kirk Cousins | QB/LV | 195216 |
+| KC Concepcion | WR/CLE | 192591 |
 
 
 ---
@@ -941,12 +943,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Anton Harrison | OL/JAX | Questionable | Out |
-| Cam Jackson | DT/CAR | Out | IR |
-| Tanner Hudson | TE/CIN | Questionable | Out |
-| J.R. Reed | DB/FA | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1031,7 +1028,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ikem Ekwonu | T/CAR | PUP | — | — |
 | Ja'Tavion Sanders | TE/CAR | Out | — | — |
 | Jaelan Phillips | LB/CAR | Questionable | — | — |
-| Jalen Coker | WR/CAR | Out | — | Coker (quadriceps) is present for Friday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
+| Jalen Coker | WR/CAR | Out | — | Coker (quadriceps) was spotted participating in the Panthers' unofficial practice session Tuesday, Alex Zietlow of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
 | Jaycee Horn | CB/CAR | IR | — | — |
 | Jonathon Brooks | RB/CAR | IR | — | Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Mike Jackson | CB/CAR | IR | — | — |
