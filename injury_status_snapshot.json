@@ -66,7 +66,7 @@
     "name": "Anton Harrison",
     "pos": "OL",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "JAX"
   },
   "10881": {
@@ -1200,7 +1200,7 @@
     "name": "Raheim Sanders",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "CLE"
   },
   "12477": {
@@ -1209,13 +1209,6 @@
     "since": "",
     "status": "Out",
     "team": "SF"
-  },
-  "12479": {
-    "name": "Ja'Quinden Jackson",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "12480": {
     "name": "Moliki Matavao",
@@ -1560,13 +1553,6 @@
     "status": "IR",
     "team": "WAS"
   },
-  "12643": {
-    "name": "Kyle Kennard",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "12649": {
     "name": "C.J. West",
     "pos": "DT",
@@ -1794,13 +1780,6 @@
   "12785": {
     "name": "Dom Jones",
     "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
-  "12803": {
-    "name": "Luke Grimm",
-    "pos": "WR",
     "since": "",
     "status": "Questionable",
     "team": "FA"
@@ -3177,13 +3156,6 @@
     "status": "IR",
     "team": "NYG"
   },
-  "13870": {
-    "name": "Quentin Moore",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "13875": {
     "name": "Sean Brown",
     "pos": "LB",
@@ -3280,13 +3252,6 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "FA"
-  },
-  "14034": {
-    "name": "Brock Rechsteiner",
-    "pos": "WR",
-    "since": "",
-    "status": "Sus",
     "team": "FA"
   },
   "14045": {
@@ -4528,6 +4493,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "6124": {
+    "name": "Montez Sweat",
+    "pos": "DE",
+    "since": "",
+    "status": "Sus",
+    "team": "CHI"
+  },
   "6126": {
     "name": "Irv Smith",
     "pos": "TE",
@@ -5627,6 +5599,13 @@
     "status": "IR",
     "team": "CHI"
   },
+  "7872": {
+    "name": "Alaric Jackson",
+    "pos": "OL",
+    "since": "",
+    "status": "Sus",
+    "team": "LAR"
+  },
   "7878": {
     "name": "Milo Eifler",
     "pos": "LB",
@@ -5921,13 +5900,6 @@
     "status": "PUP",
     "team": "DET"
   },
-  "8361": {
-    "name": "Damarion Williams",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "8362": {
     "name": "Leo Chenal",
     "pos": "LB",
@@ -6102,13 +6074,6 @@
     "since": "",
     "status": "IR",
     "team": "CHI"
-  },
-  "8480": {
-    "name": "Jamaree Salyer",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "8481": {
     "name": "Ja'Sir Taylor",
