@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-15 15:21 UTC_ · 801 items total · 792/801 matched to a player
+_Last updated: 2026-10-15 20:05 UTC_ · 806 items total · 797/806 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-15 15:21 UTC_ · 801 items total · 792/801 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-15 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (toe) was listed as a non-participant on Thursday's injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-10-15 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) was a full participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-10-15 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said Evans won't practice Thursday due to rib and Achilles injuries, Cam Inman of The San Jose Mercury News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-15 | Deebo Samuel | WR/SF | INJURY | — | Head coach Kyle Shanahan said Thursday that the 49ers will "hold off" on placing Samuel (hamstring) on IR due to the team's bye in Week 8, Vic Tafur of the Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
+| 2026-10-15 | Josh Downs | WR/IND | INJURY | — | Downs (rest/hamstring) upgraded to full participation at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-10-14 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (thumb/toe) was listed as a non-participant on Wednesday's practice estimate. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
 | 2026-10-14 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) was listed as a non-participant on Wednesday's estimated injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-14 | Brock Bowers | TE/LV | INJURY | — | Bowers (knee) was listed as a limited participant on Wednesday's practice report, Anthony Galaviz of The Fresno Bee reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
@@ -101,6 +106,11 @@ _Last updated: 2026-10-15 15:21 UTC_ · 801 items total · 792/801 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-15 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (toe) was listed as a non-participant on Thursday's injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-10-15 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) was a full participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-10-15 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said Evans won't practice Thursday due to rib and Achilles injuries, Cam Inman of The San Jose Mercury News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-15 | Deebo Samuel | WR/SF | INJURY | — | Head coach Kyle Shanahan said Thursday that the 49ers will "hold off" on placing Samuel (hamstring) on IR due to the team's bye in Week 8, Vic Tafur of the Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
+| 2026-10-15 | Josh Downs | WR/IND | INJURY | — | Downs (rest/hamstring) upgraded to full participation at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
 | 2026-10-14 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (thumb/toe) was listed as a non-participant on Wednesday's practice estimate. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
 | 2026-10-14 | DJ Moore | WR/BUF | INJURY | — | Moore (shoulder) was listed as a non-participant on Wednesday's estimated injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-14 | Brock Bowers | TE/LV | INJURY | — | Bowers (knee) was listed as a limited participant on Wednesday's practice report, Anthony Galaviz of The Fresno Bee reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
@@ -913,41 +923,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dameon Pierce | RB/PHI | 627456 |
-| Nick Folk | K/ATL | 415590 |
-| Jaleel McLaughlin | RB/CLE | 334370 |
-| Brenton Strange | TE/JAX | 307539 |
-| Darius Cooper | WR/PHI | 299397 |
-| MarShawn Lloyd | RB/GB | 280971 |
-| Indianapolis Colts | DEF/IND | 260238 |
-| New England Patriots | DEF/NE | 255787 |
-| Tyler Loop | K/BAL | 234828 |
-| Kirk Cousins | QB/LV | 231728 |
-| Kimani Vidal | RB/LAC | 225530 |
-| Tyler Higbee | TE/LAR | 202347 |
-| Trey Smack | K/GB | 176828 |
-| Matt Gay | K/LV | 167560 |
-| San Francisco 49ers | DEF/SF | 150279 |
+| Tanner McKee | QB/PHI | 626168 |
+| Dameon Pierce | RB/PHI | 550992 |
+| Nick Folk | K/ATL | 387792 |
+| Kirk Cousins | QB/LV | 315032 |
+| Jaleel McLaughlin | RB/CLE | 277475 |
+| Darius Cooper | WR/PHI | 273091 |
+| Brenton Strange | TE/JAX | 240957 |
+| Indianapolis Colts | DEF/IND | 206895 |
+| MarShawn Lloyd | RB/GB | 206613 |
+| Kimani Vidal | RB/LAC | 187565 |
+| New England Patriots | DEF/NE | 179088 |
+| Tyler Higbee | TE/LAR | 173160 |
+| Tyler Loop | K/BAL | 163968 |
+| Aaron Rodgers | QB/PIT | 150200 |
+| Trey Smack | K/GB | 148288 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jake Bates | K/DET | 401016 |
-| Roman Wilson | WR/PIT | 310149 |
-| Dohnte Meyers | WR/CIN | 249102 |
-| Kenyon Sadiq | TE/NYJ | 224847 |
-| Keon Coleman | WR/BUF | 215055 |
-| Tyreek Hill | WR/FA | 204264 |
-| Cleveland Browns | DEF/CLE | 173194 |
-| Harrison Mevis | K/FA | 150669 |
-| Tyler Higbee | TE/LAR | 150579 |
-| Detroit Lions | DEF/DET | 140679 |
-| Keaton Mitchell | RB/LAC | 137835 |
-| Las Vegas Raiders | DEF/LV | 128886 |
-| Courtland Sutton | WR/DEN | 127782 |
-| Adonai Mitchell | WR/NYJ | 127400 |
-| Jordan Addison | WR/MIN | 118431 |
+| Jake Bates | K/DET | 341008 |
+| Roman Wilson | WR/PIT | 253782 |
+| Dohnte Meyers | WR/CIN | 204705 |
+| Keon Coleman | WR/BUF | 184959 |
+| Kenyon Sadiq | TE/NYJ | 178479 |
+| Tyreek Hill | WR/FA | 164856 |
+| Cleveland Browns | DEF/CLE | 142317 |
+| Tyler Higbee | TE/LAR | 135522 |
+| Harrison Mevis | K/FA | 128139 |
+| Detroit Lions | DEF/DET | 126972 |
+| Courtland Sutton | WR/DEN | 115830 |
+| Keaton Mitchell | RB/LAC | 115596 |
+| Alvin Kamara | RB/NO | 110624 |
+| Bo Nix | QB/DEN | 107130 |
+| Jordan Addison | WR/MIN | 106362 |
 
 
 ---
@@ -1054,12 +1064,12 @@ _None since last run._
 | Anthony Johnson | DB/CHI | Out | — | — |
 | Braxton Jones | OL/CHI | IR | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
-| Caleb Williams | QB/CHI | Questionable | — | Williams, who is ruled out for Monday's game against the Eagles, has been diagnosed with a Grade 2 hamstring strain, which doctors consider a 3-to-4-week injury, Adam Schefter and Ian Rapoport of ESPN report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
+| Caleb Williams | QB/CHI | Questionable | — | Williams (hamstring) was a full participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
 | Coby Bryant | DB/CHI | IR | — | — |
 | Dayo Odeyingbo | DE/CHI | Doubtful | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
 | Keyshaun Elliott | LB/CHI | Questionable | — | — |
-| Kyle Monangai | RB/CHI | Questionable | — | Monangai (thumb/toe) was listed as a non-participant on Wednesday's practice estimate. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
+| Kyle Monangai | RB/CHI | Questionable | — | Monangai (toe) was listed as a non-participant on Thursday's injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
 | Kyler Gordon | DB/CHI | PUP | — | — |
 | Montez Sweat | DE/CHI | Sus | — | — |
 | Nephi Sewell | LB/CHI | IR | — | — |
@@ -1518,7 +1528,7 @@ _None since last run._
 | Jalen Travis | OT/IND | Questionable | — | — |
 | Jaylahn Tuimoloau | DL/IND | Questionable | — | — |
 | Jaylon Carlies | DB/IND | Questionable | — | — |
-| Josh Downs | WR/IND | Questionable | — | Downs, who briefly left Saturday's practice after landing hard on his back, later returned to the session, Kevin Bowen of 107.5 The Fan Indianapolis reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) |
+| Josh Downs | WR/IND | Questionable | — | Downs (rest/hamstring) upgraded to full participation at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) |
 | Matt Goncalves | OL/IND | Questionable | — | — |
 | Micheal Clemons | DL/IND | IR | — | — |
 | Will Mallory | TE/IND | IR | — | — |
@@ -1784,7 +1794,7 @@ _None since last run._
 | Christian Kirk | WR/SF | IR | — | — |
 | Darrick Forrest | DB/SF | IR | — | — |
 | De'Zhaun Stribling | WR/SF | IR | — | The 49ers placed Stribling (ankle) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) |
-| Deebo Samuel | WR/SF | Out | — | Samuel is expected to miss at least a couple weeks due to a hamstring injury he sustained during the 49ers' 32-29 win over the Seahawks on Sunday, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) |
+| Deebo Samuel | WR/SF | Out | — | Head coach Kyle Shanahan said Thursday that the 49ers will "hold off" on placing Samuel (hamstring) on IR due to the team's bye in Week 8, Vic Tafur of the Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) |
 | Demarcus Robinson | WR/SF | IR | — | San Francisco head coach Kyle Shanahan said that Robinson is facing a recovery timeline of 3-to-6 weeks after sustaining a high-ankle sprain in Sunday's 35-13 win over the Dolphins, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/demarcus-robinson-11163)) |
 | Dre Greenlaw | LB/SF | Sus | — | — |
 | Garret Wallow | LB/SF | Out | — | — |
