@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-16 15:01 UTC_ · 816 items total · 807/816 matched to a player
+_Last updated: 2026-10-16 19:44 UTC_ · 821 items total · 812/821 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-16 15:01 UTC_ · 816 items total · 807/816 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-16 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) is listed as questionable for Sunday's game against Atlanta. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-10-16 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (thumb/toe) was ruled out for Sunday's game in Atlanta. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-10-16 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (foot) doesn't have an injury designation for Sunday's game against the Chiefs, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-10-16 | Quentin Johnston | WR/LAC | INJURY | — | Johnston (chest) doesn't have an injury designation for Sunday's game against the Chiefs, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
+| 2026-10-16 | Rico Dowdle | RB/PIT | INJURY | — | Dowdle (toe) is listed as questionable for Sunday's game against the Buccaneers after being a full participant in practice Thursday and Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-10-15 | Emanuel Wilson | RB/SEA | NEWS | — | Wilson rushed 14 times for 52 yards and failed to bring in his only target in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
 | 2026-10-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold completed 27 of 51 passes for 278 yards with no touchdowns and two interceptions and rushed twice for 19 yards in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. He also threw a two-point conversion pass. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-10-15 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 27 passes for 107 yards with no touchdowns or interceptions and rushed four times for two yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. He also recovered a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
@@ -101,6 +106,11 @@ _Last updated: 2026-10-16 15:01 UTC_ · 816 items total · 807/816 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-16 | Caleb Williams | QB/CHI | INJURY | — | Williams (hamstring) is listed as questionable for Sunday's game against Atlanta. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-10-16 | Kyle Monangai | RB/CHI | INJURY | — | Monangai (thumb/toe) was ruled out for Sunday's game in Atlanta. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-10-16 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (foot) doesn't have an injury designation for Sunday's game against the Chiefs, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-10-16 | Quentin Johnston | WR/LAC | INJURY | — | Johnston (chest) doesn't have an injury designation for Sunday's game against the Chiefs, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) | Rotowire |
+| 2026-10-16 | Rico Dowdle | RB/PIT | INJURY | — | Dowdle (toe) is listed as questionable for Sunday's game against the Buccaneers after being a full participant in practice Thursday and Friday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
 | 2026-10-15 | Emanuel Wilson | RB/SEA | NEWS | — | Wilson rushed 14 times for 52 yards and failed to bring in his only target in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
 | 2026-10-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold completed 27 of 51 passes for 278 yards with no touchdowns and two interceptions and rushed twice for 19 yards in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. He also threw a two-point conversion pass. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-10-15 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 27 passes for 107 yards with no touchdowns or interceptions and rushed four times for two yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. He also recovered a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
@@ -928,41 +938,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Tanner McKee | QB/PHI | 1285696 |
-| Dameon Pierce | RB/PHI | 535432 |
-| Kirk Cousins | QB/LV | 414504 |
-| Nick Folk | K/ATL | 400158 |
-| Darius Cooper | WR/PHI | 341257 |
-| Aaron Rodgers | QB/PIT | 220444 |
-| C.J. Stroud | QB/HOU | 196644 |
-| Brenton Strange | TE/JAX | 195039 |
-| Jaleel McLaughlin | RB/CLE | 191325 |
-| Indianapolis Colts | DEF/IND | 188094 |
-| Trey Smack | K/GB | 175864 |
-| Tyler Higbee | TE/LAR | 173592 |
-| Kimani Vidal | RB/LAC | 147885 |
-| Tyler Bass | K/BUF | 146910 |
-| Xavier Worthy | WR/KC | 145629 |
+| Tanner McKee | QB/PHI | 803488 |
+| Dameon Pierce | RB/PHI | 481800 |
+| Darius Cooper | WR/PHI | 333431 |
+| Kirk Cousins | QB/LV | 332320 |
+| Tyler Allgeier | RB/ARI | 322850 |
+| Nick Folk | K/ATL | 320004 |
+| Aaron Rodgers | QB/PIT | 193940 |
+| Tyler Higbee | TE/LAR | 171666 |
+| Brenton Strange | TE/JAX | 169227 |
+| Jaleel McLaughlin | RB/CLE | 168555 |
+| C.J. Stroud | QB/HOU | 164990 |
+| Xavier Worthy | WR/KC | 153180 |
+| Indianapolis Colts | DEF/IND | 150528 |
+| Trey Smack | K/GB | 148548 |
+| Kimani Vidal | RB/LAC | 142270 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jake Bates | K/DET | 361776 |
-| Roman Wilson | WR/PIT | 217773 |
-| Dohnte Meyers | WR/CIN | 164988 |
-| Tyreek Hill | WR/FA | 155576 |
-| Kenyon Sadiq | TE/NYJ | 152991 |
-| Keon Coleman | WR/BUF | 149508 |
-| Detroit Lions | DEF/DET | 145539 |
-| Jalen Hurts | QB/PHI | 136780 |
-| Harrison Mevis | K/FA | 133413 |
-| Tyler Higbee | TE/LAR | 129384 |
-| Cleveland Browns | DEF/CLE | 125601 |
-| Courtland Sutton | WR/DEN | 117918 |
-| Bo Nix | QB/DEN | 110004 |
-| Jordan Addison | WR/MIN | 108810 |
-| Keaton Mitchell | RB/LAC | 101349 |
+| Jake Bates | K/DET | 302360 |
+| Roman Wilson | WR/PIT | 194049 |
+| Tyreek Hill | WR/FA | 149968 |
+| Kenyon Sadiq | TE/NYJ | 139284 |
+| Dohnte Meyers | WR/CIN | 137511 |
+| Keon Coleman | WR/BUF | 133749 |
+| Detroit Lions | DEF/DET | 121635 |
+| Jalen Hurts | QB/PHI | 118032 |
+| Tyler Higbee | TE/LAR | 116640 |
+| Harrison Mevis | K/FA | 110040 |
+| Courtland Sutton | WR/DEN | 108369 |
+| Bo Nix | QB/DEN | 103776 |
+| Jordan Addison | WR/MIN | 101079 |
+| Cleveland Browns | DEF/CLE | 100506 |
+| Keaton Mitchell | RB/LAC | 97776 |
 
 
 ---
@@ -973,12 +983,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Dylan Parham | OL/NYJ | Doubtful | Out |
-| Adonai Mitchell | WR/NYJ | Doubtful | Out |
-| Joseph Ossai | DE/NYJ | Doubtful | Out |
-| Breece Hall | RB/NYJ | Doubtful | Out |
+_None since last run._
 
 **Full current report**
 
@@ -1073,12 +1078,12 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Anthony Johnson | DB/CHI | Out | — | — |
 | Braxton Jones | OL/CHI | IR | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
-| Caleb Williams | QB/CHI | Questionable | — | Williams (hamstring) was a full participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
+| Caleb Williams | QB/CHI | Questionable | — | Williams (hamstring) is listed as questionable for Sunday's game against Atlanta. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) |
 | Coby Bryant | DB/CHI | IR | — | — |
 | Dayo Odeyingbo | DE/CHI | Doubtful | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
 | Keyshaun Elliott | LB/CHI | Questionable | — | — |
-| Kyle Monangai | RB/CHI | Questionable | — | Monangai (toe) was listed as a non-participant on Thursday's injury report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
+| Kyle Monangai | RB/CHI | Questionable | — | Monangai (thumb/toe) was ruled out for Sunday's game in Atlanta. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
 | Kyler Gordon | DB/CHI | PUP | — | — |
 | Montez Sweat | DE/CHI | Sus | — | — |
 | Nephi Sewell | LB/CHI | IR | — | — |
@@ -1587,8 +1592,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kayode Awosika | OL/LAC | Questionable | — | — |
 | KeAndre Lambert-Smith | WR/LAC | IR | — | — |
 | Kendall Williamson | DB/LAC | Questionable | — | — |
-| Ladd McConkey | WR/LAC | Questionable | — | Chargers head coach Jim Harbaugh said McConkey (foot) will practice Wednesday, Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
-| Quentin Johnston | WR/LAC | Questionable | — | Johnston (chest) has been ruled out for Sunday's game against Denver Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) |
+| Ladd McConkey | WR/LAC | Questionable | — | McConkey (foot) doesn't have an injury designation for Sunday's game against the Chiefs, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
+| Quentin Johnston | WR/LAC | Questionable | — | Johnston (chest) doesn't have an injury designation for Sunday's game against the Chiefs, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/quentin-johnston-16899)) |
 | Rashawn Slater | T/LAC | IR | — | — |
 | Rodney Shelley | CB/LAC | Questionable | — | — |
 | Tre' Harris | WR/LAC | Doubtful | — | — |
