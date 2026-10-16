@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-16 03:39 UTC_ · 811 items total · 802/811 matched to a player
+_Last updated: 2026-10-16 15:01 UTC_ · 816 items total · 807/816 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-16 03:39 UTC_ · 811 items total · 802/811 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-15 | Emanuel Wilson | RB/SEA | NEWS | — | Wilson rushed 14 times for 52 yards and failed to bring in his only target in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
+| 2026-10-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold completed 27 of 51 passes for 278 yards with no touchdowns and two interceptions and rushed twice for 19 yards in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. He also threw a two-point conversion pass. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-10-15 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 27 passes for 107 yards with no touchdowns or interceptions and rushed four times for two yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. He also recovered a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
+| 2026-10-15 | Jaylen Waddle | WR/DEN | NEWS | — | Waddle secured four of seven targets for 24 yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
+| 2026-10-15 | Courtland Sutton | WR/DEN | NEWS | — | Sutton brought in two of three targets for 19 yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
 | 2026-10-15 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring) practiced in a limited capacity Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-15 | Jeremiyah Love | RB/ARI | INJURY | 🔥 Schefter | Love (ankle) remained sidelined at practice Thursday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-10-15 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) officially didn't practice Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
@@ -96,6 +101,11 @@ _Last updated: 2026-10-16 03:39 UTC_ · 811 items total · 802/811 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-15 | Emanuel Wilson | RB/SEA | NEWS | — | Wilson rushed 14 times for 52 yards and failed to bring in his only target in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
+| 2026-10-15 | Sam Darnold | QB/SEA | NEWS | — | Darnold completed 27 of 51 passes for 278 yards with no touchdowns and two interceptions and rushed twice for 19 yards in the Seahawks' 17-14 overtime loss to the Broncos on Thursday. He also threw a two-point conversion pass. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-10-15 | Bo Nix | QB/DEN | NEWS | — | Nix completed 17 of 27 passes for 107 yards with no touchdowns or interceptions and rushed four times for two yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. He also recovered a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bo-nix-16995)) | Rotowire |
+| 2026-10-15 | Jaylen Waddle | WR/DEN | NEWS | — | Waddle secured four of seven targets for 24 yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
+| 2026-10-15 | Courtland Sutton | WR/DEN | NEWS | — | Sutton brought in two of three targets for 19 yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/courtland-sutton-12586)) | Rotowire |
 | 2026-10-15 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin (hamstring) practiced in a limited capacity Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-15 | Jeremiyah Love | RB/ARI | INJURY | 🔥 Schefter | Love (ankle) remained sidelined at practice Thursday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
 | 2026-10-15 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) officially didn't practice Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
@@ -918,41 +928,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Tanner McKee | QB/PHI | 1128960 |
-| Dameon Pierce | RB/PHI | 584160 |
-| Nick Folk | K/ATL | 462144 |
-| Kirk Cousins | QB/LV | 416568 |
-| Darius Cooper | WR/PHI | 353899 |
-| Jaleel McLaughlin | RB/CLE | 240695 |
-| Brenton Strange | TE/JAX | 222084 |
-| Indianapolis Colts | DEF/IND | 218253 |
-| Aaron Rodgers | QB/PIT | 213204 |
-| Trey Smack | K/GB | 193196 |
-| C.J. Stroud | QB/HOU | 191009 |
-| Tyler Higbee | TE/LAR | 183411 |
-| Kimani Vidal | RB/LAC | 169640 |
-| MarShawn Lloyd | RB/GB | 166176 |
-| Xavier Worthy | WR/KC | 158769 |
+| Tanner McKee | QB/PHI | 1285696 |
+| Dameon Pierce | RB/PHI | 535432 |
+| Kirk Cousins | QB/LV | 414504 |
+| Nick Folk | K/ATL | 400158 |
+| Darius Cooper | WR/PHI | 341257 |
+| Aaron Rodgers | QB/PIT | 220444 |
+| C.J. Stroud | QB/HOU | 196644 |
+| Brenton Strange | TE/JAX | 195039 |
+| Jaleel McLaughlin | RB/CLE | 191325 |
+| Indianapolis Colts | DEF/IND | 188094 |
+| Trey Smack | K/GB | 175864 |
+| Tyler Higbee | TE/LAR | 173592 |
+| Kimani Vidal | RB/LAC | 147885 |
+| Tyler Bass | K/BUF | 146910 |
+| Xavier Worthy | WR/KC | 145629 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jake Bates | K/DET | 409016 |
-| Roman Wilson | WR/PIT | 249201 |
-| Dohnte Meyers | WR/CIN | 189369 |
-| Kenyon Sadiq | TE/NYJ | 173070 |
-| Keon Coleman | WR/BUF | 171288 |
-| Tyreek Hill | WR/FA | 167624 |
-| Detroit Lions | DEF/DET | 160632 |
-| Harrison Mevis | K/FA | 151056 |
-| Cleveland Browns | DEF/CLE | 143857 |
-| Tyler Higbee | TE/LAR | 140553 |
-| Courtland Sutton | WR/DEN | 122562 |
-| Jordan Addison | WR/MIN | 118323 |
-| Jalen Hurts | QB/PHI | 117120 |
-| Bo Nix | QB/DEN | 111972 |
-| Keaton Mitchell | RB/LAC | 111069 |
+| Jake Bates | K/DET | 361776 |
+| Roman Wilson | WR/PIT | 217773 |
+| Dohnte Meyers | WR/CIN | 164988 |
+| Tyreek Hill | WR/FA | 155576 |
+| Kenyon Sadiq | TE/NYJ | 152991 |
+| Keon Coleman | WR/BUF | 149508 |
+| Detroit Lions | DEF/DET | 145539 |
+| Jalen Hurts | QB/PHI | 136780 |
+| Harrison Mevis | K/FA | 133413 |
+| Tyler Higbee | TE/LAR | 129384 |
+| Cleveland Browns | DEF/CLE | 125601 |
+| Courtland Sutton | WR/DEN | 117918 |
+| Bo Nix | QB/DEN | 110004 |
+| Jordan Addison | WR/MIN | 108810 |
+| Keaton Mitchell | RB/LAC | 101349 |
 
 
 ---
@@ -965,74 +975,10 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Mykel Williams | DL/SF | (unlisted) | Questionable |
-| Mike Green | DL/BAL | (unlisted) | Questionable |
-| Robert Henry | RB/SEA | (unlisted) | Out |
-| Jeremy Reaves | DB/WAS | (unlisted) | Questionable |
-| Cameron Thomas | DL/ATL | (unlisted) | Questionable |
-| Kage Casey | OT/DEN | (unlisted) | Out |
-| Jaylen Waddle | WR/DEN | (unlisted) | Questionable |
-| Jalen Hurts | QB/PHI | (unlisted) | Out |
-| Sam Ehlinger | QB/DEN | (unlisted) | Out |
-| Montorie Foster | WR/SEA | (unlisted) | Out |
-| Colton McKivitz | OL/SF | (unlisted) | Questionable |
-| Treylon Burks | WR/WAS | (unlisted) | Questionable |
-| Austin Ekeler | RB/WAS | (unlisted) | Questionable |
-| Tyler Badie | RB/DEN | (unlisted) | Questionable |
-| Mike Evans | WR/SF | (unlisted) | Questionable |
-| Kam Curl | DB/LAR | (unlisted) | Questionable |
-| Jake Hansen | LB/HOU | (unlisted) | Questionable |
-| Cory Durden | DT/NE | (unlisted) | Questionable |
-| Tyler Onyedim | DT/DEN | (unlisted) | Out |
-| Avery Smith | CB/SEA | (unlisted) | Out |
-| Carver Willis | OL/SF | (unlisted) | Questionable |
-| Jacory Croskey-Merritt | RB/WAS | (unlisted) | Questionable |
-| Kendal Daniels | LB/ATL | (unlisted) | Questionable |
-| Fabian Moreau | CB/WAS | (unlisted) | Questionable |
-| Jordan Jackson | DL/DEN | (unlisted) | Out |
-| Alec Ingold | FB/LAC | (unlisted) | IR |
-| Upton Stout | CB/SF | (unlisted) | Questionable |
-| Jalen Pitre | DB/HOU | Doubtful | Out |
-| David Montgomery | RB/HOU | Doubtful | Out |
-| Dallen Bentley | TE/DEN | (unlisted) | Out |
-| Terry McLaurin | WR/WAS | (unlisted) | Questionable |
-| Quan Martin | DB/WAS | (unlisted) | Questionable |
-| Brandon Pili | DT/SEA | (unlisted) | Out |
-| Elijah Arroyo | TE/SEA | (unlisted) | Doubtful |
-| Gracen Halton | DT/SF | (unlisted) | Questionable |
-| Zay Flowers | WR/BAL | (unlisted) | Questionable |
-| Lorenzo Styles | DB/NO | (unlisted) | Questionable |
-| Malik Harrison | LB/NYG | (unlisted) | Questionable |
-| Peter Woods | DL/KC | (unlisted) | Questionable |
-| Siran Neal | CB/SF | (unlisted) | Questionable |
-| Jalen Milroe | QB/SEA | (unlisted) | Out |
-| Antoine Winfield | DB/TB | Questionable | Doubtful |
-| Javontae Jean-Baptiste | DL/WAS | (unlisted) | Questionable |
-| Christian Gonzalez | DB/NE | Questionable | (cleared) |
-| Tyree Wilson | LB/NO | Questionable | (cleared) |
-| Joey Porter | DB/DAL | Questionable | (cleared) |
-| Riley Moss | DB/DEN | Questionable | (cleared) |
-| Colby Wooden | DE/NO | Questionable | (cleared) |
-| Brock Bowers | TE/LV | Questionable | (cleared) |
-| Roger Rosengarten | OL/BAL | Questionable | (cleared) |
-| Matt Goncalves | OL/IND | Questionable | (cleared) |
-| Evan Williams | DB/GB | Questionable | (cleared) |
-| Jaylahn Tuimoloau | DL/IND | Questionable | (cleared) |
-| Jadeveon Clowney | DE/HOU | Questionable | (cleared) |
-| Trent Brown | OL/HOU | Questionable | (cleared) |
-| Nick Vannett | TE/BAL | Questionable | (cleared) |
-| Mike Williams | WR/FA | DNR | (cleared) |
-| Marlon Humphrey | CB/BAL | Questionable | (cleared) |
-| Marquez Valdes-Scantling | WR/LAC | Questionable | (cleared) |
-| Folorunso Fatukasi | DT/LV | Questionable | (cleared) |
-| Elgton Jenkins | G/CLE | Questionable | (cleared) |
-| Marcus Epps | DB/PHI | Questionable | (cleared) |
-| Rico Dowdle | RB/PIT | Questionable | (cleared) |
-| Darnell Mooney | WR/NYG | Questionable | (cleared) |
-| Divine Deablo | LB/ATL | Questionable | (cleared) |
-| Spencer Brown | OT/BUF | Questionable | (cleared) |
-| Nick Cross | DB/WAS | Questionable | (cleared) |
-| Josh Downs | WR/IND | Questionable | (cleared) |
+| Dylan Parham | OL/NYJ | Doubtful | Out |
+| Adonai Mitchell | WR/NYJ | Doubtful | Out |
+| Joseph Ossai | DE/NYJ | Doubtful | Out |
+| Breece Hall | RB/NYJ | Doubtful | Out |
 
 **Full current report**
 
@@ -1191,7 +1137,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Dallen Bentley | TE/DEN | Out | — | — |
 | Duplicate Player | ILB/DEN | COV | — | — |
 | Frank Crum | OT/DEN | IR | — | — |
-| Jaylen Waddle | WR/DEN | Questionable | — | Waddle suffered a shoulder injury in the third quarter of Thursday's game against the Seahawks but was able to return, Parker Gabriel of The Denver Post and Zac Stevens of TheDNVR.com report. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) |
+| Jaylen Waddle | WR/DEN | Questionable | — | Waddle secured four of seven targets for 24 yards in the Broncos' 17-14 overtime win over the Seahawks on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) |
 | Jonah Coleman | RB/DEN | IR | — | Coleman (ankle) is being placed on injured reserve Saturday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonah-coleman-19241)) |
 | Jonathon Cooper | DL/DEN | NA | — | — |
 | Jordan Jackson | DL/DEN | Out | — | — |
@@ -1780,15 +1726,15 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Thaddeus Dixon | CB/NYG | IR | — | — |
 | Theo Johnson | TE/NYG | Questionable | — | — |
 | Tyler Nubin | DB/NYG | Questionable | — | — |
-| Adonai Mitchell | WR/NYJ | Doubtful | — | Jets head coach Aaron Glenn said that Mitchell (finger) won't practice Wednesday and is considered week-to-week, Zack Rosenblatt of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/adonai-mitchell-17668)) |
+| Adonai Mitchell | WR/NYJ | Out | — | Jets head coach Aaron Glenn said that Mitchell (finger) won't practice Wednesday and is considered week-to-week, Zack Rosenblatt of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/adonai-mitchell-17668)) |
 | Anez Cooper | G/NYJ | IR | — | — |
 | Arian Smith | WR/NYJ | IR | — | — |
 | Braiden McGregor | DE/NYJ | IR | — | — |
-| Breece Hall | RB/NYJ | Doubtful | — | Hall (quadriceps) wasn't present for warmups at the start of Thursday's practice, Al Iannazzone of Newsday reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) |
+| Breece Hall | RB/NYJ | Out | — | Hall (quadriceps) wasn't present for warmups at the start of Thursday's practice, Al Iannazzone of Newsday reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) |
 | Dane Belton | DB/NYJ | Questionable | — | — |
 | David Onyemata | DT/NYJ | IR | — | — |
-| Dylan Parham | OL/NYJ | Doubtful | — | — |
-| Joseph Ossai | DE/NYJ | Doubtful | — | — |
+| Dylan Parham | OL/NYJ | Out | — | — |
+| Joseph Ossai | DE/NYJ | Out | — | — |
 | Kenyon Sadiq | TE/NYJ | Questionable | — | Sadiq was limited at Wednesday's practice due to a back injury. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenyon-sadiq-19279)) |
 | Kingsley Jonathan | DT/NYJ | IR | — | — |
 | Marcelino McCrary-Ball | LB/NYJ | IR | — | — |
