@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-17 03:29 UTC_ · 826 items total · 817/826 matched to a player
+_Last updated: 2026-10-17 13:58 UTC_ · 826 items total · 817/826 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -935,41 +935,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Tyler Allgeier | RB/ARI | 516455 |
-| Dameon Pierce | RB/PHI | 466744 |
-| Josh Jacobs | RB/GB | 390075 |
-| Tanner McKee | QB/PHI | 377936 |
-| Tyler Higbee | TE/LAR | 245295 |
-| Kirk Cousins | QB/LV | 201632 |
-| Darius Cooper | WR/PHI | 188272 |
-| Joe Milton | QB/PHI | 167116 |
-| Jaleel McLaughlin | RB/CLE | 143225 |
-| Xavier Worthy | WR/KC | 130158 |
-| Aaron Rodgers | QB/PIT | 126372 |
-| Kimani Vidal | RB/LAC | 113945 |
-| C.J. Stroud | QB/HOU | 107569 |
-| Nick Folk | K/ATL | 104484 |
-| Brenton Strange | TE/JAX | 93960 |
+| Tyler Allgeier | RB/ARI | 565870 |
+| Dameon Pierce | RB/PHI | 464808 |
+| Josh Jacobs | RB/GB | 418975 |
+| Tyler Higbee | TE/LAR | 275292 |
+| Tanner McKee | QB/PHI | 232328 |
+| Joe Milton | QB/PHI | 185844 |
+| Kirk Cousins | QB/LV | 169048 |
+| Darius Cooper | WR/PHI | 144137 |
+| Jaleel McLaughlin | RB/CLE | 133050 |
+| Xavier Worthy | WR/KC | 128025 |
+| Aaron Rodgers | QB/PIT | 106172 |
+| Kimani Vidal | RB/LAC | 103995 |
+| Roschon Johnson | RB/CHI | 92112 |
+| C.J. Stroud | QB/HOU | 89887 |
+| Ryan Flournoy | WR/DAL | 78896 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roman Wilson | WR/PIT | 127494 |
-| Tyreek Hill | WR/FA | 125024 |
-| Jake Bates | K/DET | 110384 |
-| Keon Coleman | WR/BUF | 106443 |
-| Kenyon Sadiq | TE/NYJ | 100260 |
-| Alvin Kamara | RB/NO | 92368 |
-| Dohnte Meyers | WR/CIN | 87201 |
-| Jalen Hurts | QB/PHI | 87144 |
-| Keaton Mitchell | RB/LAC | 85563 |
-| Darius Cooper | WR/PHI | 84700 |
-| Courtland Sutton | WR/DEN | 79992 |
-| Bo Nix | QB/DEN | 75786 |
-| Malik Washington | WR/MIA | 71280 |
-| Jordan Addison | WR/MIN | 71073 |
-| Romeo Doubs | WR/NE | 69960 |
+| Tyreek Hill | WR/FA | 113320 |
+| Roman Wilson | WR/PIT | 111987 |
+| Keon Coleman | WR/BUF | 97353 |
+| Darius Cooper | WR/PHI | 91854 |
+| Kenyon Sadiq | TE/NYJ | 90279 |
+| Alvin Kamara | RB/NO | 89528 |
+| Jake Bates | K/DET | 85136 |
+| Keaton Mitchell | RB/LAC | 80370 |
+| Dohnte Meyers | WR/CIN | 75411 |
+| Jalen Hurts | QB/PHI | 70260 |
+| Romeo Doubs | WR/NE | 66352 |
+| Courtland Sutton | WR/DEN | 66330 |
+| Malik Washington | WR/MIA | 66304 |
+| Jordan Addison | WR/MIN | 65529 |
+| Jacory Croskey-Merritt | RB/WAS | 62136 |
 
 
 ---
@@ -980,140 +980,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Jordan Elliott | DT/TEN | (unlisted) | Out |
-| Rachaad White | RB/WAS | (unlisted) | Questionable |
-| Devin White | LB/DET | Questionable | IR |
-| Ross Matiscik | LS/JAX | Questionable | Out |
-| Javon Kinlaw | DT/WAS | (unlisted) | Questionable |
-| Blake Gillikin | P/ARI | (unlisted) | Questionable |
-| Josh Simmons | OL/KC | Questionable | Out |
-| Kevin Winston | DB/TEN | Doubtful | Out |
-| Ben Bartch | OL/DET | Out | IR |
-| Jalyx Hunt | DL/PHI | Doubtful | Out |
-| Budda Baker | DB/ARI | (unlisted) | Questionable |
-| Broderick Washington | DT/BAL | Questionable | Out |
-| Lamar Jackson | QB/BAL | Questionable | Out |
-| Jonathan Ford | DL/GB | Questionable | Out |
-| Baker Mayfield | QB/TB | Doubtful | Out |
-| Tyler Warren | TE/IND | (unlisted) | Questionable |
-| Karon Prunty | DB/NE | Questionable | Out |
-| Tre' Harris | WR/LAC | Doubtful | Out |
-| Rico Dowdle | RB/PIT | (unlisted) | Questionable |
-| Theo Johnson | TE/NYG | Questionable | Out |
-| A.J. Epenesa | DE/PHI | Questionable | Doubtful |
-| Teven Jenkins | OL/CLE | Questionable | Out |
-| Will Shipley | RB/PHI | Doubtful | IR |
-| Brandon Cisse | DB/GB | (unlisted) | Questionable |
-| Saquon Barkley | RB/PHI | Questionable | Out |
-| Romello Height | LB/SF | (unlisted) | Questionable |
-| Tyler Nubin | DB/NYG | Questionable | Out |
-| Rodney Shelley | CB/LAC | Questionable | Doubtful |
-| Montaric Brown | DB/JAX | Questionable | Out |
-| Cobie Durant | DB/DAL | Questionable | Out |
-| Rashee Rice | WR/KC | Questionable | Out |
-| Colton Hood | DB/NYG | Questionable | Out |
-| Jeremiyah Love | RB/ARI | Questionable | Out |
-| Michael Carter | CB/PHI | Questionable | Out |
-| Josiah Trotter | LB/TB | (unlisted) | Questionable |
-| Jaylon Carlies | DB/IND | Questionable | Out |
-| Mason Graham | DL/CLE | Doubtful | Questionable |
-| Keyshaun Elliott | LB/CHI | Questionable | Out |
-| Donte Jackson | CB/LAC | Questionable | Out |
-| Cam Jurgens | OL/BAL | Questionable | Out |
-| Tonka Hemingway | DT/LV | Questionable | Out |
-| Kyle Monangai | RB/CHI | Questionable | Out |
-| Zaven Collins | LB/ARI | (unlisted) | Questionable |
-| Lucas Patrick | G/WAS | (unlisted) | Questionable |
-| T.J. Edwards | LB/CHI | Doubtful | Out |
-| Joey Porter | DB/DAL | (unlisted) | Questionable |
-| Mike Hall | DT/CLE | Questionable | Out |
-| Dayo Odeyingbo | DE/CHI | Doubtful | Out |
-| Kaden Elliss | LB/NO | Questionable | Out |
-| Andrew Wingard | DB/ARI | Questionable | Out |
-| Joe Alt | OL/LAC | Questionable | Out |
-| Monroe Freeling | OT/CAR | Questionable | Doubtful |
-| LT Overton | DE/DAL | (unlisted) | Questionable |
-| Skyy Moore | WR/GB | Questionable | Out |
-| Kayode Awosika | OL/LAC | Questionable | Out |
-| Benjamin Morrison | DB/TB | Questionable | Doubtful |
-| Benjamin St-Juste | DB/GB | Questionable | Out |
-| Carlton Davis | CB/NE | Questionable | Out |
-| Drew Shelton | OT/DAL | Questionable | Out |
-| Anfernee Jennings | LB/NO | Questionable | Out |
-| C.J. Henderson | CB/ATL | Questionable | Out |
-| Derwin James | DB/LAC | Questionable | Out |
-| Antoine Winfield | DB/TB | Doubtful | Out |
-| Tom Kennedy | WR/DET | Out | IR |
-| Matt Hibner | TE/BAL | Questionable | Out |
-| DK Metcalf | WR/PIT | (unlisted) | Questionable |
-| Trent McDuffie | DB/LAR | (unlisted) | Questionable |
-| Ashton Dulin | WR/IND | Questionable | Out |
-| AJ Dillon | RB/CAR | Questionable | Out |
-| Davis Allen | TE/LAR | Questionable | (cleared) |
-| Quan Martin | DB/WAS | Questionable | (cleared) |
-| Tyler Steen | OL/PHI | Questionable | (cleared) |
-| Trenton Simpson | LB/BAL | Questionable | (cleared) |
-| Kendall Williamson | DB/LAC | Questionable | (cleared) |
-| E.J. Jenkins | TE/PHI | Questionable | (cleared) |
-| Cory Durden | DT/NE | Questionable | (cleared) |
-| Ladd McConkey | WR/LAC | Questionable | (cleared) |
-| Jarrian Jones | DB/JAX | Questionable | (cleared) |
-| Justin Eboigbe | DL/LAC | Questionable | (cleared) |
-| Josh Wallace | DB/LAR | Questionable | (cleared) |
-| Charles Woods | CB/NE | Questionable | (cleared) |
-| David Martin-Robinson | TE/TEN | Questionable | (cleared) |
-| Mike Green | DL/BAL | Questionable | (cleared) |
-| Vernon Broughton | DT/NO | Questionable | (cleared) |
-| Teddye Buchanan | LB/BAL | Questionable | (cleared) |
-| Jalen Travis | OT/IND | Questionable | (cleared) |
-| Marcus Harris | DB/TEN | Questionable | (cleared) |
-| KC Concepcion | WR/CLE | Questionable | (cleared) |
-| Nate Boerkircher | TE/JAX | Questionable | (cleared) |
-| Denzel Boston | WR/CLE | Questionable | (cleared) |
-| Peter Woods | DL/KC | Questionable | (cleared) |
-| Emmanuel Pregnon | G/JAX | Questionable | (cleared) |
-| Kendal Daniels | LB/ATL | Questionable | (cleared) |
-| Carver Willis | OL/SF | Questionable | (cleared) |
-| Carsen Ryan | TE/CLE | Questionable | (cleared) |
-| Kyle Juszczyk | FB/SF | Questionable | (cleared) |
-| Morgan Moses | OL/NE | Questionable | (cleared) |
-| Darren Waller | TE/CAR | Questionable | (cleared) |
-| Kevin Byard | DB/NE | Questionable | (cleared) |
-| Maliek Collins | DT/CLE | Questionable | (cleared) |
-| Eric Murray | DB/JAX | Questionable | (cleared) |
-| Jourdan Lewis | CB/JAX | Questionable | (cleared) |
-| Marquise Brown | WR/PHI | Questionable | (cleared) |
-| Dre'Mont Jones | DE/NE | Questionable | (cleared) |
-| Tytus Howard | OL/CLE | Questionable | (cleared) |
-| Amani Hooker | DB/TEN | Questionable | (cleared) |
-| Ty Johnson | RB/BUF | Questionable | (cleared) |
-| Keisean Nixon | CB/GB | Questionable | (cleared) |
-| Azeez Al-Shaair | LB/HOU | Questionable | (cleared) |
-| Grant Delpit | DB/CLE | Questionable | (cleared) |
-| Devin Duvernay | WR/ARI | Questionable | (cleared) |
-| Colby Parkinson | TE/LAR | Questionable | (cleared) |
-| Malik Harrison | LB/NYG | Questionable | (cleared) |
-| John Simpson | G/BAL | Questionable | (cleared) |
-| Jonathan Greenard | DE/PHI | Questionable | (cleared) |
-| DeVonta Smith | WR/PHI | Questionable | (cleared) |
-| Rashod Bateman | WR/BAL | Questionable | (cleared) |
-| Tylan Wallace | WR/CLE | Questionable | (cleared) |
-| Greg Newsome | CB/NYG | Questionable | (cleared) |
-| Elijah Molden | CB/LAC | Questionable | (cleared) |
-| Tommy Tremble | TE/CAR | Questionable | (cleared) |
-| Cole Van Lanen | OL/JAX | Questionable | (cleared) |
-| Jason Pinnock | CB/NYG | Questionable | (cleared) |
-| Jalen Nailor | WR/LV | Questionable | (cleared) |
-| Devonte Wyatt | DL/GB | Questionable | (cleared) |
-| Jake Hansen | LB/HOU | Questionable | (cleared) |
-| Marcus Jones | DB/NE | Questionable | (cleared) |
-| Cameron Thomas | DL/ATL | Questionable | (cleared) |
-| Nate Landman | LB/LAR | Questionable | (cleared) |
-| Dontayvion Wicks | WR/PHI | Questionable | (cleared) |
-| Quentin Johnston | WR/LAC | Questionable | (cleared) |
-| Zay Flowers | WR/BAL | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
