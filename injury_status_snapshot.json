@@ -167,13 +167,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "10970": {
-    "name": "Henry To'oTo'o",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "HOU"
-  },
   "10980": {
     "name": "SirVocea Dennis",
     "pos": "LB",
@@ -768,6 +761,13 @@
     "since": "",
     "status": "IR",
     "team": "TEN"
+  },
+  "11838": {
+    "name": "Nate Thomas",
+    "pos": "OL",
+    "since": "",
+    "status": "Out",
+    "team": "HOU"
   },
   "11840": {
     "name": "Nick Samac",
@@ -1987,6 +1987,13 @@
     "status": "IR",
     "team": "BAL"
   },
+  "13307": {
+    "name": "Marlin Klein",
+    "pos": "TE",
+    "since": "",
+    "status": "Out",
+    "team": "HOU"
+  },
   "13309": {
     "name": "Aaron Anderson",
     "pos": "WR",
@@ -2267,6 +2274,20 @@
     "status": "Out",
     "team": "DEN"
   },
+  "13474": {
+    "name": "Jalen Huskey",
+    "pos": "DB",
+    "since": "",
+    "status": "Out",
+    "team": "JAX"
+  },
+  "13476": {
+    "name": "Albert Regis",
+    "pos": "DT",
+    "since": "",
+    "status": "Out",
+    "team": "JAX"
+  },
   "13477": {
     "name": "Colbie Young",
     "pos": "WR",
@@ -2309,6 +2330,13 @@
     "status": "Out",
     "team": "CIN"
   },
+  "13493": {
+    "name": "Wesley Williams",
+    "pos": "DE",
+    "since": "",
+    "status": "Out",
+    "team": "JAX"
+  },
   "13496": {
     "name": "Devin Moore",
     "pos": "CB",
@@ -2336,6 +2364,13 @@
     "since": "",
     "status": "Questionable",
     "team": "SF"
+  },
+  "13502": {
+    "name": "Febechi Nwaiwu",
+    "pos": "OL",
+    "since": "",
+    "status": "Out",
+    "team": "HOU"
   },
   "13503": {
     "name": "Kaleb Proctor",
@@ -2420,6 +2455,13 @@
     "since": "",
     "status": "PUP",
     "team": "ATL"
+  },
+  "13554": {
+    "name": "CJ Williams",
+    "pos": "WR",
+    "since": "",
+    "status": "Out",
+    "team": "JAX"
   },
   "13560": {
     "name": "Uar Bernard",
@@ -2679,6 +2721,13 @@
     "since": "",
     "status": "IR",
     "team": "BAL"
+  },
+  "13860": {
+    "name": "Sabastian Harsh",
+    "pos": "DE",
+    "since": "",
+    "status": "Out",
+    "team": "HOU"
   },
   "13862": {
     "name": "Treyvhon Saunders",
@@ -3456,6 +3505,13 @@
     "since": "",
     "status": "Out",
     "team": "NE"
+  },
+  "5060": {
+    "name": "Braden Smith",
+    "pos": "OL",
+    "since": "",
+    "status": "Out",
+    "team": "HOU"
   },
   "5067": {
     "name": "Arden Key",
@@ -5680,7 +5736,7 @@
     "name": "Jaylon Jones",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "JAX"
   },
   "8733": {
@@ -5738,13 +5794,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "8901": {
-    "name": "Ja'Marcus Ingram",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "HOU"
   },
   "8903": {
     "name": "Greg Long",
