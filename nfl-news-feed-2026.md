@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-18 14:10 UTC_ · 841 items total · 832/841 matched to a player
+_Last updated: 2026-10-18 19:02 UTC_ · 846 items total · 837/846 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-18 14:10 UTC_ · 841 items total · 832/841 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-18 | Alvin Kamara | RB/NO | NEWS | — | Kamara (undisclosed) walked slowly to the medical tent during Sunday's game at the Giants, Matthew Paras of The New Orleans Times-Picayune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
+| 2026-10-18 | Alvin Kamara | RB/NO | NEWS | — | Kamara (undisclosed) returned to Sunday's contest at the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
+| 2026-10-18 | Rashod Bateman | WR/BAL | INJURY | — | Bateman (shoulder) has been ruled out of Sunday's game in Cleveland. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashod-bateman-15210)) | Rotowire |
+| 2026-10-18 | Romeo Doubs | WR/NE | INJURY | — | Doubs (shoulder) has been ruled out for the rest of Sunday's game against the Jets, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-10-18 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) is listed as inactive Sunday in Las Vegas. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-18 | Kenyon Sadiq | TE/NYJ | INJURY | — | Sadiq (concussion) is listed as questionable but is in line to play in Sunday's game at New England, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenyon-sadiq-19279)) | Rotowire |
 | 2026-10-18 | Tyler Shough | QB/NO | NEWS | 🔥 Schefter | Shough has been playing with two broken bones in his left hand, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-shough-17037)) | Rotowire |
 | 2026-10-18 | Pat Freiermuth | TE/PIT | INJURY | — | The Steelers are "optimistic" that Freiermuth (calf) -- who is listed as questionable -- will play Sunday at Tampa Bay, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/pat-freiermuth-15267)) | Rotowire |
@@ -105,6 +110,11 @@ _Last updated: 2026-10-18 14:10 UTC_ · 841 items total · 832/841 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-18 | Alvin Kamara | RB/NO | NEWS | — | Kamara (undisclosed) walked slowly to the medical tent during Sunday's game at the Giants, Matthew Paras of The New Orleans Times-Picayune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
+| 2026-10-18 | Alvin Kamara | RB/NO | NEWS | — | Kamara (undisclosed) returned to Sunday's contest at the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) | Rotowire |
+| 2026-10-18 | Rashod Bateman | WR/BAL | INJURY | — | Bateman (shoulder) has been ruled out of Sunday's game in Cleveland. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashod-bateman-15210)) | Rotowire |
+| 2026-10-18 | Romeo Doubs | WR/NE | INJURY | — | Doubs (shoulder) has been ruled out for the rest of Sunday's game against the Jets, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-10-18 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) is listed as inactive Sunday in Las Vegas. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
 | 2026-10-18 | Kenyon Sadiq | TE/NYJ | INJURY | — | Sadiq (concussion) is listed as questionable but is in line to play in Sunday's game at New England, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenyon-sadiq-19279)) | Rotowire |
 | 2026-10-18 | Tyler Shough | QB/NO | NEWS | 🔥 Schefter | Shough has been playing with two broken bones in his left hand, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-shough-17037)) | Rotowire |
 | 2026-10-18 | Pat Freiermuth | TE/PIT | INJURY | — | The Steelers are "optimistic" that Freiermuth (calf) -- who is listed as questionable -- will play Sunday at Tampa Bay, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/pat-freiermuth-15267)) | Rotowire |
@@ -957,41 +967,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Tyler Higbee | TE/LAR | 533601 |
-| Dameon Pierce | RB/PHI | 407520 |
-| Roschon Johnson | RB/CHI | 287568 |
-| Tyler Allgeier | RB/ARI | 257935 |
-| Tanner McKee | QB/PHI | 247320 |
-| Rachaad White | RB/WAS | 204210 |
-| Kirk Cousins | QB/LV | 141072 |
-| Xavier Worthy | WR/KC | 122877 |
-| Cyrus Allen | WR/KC | 120300 |
-| Najee Harris | RB/NYG | 112875 |
-| Kimani Vidal | RB/LAC | 104690 |
-| Keenan Allen | WR/IND | 96824 |
-| Nick Folk | K/ATL | 94674 |
-| Austin Ekeler | RB/WAS | 91528 |
-| C.J. Stroud | QB/HOU | 90188 |
+| Tyler Higbee | TE/LAR | 1065492 |
+| Dameon Pierce | RB/PHI | 485064 |
+| Najee Harris | RB/NYG | 391985 |
+| Jaleel McLaughlin | RB/CLE | 379915 |
+| Roschon Johnson | RB/CHI | 361176 |
+| Tanner McKee | QB/PHI | 286384 |
+| Tyler Allgeier | RB/ARI | 278605 |
+| Rachaad White | RB/WAS | 258156 |
+| Darren Waller | TE/CAR | 227295 |
+| Kirk Cousins | QB/LV | 181352 |
+| Xavier Worthy | WR/KC | 165843 |
+| Cyrus Allen | WR/KC | 143598 |
+| Nick Folk | K/ATL | 134160 |
+| Tyler Bass | K/BUF | 128165 |
+| Keenan Allen | WR/IND | 124812 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Roman Wilson | WR/PIT | 205929 |
-| Jacory Croskey-Merritt | RB/WAS | 164655 |
-| Tyreek Hill | WR/FA | 151784 |
-| Darius Cooper | WR/PHI | 135856 |
-| Keon Coleman | WR/BUF | 108063 |
-| Jake Bates | K/DET | 107696 |
-| Kenyon Sadiq | TE/NYJ | 96678 |
-| Jalen Hurts | QB/PHI | 93776 |
-| Keaton Mitchell | RB/LAC | 93240 |
-| Romeo Doubs | WR/NE | 88968 |
-| Dohnte Meyers | WR/CIN | 83232 |
-| Alvin Kamara | RB/NO | 82232 |
-| Dontayvion Wicks | WR/PHI | 71820 |
-| Jordan Addison | WR/MIN | 71721 |
-| Chris Rodriguez | RB/JAX | 71019 |
+| Roman Wilson | WR/PIT | 271242 |
+| Tyreek Hill | WR/FA | 230440 |
+| Jacory Croskey-Merritt | RB/WAS | 212400 |
+| Darius Cooper | WR/PHI | 194810 |
+| Jake Bates | K/DET | 174136 |
+| Keon Coleman | WR/BUF | 163368 |
+| Keaton Mitchell | RB/LAC | 143037 |
+| Kenyon Sadiq | TE/NYJ | 138780 |
+| Romeo Doubs | WR/NE | 126184 |
+| Jordan Addison | WR/MIN | 124929 |
+| Jalen Hurts | QB/PHI | 119448 |
+| Malik Washington | WR/MIA | 118632 |
+| Alvin Kamara | RB/NO | 116736 |
+| Dohnte Meyers | WR/CIN | 116055 |
+| Dontayvion Wicks | WR/PHI | 99735 |
 
 
 ---
@@ -1002,20 +1012,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| CJ Williams | WR/JAX | (unlisted) | Out |
-| Wesley Williams | DE/JAX | (unlisted) | Out |
-| Jalen Huskey | DB/JAX | (unlisted) | Out |
-| Sabastian Harsh | DE/HOU | (unlisted) | Out |
-| Marlin Klein | TE/HOU | (unlisted) | Out |
-| Braden Smith | OL/HOU | (unlisted) | Out |
-| Nate Thomas | OL/HOU | (unlisted) | Out |
-| Febechi Nwaiwu | OL/HOU | (unlisted) | Out |
-| Jaylon Jones | CB/JAX | Questionable | Out |
-| Albert Regis | DT/JAX | (unlisted) | Out |
-| Henry To'oTo'o | LB/HOU | Questionable | (cleared) |
-| Ja'Marcus Ingram | CB/HOU | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1071,7 +1068,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Matt Hibner | TE/BAL | Out | — | — |
 | Skylar Thompson | QB/BAL | IR | — | — |
 | T.J. Tampa | DB/BAL | IR | — | — |
-| DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) officially didn't practice Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
+| DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) is listed as inactive Sunday in Las Vegas. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dee Alford | DB/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Questionable | — | — |
@@ -1689,7 +1686,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Reggie Gilliam | RB/NE | IR | — | — |
 | TreVeyon Henderson | RB/NE | Questionable | — | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Will Campbell | OT/NE | Questionable | — | — |
-| Alvin Kamara | RB/NO | Questionable | — | Kamara (back) is listed as active Sunday against the Vikings. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
+| Alvin Kamara | RB/NO | Questionable | — | Kamara (undisclosed) walked slowly to the medical tent during Sunday's game at the Giants, Matthew Paras of The New Orleans Times-Picayune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
 | Anfernee Jennings | LB/NO | Out | — | — |
 | Bryan Bresee | DT/NO | IR | — | — |
 | Chris Olave | WR/NO | Questionable | — | Olave secured four of six targets for 46 yards in the Saints' 23-13 loss to the Vikings on Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-olave-15895)) |
