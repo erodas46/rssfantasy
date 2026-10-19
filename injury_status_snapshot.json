@@ -580,13 +580,6 @@
     "status": "Out",
     "team": "CAR"
   },
-  "11615": {
-    "name": "Ainias Smith",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "11618": {
     "name": "Jalen McMillan",
     "pos": "WR",
@@ -3562,13 +3555,6 @@
     "status": "Out",
     "team": "FA"
   },
-  "4574": {
-    "name": "Cooper Rush",
-    "pos": "QB",
-    "since": "",
-    "status": "Out",
-    "team": "ATL"
-  },
   "4579": {
     "name": "Josh Banderas",
     "pos": "OLB",
@@ -3930,7 +3916,7 @@
     "name": "Tanner Hudson",
     "pos": "TE",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "CIN"
   },
   "5426": {
@@ -4953,13 +4939,6 @@
     "pos": "S",
     "since": "",
     "status": "NA",
-    "team": "FA"
-  },
-  "7046": {
-    "name": "J.R. Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
     "team": "FA"
   },
   "7057": {
@@ -6109,13 +6088,6 @@
     "since": "",
     "status": "PUP",
     "team": "MIA"
-  },
-  "8678": {
-    "name": "Andrew Rupcich",
-    "pos": "OT",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "8683": {
     "name": "Joey Blount",
