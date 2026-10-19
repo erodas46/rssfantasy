@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-19 17:12 UTC_ · 856 items total · 847/856 matched to a player
+_Last updated: 2026-10-19 21:16 UTC_ · 861 items total · 852/861 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-19 17:12 UTC_ · 856 items total · 847/856 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-19 | Stefon Diggs | WR/ | INJURY | 🔥 Schefter | Diggs (hamstring) is in line to play in Monday's game at San Francisco, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
+| 2026-10-19 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | The Commanders placed Croskey-Merritt (groin) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-10-19 | Romeo Doubs | WR/NE | INJURY | — | The Patriots placed Doubs (shoulder) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-10-19 | Christian Kirk | WR/SF | INJURY | — | The 49ers downgraded Kirk (calf) to out for Monday's game against the Commanders, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-kirk-12508)) | Rotowire |
+| 2026-10-19 | Josh Jacobs | RB/GB | NEWS | — | Head coach Matt LaFleur said that Jacobs (personal) will get in a full week of practice, but the practice, but the Packers have yet to determine whether he'll be able to make his season debut Sunday in Detroit, Weston Hodkiewicz of the team's official site reports. "We feel he's... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-10-19 | Jalen Hurts | QB/PHI | NEWS | — | Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) | Rotowire |
 | 2026-10-19 | Caleb Douglas | WR/MIA | INJURY | — | Dolphins head coach Jeff Hafley said that Douglas (ankle) will be a limited participant in Monday's informal practice, David Furones of the South Florida Sun Sentinel reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-douglas-19343)) | Rotowire |
 | 2026-10-19 | Malik Willis | QB/MIA | INJURY | — | Head coach Jeff Hafley said that Willis should be ready to play Sunday against the Jets after tending to a minor undisclosed injury coming out of the Dolphins' Week 5 loss to the Bengals, David Furones of the South Florida Sun Sentinel reports. "I foresee him being good to go,"... ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
@@ -105,6 +110,11 @@ _Last updated: 2026-10-19 17:12 UTC_ · 856 items total · 847/856 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-19 | Stefon Diggs | WR/ | INJURY | 🔥 Schefter | Diggs (hamstring) is in line to play in Monday's game at San Francisco, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
+| 2026-10-19 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | The Commanders placed Croskey-Merritt (groin) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-10-19 | Romeo Doubs | WR/NE | INJURY | — | The Patriots placed Doubs (shoulder) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
+| 2026-10-19 | Christian Kirk | WR/SF | INJURY | — | The 49ers downgraded Kirk (calf) to out for Monday's game against the Commanders, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-kirk-12508)) | Rotowire |
+| 2026-10-19 | Josh Jacobs | RB/GB | NEWS | — | Head coach Matt LaFleur said that Jacobs (personal) will get in a full week of practice, but the practice, but the Packers have yet to determine whether he'll be able to make his season debut Sunday in Detroit, Weston Hodkiewicz of the team's official site reports. "We feel he's... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-10-19 | Jalen Hurts | QB/PHI | NEWS | — | Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) | Rotowire |
 | 2026-10-19 | Caleb Douglas | WR/MIA | INJURY | — | Dolphins head coach Jeff Hafley said that Douglas (ankle) will be a limited participant in Monday's informal practice, David Furones of the South Florida Sun Sentinel reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-douglas-19343)) | Rotowire |
 | 2026-10-19 | Malik Willis | QB/MIA | INJURY | — | Head coach Jeff Hafley said that Willis should be ready to play Sunday against the Jets after tending to a minor undisclosed injury coming out of the Dolphins' Week 5 loss to the Bengals, David Furones of the South Florida Sun Sentinel reports. "I foresee him being good to go,"... ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
@@ -972,41 +982,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Omar Cooper | WR/NYJ | 504920 |
-| Tyler Higbee | TE/LAR | 235035 |
-| Keon Coleman | WR/BUF | 205812 |
-| Kyle Pitts | TE/ATL | 177933 |
-| C.J. Stroud | QB/HOU | 172319 |
-| Ryan Flournoy | WR/DAL | 165344 |
-| Cleveland Browns | DEF/CLE | 162841 |
-| Tre Tucker | WR/LV | 149880 |
-| Khalil Shakir | WR/BUF | 145269 |
-| Jaleel McLaughlin | RB/CLE | 138430 |
-| Michael Mayer | TE/LV | 126954 |
-| Roschon Johnson | RB/CHI | 122240 |
-| Najee Harris | RB/NYG | 113495 |
-| Xavier Worthy | WR/KC | 112932 |
-| Brandin Cooks | WR/SF | 112292 |
+| Omar Cooper | WR/NYJ | 684688 |
+| Cleveland Browns | DEF/CLE | 205905 |
+| C.J. Stroud | QB/HOU | 194992 |
+| Kyle Pitts | TE/ATL | 184527 |
+| Michael Mayer | TE/LV | 146448 |
+| Tre Tucker | WR/LV | 124482 |
+| Keon Coleman | WR/BUF | 121050 |
+| Roschon Johnson | RB/CHI | 114488 |
+| J.J. McCarthy | QB/NYG | 93891 |
+| Ryan Flournoy | WR/DAL | 90984 |
+| Tank Dell | WR/HOU | 90568 |
+| Austin Ekeler | RB/WAS | 83624 |
+| Brandin Cooks | WR/SF | 69620 |
+| Jaleel McLaughlin | RB/CLE | 67615 |
+| Tanner McKee | QB/PHI | 65216 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jalen Hurts | QB/PHI | 195348 |
-| Tyler Higbee | TE/LAR | 178092 |
-| MarShawn Lloyd | RB/GB | 175869 |
-| Darius Cooper | WR/PHI | 161483 |
-| Keaton Mitchell | RB/LAC | 156681 |
-| Tyreek Hill | WR/FA | 131552 |
-| Darren Waller | TE/CAR | 118728 |
-| Jacory Croskey-Merritt | RB/WAS | 106677 |
-| Emanuel Wilson | RB/SEA | 88479 |
-| Jacksonville Jaguars | DEF/JAX | 84150 |
-| Mark Andrews | TE/BAL | 81567 |
-| Roman Wilson | WR/PIT | 81225 |
-| Najee Harris | RB/NYG | 78955 |
-| Kenyon Sadiq | TE/NYJ | 72234 |
-| Courtland Sutton | WR/DEN | 71595 |
+| Jalen Hurts | QB/PHI | 255200 |
+| MarShawn Lloyd | RB/GB | 214812 |
+| Tyler Higbee | TE/LAR | 188784 |
+| Keaton Mitchell | RB/LAC | 160353 |
+| Darius Cooper | WR/PHI | 144956 |
+| Jacory Croskey-Merritt | RB/WAS | 113886 |
+| Darren Waller | TE/CAR | 109233 |
+| Tyreek Hill | WR/FA | 98680 |
+| Emanuel Wilson | RB/SEA | 97299 |
+| Jacksonville Jaguars | DEF/JAX | 91314 |
+| Romeo Doubs | WR/NE | 82232 |
+| New England Patriots | DEF/NE | 72779 |
+| Mark Andrews | TE/BAL | 71631 |
+| Tyler Allgeier | RB/ARI | 71480 |
+| Najee Harris | RB/NYG | 68740 |
 
 
 ---
@@ -1017,13 +1027,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Tanner Hudson | TE/CIN | Out | IR |
-| Ainias Smith | WR/FA | Questionable | (cleared) |
-| Cooper Rush | QB/ATL | Out | (cleared) |
-| J.R. Reed | DB/FA | Out | (cleared) |
-| Andrew Rupcich | OT/FA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1550,7 +1554,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Johnathan Baldwin | DB/GB | IR | — | — |
 | Jonathan Ford | DL/GB | IR | — | — |
 | Jordon Riley | DL/GB | PUP | — | — |
-| Josh Jacobs | RB/GB | NA | — | Jacobs' next court date has been moved up from Nov. 17 to Sept. 10, Michael Gross of Fox 11 Green Bay reports. Jacobs is expected to be represented by his attorney and won't personally appear at the hearing. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) |
+| Josh Jacobs | RB/GB | NA | — | Head coach Matt LaFleur said that Jacobs (personal) will get in a full week of practice, but the practice, but the Packers have yet to determine whether he'll be able to make his season debut Sunday in Detroit, Weston Hodkiewicz of the team's official site reports. "We feel he's... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) |
 | Luke Musgrave | TE/GB | PUP | — | — |
 | Micah Parsons | LB/GB | PUP | — | — |
 | Skyy Moore | WR/GB | IR | — | — |
@@ -1733,7 +1737,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Myles Montgomery | RB/NE | IR | — | — |
 | Quintayvious Hutchins | DE/NE | IR | — | — |
 | Reggie Gilliam | RB/NE | IR | — | — |
-| Romeo Doubs | WR/NE | Out | — | Doubs (shoulder) has been ruled out for the rest of Sunday's game against the Jets, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) |
+| Romeo Doubs | WR/NE | Out | — | The Patriots placed Doubs (shoulder) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) |
 | Tanner Arkin | TE/NE | Out | — | — |
 | Alvin Kamara | RB/NO | Questionable | — | Kamara (undisclosed) walked slowly to the medical tent during Sunday's game at the Giants, Matthew Paras of The New Orleans Times-Picayune reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alvin-kamara-11732)) |
 | Anfernee Jennings | LB/NO | Out | — | — |
@@ -1857,7 +1861,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Brandon Aiyuk | WR/SF | DNR | — | — |
 | Brett Toth | OL/SF | IR | — | — |
 | C.J. West | DT/SF | IR | — | — |
-| Christian Kirk | WR/SF | IR | — | — |
+| Christian Kirk | WR/SF | IR | — | The 49ers downgraded Kirk (calf) to out for Monday's game against the Commanders, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-kirk-12508)) |
 | Darrick Forrest | DB/SF | IR | — | — |
 | De'Zhaun Stribling | WR/SF | IR | — | The 49ers placed Stribling (ankle) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dezhaun-stribling-19330)) |
 | Deebo Samuel | WR/SF | Out | — | Head coach Kyle Shanahan said Thursday that the 49ers will "hold off" on placing Samuel (hamstring) on IR due to the team's bye in Week 8, Vic Tafur of the Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) |
@@ -1908,7 +1912,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Tanoh Kpassagnon | DE/TEN | IR | — | — |
 | Tony Adams | DB/TEN | Questionable | — | — |
 | Charles Omenihu | DE/WAS | Out | — | — |
-| Jacory Croskey-Merritt | RB/WAS | Out | — | Croskey-Merritt (groin) has been ruled out for Monday night's game against the 49ers, Tashan Reed of The Washington Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) |
+| Jacory Croskey-Merritt | RB/WAS | Out | — | The Commanders placed Croskey-Merritt (groin) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) |
 | Javon Kinlaw | DT/WAS | Questionable | — | — |
 | Javontae Jean-Baptiste | DL/WAS | Out | — | — |
 | Jaylin Lane | WR/WAS | IR | — | — |
@@ -1921,7 +1925,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Marcus Mariota | QB/WAS | Out | — | Coach Dan Quinn confirmed Monday that Mariota has been diagnosed with a sprained MCL in his right knee, and the quarterback's recovery timeline is to be determined, Ben Standig of The Team 980 Washington D.C. reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) |
 | Nick Cross | DB/WAS | Questionable | — | — |
 | Percy Butler | DB/WAS | Questionable | — | — |
-| Stefon Diggs | WR/WAS | Questionable | — | Diggs (hamstring) was on the field for Saturday's practice session, Jonah Keim of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) |
+| Stefon Diggs | WR/WAS | Questionable | — | Diggs (hamstring) is in line to play in Monday's game at San Francisco, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) |
 | Trey Amos | DB/WAS | IR | — | — |
 | Tyler Owens | DB/WAS | Questionable | — | — |
 
