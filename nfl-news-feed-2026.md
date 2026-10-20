@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-20 03:58 UTC_ · 866 items total · 857/866 matched to a player
+_Last updated: 2026-10-20 15:24 UTC_ · 871 items total · 862/871 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-20 03:58 UTC_ · 866 items total · 857/866 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-20 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said after Monday's 23-17 win over the Commanders that Evans' early exit was due to right Achilles tendinitis, but he doesn't believe the wideout will require further testing or imaging, Nick Wagoner of ESPN.com reports. "I hope he recovers throughout... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-20 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
+| 2026-10-20 | Najee Harris | RB/ | NEWS | — | The Giants will release Harris on Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/najee-harris-15468)) | Rotowire |
+| 2026-10-19 | Stefon Diggs | WR/ | INJURY | — | Diggs brought in six of seven targets for 44 yards and a touchdown in the Commanders' 23-17 loss to the 49ers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
+| 2026-10-19 | Rachaad White | RB/WAS | NEWS | — | White rushed seven times for 27 yards and brought in four of five targets for 30 yards and a touchdown in the Commanders' 23-17 loss to the 49ers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
 | 2026-10-19 | Mike Evans | WR/SF | INJURY | — | Evans (Achilles) has been ruled out for the remainder of Monday night's game against the Commanders, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-10-19 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey rushed 16 times for 64 yards and two touchdowns and brought in nine of 10 targets for 53 yards in the 49ers' 23-17 win over the Commanders on Monday night. He also lost a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-10-19 | Mike Evans | WR/SF | INJURY | — | Evans is expected to miss some time after aggravating his Achilles injury in Monday night's 23-17 win over the Commanders, Jennifer Lee Chan of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
@@ -102,6 +107,11 @@ _Last updated: 2026-10-20 03:58 UTC_ · 866 items total · 857/866 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-20 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said after Monday's 23-17 win over the Commanders that Evans' early exit was due to right Achilles tendinitis, but he doesn't believe the wideout will require further testing or imaging, Nick Wagoner of ESPN.com reports. "I hope he recovers throughout... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-10-20 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
+| 2026-10-20 | Najee Harris | RB/ | NEWS | — | The Giants will release Harris on Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/najee-harris-15468)) | Rotowire |
+| 2026-10-19 | Stefon Diggs | WR/ | INJURY | — | Diggs brought in six of seven targets for 44 yards and a touchdown in the Commanders' 23-17 loss to the 49ers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
+| 2026-10-19 | Rachaad White | RB/WAS | NEWS | — | White rushed seven times for 27 yards and brought in four of five targets for 30 yards and a touchdown in the Commanders' 23-17 loss to the 49ers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
 | 2026-10-19 | Mike Evans | WR/SF | INJURY | — | Evans (Achilles) has been ruled out for the remainder of Monday night's game against the Commanders, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-10-19 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey rushed 16 times for 64 yards and two touchdowns and brought in nine of 10 targets for 53 yards in the 49ers' 23-17 win over the Commanders on Monday night. He also lost a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
 | 2026-10-19 | Mike Evans | WR/SF | INJURY | — | Evans is expected to miss some time after aggravating his Achilles injury in Monday night's 23-17 win over the Commanders, Jennifer Lee Chan of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
@@ -979,41 +989,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Omar Cooper | WR/NYJ | 1141800 |
-| Cleveland Browns | DEF/CLE | 317639 |
-| Tank Dell | WR/HOU | 274128 |
-| C.J. Stroud | QB/HOU | 244531 |
-| Kyle Pitts | TE/ATL | 190918 |
-| Konata Mumpfield | WR/LAR | 185175 |
-| Michael Mayer | TE/LV | 183132 |
-| Tre Tucker | WR/LV | 165756 |
-| Roschon Johnson | RB/CHI | 149464 |
-| Keon Coleman | WR/BUF | 135828 |
-| Ryan Flournoy | WR/DAL | 98776 |
-| J.J. McCarthy | QB/NYG | 94794 |
-| Austin Ekeler | RB/WAS | 89348 |
-| Jaleel McLaughlin | RB/CLE | 83725 |
-| Kyler Murray | QB/MIN | 80088 |
+| Omar Cooper | WR/NYJ | 2567696 |
+| Cleveland Browns | DEF/CLE | 992950 |
+| Konata Mumpfield | WR/LAR | 625536 |
+| Tank Dell | WR/HOU | 491240 |
+| C.J. Stroud | QB/HOU | 468447 |
+| Kyler Murray | QB/MIN | 460384 |
+| Michael Mayer | TE/LV | 392904 |
+| Tre Tucker | WR/LV | 296370 |
+| Roschon Johnson | RB/CHI | 293600 |
+| Kyle Pitts | TE/ATL | 282646 |
+| Chase McLaughlin | K/TB | 271616 |
+| Terrance Ferguson | TE/LAR | 267568 |
+| Minnesota Vikings | DEF/MIN | 246315 |
+| Jake Bates | K/DET | 213328 |
+| Tyrone Tracy | RB/NYG | 210576 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jalen Hurts | QB/PHI | 350624 |
-| MarShawn Lloyd | RB/GB | 299295 |
-| Tyler Higbee | TE/LAR | 195480 |
-| Keaton Mitchell | RB/LAC | 181602 |
-| Jacory Croskey-Merritt | RB/WAS | 165267 |
-| Darius Cooper | WR/PHI | 164864 |
-| Romeo Doubs | WR/NE | 149120 |
-| Emanuel Wilson | RB/SEA | 123912 |
-| Jacksonville Jaguars | DEF/JAX | 122466 |
-| Darren Waller | TE/CAR | 119880 |
-| Tyreek Hill | WR/FA | 115448 |
-| New England Patriots | DEF/NE | 106554 |
-| Davante Adams | WR/LAR | 93072 |
-| Indianapolis Colts | DEF/IND | 82962 |
-| Terry McLaurin | WR/WAS | 82926 |
+| MarShawn Lloyd | RB/GB | 633807 |
+| Jalen Hurts | QB/PHI | 479992 |
+| Jacksonville Jaguars | DEF/JAX | 363006 |
+| Keaton Mitchell | RB/LAC | 341082 |
+| Tyler Higbee | TE/LAR | 334485 |
+| New England Patriots | DEF/NE | 313677 |
+| Romeo Doubs | WR/NE | 294152 |
+| Darius Cooper | WR/PHI | 284970 |
+| Terry McLaurin | WR/WAS | 275580 |
+| Emanuel Wilson | RB/SEA | 271503 |
+| Jacory Croskey-Merritt | RB/WAS | 254826 |
+| Indianapolis Colts | DEF/IND | 252285 |
+| Nick Folk | K/ATL | 220284 |
+| Darren Waller | TE/CAR | 216972 |
+| Tyreek Hill | WR/FA | 189184 |
 
 
 ---
@@ -1024,44 +1034,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| C.J. Gardner-Johnson | DB/BUF | (unlisted) | Sus |
-| Naquan Jones | DT/SF | (unlisted) | Out |
-| Jack Sanborn | LB/CHI | (unlisted) | Questionable |
-| Davante Adams | WR/LAR | (unlisted) | Out |
-| Isaac Yiadom | CB/WAS | (unlisted) | Out |
-| Mike Evans | WR/SF | Questionable | Out |
-| A.J. Brown | WR/NE | (unlisted) | Questionable |
-| Jacory Croskey-Merritt | RB/WAS | Out | IR |
-| Luke Gifford | LB/SF | (unlisted) | Questionable |
-| Fabian Moreau | CB/WAS | (unlisted) | Out |
-| Kurtis Rourke | QB/SF | (unlisted) | Out |
-| Blake Grupe | K/LAR | Questionable | IR |
-| Terry McLaurin | WR/WAS | (unlisted) | Out |
-| Romeo Doubs | WR/NE | Out | IR |
-| Poona Ford | DT/LAR | (unlisted) | Out |
-| Elijah Arroyo | TE/SEA | Doubtful | Out |
-| Enrique Cruz | OL/SF | (unlisted) | Out |
-| Brett Toth | OL/SF | IR | Questionable |
-| Kobie Turner | DT/LAR | (unlisted) | Out |
-| Javontae Jean-Baptiste | DL/WAS | Out | IR |
-| T.J. Maguranyanga | DE/WAS | (unlisted) | Out |
-| Carter Warren | OL/FA | Questionable | (cleared) |
-| Jordan Magee | LB/WAS | IR | (cleared) |
-| Taki Taimani | DL/FA | Questionable | (cleared) |
-| Tyler Owens | DB/WAS | Questionable | (cleared) |
-| Trey Amos | DB/WAS | IR | (cleared) |
-| Mykel Williams | DL/SF | Questionable | (cleared) |
-| Upton Stout | CB/SF | Questionable | (cleared) |
-| Gracen Halton | DT/SF | Questionable | (cleared) |
-| Aidan Keanaaina | DL/FA | Questionable | (cleared) |
-| Stefon Diggs | WR/WAS | Questionable | (cleared) |
-| Lucas Patrick | G/WAS | Questionable | (cleared) |
-| Jeremy McNichols | RB/WAS | IR | (cleared) |
-| Siran Neal | CB/SF | Questionable | (cleared) |
-| Nick Cross | DB/WAS | Questionable | (cleared) |
-| Percy Butler | DB/WAS | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1912,7 +1885,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Luke Gifford | LB/SF | Questionable | — | — |
 | Marques Sigle | DB/SF | Out | — | — |
 | Mikail Kamara | DE/SF | IR | — | — |
-| Mike Evans | WR/SF | Out | — | Evans (Achilles) has been ruled out for the remainder of Monday night's game against the Commanders, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
+| Mike Evans | WR/SF | Out | — | Head coach Kyle Shanahan said after Monday's 23-17 win over the Commanders that Evans' early exit was due to right Achilles tendinitis, but he doesn't believe the wideout will require further testing or imaging, Nick Wagoner of ESPN.com reports. "I hope he recovers throughout... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
 | Naquan Jones | DT/SF | Out | — | — |
 | Nate Hobbs | CB/SF | IR | — | — |
 | Nick Bosa | DE/SF | Out | — | Bosa (knee) worked to the side on the practice field Monday and is expected to do the same Tuesday, with a return to practice planned for Wednesday, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/nick-bosa-13421)) |
@@ -1960,5 +1933,5 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Leo Chenal | LB/WAS | IR | — | — |
 | Marcus Mariota | QB/WAS | Out | — | Coach Dan Quinn confirmed Monday that Mariota has been diagnosed with a sprained MCL in his right knee, and the quarterback's recovery timeline is to be determined, Ben Standig of The Team 980 Washington D.C. reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) |
 | T.J. Maguranyanga | DE/WAS | Out | — | — |
-| Terry McLaurin | WR/WAS | Out | — | McLaurin (hamstring) practiced in a limited capacity Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
+| Terry McLaurin | WR/WAS | Out | — | McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
 
