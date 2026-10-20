@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-20 15:24 UTC_ · 871 items total · 862/871 matched to a player
+_Last updated: 2026-10-20 20:11 UTC_ · 873 items total · 864/873 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-10-20 15:24 UTC_ · 871 items total · 862/871 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-20 | Terry McLaurin | WR/WAS | INJURY | — | Coach Dan Quinn noted Tuesday that McLaurin tore his left patellar tendon during Monday's loss to the 49ers, according to John Keim of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
+| 2026-10-20 | A.J. Brown | WR/NE | NEWS | — | Brown (ankle) was spotted on the practice field Tuesday, according to Mike Reiss of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
 | 2026-10-20 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said after Monday's 23-17 win over the Commanders that Evans' early exit was due to right Achilles tendinitis, but he doesn't believe the wideout will require further testing or imaging, Nick Wagoner of ESPN.com reports. "I hope he recovers throughout... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-10-20 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-20 | Najee Harris | RB/ | NEWS | — | The Giants will release Harris on Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/najee-harris-15468)) | Rotowire |
@@ -107,6 +109,8 @@ _Last updated: 2026-10-20 15:24 UTC_ · 871 items total · 862/871 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-20 | Terry McLaurin | WR/WAS | INJURY | — | Coach Dan Quinn noted Tuesday that McLaurin tore his left patellar tendon during Monday's loss to the 49ers, according to John Keim of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
+| 2026-10-20 | A.J. Brown | WR/NE | NEWS | — | Brown (ankle) was spotted on the practice field Tuesday, according to Mike Reiss of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
 | 2026-10-20 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said after Monday's 23-17 win over the Commanders that Evans' early exit was due to right Achilles tendinitis, but he doesn't believe the wideout will require further testing or imaging, Nick Wagoner of ESPN.com reports. "I hope he recovers throughout... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-10-20 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-20 | Najee Harris | RB/ | NEWS | — | The Giants will release Harris on Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/najee-harris-15468)) | Rotowire |
@@ -989,41 +993,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Omar Cooper | WR/NYJ | 2567696 |
-| Cleveland Browns | DEF/CLE | 992950 |
-| Konata Mumpfield | WR/LAR | 625536 |
-| Tank Dell | WR/HOU | 491240 |
-| C.J. Stroud | QB/HOU | 468447 |
-| Kyler Murray | QB/MIN | 460384 |
-| Michael Mayer | TE/LV | 392904 |
-| Tre Tucker | WR/LV | 296370 |
-| Roschon Johnson | RB/CHI | 293600 |
-| Kyle Pitts | TE/ATL | 282646 |
-| Chase McLaughlin | K/TB | 271616 |
-| Terrance Ferguson | TE/LAR | 267568 |
-| Minnesota Vikings | DEF/MIN | 246315 |
-| Jake Bates | K/DET | 213328 |
-| Tyrone Tracy | RB/NYG | 210576 |
+| Omar Cooper | WR/NYJ | 3506792 |
+| Cleveland Browns | DEF/CLE | 1361486 |
+| Konata Mumpfield | WR/LAR | 932868 |
+| Kyler Murray | QB/MIN | 701248 |
+| Tank Dell | WR/HOU | 613144 |
+| C.J. Stroud | QB/HOU | 563528 |
+| Michael Mayer | TE/LV | 522612 |
+| Terrance Ferguson | TE/LAR | 407432 |
+| Roschon Johnson | RB/CHI | 399448 |
+| Chase McLaughlin | K/TB | 391568 |
+| Tre Tucker | WR/LV | 375798 |
+| Tyrone Tracy | RB/NYG | 356414 |
+| Minnesota Vikings | DEF/MIN | 349720 |
+| Jake Bates | K/DET | 340744 |
+| Kyle Pitts | TE/ATL | 318031 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 633807 |
-| Jalen Hurts | QB/PHI | 479992 |
-| Jacksonville Jaguars | DEF/JAX | 363006 |
-| Keaton Mitchell | RB/LAC | 341082 |
-| Tyler Higbee | TE/LAR | 334485 |
-| New England Patriots | DEF/NE | 313677 |
-| Romeo Doubs | WR/NE | 294152 |
-| Darius Cooper | WR/PHI | 284970 |
-| Terry McLaurin | WR/WAS | 275580 |
-| Emanuel Wilson | RB/SEA | 271503 |
-| Jacory Croskey-Merritt | RB/WAS | 254826 |
-| Indianapolis Colts | DEF/IND | 252285 |
-| Nick Folk | K/ATL | 220284 |
-| Darren Waller | TE/CAR | 216972 |
-| Tyreek Hill | WR/FA | 189184 |
+| MarShawn Lloyd | RB/GB | 845451 |
+| Terry McLaurin | WR/WAS | 622056 |
+| Jacksonville Jaguars | DEF/JAX | 503790 |
+| Keaton Mitchell | RB/LAC | 444789 |
+| New England Patriots | DEF/NE | 426405 |
+| Tyler Higbee | TE/LAR | 406809 |
+| Jalen Hurts | QB/PHI | 394564 |
+| Romeo Doubs | WR/NE | 385064 |
+| Emanuel Wilson | RB/SEA | 360027 |
+| Darius Cooper | WR/PHI | 354991 |
+| Indianapolis Colts | DEF/IND | 343530 |
+| Jacory Croskey-Merritt | RB/WAS | 311904 |
+| Najee Harris | RB/NYG | 309200 |
+| Nick Folk | K/ATL | 295254 |
+| Darren Waller | TE/CAR | 271701 |
 
 
 ---
@@ -1725,7 +1729,7 @@ _None since last run._
 | Odell Beckham | WR/MIN | Out | — | — |
 | T.J. Hockenson | TE/MIN | Out | — | — |
 | Tyler Batty | DL/MIN | IR | — | — |
-| A.J. Brown | WR/NE | Questionable | — | Brown (ankle), who is listed as questionable for Sunday's game against the Jets, is expected to be active and play "a good amount" of snaps, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) |
+| A.J. Brown | WR/NE | Questionable | — | Brown (ankle) was spotted on the practice field Tuesday, according to Mike Reiss of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) |
 | Alijah Vera-Tucker | OL/NE | Questionable | — | — |
 | Behren Morton | QB/NE | Out | — | — |
 | Ben Brown | OG/NE | Questionable | — | — |
@@ -1933,5 +1937,5 @@ _None since last run._
 | Leo Chenal | LB/WAS | IR | — | — |
 | Marcus Mariota | QB/WAS | Out | — | Coach Dan Quinn confirmed Monday that Mariota has been diagnosed with a sprained MCL in his right knee, and the quarterback's recovery timeline is to be determined, Ben Standig of The Team 980 Washington D.C. reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marcus-mariota-10074)) |
 | T.J. Maguranyanga | DE/WAS | Out | — | — |
-| Terry McLaurin | WR/WAS | Out | — | McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
+| Terry McLaurin | WR/WAS | Out | — | Coach Dan Quinn noted Tuesday that McLaurin tore his left patellar tendon during Monday's loss to the 49ers, according to John Keim of ESPN.com. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
 
