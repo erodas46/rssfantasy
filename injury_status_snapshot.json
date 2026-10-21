@@ -535,7 +535,7 @@
     "name": "Carson Steele",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PHI"
   },
   "11583": {
@@ -733,6 +733,13 @@
     "since": "",
     "status": "PUP",
     "team": "DET"
+  },
+  "11748": {
+    "name": "Bub Means",
+    "pos": "WR",
+    "since": "",
+    "status": "Out",
+    "team": "CLE"
   },
   "11750": {
     "name": "Dominique Hampton",
@@ -1434,6 +1441,13 @@
     "status": "IR",
     "team": "SF"
   },
+  "12631": {
+    "name": "Upton Stout",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "SF"
+  },
   "12632": {
     "name": "Caleb Ransaw",
     "pos": "DB",
@@ -1614,7 +1628,7 @@
     "pos": "DL",
     "since": "",
     "status": "Questionable",
-    "team": "FA"
+    "team": "HOU"
   },
   "12725": {
     "name": "Luke Lachey",
@@ -3167,7 +3181,7 @@
     "name": "Davante Adams",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "LAR"
   },
   "2152": {
@@ -3470,13 +3484,6 @@
     "since": "",
     "status": "Questionable",
     "team": "MIN"
-  },
-  "4233": {
-    "name": "Zane Gonzalez",
-    "pos": "K",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "4331": {
     "name": "Rigoberto Sanchez",
@@ -3797,7 +3804,7 @@
     "name": "Poona Ford",
     "pos": "DT",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "LAR"
   },
   "5288": {
@@ -4603,7 +4610,7 @@
     "pos": "OL",
     "since": "",
     "status": "Questionable",
-    "team": "SF"
+    "team": "FA"
   },
   "6750": {
     "name": "Logan Tago",
@@ -4709,13 +4716,6 @@
     "since": "",
     "status": "IR",
     "team": "ATL"
-  },
-  "6841": {
-    "name": "Jordan Elliott",
-    "pos": "DT",
-    "since": "",
-    "status": "Out",
-    "team": "TEN"
   },
   "6845": {
     "name": "Zack Moss",
@@ -5149,7 +5149,7 @@
     "pos": "RB",
     "since": "",
     "status": "Questionable",
-    "team": "FA"
+    "team": "PHI"
   },
   "7562": {
     "name": "Tutu Atwell",
