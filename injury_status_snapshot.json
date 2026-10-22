@@ -486,7 +486,7 @@
     "name": "Carson Steele",
     "pos": "RB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "FA"
   },
   "11583": {
@@ -1448,13 +1448,6 @@
     "status": "IR",
     "team": "FA"
   },
-  "12638": {
-    "name": "Quincy Riley",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
-  },
   "12641": {
     "name": "Jaylin Lane",
     "pos": "WR",
@@ -1529,7 +1522,7 @@
     "name": "Kiko Mauigoa",
     "pos": "LB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Questionable",
     "team": "NYJ"
   },
   "12668": {
@@ -2091,6 +2084,13 @@
     "since": "",
     "status": "Questionable",
     "team": "GB"
+  },
+  "13380": {
+    "name": "Brenen Thompson",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAC"
   },
   "13389": {
     "name": "Avieon Terrell",
@@ -4462,7 +4462,7 @@
     "name": "Antoine Winfield Jr.",
     "pos": "DB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Questionable",
     "team": "TB"
   },
   "6904": {
@@ -4903,7 +4903,7 @@
     "name": "Jaelan Phillips",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "CAR"
   },
   "7638": {
@@ -5806,7 +5806,7 @@
     "name": "Keir Thomas",
     "pos": "DE",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "LAR"
   },
   "8750": {
@@ -5911,7 +5911,7 @@
     "name": "Tyler Scott",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "Questionable",
     "team": "LV"
   },
   "9499": {
