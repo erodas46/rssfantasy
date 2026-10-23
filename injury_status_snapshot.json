@@ -1501,7 +1501,7 @@
     "name": "Kiko Mauigoa",
     "pos": "LB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "12668": {
@@ -2890,13 +2890,6 @@
     "status": "IR",
     "team": "WAS"
   },
-  "3160": {
-    "name": "Jalen Ramsey",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PIT"
-  },
   "3192": {
     "name": "Artie Burns",
     "pos": "DB",
@@ -2995,13 +2988,6 @@
     "status": "IR",
     "team": "LAC"
   },
-  "4035": {
-    "name": "Alvin Kamara",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
-  },
   "4059": {
     "name": "Marshon Lattimore",
     "pos": "CB",
@@ -3015,13 +3001,6 @@
     "since": "",
     "status": "Questionable",
     "team": "CLE"
-  },
-  "4070": {
-    "name": "T.J. Watt",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PIT"
   },
   "4077": {
     "name": "Jamal Adams",
@@ -3351,6 +3330,13 @@
     "since": "",
     "status": "PUP",
     "team": "NE"
+  },
+  "5043": {
+    "name": "Nathan Shepherd",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
   },
   "5048": {
     "name": "Isaac Yiadom",
@@ -4059,13 +4045,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "6302": {
-    "name": "Kaden Elliss",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
-  },
   "6303": {
     "name": "Joshua Miles",
     "pos": "OL",
@@ -4360,13 +4339,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "6848": {
-    "name": "Anfernee Jennings",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "NO"
-  },
   "6850": {
     "name": "Harrison Bryant",
     "pos": "TE",
@@ -4660,13 +4632,6 @@
     "since": "",
     "status": "NA",
     "team": "FA"
-  },
-  "7113": {
-    "name": "Alex Highsmith",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PIT"
   },
   "7117": {
     "name": "L'Jarius Sneed",
@@ -4980,7 +4945,7 @@
     "name": "Joseph Ossai",
     "pos": "DE",
     "since": "",
-    "status": "Doubtful",
+    "status": "Out",
     "team": "NYJ"
   },
   "7693": {
@@ -5610,7 +5575,7 @@
     "name": "Max Mitchell",
     "pos": "T",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "8477": {
