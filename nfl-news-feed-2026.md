@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-24 14:08 UTC_ · 913 items total · 904/913 matched to a player
+_Last updated: 2026-10-24 19:07 UTC_ · 918 items total · 909/918 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-24 14:08 UTC_ · 913 items total · 904/913 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) was not seen at the Eagles' practice Saturday, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-10-24 | Dontayvion Wicks | WR/PHI | NEWS | — | Wicks (ankle) was not on the field for the start of Saturday's practice, Andrew DiCecco of Inside the Birds reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) | Rotowire |
+| 2026-10-24 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring) was on the field for the start of Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-10-24 | Dylan Sampson | RB/CLE | INJURY | — | Sampson (knee) was activated from injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) | Rotowire |
+| 2026-10-24 | Dallas Goedert | TE/PHI | INJURY | — | Goedert (knee) said he felt good at Saturday's practice after dealing with inflammation earlier in the week, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) | Rotowire |
 | 2026-10-23 | Cam Skattebo | RB/NYG | NEWS | — | Head coach John Harbaugh said Friday that Skattebo had a "good week" of practice and that the second-year running back should be back in the mix for backfield touches against the Texans on Sunday, Jordan Ranaan of ESPN.com reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-10-23 | David Montgomery | RB/HOU | INJURY | — | Marks is lined up to start at running back against the Giants on Sunday with David Montgomery (groin) ruled out. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
 | 2026-10-23 | Jordan Mason | RB/MIN | INJURY | — | Jones may log fewer touches in Week 7 against Indianapolis on Sunday, as fellow RB Jordan Mason (thumb) is questionable to suit up, Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-jones-11763)) | Rotowire |
@@ -104,6 +109,11 @@ _Last updated: 2026-10-24 14:08 UTC_ · 913 items total · 904/913 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-24 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) was not seen at the Eagles' practice Saturday, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-10-24 | Dontayvion Wicks | WR/PHI | NEWS | — | Wicks (ankle) was not on the field for the start of Saturday's practice, Andrew DiCecco of Inside the Birds reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) | Rotowire |
+| 2026-10-24 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring) was on the field for the start of Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-10-24 | Dylan Sampson | RB/CLE | INJURY | — | Sampson (knee) was activated from injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) | Rotowire |
+| 2026-10-24 | Dallas Goedert | TE/PHI | INJURY | — | Goedert (knee) said he felt good at Saturday's practice after dealing with inflammation earlier in the week, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) | Rotowire |
 | 2026-10-23 | Cam Skattebo | RB/NYG | NEWS | — | Head coach John Harbaugh said Friday that Skattebo had a "good week" of practice and that the second-year running back should be back in the mix for backfield touches against the Texans on Sunday, Jordan Ranaan of ESPN.com reports. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-10-23 | David Montgomery | RB/HOU | INJURY | — | Marks is lined up to start at running back against the Giants on Sunday with David Montgomery (groin) ruled out. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
 | 2026-10-23 | Jordan Mason | RB/MIN | INJURY | — | Jones may log fewer touches in Week 7 against Indianapolis on Sunday, as fellow RB Jordan Mason (thumb) is questionable to suit up, Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-jones-11763)) | Rotowire |
@@ -1028,41 +1038,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Konata Mumpfield | WR/LAR | 403632 |
-| Seth McGowan | RB/IND | 318288 |
-| Tyler Higbee | TE/LAR | 299772 |
-| Chris Godwin Jr. | WR/TB | 204366 |
-| Emanuel Wilson | RB/SEA | 191484 |
-| Ted Hurst III | WR/TB | 132096 |
-| Michael Mayer | TE/LV | 131616 |
-| Zonovan Knight | RB/ARI | 100998 |
-| Brandin Cooks | WR/SF | 92236 |
-| Ryan Flournoy | WR/DAL | 82064 |
-| Malik Washington | WR/MIA | 77128 |
-| Adonai Mitchell | WR/NYJ | 74392 |
-| Tyler Allgeier | RB/ARI | 72810 |
-| Chase McLaughlin | K/TB | 67912 |
-| Caleb Douglas | WR/MIA | 67496 |
+| Seth McGowan | RB/IND | 343640 |
+| Konata Mumpfield | WR/LAR | 328050 |
+| Emanuel Wilson | RB/SEA | 223542 |
+| Tyler Higbee | TE/LAR | 222921 |
+| Chris Godwin Jr. | WR/TB | 184746 |
+| Ted Hurst III | WR/TB | 125178 |
+| Michael Mayer | TE/LV | 94365 |
+| Brandin Cooks | WR/SF | 91352 |
+| Zonovan Knight | RB/ARI | 84844 |
+| Jordan Watkins | WR/SF | 65680 |
+| Xavier Worthy | WR/KC | 64269 |
+| Adonai Mitchell | WR/NYJ | 63896 |
+| Ryan Flournoy | WR/DAL | 62144 |
+| Caleb Douglas | WR/MIA | 59432 |
+| Tyler Allgeier | RB/ARI | 57755 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 147366 |
-| Dameon Pierce | RB/PHI | 135320 |
-| Emanuel Wilson | RB/SEA | 77823 |
-| Jaleel McLaughlin | RB/CLE | 76900 |
-| Brian Robinson Jr. | RB/ATL | 70596 |
-| Keaton Mitchell | RB/LAC | 69228 |
-| Konata Mumpfield | WR/LAR | 68589 |
-| Roschon Johnson | RB/CHI | 68248 |
-| Terry McLaurin | WR/WAS | 64812 |
-| Brenton Strange | TE/JAX | 60570 |
-| Keon Coleman | WR/BUF | 53883 |
-| Darren Waller | TE/CAR | 51876 |
-| Tyreek Hill | WR/FA | 50856 |
-| Darius Cooper | WR/PHI | 50764 |
-| Michael Mayer | TE/LV | 48384 |
+| MarShawn Lloyd | RB/GB | 125271 |
+| Dameon Pierce | RB/PHI | 117504 |
+| Jaleel McLaughlin | RB/CLE | 73665 |
+| Konata Mumpfield | WR/LAR | 62100 |
+| Keaton Mitchell | RB/LAC | 59211 |
+| Brian Robinson Jr. | RB/ATL | 57330 |
+| Terry McLaurin | WR/WAS | 55068 |
+| Roschon Johnson | RB/CHI | 53480 |
+| Brenton Strange | TE/JAX | 49860 |
+| Keon Coleman | WR/BUF | 46161 |
+| Emanuel Wilson | RB/SEA | 45891 |
+| Tyreek Hill | WR/FA | 45736 |
+| Michael Mayer | TE/LV | 43884 |
+| Darren Waller | TE/CAR | 42867 |
+| Darius Cooper | WR/PHI | 42735 |
 
 
 ---
@@ -1191,7 +1201,7 @@ _None since last run._
 | Damarri Mathis | DB/CLE | IR | — | — |
 | Denzel Ward | CB/CLE | Questionable | — | — |
 | Dillon Gabriel | QB/CLE | IR | — | — |
-| Dylan Sampson | RB/CLE | IR | — | Sampson (knee) was placed on injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) |
+| Dylan Sampson | RB/CLE | IR | — | Sampson (knee) was activated from injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dylan-sampson-18467)) |
 | Grant Delpit | DB/CLE | Questionable | — | — |
 | Jeremiah Owusu-Koramoah | LB/CLE | PUP | — | — |
 | Joe Royer | TE/CLE | PUP | — | — |
@@ -1759,9 +1769,9 @@ _None since last run._
 | VJ Payne | DB/NYJ | IR | — | — |
 | A.J. Epenesa | DE/PHI | Questionable | — | — |
 | Andre' Sam | DB/PHI | IR | — | — |
-| Dallas Goedert | TE/PHI | Questionable | — | Goedert (knee) was held out of Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) |
-| DeVonta Smith | WR/PHI | Questionable | — | Smith (hamstring) was working on the JUGS machine during Wednesday's practice, Olivia Reiner of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
-| Dontayvion Wicks | WR/PHI | Questionable | — | — |
+| Dallas Goedert | TE/PHI | Questionable | — | Goedert (knee) said he felt good at Saturday's practice after dealing with inflammation earlier in the week, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) |
+| DeVonta Smith | WR/PHI | Questionable | — | Smith (hamstring) was not seen at the Eagles' practice Saturday, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
+| Dontayvion Wicks | WR/PHI | Questionable | — | Wicks (ankle) was not on the field for the start of Saturday's practice, Andrew DiCecco of Inside the Birds reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) |
 | Eli Stowers | TE/PHI | IR | — | — |
 | Fred Johnson | T/PHI | Questionable | — | — |
 | Grant Calcaterra | TE/PHI | IR | — | — |
@@ -1774,7 +1784,7 @@ _None since last run._
 | Michael Carter II | CB/PHI | Questionable | — | — |
 | Moro Ojomo | DE/PHI | Questionable | — | — |
 | Nolan Smith Jr. | LB/PHI | Questionable | — | — |
-| Saquon Barkley | RB/PHI | Questionable | — | Barkley (hamstring) is expected to practice Thursday and "is in line to play Monday against the Cowboys," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
+| Saquon Barkley | RB/PHI | Questionable | — | Barkley (hamstring) was on the field for the start of Saturday's practice, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
 | Tank Bigsby | RB/PHI | IR | — | The Eagles placed Bigsby (abdomen) on injured reserve Tuesday, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-bigsby-16705)) |
 | Tucker Large | DB/PHI | PUP | — | — |
 | Tyler Steen | OL/PHI | Questionable | — | — |
