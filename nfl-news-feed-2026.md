@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-25 14:35 UTC_ · 928 items total · 919/928 matched to a player
+_Last updated: 2026-10-25 19:21 UTC_ · 933 items total · 924/933 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-25 14:35 UTC_ · 928 items total · 919/928 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey (thigh) returned to Sunday's contest in Atlanta, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
+| 2026-10-25 | Josh Jacobs | RB/GB | NEWS | — | Jacobs is active for Sunday's game against the Lions. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
+| 2026-10-25 | Mike Washington | RB/LV | NEWS | — | Washington (foot/back) is active for Sunday's game against the Rams. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
+| 2026-10-25 | Puka Nacua | WR/LAR | NEWS | — | Nacua (calf) is active for Sunday's game at Las Vegas, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-10-25 | Drake London | WR/ATL | NEWS | — | London (head) was cleared to return to Sunday's game against the 49ers, Josh Kendall of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drake-london-15868)) | Rotowire |
 | 2026-10-25 | Breece Hall | RB/NYJ | NEWS | — | Hall (quadriceps) is unlikely to suit up for Sunday's game against the Dolphins, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-10-25 | Puka Nacua | WR/LAR | INJURY | 🔥 Schefter | The Rams are optimistic that Nacua (calf), who is listed as questionable for Week 7, will play in Sunday's game at Las Vegas, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-10-25 | Rico Dowdle | RB/PIT | NEWS | — | Dowdle (knee) is active for Sunday's game against the Saints in Paris, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
@@ -109,6 +114,11 @@ _Last updated: 2026-10-25 14:35 UTC_ · 928 items total · 919/928 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-25 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey (thigh) returned to Sunday's contest in Atlanta, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
+| 2026-10-25 | Josh Jacobs | RB/GB | NEWS | — | Jacobs is active for Sunday's game against the Lions. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
+| 2026-10-25 | Mike Washington | RB/LV | NEWS | — | Washington (foot/back) is active for Sunday's game against the Rams. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-washington-19300)) | Rotowire |
+| 2026-10-25 | Puka Nacua | WR/LAR | NEWS | — | Nacua (calf) is active for Sunday's game at Las Vegas, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
+| 2026-10-25 | Drake London | WR/ATL | NEWS | — | London (head) was cleared to return to Sunday's game against the 49ers, Josh Kendall of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drake-london-15868)) | Rotowire |
 | 2026-10-25 | Breece Hall | RB/NYJ | NEWS | — | Hall (quadriceps) is unlikely to suit up for Sunday's game against the Dolphins, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/breece-hall-15810)) | Rotowire |
 | 2026-10-25 | Puka Nacua | WR/LAR | INJURY | 🔥 Schefter | The Rams are optimistic that Nacua (calf), who is listed as questionable for Week 7, will play in Sunday's game at Las Vegas, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) | Rotowire |
 | 2026-10-25 | Rico Dowdle | RB/PIT | NEWS | — | Dowdle (knee) is active for Sunday's game against the Saints in Paris, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
@@ -1048,41 +1058,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Seth McGowan | RB/IND | 704952 |
-| Darius Cooper | WR/PHI | 541583 |
-| Konata Mumpfield | WR/LAR | 287397 |
-| Tyler Higbee | TE/LAR | 240066 |
-| Emanuel Wilson | RB/SEA | 204129 |
-| Chris Godwin Jr. | WR/TB | 189456 |
-| Justice Hill | RB/BAL | 159741 |
-| Kyler Murray | QB/MIN | 135408 |
-| Makai Lemon | WR/PHI | 117376 |
-| Ted Hurst III | WR/TB | 116256 |
-| Xavier Worthy | WR/KC | 96966 |
-| Michael Mayer | TE/LV | 91467 |
-| Chase McLaughlin | K/TB | 88808 |
-| Bo Nix | QB/DEN | 85620 |
-| Zonovan Knight | RB/ARI | 80604 |
+| Darius Cooper | WR/PHI | 863485 |
+| Seth McGowan | RB/IND | 816848 |
+| Konata Mumpfield | WR/LAR | 309699 |
+| Tyler Higbee | TE/LAR | 299160 |
+| Emanuel Wilson | RB/SEA | 250227 |
+| Justice Hill | RB/BAL | 246402 |
+| Chris Godwin Jr. | WR/TB | 213486 |
+| Kaelon Black | RB/SF | 192353 |
+| Kyler Murray | QB/MIN | 180896 |
+| Makai Lemon | WR/PHI | 164444 |
+| Xavier Worthy | WR/KC | 130032 |
+| Michael Mayer | TE/LV | 128673 |
+| Ted Hurst III | WR/TB | 126054 |
+| KC Concepcion Jr. | WR/CLE | 125217 |
+| Chase McLaughlin | K/TB | 124808 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| MarShawn Lloyd | RB/GB | 239778 |
-| Dameon Pierce | RB/PHI | 214576 |
-| Tank Dell | WR/HOU | 126808 |
-| Konata Mumpfield | WR/LAR | 121374 |
-| Keaton Mitchell | RB/LAC | 114696 |
-| Jaleel McLaughlin | RB/CLE | 111305 |
-| Tyreek Hill | WR/FA | 91112 |
-| Brenton Strange | TE/JAX | 88209 |
-| Terry McLaurin | WR/WAS | 86916 |
-| Keon Coleman | WR/BUF | 86409 |
-| Brian Robinson Jr. | RB/ATL | 82494 |
-| Roschon Johnson | RB/CHI | 75280 |
-| Darren Waller | TE/CAR | 73062 |
-| Kenny Gainwell | RB/TB | 72568 |
-| Alvin Kamara | RB/NO | 71904 |
+| MarShawn Lloyd | RB/GB | 311859 |
+| Dameon Pierce | RB/PHI | 279136 |
+| Konata Mumpfield | WR/LAR | 178929 |
+| Tank Dell | WR/HOU | 174584 |
+| Keaton Mitchell | RB/LAC | 154359 |
+| Jaleel McLaughlin | RB/CLE | 126785 |
+| Tyreek Hill | WR/FA | 120088 |
+| Brenton Strange | TE/JAX | 119097 |
+| Terry McLaurin | WR/WAS | 117678 |
+| Keon Coleman | WR/BUF | 117558 |
+| Brian Robinson Jr. | RB/ATL | 109320 |
+| Roschon Johnson | RB/CHI | 106000 |
+| Jacksonville Jaguars | DEF/JAX | 97608 |
+| Khalil Shakir | WR/BUF | 96678 |
+| Kenny Gainwell | RB/TB | 92104 |
 
 
 ---
@@ -1093,22 +1103,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Nathan Shepherd | DT/NO | Questionable | Out |
-| Zach Wilson | QB/NO | (unlisted) | Out |
-| Cesar Ruiz | OL/NO | Questionable | Out |
-| Treyton Welch | TE/NO | (unlisted) | Out |
-| Tyree Wilson | LB/NO | (unlisted) | Out |
-| Eli Heidenreich | RB/PIT | (unlisted) | Out |
-| Terell Smith | DB/PIT | (unlisted) | Out |
-| Mike Reid | CB/NO | (unlisted) | Out |
-| CJ Donaldson | RB/NO | (unlisted) | Questionable |
-| Will Howard | QB/PIT | (unlisted) | Out |
-| John Ridgeway III | DL/NO | (unlisted) | Out |
-| Drew Allar | QB/PIT | (unlisted) | Out |
-| DeShon Elliott | DB/PIT | Questionable | (cleared) |
-| Rico Dowdle | RB/PIT | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1686,7 +1681,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Myles Garrett | DE/LAR | IR | — | Head coach Sean McVay told reporters Tuesday that Garrett (knee) will not return to practice this week and will not play against the Cardinals on Sunday, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/myles-garrett-11914)) |
 | Nate Landman | LB/LAR | Out | — | — |
 | Poona Ford | DT/LAR | IR | — | — |
-| Puka Nacua | WR/LAR | Questionable | — | The Rams are optimistic that Nacua (calf), who is listed as questionable for Week 7, will play in Sunday's game at Las Vegas, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
+| Puka Nacua | WR/LAR | Questionable | — | Nacua (calf) is active for Sunday's game at Las Vegas, Sarah Barshop of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/puka-nacua-16790)) |
 | Ronnie Rivers | RB/LAR | IR | — | — |
 | Terrance Ferguson | TE/LAR | IR | — | Ferguson (ankle) officially didn't practice Wednesday, Adam Caplan of SiriusXM NFL Radio reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) |
 | Trent McDuffie | DB/LAR | Questionable | — | — |
