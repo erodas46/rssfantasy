@@ -62,6 +62,13 @@
     "status": "IR",
     "team": "JAX"
   },
+  "10889": {
+    "name": "Tyree Wilson",
+    "pos": "LB",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
+  },
   "10890": {
     "name": "Paris Johnson Jr.",
     "pos": "OL",
@@ -145,6 +152,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "10972": {
+    "name": "Terell Smith",
+    "pos": "DB",
+    "since": "",
+    "status": "Out",
+    "team": "PIT"
   },
   "10974": {
     "name": "Antonio Johnson",
@@ -853,6 +867,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "12079": {
+    "name": "Treyton Welch",
+    "pos": "TE",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
+  },
   "12094": {
     "name": "Alex Johnson",
     "pos": "CB",
@@ -1069,6 +1090,13 @@
     "since": "",
     "status": "Out",
     "team": "LAC"
+  },
+  "12511": {
+    "name": "Will Howard",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "PIT"
   },
   "12514": {
     "name": "Emeka Egbuka",
@@ -1567,6 +1595,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "12960": {
+    "name": "Mike Reid",
+    "pos": "CB",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
+  },
   "12979": {
     "name": "Josh Minkins",
     "pos": "DB",
@@ -1728,6 +1763,13 @@
     "status": "Questionable",
     "team": "ARI"
   },
+  "13277": {
+    "name": "CJ Donaldson",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "NO"
+  },
   "13281": {
     "name": "Jordyn Tyson",
     "pos": "WR",
@@ -1748,6 +1790,13 @@
     "since": "",
     "status": "Out",
     "team": "ARI"
+  },
+  "13289": {
+    "name": "Drew Allar",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "PIT"
   },
   "13291": {
     "name": "Kejon Owens",
@@ -1930,6 +1979,13 @@
     "since": "",
     "status": "IR",
     "team": "TEN"
+  },
+  "13423": {
+    "name": "Eli Heidenreich",
+    "pos": "RB",
+    "since": "",
+    "status": "Out",
+    "team": "PIT"
   },
   "1343": {
     "name": "Jordan Poyer",
@@ -3069,7 +3125,7 @@
     "name": "Nathan Shepherd",
     "pos": "DT",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
   },
   "5048": {
@@ -3106,13 +3162,6 @@
     "since": "",
     "status": "IR",
     "team": "IND"
-  },
-  "5071": {
-    "name": "DeShon Elliott",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PIT"
   },
   "5073": {
     "name": "Sebastian Joseph-Day",
@@ -3972,7 +4021,7 @@
     "name": "Cesar Ruiz",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
   },
   "6819": {
@@ -4149,13 +4198,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "7021": {
-    "name": "Rico Dowdle",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "PIT"
   },
   "7022": {
     "name": "Shane Lemieux",
@@ -4401,6 +4443,13 @@
     "since": "",
     "status": "IR",
     "team": "ARI"
+  },
+  "7538": {
+    "name": "Zach Wilson",
+    "pos": "QB",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
   },
   "7543": {
     "name": "Travis Etienne Jr.",
@@ -4975,6 +5024,13 @@
     "since": "",
     "status": "Out",
     "team": "JAX"
+  },
+  "8306": {
+    "name": "John Ridgeway III",
+    "pos": "DL",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
   },
   "8309": {
     "name": "Damone Clark",
