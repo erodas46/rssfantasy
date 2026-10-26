@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-26 17:01 UTC_ · 943 items total · 934/943 matched to a player
+_Last updated: 2026-10-26 21:14 UTC_ · 948 items total · 939/948 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-26 17:01 UTC_ · 943 items total · 934/943 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | Alec Pierce | WR/IND | NEWS | — | Colts head coach Shane Steichen said Monday that Pierce (heel) will "most likely not" have his 21-day practice window opened in Week 8, Jake Arthur of Roundtable.io reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
+| 2026-10-26 | Lamar Jackson | QB/BAL | NEWS | — | Ravens head coach Jesse Minter said that Jackson (ankle) is "in a decent spot" to play Sunday against the Bills, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
+| 2026-10-26 | Amon-Ra St. Brown | WR/DET | NEWS | — | Lions head coach Dan Campbell said that St. Brown tweaked his ankle during Sunday's 20-17 win over the Packers but should be ready to practice Thursday, Richard Silva of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
+| 2026-10-26 | Kirk Cousins | QB/LV | ROLE/DEPTH CHART | — | Head coach Klint Kubiak said that Cousins will remain the Raiders' starting quarterback heading into Sunday's game against the Jets, Paul Gutierrez of ESPN reports. "There is no controversy," Kubiak said. "He is playing at a very high level." Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/kirk-cousins-8057)) | Rotowire |
+| 2026-10-26 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (concussion) was spotted on the field in a no-contact jersey during the Chargers' bonus practice session Monday, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
 | 2026-10-26 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring), who is listed as questionable for Monday's game against the Cowboys, is "trending toward playing," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-10-26 | Cam Skattebo | RB/NYG | INJURY | — | Skattebo is expected to "OK" after tweaking his hamstring on a 42-yard run in overtime during Sunday's 27-21 win over the Texans, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-10-26 | Aaron Jones | RB/MIN | INJURY | 🔥 Schefter | The left knee injury that forced Jones out of Sunday's 16-10 win over the Colts isn't considered significant, and the running back is viewed as day-to-day, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-jones-11763)) | Rotowire |
@@ -109,6 +114,11 @@ _Last updated: 2026-10-26 17:01 UTC_ · 943 items total · 934/943 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | Alec Pierce | WR/IND | NEWS | — | Colts head coach Shane Steichen said Monday that Pierce (heel) will "most likely not" have his 21-day practice window opened in Week 8, Jake Arthur of Roundtable.io reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
+| 2026-10-26 | Lamar Jackson | QB/BAL | NEWS | — | Ravens head coach Jesse Minter said that Jackson (ankle) is "in a decent spot" to play Sunday against the Bills, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
+| 2026-10-26 | Amon-Ra St. Brown | WR/DET | NEWS | — | Lions head coach Dan Campbell said that St. Brown tweaked his ankle during Sunday's 20-17 win over the Packers but should be ready to practice Thursday, Richard Silva of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
+| 2026-10-26 | Kirk Cousins | QB/LV | ROLE/DEPTH CHART | — | Head coach Klint Kubiak said that Cousins will remain the Raiders' starting quarterback heading into Sunday's game against the Jets, Paul Gutierrez of ESPN reports. "There is no controversy," Kubiak said. "He is playing at a very high level." Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/kirk-cousins-8057)) | Rotowire |
+| 2026-10-26 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (concussion) was spotted on the field in a no-contact jersey during the Chargers' bonus practice session Monday, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
 | 2026-10-26 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring), who is listed as questionable for Monday's game against the Cowboys, is "trending toward playing," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-10-26 | Cam Skattebo | RB/NYG | INJURY | — | Skattebo is expected to "OK" after tweaking his hamstring on a 42-yard run in overtime during Sunday's 27-21 win over the Texans, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
 | 2026-10-26 | Aaron Jones | RB/MIN | INJURY | 🔥 Schefter | The left knee injury that forced Jones out of Sunday's 16-10 win over the Colts isn't considered significant, and the running back is viewed as day-to-day, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-jones-11763)) | Rotowire |
@@ -1063,41 +1073,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Darius Cooper | WR/PHI | 420630 |
-| Caleb Douglas | WR/MIA | 313184 |
-| Kaelon Black | RB/SF | 272328 |
-| KC Concepcion Jr. | WR/CLE | 234666 |
-| Seth McGowan | RB/IND | 210696 |
-| Omar Cooper Jr. | WR/NYJ | 144672 |
-| Emanuel Wilson | RB/SEA | 99324 |
-| Tre Tucker | WR/LV | 95010 |
-| Makai Lemon | WR/PHI | 76528 |
-| New England Patriots | DEF/NE | 74347 |
-| Dameon Pierce | RB/PHI | 68248 |
-| Chase McLaughlin | K/TB | 67640 |
-| Jake Bates | K/DET | 62216 |
-| Ryan Flournoy | WR/DAL | 61688 |
-| Tank Dell | WR/HOU | 58256 |
+| Caleb Douglas | WR/MIA | 329232 |
+| Darius Cooper | WR/PHI | 229334 |
+| KC Concepcion Jr. | WR/CLE | 203985 |
+| Seth McGowan | RB/IND | 157744 |
+| Omar Cooper Jr. | WR/NYJ | 119632 |
+| Kaelon Black | RB/SF | 105672 |
+| Tre Tucker | WR/LV | 93540 |
+| New England Patriots | DEF/NE | 83664 |
+| Emanuel Wilson | RB/SEA | 69849 |
+| Blake Corum | RB/LAR | 56968 |
+| Chase McLaughlin | K/TB | 56672 |
+| Jacksonville Jaguars | DEF/JAX | 55056 |
+| Dameon Pierce | RB/PHI | 50704 |
+| Devin Singletary | RB/NYG | 49203 |
+| Ryan Flournoy | WR/DAL | 49120 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Konata Mumpfield | WR/LAR | 222138 |
-| Tyler Higbee | TE/LAR | 155178 |
-| Roschon Johnson | RB/CHI | 127336 |
-| Dameon Pierce | RB/PHI | 116472 |
-| MarShawn Lloyd | RB/GB | 95031 |
-| Cleveland Browns | DEF/CLE | 84903 |
-| Michael Mayer | TE/LV | 68508 |
-| Tank Dell | WR/HOU | 55896 |
-| Houston Texans | DEF/HOU | 55620 |
-| Terry McLaurin | WR/WAS | 54408 |
-| Kyler Murray | QB/MIN | 53320 |
-| Keon Coleman | WR/BUF | 51552 |
-| Adonai Mitchell | WR/NYJ | 51528 |
-| Keaton Mitchell | RB/LAC | 50256 |
-| Emanuel Wilson | RB/SEA | 50067 |
+| Konata Mumpfield | WR/LAR | 195489 |
+| Tyler Higbee | TE/LAR | 160587 |
+| Roschon Johnson | RB/CHI | 114864 |
+| Cleveland Browns | DEF/CLE | 91532 |
+| Dameon Pierce | RB/PHI | 79448 |
+| Houston Texans | DEF/HOU | 60125 |
+| Michael Mayer | TE/LV | 59535 |
+| MarShawn Lloyd | RB/GB | 52794 |
+| Kyler Murray | QB/MIN | 48552 |
+| New York Jets | DEF/NYJ | 46576 |
+| San Francisco 49ers | DEF/SF | 43035 |
+| Malik Washington | WR/MIA | 42736 |
+| Xavier Worthy | WR/KC | 40905 |
+| Adonai Mitchell | WR/NYJ | 39808 |
+| C.J. Stroud | QB/HOU | 38892 |
 
 
 ---
@@ -1164,7 +1174,7 @@ _None since last run._
 | Jahquez Robinson | DB/BAL | IR | — | — |
 | Jaylinn Hawkins | SS/BAL | Out | — | — |
 | Jovaughn Gwyn | OL/BAL | IR | — | — |
-| Lamar Jackson | QB/BAL | Out | — | Jackson (ankle), who has been ruled out out for Sunday's game against the Bengals, was considered close to playing this week and is "likely to return" to action Week 8 versus the Bills, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
+| Lamar Jackson | QB/BAL | Out | — | Ravens head coach Jesse Minter said that Jackson (ankle) is "in a decent spot" to play Sunday against the Bills, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
 | Roquan Smith | LB/BAL | Questionable | — | — |
 | Skylar Thompson | QB/BAL | IR | — | — |
 | T.J. Tampa Jr. | DB/BAL | IR | — | — |
@@ -1654,7 +1664,7 @@ _None since last run._
 | Sam Hagen | OL/HOU | IR | — | — |
 | Solomon Byrd | DE/HOU | IR | — | — |
 | Woody Marks | RB/HOU | Questionable | — | — |
-| Alec Pierce | WR/IND | IR | — | Pierce was spotted without a cast on his left ankle/heel Wednesday, James Boyd of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) |
+| Alec Pierce | WR/IND | IR | — | Colts head coach Shane Steichen said Monday that Pierce (heel) will "most likely not" have his 21-day practice window opened in Week 8, Jake Arthur of Roundtable.io reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) |
 | Anthony Gould | WR/IND | Out | — | — |
 | Arden Key | DE/IND | IR | — | — |
 | Bryce Boettcher | LB/IND | Out | — | — |
@@ -1712,7 +1722,7 @@ _None since last run._
 | Isaiah World | OT/LAC | PUP | — | — |
 | Joe Alt | OL/LAC | Out | — | — |
 | Kayode Awosika | OL/LAC | Out | — | — |
-| Ladd McConkey | WR/LAC | Out | — | McConkey (foot) doesn't have an injury designation for Sunday's game against the Chiefs, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
+| Ladd McConkey | WR/LAC | Out | — | McConkey (concussion) was spotted on the field in a no-contact jersey during the Chargers' bonus practice session Monday, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
 | Rashawn Slater | T/LAC | IR | — | — |
 | Rodney Shelley | CB/LAC | Out | — | — |
 | Tre' Harris | WR/LAC | Out | — | — |
