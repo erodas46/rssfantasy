@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-27 16:04 UTC_ · 957 items total · 948/957 matched to a player
+_Last updated: 2026-10-27 21:01 UTC_ · 962 items total · 953/962 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-27 16:04 UTC_ · 957 items total · 948/957 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Tyrone Tracy | RB/NYG | INJURY | — | Giants general manager Joe Schoen said Tuesday that Tracy (hamstring) is slated to be placed on injured reserve, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyrone-tracy-17967)) | Rotowire |
+| 2026-10-27 | Jalen Coker | WR/CAR | NEWS | — | Coker (shoulder) was listed as a full participant in Tuesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
+| 2026-10-27 | Matthew Golden | WR/GB | NEWS | — | Golden (shoulder/foot) didn't participate in Tuesday's walkthrough practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-10-27 | Lamar Jackson | QB/BAL | NEWS | — | Jackson (ankle) is "believed to be close to 100 percent" and is expected to play Sunday versus the Bills, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
+| 2026-10-27 | DeForest Buckner | DT/IND | TRANSACTION | — | The 49ers acquired Buckner from the Colts on Tuesday in exchange for a 2027 fourth-round pick, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deforest-buckner-10925)) | Rotowire |
 | 2026-10-27 | Dameon Pierce | RB/PHI | INJURY | — | Pierce didn't take the field for either of the Eagles' final two possessions of Monday's 38-21 loss to the Cowboys after sustaining an undisclosed injury with 8:38 remaining in the fourth quarter, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/dameon-pierce-15875)) | Rotowire |
 | 2026-10-27 | Saquon Barkley | RB/PHI | INJURY | — | Barkley said after Monday's 38-21 loss to the Cowboys that his "hamstring came out great," and noted that the back issue that kept him out for the entire fourth quarter isn't anything that he expects to prevent him from playing Sunday against the Commanders, Tim McManus of... ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-10-26 | Makai Lemon | WR/PHI | NEWS | — | Lemon brought in seven of eight targets for 67 yards and a touchdown in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
@@ -106,6 +111,11 @@ _Last updated: 2026-10-27 16:04 UTC_ · 957 items total · 948/957 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Tyrone Tracy | RB/NYG | INJURY | — | Giants general manager Joe Schoen said Tuesday that Tracy (hamstring) is slated to be placed on injured reserve, Dan Duggan of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyrone-tracy-17967)) | Rotowire |
+| 2026-10-27 | Jalen Coker | WR/CAR | NEWS | — | Coker (shoulder) was listed as a full participant in Tuesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
+| 2026-10-27 | Matthew Golden | WR/GB | NEWS | — | Golden (shoulder/foot) didn't participate in Tuesday's walkthrough practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) | Rotowire |
+| 2026-10-27 | Lamar Jackson | QB/BAL | NEWS | — | Jackson (ankle) is "believed to be close to 100 percent" and is expected to play Sunday versus the Bills, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
+| 2026-10-27 | DeForest Buckner | DT/IND | TRANSACTION | — | The 49ers acquired Buckner from the Colts on Tuesday in exchange for a 2027 fourth-round pick, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deforest-buckner-10925)) | Rotowire |
 | 2026-10-27 | Dameon Pierce | RB/PHI | INJURY | — | Pierce didn't take the field for either of the Eagles' final two possessions of Monday's 38-21 loss to the Cowboys after sustaining an undisclosed injury with 8:38 remaining in the fourth quarter, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/dameon-pierce-15875)) | Rotowire |
 | 2026-10-27 | Saquon Barkley | RB/PHI | INJURY | — | Barkley said after Monday's 38-21 loss to the Cowboys that his "hamstring came out great," and noted that the back issue that kept him out for the entire fourth quarter isn't anything that he expects to prevent him from playing Sunday against the Commanders, Tim McManus of... ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-10-26 | Makai Lemon | WR/PHI | NEWS | — | Lemon brought in seven of eight targets for 67 yards and a touchdown in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
@@ -1074,41 +1084,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Caleb Douglas | WR/MIA | 945816 |
-| Jacksonville Jaguars | DEF/JAX | 664026 |
-| New England Patriots | DEF/NE | 445690 |
-| KC Concepcion Jr. | WR/CLE | 411282 |
-| Seth McGowan | RB/IND | 372440 |
-| Brenton Strange | TE/JAX | 286920 |
-| Kaelon Black | RB/SF | 218120 |
-| Omar Cooper Jr. | WR/NYJ | 214904 |
-| Jonah Coleman | RB/DEN | 212196 |
-| Tampa Bay Buccaneers | DEF/TB | 208780 |
-| Ryan Flournoy | WR/DAL | 194672 |
-| Tre Tucker | WR/LV | 190344 |
-| Chase McLaughlin | K/TB | 181824 |
-| Washington Commanders | DEF/WAS | 163289 |
-| Hunter Henry | TE/NE | 130980 |
+| Caleb Douglas | WR/MIA | 1199880 |
+| Jacksonville Jaguars | DEF/JAX | 953244 |
+| New England Patriots | DEF/NE | 595182 |
+| Seth McGowan | RB/IND | 574712 |
+| KC Concepcion Jr. | WR/CLE | 501912 |
+| Brenton Strange | TE/JAX | 406548 |
+| Jonah Coleman | RB/DEN | 300318 |
+| Ryan Flournoy | WR/DAL | 276184 |
+| Tampa Bay Buccaneers | DEF/TB | 269570 |
+| Kaelon Black | RB/SF | 267267 |
+| Omar Cooper Jr. | WR/NYJ | 251136 |
+| Tre Tucker | WR/LV | 249168 |
+| Washington Commanders | DEF/WAS | 244874 |
+| Chase McLaughlin | K/TB | 241944 |
+| Devin Singletary | RB/NYG | 235971 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Cleveland Browns | DEF/CLE | 491078 |
-| Tyler Higbee | TE/LAR | 445338 |
-| Roschon Johnson | RB/CHI | 434776 |
-| Konata Mumpfield | WR/LAR | 430236 |
-| Houston Texans | DEF/HOU | 267910 |
-| Darius Cooper | WR/PHI | 227073 |
-| New York Jets | DEF/NYJ | 214566 |
-| Dameon Pierce | RB/PHI | 196440 |
-| Kyler Murray | QB/MIN | 195784 |
-| San Francisco 49ers | DEF/SF | 173664 |
-| C.J. Stroud | QB/HOU | 172809 |
-| MarShawn Lloyd | RB/GB | 149562 |
-| Michael Mayer | TE/LV | 145737 |
-| Xavier Worthy | WR/KC | 112869 |
-| Tyler Allgeier | RB/ARI | 111345 |
+| Cleveland Browns | DEF/CLE | 653352 |
+| Tyler Higbee | TE/LAR | 582156 |
+| Roschon Johnson | RB/CHI | 578584 |
+| Konata Mumpfield | WR/LAR | 534708 |
+| Houston Texans | DEF/HOU | 356280 |
+| Darius Cooper | WR/PHI | 302638 |
+| New York Jets | DEF/NYJ | 282974 |
+| Kyler Murray | QB/MIN | 255504 |
+| Dameon Pierce | RB/PHI | 252288 |
+| C.J. Stroud | QB/HOU | 231280 |
+| San Francisco 49ers | DEF/SF | 226578 |
+| MarShawn Lloyd | RB/GB | 194535 |
+| Michael Mayer | TE/LV | 184608 |
+| Tyler Allgeier | RB/ARI | 152020 |
+| Xavier Worthy | WR/KC | 140958 |
 
 
 ---
@@ -1119,10 +1129,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Sean Rhyan | OL/GB | Questionable | Out |
-| Dameon Pierce | RB/PHI | (unlisted) | Questionable |
+_None since last run._
 
 **Full current report**
 
@@ -1179,7 +1186,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jahquez Robinson | DB/BAL | IR | — | — |
 | Jaylinn Hawkins | SS/BAL | Out | — | — |
 | Jovaughn Gwyn | OL/BAL | IR | — | — |
-| Lamar Jackson | QB/BAL | Out | — | Ravens head coach Jesse Minter said that Jackson (ankle) is "in a decent spot" to play Sunday against the Bills, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
+| Lamar Jackson | QB/BAL | Out | — | Jackson (ankle) is "believed to be close to 100 percent" and is expected to play Sunday versus the Bills, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) |
 | Roquan Smith | LB/BAL | Questionable | — | — |
 | Skylar Thompson | QB/BAL | IR | — | — |
 | T.J. Tampa Jr. | DB/BAL | IR | — | — |
@@ -1209,7 +1216,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ikem Ekwonu | T/CAR | PUP | — | — |
 | Ja'Tavion Sanders | TE/CAR | Out | — | — |
 | Jaelan Phillips | LB/CAR | Out | — | — |
-| Jalen Coker | WR/CAR | Questionable | — | Coker (quadriceps) was listed as a full participant on the Panthers' estimated injury report Wednesday, Darin Gantt of the Panthers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
+| Jalen Coker | WR/CAR | Questionable | — | Coker (shoulder) was listed as a full participant in Tuesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
 | Jaycee Horn | CB/CAR | IR | — | — |
 | Jonathon Brooks | RB/CAR | IR | — | Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Mike Jackson | CB/CAR | IR | — | — |
@@ -1646,7 +1653,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kaleb Johnson | RB/GB | Out | — | The Athletic's Mike DeFabo believes Johnson is in real danger of being cut by the Steelers prior to the start of the regular season. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaleb-johnson-18515)) |
 | Kevin Zeitler | OG/GB | Out | — | — |
 | Luke Musgrave | TE/GB | PUP | — | — |
-| Matthew Golden | WR/GB | Questionable | — | Golden (shoulder) was listed as a limited participant on Wednesday's estimated injury report, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) |
+| Matthew Golden | WR/GB | Questionable | — | Golden (shoulder/foot) didn't participate in Tuesday's walkthrough practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) |
 | Micah Parsons | LB/GB | PUP | — | — |
 | Sean Rhyan | OL/GB | Out | — | — |
 | Skyy Moore | WR/GB | IR | — | — |
