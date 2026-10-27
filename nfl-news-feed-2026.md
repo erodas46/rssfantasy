@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-27 04:10 UTC_ · 953 items total · 944/953 matched to a player
+_Last updated: 2026-10-27 16:04 UTC_ · 957 items total · 948/957 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-10-27 04:10 UTC_ · 953 items total · 944/953 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Dameon Pierce | RB/PHI | INJURY | — | Pierce didn't take the field for either of the Eagles' final two possessions of Monday's 38-21 loss to the Cowboys after sustaining an undisclosed injury with 8:38 remaining in the fourth quarter, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/dameon-pierce-15875)) | Rotowire |
+| 2026-10-27 | Saquon Barkley | RB/PHI | INJURY | — | Barkley said after Monday's 38-21 loss to the Cowboys that his "hamstring came out great," and noted that the back issue that kept him out for the entire fourth quarter isn't anything that he expects to prevent him from playing Sunday against the Commanders, Tim McManus of... ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-10-26 | Makai Lemon | WR/PHI | NEWS | — | Lemon brought in seven of eight targets for 67 yards and a touchdown in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
+| 2026-10-26 | Dallas Goedert | TE/PHI | NEWS | — | Goedert secured five of seven targets for 48 yards in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) | Rotowire |
 | 2026-10-26 | Dak Prescott | QB/DAL | NEWS | — | Prescott completed 15 of 27 passes for 212 yards with three touchdowns and no interceptions while adding two rushes for eight yards in the Cowboys' 38-21 win over the Eagles on Monday night. He also had a two-point conversion run. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/dak-prescott-11008)) | Rotowire |
 | 2026-10-26 | Javonte Williams | RB/DAL | NEWS | — | Williams rushed 25 times for 155 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/javonte-williams-15306)) | Rotowire |
 | 2026-10-26 | George Pickens | WR/DAL | NEWS | — | Pickens brought in four of six targets for 57 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
@@ -102,6 +106,10 @@ _Last updated: 2026-10-27 04:10 UTC_ · 953 items total · 944/953 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-27 | Dameon Pierce | RB/PHI | INJURY | — | Pierce didn't take the field for either of the Eagles' final two possessions of Monday's 38-21 loss to the Cowboys after sustaining an undisclosed injury with 8:38 remaining in the fourth quarter, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/dameon-pierce-15875)) | Rotowire |
+| 2026-10-27 | Saquon Barkley | RB/PHI | INJURY | — | Barkley said after Monday's 38-21 loss to the Cowboys that his "hamstring came out great," and noted that the back issue that kept him out for the entire fourth quarter isn't anything that he expects to prevent him from playing Sunday against the Commanders, Tim McManus of... ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-10-26 | Makai Lemon | WR/PHI | NEWS | — | Lemon brought in seven of eight targets for 67 yards and a touchdown in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
+| 2026-10-26 | Dallas Goedert | TE/PHI | NEWS | — | Goedert secured five of seven targets for 48 yards in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) | Rotowire |
 | 2026-10-26 | Dak Prescott | QB/DAL | NEWS | — | Prescott completed 15 of 27 passes for 212 yards with three touchdowns and no interceptions while adding two rushes for eight yards in the Cowboys' 38-21 win over the Eagles on Monday night. He also had a two-point conversion run. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/dak-prescott-11008)) | Rotowire |
 | 2026-10-26 | Javonte Williams | RB/DAL | NEWS | — | Williams rushed 25 times for 155 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/javonte-williams-15306)) | Rotowire |
 | 2026-10-26 | George Pickens | WR/DAL | NEWS | — | Pickens brought in four of six targets for 57 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
@@ -1066,41 +1074,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Caleb Douglas | WR/MIA | 440488 |
-| KC Concepcion Jr. | WR/CLE | 223641 |
-| Seth McGowan | RB/IND | 175848 |
-| Kaelon Black | RB/SF | 117474 |
-| Darius Cooper | WR/PHI | 116165 |
-| Omar Cooper Jr. | WR/NYJ | 115544 |
-| New England Patriots | DEF/NE | 111972 |
-| Jacksonville Jaguars | DEF/JAX | 101664 |
-| Tre Tucker | WR/LV | 94188 |
-| Tampa Bay Buccaneers | DEF/TB | 70915 |
-| Emanuel Wilson | RB/SEA | 69039 |
-| Devin Singletary | RB/NYG | 59949 |
-| Chase McLaughlin | K/TB | 59040 |
-| Dameon Pierce | RB/PHI | 58824 |
-| Makai Lemon | WR/PHI | 57368 |
+| Caleb Douglas | WR/MIA | 945816 |
+| Jacksonville Jaguars | DEF/JAX | 664026 |
+| New England Patriots | DEF/NE | 445690 |
+| KC Concepcion Jr. | WR/CLE | 411282 |
+| Seth McGowan | RB/IND | 372440 |
+| Brenton Strange | TE/JAX | 286920 |
+| Kaelon Black | RB/SF | 218120 |
+| Omar Cooper Jr. | WR/NYJ | 214904 |
+| Jonah Coleman | RB/DEN | 212196 |
+| Tampa Bay Buccaneers | DEF/TB | 208780 |
+| Ryan Flournoy | WR/DAL | 194672 |
+| Tre Tucker | WR/LV | 190344 |
+| Chase McLaughlin | K/TB | 181824 |
+| Washington Commanders | DEF/WAS | 163289 |
+| Hunter Henry | TE/NE | 130980 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Konata Mumpfield | WR/LAR | 189585 |
-| Tyler Higbee | TE/LAR | 169380 |
-| Roschon Johnson | RB/CHI | 136712 |
-| Cleveland Browns | DEF/CLE | 124614 |
-| Dameon Pierce | RB/PHI | 97216 |
-| Houston Texans | DEF/HOU | 74560 |
-| Darius Cooper | WR/PHI | 61887 |
-| Michael Mayer | TE/LV | 57942 |
-| New York Jets | DEF/NYJ | 57648 |
-| Kyler Murray | QB/MIN | 57312 |
-| Xavier Worthy | WR/KC | 56223 |
-| MarShawn Lloyd | RB/GB | 54765 |
-| San Francisco 49ers | DEF/SF | 50883 |
-| Malik Washington | WR/MIA | 46656 |
-| C.J. Stroud | QB/HOU | 46263 |
+| Cleveland Browns | DEF/CLE | 491078 |
+| Tyler Higbee | TE/LAR | 445338 |
+| Roschon Johnson | RB/CHI | 434776 |
+| Konata Mumpfield | WR/LAR | 430236 |
+| Houston Texans | DEF/HOU | 267910 |
+| Darius Cooper | WR/PHI | 227073 |
+| New York Jets | DEF/NYJ | 214566 |
+| Dameon Pierce | RB/PHI | 196440 |
+| Kyler Murray | QB/MIN | 195784 |
+| San Francisco 49ers | DEF/SF | 173664 |
+| C.J. Stroud | QB/HOU | 172809 |
+| MarShawn Lloyd | RB/GB | 149562 |
+| Michael Mayer | TE/LV | 145737 |
+| Xavier Worthy | WR/KC | 112869 |
+| Tyler Allgeier | RB/ARI | 111345 |
 
 
 ---
@@ -1113,34 +1121,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Tyrus Wheat | DE/DAL | (unlisted) | Out |
-| Bobby Brown III | DT/CAR | (unlisted) | Questionable |
-| Akayleb Evans | DB/CAR | (unlisted) | Questionable |
-| Taylor Moton | T/CAR | Questionable | IR |
-| Britain Covey | WR/PHI | (unlisted) | Out |
-| Cole Payton | QB/PHI | (unlisted) | Out |
-| Aaron Banks | OL/GB | (unlisted) | Questionable |
-| Travis Glover | OT/GB | (unlisted) | Questionable |
-| Amon-Ra St. Brown | WR/DET | (unlisted) | Questionable |
-| Jake Majors | OL/PHI | (unlisted) | Out |
-| Jacob Monk | OL/GB | Questionable | IR |
-| Upton Stout | CB/SF | (unlisted) | Questionable |
-| Jalen Coker | WR/CAR | (unlisted) | Questionable |
-| Emari Demercado | RB/DAL | (unlisted) | Out |
-| Anthony Campbell | DT/GB | (unlisted) | Questionable |
-| Damien Lewis | G/CAR | (unlisted) | Questionable |
-| Jalen Brooks | WR/ARI | (unlisted) | Out |
-| Kyle Dugger | DB/CIN | Questionable | Out |
-| Torricelli Simpkins III | OL/CAR | (unlisted) | Questionable |
-| Matthew Golden | WR/GB | (unlisted) | Questionable |
-| Jalyx Hunt | DL/PHI | Questionable | (cleared) |
-| C.J. Hanson | OG/FA | Questionable | (cleared) |
-| Ja'Markis Weston | DE/FA | Questionable | (cleared) |
-| Eli Stowers | TE/PHI | IR | (cleared) |
-| Dakoda Shepley | C/FA | Questionable | (cleared) |
-| Jonathan Greenard | DE/PHI | Questionable | (cleared) |
-| Landon Dickerson | OL/PHI | IR | (cleared) |
-| Grant Calcaterra | TE/PHI | IR | (cleared) |
+| Sean Rhyan | OL/GB | Questionable | Out |
+| Dameon Pierce | RB/PHI | (unlisted) | Questionable |
 
 **Full current report**
 
@@ -1666,7 +1648,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Luke Musgrave | TE/GB | PUP | — | — |
 | Matthew Golden | WR/GB | Questionable | — | Golden (shoulder) was listed as a limited participant on Wednesday's estimated injury report, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) |
 | Micah Parsons | LB/GB | PUP | — | — |
-| Sean Rhyan | OL/GB | Questionable | — | — |
+| Sean Rhyan | OL/GB | Out | — | — |
 | Skyy Moore | WR/GB | IR | — | — |
 | Thomas Yassmin | TE/GB | IR | — | — |
 | Travis Glover | OT/GB | Questionable | — | — |
@@ -1907,6 +1889,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Andre' Sam | DB/PHI | IR | — | — |
 | Britain Covey | WR/PHI | Out | — | — |
 | Cole Payton | QB/PHI | Out | — | — |
+| Dameon Pierce | RB/PHI | Questionable | — | Pierce didn't take the field for either of the Eagles' final two possessions of Monday's 38-21 loss to the Cowboys after sustaining an undisclosed injury with 8:38 remaining in the fourth quarter, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/dameon-pierce-15875)) |
 | DeVonta Smith | WR/PHI | Out | — | Smith (hamstring) was not seen at the Eagles' practice Saturday, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
 | Dontayvion Wicks | WR/PHI | Out | — | Wicks (ankle) was not on the field for the start of Saturday's practice, Andrew DiCecco of Inside the Birds reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) |
 | Jake Majors | OL/PHI | Out | — | — |
@@ -1915,7 +1898,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Johnny Wilson | WR/PHI | IR | — | — |
 | Michael Carter II | CB/PHI | Out | — | — |
 | Nolan Smith Jr. | LB/PHI | Out | — | — |
-| Saquon Barkley | RB/PHI | Questionable | — | Barkley said Monday that his back injury was compensatory after he tweaked his hamstring on his first run of the game and tried to play through it, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
+| Saquon Barkley | RB/PHI | Questionable | — | Barkley said after Monday's 38-21 loss to the Cowboys that his "hamstring came out great," and noted that the back issue that kept him out for the entire fourth quarter isn't anything that he expects to prevent him from playing Sunday against the Commanders, Tim McManus of... ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
 | Tank Bigsby | RB/PHI | IR | — | The Eagles placed Bigsby (abdomen) on injured reserve Tuesday, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-bigsby-16705)) |
 | Tucker Large | DB/PHI | PUP | — | — |
 | Uar Bernard | DT/PHI | Out | — | — |

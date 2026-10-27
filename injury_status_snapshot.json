@@ -5431,6 +5431,13 @@
     "status": "IR",
     "team": "NYG"
   },
+  "8129": {
+    "name": "Dameon Pierce",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "PHI"
+  },
   "8142": {
     "name": "Alec Pierce",
     "pos": "WR",
@@ -5841,7 +5848,7 @@
     "name": "Sean Rhyan",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "GB"
   },
   "8463": {
