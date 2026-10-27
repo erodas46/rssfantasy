@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-26 21:14 UTC_ · 948 items total · 939/948 matched to a player
+_Last updated: 2026-10-27 04:10 UTC_ · 953 items total · 944/953 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-26 21:14 UTC_ · 948 items total · 939/948 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | Dak Prescott | QB/DAL | NEWS | — | Prescott completed 15 of 27 passes for 212 yards with three touchdowns and no interceptions while adding two rushes for eight yards in the Cowboys' 38-21 win over the Eagles on Monday night. He also had a two-point conversion run. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/dak-prescott-11008)) | Rotowire |
+| 2026-10-26 | Javonte Williams | RB/DAL | NEWS | — | Williams rushed 25 times for 155 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/javonte-williams-15306)) | Rotowire |
+| 2026-10-26 | George Pickens | WR/DAL | NEWS | — | Pickens brought in four of six targets for 57 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-10-26 | Tanner McKee | QB/PHI | NEWS | — | McKee completed 23 of 35 passes for 211 yards with one touchdown and one interception and added one rush for one yard in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tanner-mckee-16686)) | Rotowire |
+| 2026-10-26 | Saquon Barkley | RB/PHI | INJURY | — | Barkley said Monday that his back injury was compensatory after he tweaked his hamstring on his first run of the game and tried to play through it, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-10-26 | Alec Pierce | WR/IND | NEWS | — | Colts head coach Shane Steichen said Monday that Pierce (heel) will "most likely not" have his 21-day practice window opened in Week 8, Jake Arthur of Roundtable.io reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-10-26 | Lamar Jackson | QB/BAL | NEWS | — | Ravens head coach Jesse Minter said that Jackson (ankle) is "in a decent spot" to play Sunday against the Bills, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-26 | Amon-Ra St. Brown | WR/DET | NEWS | — | Lions head coach Dan Campbell said that St. Brown tweaked his ankle during Sunday's 20-17 win over the Packers but should be ready to practice Thursday, Richard Silva of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
@@ -90,23 +95,6 @@ _Last updated: 2026-10-26 21:14 UTC_ · 948 items total · 939/948 matched to a 
 | 2026-10-20 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said after Monday's 23-17 win over the Commanders that Evans' early exit was due to right Achilles tendinitis, but he doesn't believe the wideout will require further testing or imaging, Nick Wagoner of ESPN.com reports. "I hope he recovers throughout... ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-10-20 | Terry McLaurin | WR/WAS | INJURY | — | McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) | Rotowire |
 | 2026-10-20 | Najee Harris | RB/ | NEWS | — | The Giants will release Harris on Tuesday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/najee-harris-15468)) | Rotowire |
-| 2026-10-19 | Stefon Diggs | WR/ | INJURY | — | Diggs brought in six of seven targets for 44 yards and a touchdown in the Commanders' 23-17 loss to the 49ers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
-| 2026-10-19 | Rachaad White | RB/WAS | NEWS | — | White rushed seven times for 27 yards and brought in four of five targets for 30 yards and a touchdown in the Commanders' 23-17 loss to the 49ers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
-| 2026-10-19 | Mike Evans | WR/SF | INJURY | — | Evans (Achilles) has been ruled out for the remainder of Monday night's game against the Commanders, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
-| 2026-10-19 | Christian McCaffrey | RB/SF | NEWS | — | McCaffrey rushed 16 times for 64 yards and two touchdowns and brought in nine of 10 targets for 53 yards in the 49ers' 23-17 win over the Commanders on Monday night. He also lost a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
-| 2026-10-19 | Mike Evans | WR/SF | INJURY | — | Evans is expected to miss some time after aggravating his Achilles injury in Monday night's 23-17 win over the Commanders, Jennifer Lee Chan of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
-| 2026-10-19 | Brock Purdy | QB/SF | NEWS | — | Purdy completed 21 of 29 passes for 264 yards with one touchdown and no interceptions while adding five rushes for 28 yards in the 49ers' 23-17 win over the Commanders on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-purdy-15834)) | Rotowire |
-| 2026-10-19 | George Kittle | TE/SF | NEWS | — | Kittle brought in five of eight targets for 69 yards and a touchdown in the 49ers' 23-17 win over the Commanders on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-kittle-11892)) | Rotowire |
-| 2026-10-19 | Stefon Diggs | WR/ | INJURY | 🔥 Schefter | Diggs (hamstring) is in line to play in Monday's game at San Francisco, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
-| 2026-10-19 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | The Commanders placed Croskey-Merritt (groin) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
-| 2026-10-19 | Romeo Doubs | WR/NE | INJURY | — | The Patriots placed Doubs (shoulder) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) | Rotowire |
-| 2026-10-19 | Christian Kirk | WR/SF | INJURY | — | The 49ers downgraded Kirk (calf) to out for Monday's game against the Commanders, Matt Maiocco of NBC Sports Bay Area reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-kirk-12508)) | Rotowire |
-| 2026-10-19 | Josh Jacobs | RB/GB | NEWS | — | Head coach Matt LaFleur said that Jacobs (personal) will get in a full week of practice, but the practice, but the Packers have yet to determine whether he'll be able to make his season debut Sunday in Detroit, Weston Hodkiewicz of the team's official site reports. "We feel he's... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
-| 2026-10-19 | Jalen Hurts | QB/PHI | NEWS | — | Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) | Rotowire |
-| 2026-10-19 | Caleb Douglas | WR/MIA | INJURY | — | Dolphins head coach Jeff Hafley said that Douglas (ankle) will be a limited participant in Monday's informal practice, David Furones of the South Florida Sun Sentinel reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-douglas-19343)) | Rotowire |
-| 2026-10-19 | Malik Willis | QB/MIA | INJURY | — | Head coach Jeff Hafley said that Willis should be ready to play Sunday against the Jets after tending to a minor undisclosed injury coming out of the Dolphins' Week 5 loss to the Bengals, David Furones of the South Florida Sun Sentinel reports. "I foresee him being good to go,"... ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
-| 2026-10-19 | Mike Evans | WR/SF | INJURY | — | Evans (ribs/Achilles), who is listed as questionable for Monday's contest against the Commanders, is viewed as a game-time decision, Cam Inman of The San Jose Mercury News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
-| 2026-10-19 | Baker Mayfield | QB/TB | NEWS | — | Buccaneers head coach Todd Bowles said that Mayfield (thumb) is "supposed to practice" Wednesday, Brianna Dix of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 
 ---
 
@@ -114,6 +102,11 @@ _Last updated: 2026-10-26 21:14 UTC_ · 948 items total · 939/948 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-26 | Dak Prescott | QB/DAL | NEWS | — | Prescott completed 15 of 27 passes for 212 yards with three touchdowns and no interceptions while adding two rushes for eight yards in the Cowboys' 38-21 win over the Eagles on Monday night. He also had a two-point conversion run. Visit RotoWire.com for more analysis on this... ([link](https://www.rotowire.com//football/player/dak-prescott-11008)) | Rotowire |
+| 2026-10-26 | Javonte Williams | RB/DAL | NEWS | — | Williams rushed 25 times for 155 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/javonte-williams-15306)) | Rotowire |
+| 2026-10-26 | George Pickens | WR/DAL | NEWS | — | Pickens brought in four of six targets for 57 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-10-26 | Tanner McKee | QB/PHI | NEWS | — | McKee completed 23 of 35 passes for 211 yards with one touchdown and one interception and added one rush for one yard in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tanner-mckee-16686)) | Rotowire |
+| 2026-10-26 | Saquon Barkley | RB/PHI | INJURY | — | Barkley said Monday that his back injury was compensatory after he tweaked his hamstring on his first run of the game and tried to play through it, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
 | 2026-10-26 | Alec Pierce | WR/IND | NEWS | — | Colts head coach Shane Steichen said Monday that Pierce (heel) will "most likely not" have his 21-day practice window opened in Week 8, Jake Arthur of Roundtable.io reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/alec-pierce-16022)) | Rotowire |
 | 2026-10-26 | Lamar Jackson | QB/BAL | NEWS | — | Ravens head coach Jesse Minter said that Jackson (ankle) is "in a decent spot" to play Sunday against the Bills, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/lamar-jackson-12561)) | Rotowire |
 | 2026-10-26 | Amon-Ra St. Brown | WR/DET | NEWS | — | Lions head coach Dan Campbell said that St. Brown tweaked his ankle during Sunday's 20-17 win over the Packers but should be ready to practice Thursday, Richard Silva of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
@@ -281,19 +274,19 @@ _Last updated: 2026-10-26 21:14 UTC_ · 948 items total · 939/948 matched to a 
 | 2026-10-13 | Jalen Coker | WR/CAR | NEWS | — | Coker (quadriceps) was spotted participating in the Panthers' unofficial practice session Tuesday, Alex Zietlow of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) | Rotowire |
 | 2026-10-13 | TreVeyon Henderson | RB/NE | INJURY | 🔥 Schefter | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
 | 2026-10-13 | David Montgomery | RB/HOU | NEWS | — | Marks is expected to handle a lead role out of the backfield during Sunday's game against the Jaguars in London after Texans head coach DeMeco Ryans announced Monday that fellow running back David Montgomery (groin) is viewed as week-to-week, Aaron Wilson of KPRC 2 Houston... ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
-| 2026-10-12 | Josh Allen | QB/BUF | NEWS | — | Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
-| 2026-10-12 | Matthew Stafford | QB/LAR | NEWS | — | Stafford completed 40 of 54 passes for 383 yards with three touchdowns and no interceptions in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
-| 2026-10-12 | Kyren Williams | RB/LAR | NEWS | — | Williams rushed 16 times for 49 yards and a touchdown and brought in six of eight targets for 27 yards in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyren-williams-15807)) | Rotowire |
-| 2026-10-12 | Davante Adams | WR/LAR | NEWS | — | Adams brought in five of seven targets for 51 yards and two touchdowns in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
-| 2026-10-12 | Blake Corum | RB/LAR | NEWS | — | Corum rushed five times for 19 yards and a touchdown and brought in three of four targets for 53 yards in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-corum-17690)) | Rotowire |
-| 2026-10-12 | Rico Dowdle | RB/PIT | NEWS | — | Steelers offensive coordinator Brian Angelichio said Monday that he anticipates Dowdle (toe) returning to action Week 6 against the Buccaneers, Mike DeFabo of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
-| 2026-10-12 | Jaxon Smith-Njigba | WR/SEA | INJURY | — | Smith-Njigba was estimated as a limited practice participant Monday due to an ankle injury, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaxon-smith-njigba-16654)) | Rotowire |
-| 2026-10-12 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) is listed as inactive Monday at the Rams. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
-| 2026-10-12 | Roman Wilson | WR/PIT | NEWS | — | Head coach Mike McCarthy said Monday that Wilson (finger) will not play against the Buccaneers on Sunday, Nick Farabaugh of SteelersNow.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/roman-wilson-17043)) | Rotowire |
-| 2026-10-12 | Jaylen Warren | RB/PIT | NEWS | — | Head coach Mike McCarthy said Monday that he views Warren as "our featured player right now," Brooke Pryor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
-| 2026-10-12 | Deebo Samuel | WR/SF | INJURY | — | Samuel is expected to miss at least a couple weeks due to a hamstring injury he sustained during the 49ers' 32-29 win over the Seahawks on Sunday, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
-| 2026-10-12 | Saquon Barkley | RB/PHI | INJURY | — | Head coach Nick Sirianni said Monday that he's "hopeful" that both Barkley (hamstring) and DeVonta Smith (hamstring) will both be cleared to play against the Panthers on Sunday, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
-| 2026-10-12 | DeVonta Smith | WR/PHI | INJURY | — | Head coach Nick Sirianni expressed hope Monday that Smith (hamstring) would return for this Sunday's game against the Panthers, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-10-12 | Josh Allen | QB/BUF | NEWS ⚠️STALE | — | Allen completed 12 of 19 passes for 210 yards with one touchdown and one interception while adding 10 carries for 121 yards and another score and a two-point conversion pass in the Bills' 37-34 overtime win against the Rams on Monday night. Visit RotoWire.com for more analysis... ([link](https://www.rotowire.com//football/player/josh-allen-12483)) | Rotowire |
+| 2026-10-12 | Matthew Stafford | QB/LAR | NEWS ⚠️STALE | — | Stafford completed 40 of 54 passes for 383 yards with three touchdowns and no interceptions in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
+| 2026-10-12 | Kyren Williams | RB/LAR | NEWS ⚠️STALE | — | Williams rushed 16 times for 49 yards and a touchdown and brought in six of eight targets for 27 yards in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyren-williams-15807)) | Rotowire |
+| 2026-10-12 | Davante Adams | WR/LAR | NEWS ⚠️STALE | — | Adams brought in five of seven targets for 51 yards and two touchdowns in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/davante-adams-9455)) | Rotowire |
+| 2026-10-12 | Blake Corum | RB/LAR | NEWS ⚠️STALE | — | Corum rushed five times for 19 yards and a touchdown and brought in three of four targets for 53 yards in the Rams' 37-34 overtime loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/blake-corum-17690)) | Rotowire |
+| 2026-10-12 | Rico Dowdle | RB/PIT | NEWS ⚠️STALE | — | Steelers offensive coordinator Brian Angelichio said Monday that he anticipates Dowdle (toe) returning to action Week 6 against the Buccaneers, Mike DeFabo of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rico-dowdle-14657)) | Rotowire |
+| 2026-10-12 | Jaxon Smith-Njigba | WR/SEA | INJURY ⚠️STALE | — | Smith-Njigba was estimated as a limited practice participant Monday due to an ankle injury, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaxon-smith-njigba-16654)) | Rotowire |
+| 2026-10-12 | DJ Moore | WR/BUF | NEWS ⚠️STALE | — | Moore (shoulder) is listed as inactive Monday at the Rams. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-10-12 | Roman Wilson | WR/PIT | NEWS ⚠️STALE | — | Head coach Mike McCarthy said Monday that Wilson (finger) will not play against the Buccaneers on Sunday, Nick Farabaugh of SteelersNow.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/roman-wilson-17043)) | Rotowire |
+| 2026-10-12 | Jaylen Warren | RB/PIT | NEWS ⚠️STALE | — | Head coach Mike McCarthy said Monday that he views Warren as "our featured player right now," Brooke Pryor of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-warren-15984)) | Rotowire |
+| 2026-10-12 | Deebo Samuel | WR/SF | INJURY ⚠️STALE | — | Samuel is expected to miss at least a couple weeks due to a hamstring injury he sustained during the 49ers' 32-29 win over the Seahawks on Sunday, David Lombardi of the San Francisco Standard reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
+| 2026-10-12 | Saquon Barkley | RB/PHI | INJURY ⚠️STALE | — | Head coach Nick Sirianni said Monday that he's "hopeful" that both Barkley (hamstring) and DeVonta Smith (hamstring) will both be cleared to play against the Panthers on Sunday, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-10-12 | DeVonta Smith | WR/PHI | INJURY ⚠️STALE | — | Head coach Nick Sirianni expressed hope Monday that Smith (hamstring) would return for this Sunday's game against the Panthers, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
 | 2026-10-11 | Zay Flowers | WR/BAL | NEWS ⚠️STALE | — | Flowers (foot) caught eight of nine targets for 53 yards and added a 13-yard rush in Sunday's 30-23 overtime win over the Falcons. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-10-11 | Tyler Huntley | QB/BAL | NEWS ⚠️STALE | — | Huntley completed 24 of 32 passes for 201 yards and two touchdowns while rushing six times for 20 yards and a touchdown in Sunday's 30-23 overtime win over the Falcons. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-huntley-14563)) | Rotowire |
 | 2026-10-11 | Tua Tagovailoa | QB/ATL | INJURY ⚠️STALE | — | Tagovailoa completed two of three passes for 34 yards and an interception in relief of Michael Penix (ribs) in Sunday's 30-23 overtime loss to the Ravens. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tua-tagovailoa-14465)) | Rotowire |
@@ -1073,41 +1066,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Caleb Douglas | WR/MIA | 329232 |
-| Darius Cooper | WR/PHI | 229334 |
-| KC Concepcion Jr. | WR/CLE | 203985 |
-| Seth McGowan | RB/IND | 157744 |
-| Omar Cooper Jr. | WR/NYJ | 119632 |
-| Kaelon Black | RB/SF | 105672 |
-| Tre Tucker | WR/LV | 93540 |
-| New England Patriots | DEF/NE | 83664 |
-| Emanuel Wilson | RB/SEA | 69849 |
-| Blake Corum | RB/LAR | 56968 |
-| Chase McLaughlin | K/TB | 56672 |
-| Jacksonville Jaguars | DEF/JAX | 55056 |
-| Dameon Pierce | RB/PHI | 50704 |
-| Devin Singletary | RB/NYG | 49203 |
-| Ryan Flournoy | WR/DAL | 49120 |
+| Caleb Douglas | WR/MIA | 440488 |
+| KC Concepcion Jr. | WR/CLE | 223641 |
+| Seth McGowan | RB/IND | 175848 |
+| Kaelon Black | RB/SF | 117474 |
+| Darius Cooper | WR/PHI | 116165 |
+| Omar Cooper Jr. | WR/NYJ | 115544 |
+| New England Patriots | DEF/NE | 111972 |
+| Jacksonville Jaguars | DEF/JAX | 101664 |
+| Tre Tucker | WR/LV | 94188 |
+| Tampa Bay Buccaneers | DEF/TB | 70915 |
+| Emanuel Wilson | RB/SEA | 69039 |
+| Devin Singletary | RB/NYG | 59949 |
+| Chase McLaughlin | K/TB | 59040 |
+| Dameon Pierce | RB/PHI | 58824 |
+| Makai Lemon | WR/PHI | 57368 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Konata Mumpfield | WR/LAR | 195489 |
-| Tyler Higbee | TE/LAR | 160587 |
-| Roschon Johnson | RB/CHI | 114864 |
-| Cleveland Browns | DEF/CLE | 91532 |
-| Dameon Pierce | RB/PHI | 79448 |
-| Houston Texans | DEF/HOU | 60125 |
-| Michael Mayer | TE/LV | 59535 |
-| MarShawn Lloyd | RB/GB | 52794 |
-| Kyler Murray | QB/MIN | 48552 |
-| New York Jets | DEF/NYJ | 46576 |
-| San Francisco 49ers | DEF/SF | 43035 |
-| Malik Washington | WR/MIA | 42736 |
-| Xavier Worthy | WR/KC | 40905 |
-| Adonai Mitchell | WR/NYJ | 39808 |
-| C.J. Stroud | QB/HOU | 38892 |
+| Konata Mumpfield | WR/LAR | 189585 |
+| Tyler Higbee | TE/LAR | 169380 |
+| Roschon Johnson | RB/CHI | 136712 |
+| Cleveland Browns | DEF/CLE | 124614 |
+| Dameon Pierce | RB/PHI | 97216 |
+| Houston Texans | DEF/HOU | 74560 |
+| Darius Cooper | WR/PHI | 61887 |
+| Michael Mayer | TE/LV | 57942 |
+| New York Jets | DEF/NYJ | 57648 |
+| Kyler Murray | QB/MIN | 57312 |
+| Xavier Worthy | WR/KC | 56223 |
+| MarShawn Lloyd | RB/GB | 54765 |
+| San Francisco 49ers | DEF/SF | 50883 |
+| Malik Washington | WR/MIA | 46656 |
+| C.J. Stroud | QB/HOU | 46263 |
 
 
 ---
@@ -1118,7 +1111,36 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-_None since last run._
+| Player | Pos/Team | From | To |
+|---|---|---|---|
+| Tyrus Wheat | DE/DAL | (unlisted) | Out |
+| Bobby Brown III | DT/CAR | (unlisted) | Questionable |
+| Akayleb Evans | DB/CAR | (unlisted) | Questionable |
+| Taylor Moton | T/CAR | Questionable | IR |
+| Britain Covey | WR/PHI | (unlisted) | Out |
+| Cole Payton | QB/PHI | (unlisted) | Out |
+| Aaron Banks | OL/GB | (unlisted) | Questionable |
+| Travis Glover | OT/GB | (unlisted) | Questionable |
+| Amon-Ra St. Brown | WR/DET | (unlisted) | Questionable |
+| Jake Majors | OL/PHI | (unlisted) | Out |
+| Jacob Monk | OL/GB | Questionable | IR |
+| Upton Stout | CB/SF | (unlisted) | Questionable |
+| Jalen Coker | WR/CAR | (unlisted) | Questionable |
+| Emari Demercado | RB/DAL | (unlisted) | Out |
+| Anthony Campbell | DT/GB | (unlisted) | Questionable |
+| Damien Lewis | G/CAR | (unlisted) | Questionable |
+| Jalen Brooks | WR/ARI | (unlisted) | Out |
+| Kyle Dugger | DB/CIN | Questionable | Out |
+| Torricelli Simpkins III | OL/CAR | (unlisted) | Questionable |
+| Matthew Golden | WR/GB | (unlisted) | Questionable |
+| Jalyx Hunt | DL/PHI | Questionable | (cleared) |
+| C.J. Hanson | OG/FA | Questionable | (cleared) |
+| Ja'Markis Weston | DE/FA | Questionable | (cleared) |
+| Eli Stowers | TE/PHI | IR | (cleared) |
+| Dakoda Shepley | C/FA | Questionable | (cleared) |
+| Jonathan Greenard | DE/PHI | Questionable | (cleared) |
+| Landon Dickerson | OL/PHI | IR | (cleared) |
+| Grant Calcaterra | TE/PHI | IR | (cleared) |
 
 **Full current report**
 
@@ -1129,6 +1151,7 @@ _None since last run._
 | Chase Bisontis | G/ARI | IR | — | — |
 | Hunter Long | TE/ARI | IR | — | — |
 | Isaiah Adams | OL/ARI | IR | — | — |
+| Jalen Brooks | WR/ARI | Out | — | — |
 | James Conner | RB/ARI | IR | — | — |
 | Jameson Geers | TE/ARI | IR | — | — |
 | Jeremiyah Love | RB/ARI | Out | — | Love (ankle) remained sidelined at Thursday's practice, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) |
@@ -1194,22 +1217,27 @@ _None since last run._
 | Tyrell Shavers | WR/BUF | PUP | — | — |
 | Zane Durant | DT/BUF | IR | — | — |
 | AJ Dillon | RB/CAR | Out | — | — |
+| Akayleb Evans | DB/CAR | Questionable | — | — |
+| Bobby Brown III | DT/CAR | Questionable | — | — |
 | Brady Christensen | T/CAR | IR | — | — |
 | Cam Jackson | DT/CAR | IR | — | — |
 | Chris Brazzell II | WR/CAR | IR | — | — |
+| Damien Lewis | G/CAR | Questionable | — | — |
 | Haynes King | QB/CAR | Out | — | — |
 | Ikem Ekwonu | T/CAR | PUP | — | — |
 | Ja'Tavion Sanders | TE/CAR | Out | — | — |
 | Jaelan Phillips | LB/CAR | Out | — | — |
+| Jalen Coker | WR/CAR | Questionable | — | Coker (quadriceps) was listed as a full participant on the Panthers' estimated injury report Wednesday, Darin Gantt of the Panthers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-coker-17976)) |
 | Jaycee Horn | CB/CAR | IR | — | — |
 | Jonathon Brooks | RB/CAR | IR | — | Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Mike Jackson | CB/CAR | IR | — | — |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Sam Hecht | C/CAR | Out | — | — |
 | Stone Forsythe | T/CAR | Out | — | — |
-| Taylor Moton | T/CAR | Questionable | — | — |
+| Taylor Moton | T/CAR | IR | — | — |
 | TeRah Edwards | DL/CAR | Out | — | — |
 | Thomas Incoom | LB/CAR | IR | — | — |
+| Torricelli Simpkins III | OL/CAR | Questionable | — | — |
 | Xavier Legette | WR/CAR | IR | — | Coach Dave Canales said Thursday following the Hall of Fame Game that Legette (neck) "feels great" and is healthy, Mike Kaye of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-legette-17734)) |
 | Anthony Johnson Jr. | DB/CHI | Out | — | — |
 | Braxton Jones | OL/CHI | IR | — | — |
@@ -1235,7 +1263,7 @@ _None since last run._
 | Erick All Jr. | TE/CIN | Questionable | — | — |
 | Ja'Sir Taylor | DB/CIN | IR | — | — |
 | Jalen Davis | CB/CIN | IR | — | — |
-| Kyle Dugger | DB/CIN | Questionable | — | — |
+| Kyle Dugger | DB/CIN | Out | — | — |
 | Landon Robinson | NT/CIN | Out | — | — |
 | Myles Hinton | OT/CIN | Out | — | — |
 | Russ Yeast | DB/CIN | Out | — | — |
@@ -1264,6 +1292,7 @@ _None since last run._
 | Dee Winters | LB/DAL | Out | — | — |
 | Devin Moore | CB/DAL | IR | — | — |
 | Drew Shelton | OT/DAL | Out | — | — |
+| Emari Demercado | RB/DAL | Out | — | — |
 | Jalen Thompson | DB/DAL | IR | — | — |
 | Jonathan Bullard | DE/DAL | IR | — | — |
 | KaVontae Turpin | WR/DAL | Out | — | — |
@@ -1273,6 +1302,7 @@ _None since last run._
 | Matt Hennessy | OL/DAL | IR | — | — |
 | P.J. Locke | DB/DAL | IR | — | — |
 | Princeton Fant | TE/DAL | IR | — | — |
+| Tyrus Wheat | DE/DAL | Out | — | — |
 | Caleb Lohner | TE/DEN | IR | — | — |
 | Dallen Bentley | TE/DEN | Out | — | — |
 | Duplicate Player | ILB/DEN | COV | — | — |
@@ -1294,6 +1324,7 @@ _None since last run._
 | Tyler Onyedim | DT/DEN | Out | — | — |
 | Zach Allen | DE/DEN | Questionable | — | — |
 | Ahmed Hassanein | DE/DET | Out | — | — |
+| Amon-Ra St. Brown | WR/DET | Questionable | — | Lions head coach Dan Campbell said that St. Brown tweaked his ankle during Sunday's 20-17 win over the Packers but should be ready to practice Thursday, Richard Silva of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) |
 | Avonte Maddox | CB/DET | IR | — | — |
 | Ben Bartch | OL/DET | IR | — | — |
 | Bishop Fitzgerald | DB/DET | Out | — | — |
@@ -1343,7 +1374,6 @@ _None since last run._
 | Bryce Ford-Wheaton | WR/FA | Questionable | — | — |
 | Bryson Nesbit | TE/FA | Questionable | — | — |
 | C.J. Ham | FB/FA | NA | — | — |
-| C.J. Hanson | OG/FA | Questionable | — | — |
 | Carson Steele | RB/FA | IR | — | — |
 | Carter Bradley | QB/FA | Questionable | — | — |
 | Casey Toohill | DE/FA | NA | — | — |
@@ -1375,7 +1405,6 @@ _None since last run._
 | DT Sheffield | WR/FA | Questionable | — | — |
 | Da'Quan Felton | WR/FA | Questionable | — | — |
 | Daequan Hardy | CB/FA | IR | — | — |
-| Dakoda Shepley | C/FA | Questionable | — | — |
 | Dalevon Campbell | WR/FA | Questionable | — | — |
 | Dallis Flowers | CB/FA | IR | — | — |
 | Dalys Beanum | CB/FA | Questionable | — | — |
@@ -1455,7 +1484,6 @@ _None since last run._
 | J.P. Quinn | C/FA | NA | — | — |
 | Ja'Corey Brooks | WR/FA | Questionable | — | — |
 | Ja'Lynn Polk | WR/FA | NA | — | — |
-| Ja'Markis Weston | DE/FA | Questionable | — | — |
 | Jack Wilson | T/FA | Questionable | — | — |
 | Jacob Judd | C/FA | NA | — | — |
 | Jacob Phillips | LB/FA | Questionable | — | — |
@@ -1619,13 +1647,15 @@ _None since last run._
 | Zach Franklin | CB/FA | IR | — | — |
 | Zack Moss | RB/FA | Questionable | — | — |
 | Zech McPhearson | CB/FA | Questionable | — | — |
+| Aaron Banks | OL/GB | Questionable | — | — |
+| Anthony Campbell | DT/GB | Questionable | — | — |
 | Benjamin St-Juste | DB/GB | Out | — | — |
 | Chris Brooks | RB/GB | IR | — | — |
 | Collin Oliver | DE/GB | IR | — | — |
 | Devonte Wyatt | DL/GB | Questionable | — | — |
 | Donovan Jennings | OL/GB | Out | — | — |
 | Edgerrin Cooper | LB/GB | IR | — | — |
-| Jacob Monk | OL/GB | Questionable | — | — |
+| Jacob Monk | OL/GB | IR | — | — |
 | Jager Burton | C/GB | Out | — | — |
 | Javon Hargrave | DT/GB | IR | — | — |
 | Jayden Reed | WR/GB | IR | — | The Packers are expected to place Reed (neck) on injured reserve Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) |
@@ -1634,10 +1664,12 @@ _None since last run._
 | Kaleb Johnson | RB/GB | Out | — | The Athletic's Mike DeFabo believes Johnson is in real danger of being cut by the Steelers prior to the start of the regular season. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kaleb-johnson-18515)) |
 | Kevin Zeitler | OG/GB | Out | — | — |
 | Luke Musgrave | TE/GB | PUP | — | — |
+| Matthew Golden | WR/GB | Questionable | — | Golden (shoulder) was listed as a limited participant on Wednesday's estimated injury report, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/matthew-golden-18500)) |
 | Micah Parsons | LB/GB | PUP | — | — |
 | Sean Rhyan | OL/GB | Questionable | — | — |
 | Skyy Moore | WR/GB | IR | — | — |
 | Thomas Yassmin | TE/GB | IR | — | — |
+| Travis Glover | OT/GB | Questionable | — | — |
 | Warren Brinson | DL/GB | IR | — | — |
 | Zach Bako-Bewele | OL/GB | IR | — | — |
 | Zaire Franklin | LB/GB | Out | — | — |
@@ -1873,19 +1905,17 @@ _None since last run._
 | Tyler Baron | DE/NYJ | PUP | — | — |
 | VJ Payne | DB/NYJ | IR | — | — |
 | Andre' Sam | DB/PHI | IR | — | — |
+| Britain Covey | WR/PHI | Out | — | — |
+| Cole Payton | QB/PHI | Out | — | — |
 | DeVonta Smith | WR/PHI | Out | — | Smith (hamstring) was not seen at the Eagles' practice Saturday, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
 | Dontayvion Wicks | WR/PHI | Out | — | Wicks (ankle) was not on the field for the start of Saturday's practice, Andrew DiCecco of Inside the Birds reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) |
-| Eli Stowers | TE/PHI | IR | — | — |
-| Grant Calcaterra | TE/PHI | IR | — | — |
+| Jake Majors | OL/PHI | Out | — | — |
 | Jakorian Bennett | DB/PHI | IR | — | — |
 | Jalen Hurts | QB/PHI | IR | — | Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) |
-| Jalyx Hunt | DL/PHI | Questionable | — | — |
 | Johnny Wilson | WR/PHI | IR | — | — |
-| Jonathan Greenard | DE/PHI | Questionable | — | — |
-| Landon Dickerson | OL/PHI | IR | — | — |
 | Michael Carter II | CB/PHI | Out | — | — |
 | Nolan Smith Jr. | LB/PHI | Out | — | — |
-| Saquon Barkley | RB/PHI | Questionable | — | Barkley (hamstring), who is listed as questionable for Monday's game against the Cowboys, is "trending toward playing," Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
+| Saquon Barkley | RB/PHI | Questionable | — | Barkley said Monday that his back injury was compensatory after he tweaked his hamstring on his first run of the game and tried to play through it, EJ Smith of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
 | Tank Bigsby | RB/PHI | IR | — | The Eagles placed Bigsby (abdomen) on injured reserve Tuesday, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-bigsby-16705)) |
 | Tucker Large | DB/PHI | PUP | — | — |
 | Uar Bernard | DT/PHI | Out | — | — |
@@ -1949,6 +1979,7 @@ _None since last run._
 | Nick Zakelj | OL/SF | IR | — | — |
 | Ricky Pearsall | WR/SF | IR | — | Pearsall (knee) is one of the few prominent athletes to have surgery on an isolated PCL injury, making it difficult to set expectations for rehab length or a potential return to pre-injury form, Eric Branch of the San Francisco Chronicle reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/ricky-pearsall-17761)) |
 | Sam Okuayinonu | DE/SF | IR | — | — |
+| Upton Stout | CB/SF | Questionable | — | — |
 | Antoine Winfield Jr. | DB/TB | Out | — | — |
 | Ayden Garnes | DB/TB | Out | — | — |
 | Billy Schrauth | G/TB | Out | — | — |
