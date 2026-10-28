@@ -244,13 +244,6 @@
     "status": "Out",
     "team": "DAL"
   },
-  "11018": {
-    "name": "Christian Braswell",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "11024": {
     "name": "Grant DuBose",
     "pos": "WR",
@@ -269,7 +262,7 @@
     "name": "Jalen Brooks",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ARI"
   },
   "11036": {
@@ -335,13 +328,6 @@
     "status": "IR",
     "team": "HOU"
   },
-  "11082": {
-    "name": "Ben Sims",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "11112": {
     "name": "Anthony Johnson",
     "pos": "DB",
@@ -369,6 +355,13 @@
     "since": "",
     "status": "IR",
     "team": "TEN"
+  },
+  "11193": {
+    "name": "Brenton Cox Jr.",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "GB"
   },
   "11199": {
     "name": "Emari Demercado",
@@ -514,7 +507,7 @@
     "name": "Carson Steele",
     "pos": "RB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "FA"
   },
   "11583": {
@@ -542,7 +535,7 @@
     "name": "Erick All Jr.",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "CIN"
   },
   "11597": {
@@ -640,7 +633,7 @@
     "name": "Tyrone Tracy Jr.",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "NYG"
   },
   "11661": {
@@ -754,13 +747,6 @@
     "since": "",
     "status": "Out",
     "team": "CLE"
-  },
-  "11750": {
-    "name": "Dominique Hampton",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "11751": {
     "name": "Brennan Jackson",
@@ -2036,13 +2022,6 @@
     "status": "Questionable",
     "team": "GB"
   },
-  "13226": {
-    "name": "Marcus Tate",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "13259": {
     "name": "Joseph Vaughn",
     "pos": "LB",
@@ -2168,6 +2147,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "13312": {
+    "name": "Josh Kattus",
+    "pos": "TE",
+    "since": "",
+    "status": "Out",
+    "team": "CIN"
   },
   "13326": {
     "name": "DT Sheffield",
@@ -5669,6 +5655,13 @@
     "status": "IR",
     "team": "CHI"
   },
+  "8341": {
+    "name": "Cam Taylor-Britt",
+    "pos": "DB",
+    "since": "",
+    "status": "IR",
+    "team": "IND"
+  },
   "8344": {
     "name": "Jonathan Ford",
     "pos": "DL",
@@ -6011,13 +6004,6 @@
     "since": "",
     "status": "Questionable",
     "team": "LAR"
-  },
-  "8750": {
-    "name": "Michael Niese",
-    "pos": "G",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "8776": {
     "name": "Kingsley Jonathan",
