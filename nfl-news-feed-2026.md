@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-29 17:06 UTC_ · 983 items total · 974/983 matched to a player
+_Last updated: 2026-10-29 21:28 UTC_ · 988 items total · 979/988 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-10-29 17:06 UTC_ · 983 items total · 974/983 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Dalton Kincaid | TE/BUF | INJURY | — | Kincaid (chest) was a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
+| 2026-10-29 | Travis Kelce | TE/KC | INJURY | — | Kelce (ankle) was listed as a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-kelce-8783)) | Rotowire |
+| 2026-10-29 | Rashee Rice | WR/KC | INJURY | — | Rice (hamstring/knee) remained a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
+| 2026-10-29 | Brock Bowers | TE/LV | NEWS | — | Bowers (calf) was a full practice participant Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-10-29 | George Pickens | WR/DAL | INJURY | — | Pickens (shoulder/hamstring) was a limited participant at Thursday's practice, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
 | 2026-10-29 | Ja'Marr Chase | WR/CIN | INJURY | — | Chase (ankle) isn't believed to be dealing with a serious injury, and he's expected to suit up Sunday against the Titans, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jamarr-chase-15183)) | Rotowire |
 | 2026-10-29 | Jeffery Simmons | DT/CHI | TRANSACTION | 🔥 Schefter | Simmons was traded to the Bears on Thursday, along with a 2028 fifth-round pick, in exchange for first-round picks in 2027 and 2028, as well as a 2027 fourth-round pick, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeffery-simmons-13465)) | Rotowire |
 | 2026-10-29 | Emeka Egbuka | WR/TB | INJURY | — | Egbuka (concussion/foot) is wearing a regular jersey at Thursday's practice, suggesting he has been cleared for contact, Greg Auman of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
@@ -113,6 +118,11 @@ _Last updated: 2026-10-29 17:06 UTC_ · 983 items total · 974/983 matched to a 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-29 | Dalton Kincaid | TE/BUF | INJURY | — | Kincaid (chest) was a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
+| 2026-10-29 | Travis Kelce | TE/KC | INJURY | — | Kelce (ankle) was listed as a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-kelce-8783)) | Rotowire |
+| 2026-10-29 | Rashee Rice | WR/KC | INJURY | — | Rice (hamstring/knee) remained a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) | Rotowire |
+| 2026-10-29 | Brock Bowers | TE/LV | NEWS | — | Bowers (calf) was a full practice participant Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-10-29 | George Pickens | WR/DAL | INJURY | — | Pickens (shoulder/hamstring) was a limited participant at Thursday's practice, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
 | 2026-10-29 | Ja'Marr Chase | WR/CIN | INJURY | — | Chase (ankle) isn't believed to be dealing with a serious injury, and he's expected to suit up Sunday against the Titans, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jamarr-chase-15183)) | Rotowire |
 | 2026-10-29 | Jeffery Simmons | DT/CHI | TRANSACTION | 🔥 Schefter | Simmons was traded to the Bears on Thursday, along with a 2028 fifth-round pick, in exchange for first-round picks in 2027 and 2028, as well as a 2027 fourth-round pick, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeffery-simmons-13465)) | Rotowire |
 | 2026-10-29 | Emeka Egbuka | WR/TB | INJURY | — | Egbuka (concussion/foot) is wearing a regular jersey at Thursday's practice, suggesting he has been cleared for contact, Greg Auman of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
@@ -1107,41 +1117,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Elijah Mitchell | RB/PHI | 818883 |
-| Washington Commanders | DEF/WAS | 580874 |
-| Jaydon Blue | RB/PHI | 387168 |
-| Devin Singletary | RB/NYG | 348372 |
-| Jacksonville Jaguars | DEF/JAX | 315192 |
-| Caleb Douglas | WR/MIA | 279128 |
-| Tampa Bay Buccaneers | DEF/TB | 229135 |
-| Ryan Flournoy | WR/DAL | 212592 |
-| Seth McGowan | RB/IND | 206448 |
-| Brenton Strange | TE/JAX | 189369 |
-| New England Patriots | DEF/NE | 175441 |
-| Chase McLaughlin | K/TB | 161896 |
-| Tyler Bass | K/BUF | 146055 |
-| KC Concepcion Jr. | WR/CLE | 144882 |
-| Savion Williams | WR/GB | 135632 |
+| Elijah Mitchell | RB/PHI | 936243 |
+| Washington Commanders | DEF/WAS | 561456 |
+| Jaydon Blue | RB/PHI | 489840 |
+| Devin Singletary | RB/NYG | 338760 |
+| Jacksonville Jaguars | DEF/JAX | 254070 |
+| Caleb Douglas | WR/MIA | 239552 |
+| Tampa Bay Buccaneers | DEF/TB | 213160 |
+| Ryan Flournoy | WR/DAL | 208160 |
+| Brenton Strange | TE/JAX | 177471 |
+| Seth McGowan | RB/IND | 162712 |
+| Chase McLaughlin | K/TB | 152168 |
+| New England Patriots | DEF/NE | 151053 |
+| Tyler Bass | K/BUF | 137675 |
+| KC Concepcion Jr. | WR/CLE | 131427 |
+| Savion Williams | WR/GB | 128793 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dameon Pierce | RB/PHI | 875392 |
-| Roschon Johnson | RB/CHI | 302808 |
-| Tyler Higbee | TE/LAR | 244395 |
-| Cleveland Browns | DEF/CLE | 236432 |
-| Houston Texans | DEF/HOU | 202930 |
-| Konata Mumpfield | WR/LAR | 195075 |
-| Darius Cooper | WR/PHI | 167545 |
-| MarShawn Lloyd | RB/GB | 140733 |
-| San Francisco 49ers | DEF/SF | 112944 |
-| Tyler Allgeier | RB/ARI | 110485 |
-| C.J. Stroud | QB/HOU | 110411 |
-| Michael Mayer | TE/LV | 101925 |
-| Kyler Murray | QB/MIN | 98952 |
-| New York Jets | DEF/NYJ | 92890 |
-| Terry McLaurin | WR/WAS | 90306 |
+| Dameon Pierce | RB/PHI | 932928 |
+| Roschon Johnson | RB/CHI | 280384 |
+| Tyler Higbee | TE/LAR | 218358 |
+| Cleveland Browns | DEF/CLE | 207200 |
+| Houston Texans | DEF/HOU | 187635 |
+| Konata Mumpfield | WR/LAR | 174456 |
+| Darius Cooper | WR/PHI | 154616 |
+| MarShawn Lloyd | RB/GB | 130941 |
+| Elijah Mitchell | RB/PHI | 109647 |
+| Tyler Allgeier | RB/ARI | 103110 |
+| San Francisco 49ers | DEF/SF | 100695 |
+| C.J. Stroud | QB/HOU | 99085 |
+| Michael Mayer | TE/LV | 92295 |
+| Kyler Murray | QB/MIN | 90048 |
+| New York Jets | DEF/NYJ | 80294 |
 
 
 ---
@@ -1152,9 +1162,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Vega Ioane | OG/BAL | Doubtful | Questionable |
+_None since last run._
 
 **Full current report**
 
@@ -1228,7 +1236,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Bradley Chubb | LB/BUF | Questionable | — | — |
 | C.J. Gardner-Johnson | DB/BUF | Sus | — | — |
 | DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) is listed as inactive Sunday in Las Vegas. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
-| Dalton Kincaid | TE/BUF | Questionable | — | Kincaid brought in seven of eight targets for 95 yards and a touchdown in the Bills' 41-31 win over the Lions on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) |
+| Dalton Kincaid | TE/BUF | Questionable | — | Kincaid (chest) was a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) |
 | Dee Alford | DB/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Ed Oliver | DT/BUF | Questionable | — | — |
@@ -1302,7 +1310,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Dee Winters | LB/DAL | Questionable | — | — |
 | Devin Moore | CB/DAL | IR | — | — |
 | Drew Shelton | OT/DAL | Questionable | — | — |
-| George Pickens | WR/DAL | Questionable | — | Pickens brought in four of six targets for 57 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) |
+| George Pickens | WR/DAL | Questionable | — | Pickens (shoulder/hamstring) was a limited participant at Thursday's practice, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) |
 | Jalen Thompson | DB/DAL | IR | — | — |
 | Jonathan Bullard | DE/DAL | IR | — | — |
 | KaVontae Turpin | WR/DAL | Questionable | — | — |
@@ -1727,7 +1735,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Josh Simmons | OL/KC | IR | — | — |
 | L'Jarius Sneed | CB/KC | Questionable | — | — |
 | Omarr Norman-Lott | DT/KC | PUP | — | — |
-| Rashee Rice | WR/KC | Questionable | — | Rice (hamstring) was a limited participant Wednesday Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) |
+| Rashee Rice | WR/KC | Questionable | — | Rice (hamstring/knee) remained a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashee-rice-16963)) |
 | Tyquan Thornton | WR/KC | IR | — | — |
 | Alec Ingold | FB/LAC | IR | — | — |
 | Brenen Thompson | WR/LAC | Questionable | — | — |
@@ -1765,7 +1773,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Terrance Ferguson | TE/LAR | IR | — | Ferguson (ankle) officially didn't practice Wednesday, Adam Caplan of SiriusXM NFL Radio reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) |
 | Trent McDuffie | DB/LAR | Questionable | — | — |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Questionable | — | Bowers (hamstring/calf) was a limited participant in Wednesday's practice, Around The NFL reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
+| Brock Bowers | TE/LV | Questionable | — | Bowers (calf) was a full practice participant Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Carter Runyon | TE/LV | IR | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
 | Chris Collier | RB/LV | IR | — | — |
