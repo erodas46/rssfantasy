@@ -1235,7 +1235,7 @@
     "name": "Emeka Egbuka",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TB"
   },
   "12518": {
@@ -3776,8 +3776,8 @@
     "name": "David Long Jr.",
     "pos": "CB",
     "since": "",
-    "status": "IR",
-    "team": "NO"
+    "status": "Questionable",
+    "team": "FA"
   },
   "5921": {
     "name": "Kris Boyd",
