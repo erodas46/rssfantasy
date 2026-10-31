@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-31 15:53 UTC_ · 1010 items total · 1001/1010 matched to a player
+_Last updated: 2026-10-31 20:20 UTC_ · 1014 items total · 1005/1014 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,10 @@ _Last updated: 2026-10-31 15:53 UTC_ · 1010 items total · 1001/1010 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Kyle Monangai | RB/CHI | NEWS | — | Head coach Ben Johnson told reporters Saturday that Monangai (thumb/toe) will not play against the Seahawks on Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-10-31 | A.J. Brown | WR/NE | INJURY | — | Brown (knee/ankle) has been ruled out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
+| 2026-10-31 | TreVeyon Henderson | RB/NE | INJURY | — | Henderson (illness) has been downgraded from questionable to out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
+| 2026-10-31 | Colston Loveland | TE/CHI | INJURY | — | Loveland (neck) does not carry an injury designation into Monday's game against the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/colston-loveland-18460)) | Rotowire |
 | 2026-10-31 | Jonathan Taylor | RB/IND | TRANSACTION | 🔥 Schefter | Taylor is being made available via trade by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathan-taylor-14455)) | Rotowire |
 | 2026-10-31 | Carnell Tate | WR/TEN | NEWS | — | Tate (shoulder) will not play against the Bengals on Sunday but is expected to be back in action following the Titans' bye for Week 10 against the Jaguars on Sunday, Nov. 15, Paul Kuharsky of PaulKuharsky.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-10-30 | Dontayvion Wicks | WR/PHI | INJURY | — | Lemon will be the Eagles' top wide receiver for a second consecutive game Sunday at Washington due to the absences of both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle). Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
@@ -114,6 +118,10 @@ _Last updated: 2026-10-31 15:53 UTC_ · 1010 items total · 1001/1010 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Kyle Monangai | RB/CHI | NEWS | — | Head coach Ben Johnson told reporters Saturday that Monangai (thumb/toe) will not play against the Seahawks on Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
+| 2026-10-31 | A.J. Brown | WR/NE | INJURY | — | Brown (knee/ankle) has been ruled out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) | Rotowire |
+| 2026-10-31 | TreVeyon Henderson | RB/NE | INJURY | — | Henderson (illness) has been downgraded from questionable to out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) | Rotowire |
+| 2026-10-31 | Colston Loveland | TE/CHI | INJURY | — | Loveland (neck) does not carry an injury designation into Monday's game against the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/colston-loveland-18460)) | Rotowire |
 | 2026-10-31 | Jonathan Taylor | RB/IND | TRANSACTION | 🔥 Schefter | Taylor is being made available via trade by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathan-taylor-14455)) | Rotowire |
 | 2026-10-31 | Carnell Tate | WR/TEN | NEWS | — | Tate (shoulder) will not play against the Bengals on Sunday but is expected to be back in action following the Titans' bye for Week 10 against the Jaguars on Sunday, Nov. 15, Paul Kuharsky of PaulKuharsky.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-10-30 | Dontayvion Wicks | WR/PHI | INJURY | — | Lemon will be the Eagles' top wide receiver for a second consecutive game Sunday at Washington due to the absences of both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle). Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
@@ -1135,41 +1143,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Elijah Mitchell | RB/PHI | 163350 |
-| Devin Singletary | RB/NYG | 141678 |
-| Ryan Flournoy | WR/DAL | 131200 |
-| Makai Lemon | WR/PHI | 117696 |
-| Seth McGowan | RB/IND | 113144 |
-| Washington Commanders | DEF/WAS | 101752 |
-| Elic Ayomanor | WR/TEN | 94232 |
-| Chris Godwin Jr. | WR/TB | 91686 |
-| Samaje Perine | RB/CIN | 88764 |
-| Jaydon Blue | RB/PHI | 88632 |
-| Mason Taylor | TE/NYJ | 72440 |
-| Tampa Bay Buccaneers | DEF/TB | 64340 |
-| Caleb Douglas | WR/MIA | 55336 |
-| Darius Cooper | WR/PHI | 53305 |
-| KC Concepcion Jr. | WR/CLE | 51975 |
+| Seth McGowan | RB/IND | 187624 |
+| Elijah Mitchell | RB/PHI | 180477 |
+| Devin Singletary | RB/NYG | 177930 |
+| Ryan Flournoy | WR/DAL | 148160 |
+| Makai Lemon | WR/PHI | 145020 |
+| Samaje Perine | RB/CIN | 137720 |
+| Elic Ayomanor | WR/TEN | 111188 |
+| Washington Commanders | DEF/WAS | 98763 |
+| Chris Godwin Jr. | WR/TB | 98220 |
+| Mason Taylor | TE/NYJ | 73565 |
+| Darius Cooper | WR/PHI | 70000 |
+| Tampa Bay Buccaneers | DEF/TB | 63620 |
+| Jaydon Blue | RB/PHI | 62784 |
+| Keon Coleman | WR/BUF | 60048 |
+| Chris Rodriguez Jr. | RB/JAX | 56232 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dameon Pierce | RB/PHI | 129776 |
-| Elijah Mitchell | RB/PHI | 113211 |
-| Tyler Higbee | TE/LAR | 74259 |
-| Roschon Johnson | RB/CHI | 72200 |
-| Jaydon Blue | RB/PHI | 64296 |
-| Emanuel Wilson | RB/SEA | 63027 |
-| Konata Mumpfield | WR/LAR | 59418 |
-| Cleveland Browns | DEF/CLE | 46753 |
-| Devin Singletary | RB/NYG | 43290 |
-| Houston Texans | DEF/HOU | 39610 |
-| Tyler Allgeier | RB/ARI | 38920 |
-| Seth McGowan | RB/IND | 38168 |
-| Michael Mayer | TE/LV | 38007 |
-| Xavier Worthy | WR/KC | 37368 |
-| MarShawn Lloyd | RB/GB | 36153 |
+| Dameon Pierce | RB/PHI | 135152 |
+| Elijah Mitchell | RB/PHI | 123273 |
+| Roschon Johnson | RB/CHI | 73232 |
+| Tyler Higbee | TE/LAR | 72180 |
+| Jaydon Blue | RB/PHI | 72144 |
+| Emanuel Wilson | RB/SEA | 66105 |
+| Konata Mumpfield | WR/LAR | 59670 |
+| Devin Singletary | RB/NYG | 56106 |
+| Cleveland Browns | DEF/CLE | 46004 |
+| Zonovan Knight | RB/ARI | 40734 |
+| Houston Texans | DEF/HOU | 40060 |
+| Michael Mayer | TE/LV | 38205 |
+| Xavier Worthy | WR/KC | 37746 |
+| Tyler Allgeier | RB/ARI | 37000 |
+| Seth McGowan | RB/IND | 35264 |
 
 
 ---
@@ -1273,12 +1281,12 @@ _None since last run._
 | Brittain Brown | RB/CHI | IR | — | — |
 | Coby Bryant | DB/CHI | IR | — | — |
 | Cole Kmet | TE/CHI | IR | — | — |
-| Colston Loveland | TE/CHI | Questionable | — | Loveland secured all four targets for 31 yards in the Bears' 27-7 win over the Eagles on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/colston-loveland-18460)) |
+| Colston Loveland | TE/CHI | Questionable | — | Loveland (neck) does not carry an injury designation into Monday's game against the Seahawks. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/colston-loveland-18460)) |
 | D'Marco Jackson | LB/CHI | Questionable | — | — |
 | Dayo Odeyingbo | DE/CHI | IR | — | — |
 | Hayden Large | TE/CHI | IR | — | — |
 | Jack Sanborn | LB/CHI | Questionable | — | — |
-| Kyle Monangai | RB/CHI | Questionable | — | Monangai (thumb/toe) was listed as a non-participant in Tuesday's walk-through. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
+| Kyle Monangai | RB/CHI | Questionable | — | Head coach Ben Johnson told reporters Saturday that Monangai (thumb/toe) will not play against the Seahawks on Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
 | Malik Muhammad II | CB/CHI | Questionable | — | — |
 | Nephi Sewell | LB/CHI | IR | — | — |
 | Nikola Kalinic | TE/CHI | IR | — | — |
@@ -1783,7 +1791,7 @@ _None since last run._
 | Michael Briscoe | WR/MIN | Out | — | — |
 | Nick Samac | C/MIN | IR | — | — |
 | Tyler Batty | DL/MIN | IR | — | — |
-| A.J. Brown | WR/NE | Questionable | — | Brown (ankle/knee) was not spotted at Friday's practice, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) |
+| A.J. Brown | WR/NE | Questionable | — | Brown (knee/ankle) has been ruled out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aj-brown-13432)) |
 | Alijah Vera-Tucker | OL/NE | IR | — | — |
 | Carlton Davis III | CB/NE | Questionable | — | — |
 | Christian Elliss | LB/NE | Questionable | — | — |
@@ -1799,7 +1807,7 @@ _None since last run._
 | Quintayvious Hutchins | DE/NE | IR | — | — |
 | Reggie Gilliam | RB/NE | IR | — | — |
 | Romeo Doubs | WR/NE | IR | — | The Patriots placed Doubs (shoulder) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) |
-| TreVeyon Henderson | RB/NE | Questionable | — | Henderson is expected to miss multiple weeks after he was diagnosed with a right high-ankle sprain following an MRI on Monday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
+| TreVeyon Henderson | RB/NE | Questionable | — | Henderson (illness) has been downgraded from questionable to out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Bryan Bresee | DT/NO | IR | — | — |
 | CJ Donaldson | RB/NO | Out | — | — |
 | Cesar Ruiz | OL/NO | Out | — | — |
