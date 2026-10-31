@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-10-31 04:38 UTC_ · 1008 items total · 999/1008 matched to a player
+_Last updated: 2026-10-31 15:53 UTC_ · 1010 items total · 1001/1010 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-10-31 04:38 UTC_ · 1008 items total · 999/1008 matched to 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Jonathan Taylor | RB/IND | TRANSACTION | 🔥 Schefter | Taylor is being made available via trade by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathan-taylor-14455)) | Rotowire |
+| 2026-10-31 | Carnell Tate | WR/TEN | NEWS | — | Tate (shoulder) will not play against the Bengals on Sunday but is expected to be back in action following the Titans' bye for Week 10 against the Jaguars on Sunday, Nov. 15, Paul Kuharsky of PaulKuharsky.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-10-30 | Dontayvion Wicks | WR/PHI | INJURY | — | Lemon will be the Eagles' top wide receiver for a second consecutive game Sunday at Washington due to the absences of both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle). Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
 | 2026-10-30 | RJ Harvey | RB/DEN | INJURY | — | Harvey (knee) is ruled out for Sunday's game against the Chiefs, but his injury isn't considered severe or long term, Sam Jane of The Denver Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
 | 2026-10-30 | Jordan Mason | RB/MIN | INJURY | — | Mason and Aaron Jones (knee) will share the backfield against the Lions on Sunday after the latter avoided an injury designation for Week 8, Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) | Rotowire |
@@ -112,6 +114,8 @@ _Last updated: 2026-10-31 04:38 UTC_ · 1008 items total · 999/1008 matched to 
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-10-31 | Jonathan Taylor | RB/IND | TRANSACTION | 🔥 Schefter | Taylor is being made available via trade by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathan-taylor-14455)) | Rotowire |
+| 2026-10-31 | Carnell Tate | WR/TEN | NEWS | — | Tate (shoulder) will not play against the Bengals on Sunday but is expected to be back in action following the Titans' bye for Week 10 against the Jaguars on Sunday, Nov. 15, Paul Kuharsky of PaulKuharsky.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-10-30 | Dontayvion Wicks | WR/PHI | INJURY | — | Lemon will be the Eagles' top wide receiver for a second consecutive game Sunday at Washington due to the absences of both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle). Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) | Rotowire |
 | 2026-10-30 | RJ Harvey | RB/DEN | INJURY | — | Harvey (knee) is ruled out for Sunday's game against the Chiefs, but his injury isn't considered severe or long term, Sam Jane of The Denver Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) | Rotowire |
 | 2026-10-30 | Jordan Mason | RB/MIN | INJURY | — | Mason and Aaron Jones (knee) will share the backfield against the Lions on Sunday after the latter avoided an injury designation for Week 8, Craig Peters of the Vikings' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) | Rotowire |
@@ -1131,41 +1135,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Elijah Mitchell | RB/PHI | 190251 |
-| Jaydon Blue | RB/PHI | 137784 |
-| Devin Singletary | RB/NYG | 135936 |
-| Ryan Flournoy | WR/DAL | 134088 |
-| Washington Commanders | DEF/WAS | 128786 |
-| Makai Lemon | WR/PHI | 96344 |
-| Chris Godwin Jr. | WR/TB | 79014 |
-| Tampa Bay Buccaneers | DEF/TB | 77030 |
-| Mason Taylor | TE/NYJ | 75970 |
-| Elic Ayomanor | WR/TEN | 72676 |
-| Samaje Perine | RB/CIN | 68844 |
-| Caleb Douglas | WR/MIA | 62240 |
-| Brenton Strange | TE/JAX | 59769 |
-| KC Concepcion Jr. | WR/CLE | 55629 |
-| Khalil Shakir | WR/BUF | 53883 |
+| Elijah Mitchell | RB/PHI | 163350 |
+| Devin Singletary | RB/NYG | 141678 |
+| Ryan Flournoy | WR/DAL | 131200 |
+| Makai Lemon | WR/PHI | 117696 |
+| Seth McGowan | RB/IND | 113144 |
+| Washington Commanders | DEF/WAS | 101752 |
+| Elic Ayomanor | WR/TEN | 94232 |
+| Chris Godwin Jr. | WR/TB | 91686 |
+| Samaje Perine | RB/CIN | 88764 |
+| Jaydon Blue | RB/PHI | 88632 |
+| Mason Taylor | TE/NYJ | 72440 |
+| Tampa Bay Buccaneers | DEF/TB | 64340 |
+| Caleb Douglas | WR/MIA | 55336 |
+| Darius Cooper | WR/PHI | 53305 |
+| KC Concepcion Jr. | WR/CLE | 51975 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dameon Pierce | RB/PHI | 150504 |
-| Elijah Mitchell | RB/PHI | 106290 |
-| Roschon Johnson | RB/CHI | 80368 |
-| Tyler Higbee | TE/LAR | 80073 |
-| Emanuel Wilson | RB/SEA | 65952 |
-| Konata Mumpfield | WR/LAR | 62406 |
-| Cleveland Browns | DEF/CLE | 54453 |
-| Jaydon Blue | RB/PHI | 52992 |
-| Houston Texans | DEF/HOU | 48615 |
-| MarShawn Lloyd | RB/GB | 44370 |
-| Tyler Allgeier | RB/ARI | 41925 |
-| Seth McGowan | RB/IND | 41792 |
-| Devin Singletary | RB/NYG | 41787 |
-| Michael Mayer | TE/LV | 41094 |
-| Kenyon Sadiq | TE/NYJ | 39564 |
+| Dameon Pierce | RB/PHI | 129776 |
+| Elijah Mitchell | RB/PHI | 113211 |
+| Tyler Higbee | TE/LAR | 74259 |
+| Roschon Johnson | RB/CHI | 72200 |
+| Jaydon Blue | RB/PHI | 64296 |
+| Emanuel Wilson | RB/SEA | 63027 |
+| Konata Mumpfield | WR/LAR | 59418 |
+| Cleveland Browns | DEF/CLE | 46753 |
+| Devin Singletary | RB/NYG | 43290 |
+| Houston Texans | DEF/HOU | 39610 |
+| Tyler Allgeier | RB/ARI | 38920 |
+| Seth McGowan | RB/IND | 38168 |
+| Michael Mayer | TE/LV | 38007 |
+| Xavier Worthy | WR/KC | 37368 |
+| MarShawn Lloyd | RB/GB | 36153 |
 
 
 ---
@@ -1176,123 +1180,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Patrick Johnson | LB/LV | Questionable | Out |
-| Colston Loveland | TE/CHI | (unlisted) | Questionable |
-| Max Mitchell | T/NYJ | Questionable | Out |
-| Brenen Thompson | WR/LAC | Questionable | Out |
-| Javon Kinlaw | DT/WAS | Doubtful | Out |
-| Brian Robinson Jr. | RB/ATL | Questionable | Out |
-| Vega Ioane | OG/BAL | Questionable | Out |
-| Greg Gaines | DT/BUF | (unlisted) | Questionable |
-| David Bailey | LB/NYJ | Questionable | Doubtful |
-| Joe Cardona | LS/LAR | Questionable | Doubtful |
-| R Mason Thomas | DL/KC | (unlisted) | Questionable |
-| Britain Covey | WR/PHI | Questionable | Out |
-| Dontayvion Wicks | WR/PHI | Questionable | Out |
-| Jay Ward | DB/MIN | (unlisted) | Questionable |
-| Jon Gaines II | OL/ARI | Questionable | Out |
-| RJ Harvey | RB/DEN | Questionable | Out |
-| Walter Nolen III | DL/ARI | Questionable | Out |
-| Brandin Echols | CB/PIT | Questionable | Out |
-| T'Vondre Sweat | DL/NYJ | Doubtful | Out |
-| Kenny Clark | DE/DAL | (unlisted) | Questionable |
-| KaVontae Turpin | WR/DAL | Questionable | Out |
-| Carnell Tate | WR/TEN | Questionable | Out |
-| Antonio Johnson | DB/JAX | Questionable | Out |
-| DeVonta Smith | WR/PHI | Questionable | Out |
-| Deane Leonard | DB/LAC | Questionable | Out |
-| Kadyn Proctor | OT/MIA | Questionable | Out |
-| Dee Winters | LB/DAL | Questionable | Out |
-| Doneiko Slaughter | DB/PIT | Questionable | Out |
-| Christian Elliss | LB/NE | (unlisted) | Questionable |
-| Tyjae Spears | RB/TEN | Questionable | Out |
-| Byron Murphy II | DL/SEA | (unlisted) | Questionable |
-| Jordan Whittington | WR/LAR | (unlisted) | Questionable |
-| Daron Payne | DT/WAS | (unlisted) | Out |
-| Brandon Pili | DT/SEA | (unlisted) | Questionable |
-| Jaylon Jones | DB/TEN | (unlisted) | Questionable |
-| Tommy Townsend | P/TEN | Questionable | Out |
-| Roger McCreary | DB/DET | (unlisted) | Questionable |
-| Talanoa Hufanga | DB/DEN | Questionable | Out |
-| Anthony Gould | WR/IND | Questionable | Out |
-| Joseph Ossai | DE/NYJ | Doubtful | Out |
-| Kayode Awosika | OL/LAC | Questionable | Out |
-| Carlton Davis III | CB/NE | (unlisted) | Questionable |
-| Derwin James Jr. | DB/LAC | Doubtful | Out |
-| Jihaad Campbell | LB/PHI | Questionable | Out |
-| Jonathan Jones | DB/PHI | Questionable | Out |
-| Justin Walley | CB/IND | Questionable | Out |
-| Jaylinn Hawkins | SS/BAL | Questionable | Out |
-| Rashee Rice | WR/KC | Questionable | (cleared) |
-| Michael Wilson | WR/ARI | Questionable | (cleared) |
-| Nolan Smith Jr. | LB/PHI | Questionable | (cleared) |
-| Jordan Battle | DB/CIN | Questionable | (cleared) |
-| Moro Ojomo | DE/PHI | Questionable | (cleared) |
-| Jared Wayne | WR/MIA | Questionable | (cleared) |
-| Drake Thomas | LB/SEA | Questionable | (cleared) |
-| Ray Davis | RB/BUF | Questionable | (cleared) |
-| Malik Washington | WR/MIA | Questionable | (cleared) |
-| Ladd McConkey | WR/LAC | Questionable | (cleared) |
-| Jared Verse | DL/CLE | Questionable | (cleared) |
-| Ennis Rakestraw Jr. | DB/DET | Questionable | (cleared) |
-| Mike Hall Jr. | DT/CLE | Questionable | (cleared) |
-| Ruke Orhorhoro | DT/JAX | Questionable | (cleared) |
-| Jalyx Hunt | DL/PHI | Questionable | (cleared) |
-| DJ Glaze | OL/LV | Questionable | (cleared) |
-| Joe Andreessen | LB/BUF | Questionable | (cleared) |
-| Tre' Harris | WR/LAC | Questionable | (cleared) |
-| Tyler Warren | TE/IND | Questionable | (cleared) |
-| LeQuint Allen Jr. | RB/JAX | Questionable | (cleared) |
-| Mason Graham | DL/CLE | Questionable | (cleared) |
-| Carson Schwesinger | LB/CLE | Questionable | (cleared) |
-| Dante Trader Jr. | DB/MIA | Questionable | (cleared) |
-| Gavin Bartholomew | TE/MIN | Questionable | (cleared) |
-| Connor O'Toole | DE/SEA | Questionable | (cleared) |
-| Jeremiyah Love | RB/ARI | Questionable | (cleared) |
-| Caleb Downs | DB/DAL | Questionable | (cleared) |
-| Will Kacmarek | TE/MIA | Questionable | (cleared) |
-| Kendal Daniels | LB/ATL | Questionable | (cleared) |
-| Drew Shelton | OT/DAL | Questionable | (cleared) |
-| Michael Taaffe | DB/MIA | Questionable | (cleared) |
-| Travis Kelce | TE/KC | Questionable | (cleared) |
-| DaQuan Jones | DT/NE | Questionable | (cleared) |
-| Morgan Moses | OL/NE | Questionable | (cleared) |
-| Leonard Williams | DE/SEA | Questionable | (cleared) |
-| Aaron Jones Sr. | RB/MIN | Questionable | (cleared) |
-| Elijah Wilkinson | OL/ARI | Questionable | (cleared) |
-| Saquon Barkley | RB/PHI | Questionable | (cleared) |
-| Lamar Jackson | QB/BAL | Questionable | (cleared) |
-| Roquan Smith | LB/BAL | Questionable | (cleared) |
-| Bradley Chubb | LB/BUF | Questionable | (cleared) |
-| Ian Thomas | TE/LV | Questionable | (cleared) |
-| Folorunso Fatukasi | DT/LV | Questionable | (cleared) |
-| Elgton Jenkins | G/CLE | Questionable | (cleared) |
-| Quinnen Williams | DT/DAL | Questionable | (cleared) |
-| Jawaan Taylor | OL/ATL | Questionable | (cleared) |
-| Mack Wilson Sr. | LB/ARI | Questionable | (cleared) |
-| Jahlani Tavai | LB/JAX | Questionable | (cleared) |
-| Marcus Epps | DB/PHI | Questionable | (cleared) |
-| Nick Allegretti | G/WAS | Questionable | (cleared) |
-| C.J. Henderson | CB/ATL | Questionable | (cleared) |
-| Grant Delpit | DB/CLE | Questionable | (cleared) |
-| A.J. Terrell Jr. | CB/ATL | Questionable | (cleared) |
-| John Simpson | G/BAL | Questionable | (cleared) |
-| Jonathan Greenard | DE/PHI | Questionable | (cleared) |
-| Alex Highsmith | LB/PIT | Questionable | (cleared) |
-| LaCale London | DT/ATL | Questionable | (cleared) |
-| Ross Matiscik | LS/JAX | Questionable | (cleared) |
-| Chazz Surratt | LB/SEA | Questionable | (cleared) |
-| Jaylon Moore | OL/KC | Questionable | (cleared) |
-| Michael Carter II | CB/PHI | Questionable | (cleared) |
-| Tyler Allgeier | RB/ARI | Questionable | (cleared) |
-| Greg Dulcich | TE/MIA | Questionable | (cleared) |
-| Kyle Hamilton | DB/BAL | Questionable | (cleared) |
-| Cameron Thomas | DL/ATL | Questionable | (cleared) |
-| Nate Landman | LB/LAR | Questionable | (cleared) |
-| Ben Brown | OG/NE | Questionable | (cleared) |
-| Tucker Addington | LS/MIA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -2047,7 +1935,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Luke Goedeke | OL/TB | Questionable | — | — |
 | Mohamed Kamara | DL/TB | IR | — | — |
 | Calvin Ridley | WR/TEN | Questionable | — | — |
-| Carnell Tate | WR/TEN | Out | — | Tate (shoulder) has been ruled out for Sunday's game against the Bengals, Ben Arthur of FoxSports.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) |
+| Carnell Tate | WR/TEN | Out | — | Tate (shoulder) will not play against the Bengals on Sunday but is expected to be back in action following the Titans' bye for Week 10 against the Jaguars on Sunday, Nov. 15, Paul Kuharsky of PaulKuharsky.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) |
 | Donnie Ernsberger | TE/TEN | Questionable | — | — |
 | Dorian Mausi | LB/TEN | IR | — | — |
 | Fernando Carmona Jr. | G/TEN | IR | — | — |
