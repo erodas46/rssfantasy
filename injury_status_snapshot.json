@@ -136,7 +136,7 @@
     "name": "Yaya Diaby",
     "pos": "DL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TB"
   },
   "10929": {
@@ -2516,7 +2516,7 @@
     "name": "Jimmy Rolder",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DET"
   },
   "13496": {
@@ -3440,7 +3440,7 @@
     "name": "Samson Ebukam",
     "pos": "DE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ATL"
   },
   "4177": {
@@ -3980,13 +3980,6 @@
     "pos": "C",
     "since": "",
     "status": "NA",
-    "team": "FA"
-  },
-  "5773": {
-    "name": "KhaDarel Hodge",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
     "team": "FA"
   },
   "5788": {
@@ -4714,7 +4707,7 @@
     "name": "DaVon Hamilton",
     "pos": "DT",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "JAX"
   },
   "6978": {
@@ -4778,13 +4771,6 @@
     "pos": "S",
     "since": "",
     "status": "NA",
-    "team": "FA"
-  },
-  "7046": {
-    "name": "J.R. Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
     "team": "FA"
   },
   "7057": {
@@ -5080,6 +5066,13 @@
     "since": "",
     "status": "Out",
     "team": "NYG"
+  },
+  "7631": {
+    "name": "Christian Darrisaw",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "MIN"
   },
   "7635": {
     "name": "Jaelan Phillips",
@@ -5920,13 +5913,6 @@
     "since": "",
     "status": "Questionable",
     "team": "DET"
-  },
-  "8506": {
-    "name": "Nazeeh Johnson",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "8519": {
     "name": "Deane Leonard",
