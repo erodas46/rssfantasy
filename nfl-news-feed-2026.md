@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-02 20:31 UTC_ · 1038 items total · 1028/1038 matched to a player
+_Last updated: 2026-11-02 23:43 UTC_ · 1043 items total · 1033/1043 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-02 20:31 UTC_ · 1038 items total · 1028/1038 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Kendrick Bourne | WR/ARI | NEWS | — | Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
+| 2026-11-02 | Kendrick Bourne | WR/ARI | INJURY | 🔥 Schefter | Bourne suffered a fractured right tibia during Sunday's overtime win at Dallas that won't require surgery but will sideline him for three months, ending his 2026 season, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
+| 2026-11-02 | Zach Charbonnet | RB/SEA | NEWS | — | Wilson is welcoming back Zach Charbonnet (knee) and Jadarian Price (chest) to the Seahawks backfield for Monday's game against the Bears, John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
+| 2026-11-02 | Matthew Stafford | QB/LAR | INJURY | — | Stafford left the locker room after Sunday's 24-9 win over the Charger with a bag of ice wrapped to his right arm, and Rams coach Sean McVay acknowledged Monday that the quarterback has been dealing with some arm soreness, Adam Grosbard of The Orange County Register reports.... ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
+| 2026-11-02 | Jake Ferguson | TE/DAL | NEWS | — | Head coach Brian Schottenheimer said Monday that Ferguson (ankle) has a chance to play Sunday at Indianapolis, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
 | 2026-11-02 | Josh Jacobs | RB/GB | NEWS | — | Head coach Matt LaFleur said Monday that the Packers are aware of the prior physical abuse allegations involving Jacobs that recently surfaced and "anticipate him being a member" of the team moving forward, Ryan Wood of USA Today reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-11-02 | Kyler Murray | QB/MIN | INJURY | — | Murray (hamstring), who is dealing with a sore hamstring, is undergoing a full evaluation to determine the extent of the issue, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-02 | Brandon Aiyuk | WR/SF | NEWS | — | Aiyuk is close to hiring new representation and is expected to file for reinstatement to the NFL in the near future, according to NFL reporter Jordan Schultz. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brandon-aiyuk-14386)) | Rotowire |
@@ -115,6 +120,11 @@ _Last updated: 2026-11-02 20:31 UTC_ · 1038 items total · 1028/1038 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-02 | Kendrick Bourne | WR/ARI | NEWS | — | Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
+| 2026-11-02 | Kendrick Bourne | WR/ARI | INJURY | 🔥 Schefter | Bourne suffered a fractured right tibia during Sunday's overtime win at Dallas that won't require surgery but will sideline him for three months, ending his 2026 season, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
+| 2026-11-02 | Zach Charbonnet | RB/SEA | NEWS | — | Wilson is welcoming back Zach Charbonnet (knee) and Jadarian Price (chest) to the Seahawks backfield for Monday's game against the Bears, John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
+| 2026-11-02 | Matthew Stafford | QB/LAR | INJURY | — | Stafford left the locker room after Sunday's 24-9 win over the Charger with a bag of ice wrapped to his right arm, and Rams coach Sean McVay acknowledged Monday that the quarterback has been dealing with some arm soreness, Adam Grosbard of The Orange County Register reports.... ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
+| 2026-11-02 | Jake Ferguson | TE/DAL | NEWS | — | Head coach Brian Schottenheimer said Monday that Ferguson (ankle) has a chance to play Sunday at Indianapolis, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
 | 2026-11-02 | Josh Jacobs | RB/GB | NEWS | — | Head coach Matt LaFleur said Monday that the Packers are aware of the prior physical abuse allegations involving Jacobs that recently surfaced and "anticipate him being a member" of the team moving forward, Ryan Wood of USA Today reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-11-02 | Kyler Murray | QB/MIN | INJURY | — | Murray (hamstring), who is dealing with a sore hamstring, is undergoing a full evaluation to determine the extent of the issue, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-02 | Brandon Aiyuk | WR/SF | NEWS | — | Aiyuk is close to hiring new representation and is expected to file for reinstatement to the NFL in the near future, according to NFL reporter Jordan Schultz. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brandon-aiyuk-14386)) | Rotowire |
@@ -1164,41 +1174,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Adonai Mitchell | WR/NYJ | 580304 |
-| Tyler Allgeier | RB/ARI | 332200 |
-| Devin Singletary | RB/NYG | 277074 |
-| Emmett Johnson | RB/KC | 267039 |
-| Gardner Minshew II | QB/ARI | 212252 |
-| Ryan Flournoy | WR/DAL | 107328 |
-| Kirk Cousins | QB/LV | 82168 |
-| Tyler Bass | K/BUF | 71990 |
-| Detroit Lions | DEF/DET | 62181 |
-| Kenny Gainwell | RB/TB | 56936 |
-| Cooper Kupp | WR/SEA | 55452 |
-| Mike Gesicki | TE/CIN | 50960 |
-| Tampa Bay Buccaneers | DEF/TB | 50425 |
-| Washington Commanders | DEF/WAS | 47985 |
-| Corey Kiner | RB/NE | 45342 |
+| Adonai Mitchell | WR/NYJ | 501216 |
+| Gardner Minshew II | QB/ARI | 307456 |
+| Tyler Allgeier | RB/ARI | 269200 |
+| Emmett Johnson | RB/KC | 259416 |
+| Devin Singletary | RB/NYG | 177912 |
+| Ryan Flournoy | WR/DAL | 75776 |
+| Detroit Lions | DEF/DET | 64179 |
+| Kirk Cousins | QB/LV | 63216 |
+| Tyler Bass | K/BUF | 57315 |
+| Mike Gesicki | TE/CIN | 49376 |
+| Kenny Gainwell | RB/TB | 48768 |
+| Treylon Burks | WR/WAS | 48699 |
+| Tampa Bay Buccaneers | DEF/TB | 41045 |
+| Cooper Kupp | WR/SEA | 35820 |
+| Malik Washington | WR/MIA | 34712 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Keon Coleman | WR/BUF | 109359 |
-| Omar Cooper Jr. | WR/NYJ | 106600 |
-| Lamar Jackson | QB/BAL | 92224 |
-| Emanuel Wilson | RB/SEA | 86121 |
-| Tyler Higbee | TE/LAR | 80757 |
-| Konata Mumpfield | WR/LAR | 73899 |
-| Caleb Douglas | WR/MIA | 69280 |
-| Dameon Pierce | RB/PHI | 67664 |
-| Devin Singletary | RB/NYG | 66699 |
-| Jaydon Blue | RB/PHI | 59664 |
-| Chris Godwin Jr. | WR/TB | 56574 |
-| Tre Tucker | WR/LV | 55662 |
-| Xavier Worthy | WR/KC | 53010 |
-| Elijah Mitchell | RB/PHI | 52632 |
-| Mark Andrews | TE/BAL | 51030 |
+| Keon Coleman | WR/BUF | 91098 |
+| Lamar Jackson | QB/BAL | 84968 |
+| Omar Cooper Jr. | WR/NYJ | 81688 |
+| Tyler Higbee | TE/LAR | 76941 |
+| Emanuel Wilson | RB/SEA | 76221 |
+| Konata Mumpfield | WR/LAR | 75141 |
+| Jaydon Blue | RB/PHI | 59160 |
+| Caleb Douglas | WR/MIA | 56072 |
+| Xavier Worthy | WR/KC | 49743 |
+| Dameon Pierce | RB/PHI | 49488 |
+| Chris Godwin Jr. | WR/TB | 44238 |
+| Tre Tucker | WR/LV | 41856 |
+| Kendrick Bourne | WR/ARI | 41739 |
+| Mark Andrews | TE/BAL | 41391 |
+| Elijah Mitchell | RB/PHI | 39060 |
 
 
 ---
@@ -1209,16 +1219,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Yaya Diaby | DL/TB | Questionable | Out |
-| Samson Ebukam | DE/ATL | Questionable | Out |
-| Christian Darrisaw | T/MIN | (unlisted) | Questionable |
-| DaVon Hamilton | DT/JAX | Questionable | Out |
-| Jimmy Rolder | LB/DET | Questionable | Out |
-| KhaDarel Hodge | WR/FA | Questionable | (cleared) |
-| J.R. Reed | DB/FA | Out | (cleared) |
-| Nazeeh Johnson | DB/FA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1237,7 +1238,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Joey Blount | DB/ARI | IR | — | — |
 | Jon Gaines II | OL/ARI | Out | — | — |
 | Kaleb Proctor | DT/ARI | IR | — | — |
-| Kendrick Bourne | WR/ARI | Out | — | — |
+| Kendrick Bourne | WR/ARI | Out | — | Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) |
 | Michael Wilson | WR/ARI | Questionable | — | Wilson (undisclosed) returned to Sunday's contest in Dallas, Darren Urban of the Cardinals' officials site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-wilson-16957)) |
 | Paris Johnson Jr. | OL/ARI | IR | — | — |
 | Starling Thomas V | CB/ARI | Out | — | — |
@@ -1372,7 +1373,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Dee Winters | LB/DAL | Out | — | — |
 | Devin Moore | CB/DAL | IR | — | — |
 | Drew Shelton | OT/DAL | Out | — | — |
-| Jake Ferguson | TE/DAL | Out | — | Ferguson (ankle) won't return to Sunday's game against the Cardinals, Joe Hoyt reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) |
+| Jake Ferguson | TE/DAL | Out | — | Head coach Brian Schottenheimer said Monday that Ferguson (ankle) has a chance to play Sunday at Indianapolis, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) |
 | Jalen Thompson | DB/DAL | IR | — | — |
 | Jonathan Bullard | DE/DAL | IR | — | — |
 | KaVontae Turpin | WR/DAL | Out | — | — |
