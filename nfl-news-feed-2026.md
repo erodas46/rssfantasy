@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-03 18:05 UTC_ · 1049 items total · 1039/1049 matched to a player
+_Last updated: 2026-11-03 22:06 UTC_ · 1054 items total · 1044/1054 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-03 18:05 UTC_ · 1049 items total · 1039/1049 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Tyler Huntley | QB/BAL | INJURY | — | Ravens head coach Jesse Minter said Tuesday that Huntley (toe) could be a candidate for injured reserve, Sam Cohn of The Baltimore Sunreports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-huntley-14563)) | Rotowire |
+| 2026-11-03 | Jeremiyah Love | RB/ARI | INJURY | — | Arizona placed Love (ankle) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
+| 2026-11-03 | Bhayshul Tuten | RB/JAX | NEWS | — | The Jaguars listed Tuten (ankle/foot) as a non-participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
+| 2026-11-03 | Chris Rodriguez | RB/JAX | INJURY | — | Rodriguez (hand) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-rodriguez-16933)) | Rotowire |
+| 2026-11-03 | Jakobi Meyers | WR/JAX | INJURY | — | Meyers (hamstring/ankle) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) | Rotowire |
 | 2026-11-03 | Hunter Henry | TE/NE | NEWS | — | Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. "I don't have any expectations yet," Vrabel said of Henry. "It's kind of how he responds here. He... ([link](https://www.rotowire.com//football/player/hunter-henry-10735)) | Rotowire |
 | 2026-11-02 | Rome Odunze | WR/CHI | NEWS | — | Odunze brought in four of six targets for 87 yards in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
 | 2026-11-02 | Caleb Williams | QB/CHI | NEWS | — | Williams completed 24 of 34 passes for 247 yards with one touchdown and no interceptions and rushed twice for one yard in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
@@ -111,6 +116,11 @@ _Last updated: 2026-11-03 18:05 UTC_ · 1049 items total · 1039/1049 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Tyler Huntley | QB/BAL | INJURY | — | Ravens head coach Jesse Minter said Tuesday that Huntley (toe) could be a candidate for injured reserve, Sam Cohn of The Baltimore Sunreports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-huntley-14563)) | Rotowire |
+| 2026-11-03 | Jeremiyah Love | RB/ARI | INJURY | — | Arizona placed Love (ankle) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) | Rotowire |
+| 2026-11-03 | Bhayshul Tuten | RB/JAX | NEWS | — | The Jaguars listed Tuten (ankle/foot) as a non-participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
+| 2026-11-03 | Chris Rodriguez | RB/JAX | INJURY | — | Rodriguez (hand) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-rodriguez-16933)) | Rotowire |
+| 2026-11-03 | Jakobi Meyers | WR/JAX | INJURY | — | Meyers (hamstring/ankle) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) | Rotowire |
 | 2026-11-03 | Hunter Henry | TE/NE | NEWS | — | Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. "I don't have any expectations yet," Vrabel said of Henry. "It's kind of how he responds here. He... ([link](https://www.rotowire.com//football/player/hunter-henry-10735)) | Rotowire |
 | 2026-11-02 | Rome Odunze | WR/CHI | NEWS | — | Odunze brought in four of six targets for 87 yards in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
 | 2026-11-02 | Caleb Williams | QB/CHI | NEWS | — | Williams completed 24 of 34 passes for 247 yards with one touchdown and no interceptions and rushed twice for one yard in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
@@ -1171,41 +1181,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Adonai Mitchell | WR/NYJ | 1179496 |
-| Tyler Allgeier | RB/ARI | 779910 |
-| Gardner Minshew II | QB/ARI | 761640 |
-| Emmett Johnson | RB/KC | 513477 |
-| Devin Singletary | RB/NYG | 469800 |
-| Houston Texans | DEF/HOU | 373045 |
-| Detroit Lions | DEF/DET | 325800 |
-| Tyler Bass | K/BUF | 245620 |
-| Mike Gesicki | TE/CIN | 204032 |
-| Ryan Flournoy | WR/DAL | 197080 |
-| Malik Washington | WR/MIA | 190256 |
-| Malik Willis | QB/MIA | 186942 |
-| Treylon Burks | WR/WAS | 155064 |
-| San Francisco 49ers | DEF/SF | 143151 |
-| Cairo Santos | K/CHI | 138901 |
+| Adonai Mitchell | WR/NYJ | 1435768 |
+| Tyler Allgeier | RB/ARI | 1169825 |
+| Gardner Minshew II | QB/ARI | 885408 |
+| Emmett Johnson | RB/KC | 647622 |
+| Devin Singletary | RB/NYG | 637218 |
+| Houston Texans | DEF/HOU | 492085 |
+| Detroit Lions | DEF/DET | 401715 |
+| Tyler Bass | K/BUF | 330035 |
+| Mike Gesicki | TE/CIN | 270664 |
+| Malik Willis | QB/MIA | 253981 |
+| Ryan Flournoy | WR/DAL | 245248 |
+| Malik Washington | WR/MIA | 243504 |
+| Cairo Santos | K/CHI | 201551 |
+| Chris Rodriguez Jr. | RB/JAX | 198198 |
+| Treylon Burks | WR/WAS | 196903 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 770868 |
-| Washington Commanders | DEF/WAS | 404040 |
-| New England Patriots | DEF/NE | 296275 |
-| Lamar Jackson | QB/BAL | 257136 |
-| Tyler Loop | K/BAL | 243702 |
-| Keon Coleman | WR/BUF | 197649 |
-| Omar Cooper Jr. | WR/NYJ | 189168 |
-| Kendrick Bourne | WR/ARI | 184596 |
-| Tyler Higbee | TE/LAR | 170955 |
-| Konata Mumpfield | WR/LAR | 145179 |
-| Cleveland Browns | DEF/CLE | 135653 |
-| Mark Andrews | TE/BAL | 133416 |
-| Elijah Mitchell | RB/PHI | 130959 |
-| Chris Boswell | K/PIT | 129876 |
-| Chris Godwin Jr. | WR/TB | 119418 |
+| Emanuel Wilson | RB/SEA | 1003635 |
+| Washington Commanders | DEF/WAS | 516992 |
+| Tyler Loop | K/BAL | 401322 |
+| New England Patriots | DEF/NE | 375508 |
+| Lamar Jackson | QB/BAL | 305408 |
+| Kendrick Bourne | WR/ARI | 245223 |
+| Keon Coleman | WR/BUF | 237591 |
+| Omar Cooper Jr. | WR/NYJ | 226552 |
+| Tyler Higbee | TE/LAR | 216405 |
+| Cleveland Browns | DEF/CLE | 171269 |
+| Konata Mumpfield | WR/LAR | 169569 |
+| Chris Boswell | K/PIT | 163760 |
+| Mark Andrews | TE/BAL | 163539 |
+| Elijah Mitchell | RB/PHI | 153297 |
+| Dameon Pierce | RB/PHI | 149408 |
 
 
 ---
@@ -1216,12 +1226,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Cashius Howell | DL/CIN | Questionable | IR |
-| Audric Estime | RB/CLE | Out | (cleared) |
-| Elliott Davison | DB/NE | Out | (cleared) |
-| Drake Jackson | DL/ATL | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1236,7 +1241,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jalen Brooks | WR/ARI | IR | — | — |
 | James Conner | RB/ARI | IR | — | — |
 | Jayden Williams | OL/ARI | Questionable | — | — |
-| Jeremiyah Love | RB/ARI | Out | — | Head coach Mike LaFleur said Love (ankle) will practice in a limited fashion Wednesday, Bo Brack of GoPHNX.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) |
+| Jeremiyah Love | RB/ARI | Out | — | Arizona placed Love (ankle) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jeremiyah-love-19235)) |
 | Joey Blount | DB/ARI | IR | — | — |
 | Jon Gaines II | OL/ARI | Out | — | — |
 | Kaleb Proctor | DT/ARI | IR | — | — |
@@ -1295,7 +1300,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Skylar Thompson | QB/BAL | IR | — | — |
 | Tavius Robinson | DE/BAL | IR | — | — |
 | Trey Hendrickson | DE/BAL | Questionable | — | — |
-| Tyler Huntley | QB/BAL | Out | — | Huntley (toe) has been ruled out for the rest of Sunday's game against the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-huntley-14563)) |
+| Tyler Huntley | QB/BAL | Out | — | Ravens head coach Jesse Minter said Tuesday that Huntley (toe) could be a candidate for injured reserve, Sam Cohn of The Baltimore Sunreports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-huntley-14563)) |
 | Tyler Loop | K/BAL | Questionable | — | — |
 | Vega Ioane | OG/BAL | Out | — | — |
 | C.J. Gardner-Johnson | DB/BUF | Sus | — | — |
@@ -1803,7 +1808,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Anton Harrison | OL/JAX | IR | — | — |
 | Antonio Johnson | DB/JAX | Out | — | — |
 | B.J. Green II | DE/JAX | IR | — | — |
-| Bhayshul Tuten | RB/JAX | Questionable | — | — |
+| Bhayshul Tuten | RB/JAX | Questionable | — | The Jaguars listed Tuten (ankle/foot) as a non-participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) |
 | Branson Combs | LB/JAX | Questionable | — | — |
 | CJ Williams | WR/JAX | Out | — | — |
 | Caleb Ransaw | DB/JAX | IR | — | — |
@@ -1812,7 +1817,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Eric Murray | DB/JAX | Out | — | — |
 | Ezra Cleveland | G/JAX | Questionable | — | — |
 | Garrett DiGiorgio | G/JAX | IR | — | — |
-| Jakobi Meyers | WR/JAX | Questionable | — | Meyers (hamstring) is listed as active for Sunday's game against the Colts. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) |
+| Jakobi Meyers | WR/JAX | Questionable | — | Meyers (hamstring/ankle) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) |
 | Jamal Hill | LB/JAX | Out | — | — |
 | Jared Bartlett | LB/JAX | IR | — | — |
 | Jarrian Jones | DB/JAX | Questionable | — | — |
