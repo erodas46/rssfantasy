@@ -503,13 +503,6 @@
     "status": "IR",
     "team": "PHI"
   },
-  "11579": {
-    "name": "Audric Estime",
-    "pos": "RB",
-    "since": "",
-    "status": "Out",
-    "team": "CLE"
-  },
   "11582": {
     "name": "Carson Steele",
     "pos": "RB",
@@ -1931,13 +1924,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "13028": {
-    "name": "Elliott Davison",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
-    "team": "NE"
-  },
   "13030": {
     "name": "Torricelli Simpkins III",
     "pos": "OL",
@@ -2271,7 +2257,7 @@
     "name": "Cashius Howell",
     "pos": "DL",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "CIN"
   },
   "13376": {
@@ -5843,13 +5829,6 @@
     "since": "",
     "status": "PUP",
     "team": "DET"
-  },
-  "8351": {
-    "name": "Drake Jackson",
-    "pos": "DL",
-    "since": "",
-    "status": "Out",
-    "team": "ATL"
   },
   "8362": {
     "name": "Leo Chenal",

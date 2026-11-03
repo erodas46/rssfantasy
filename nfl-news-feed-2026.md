@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-03 05:47 UTC_ · 1048 items total · 1038/1048 matched to a player
+_Last updated: 2026-11-03 18:05 UTC_ · 1049 items total · 1039/1049 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,7 @@ _Last updated: 2026-11-03 05:47 UTC_ · 1048 items total · 1038/1048 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Hunter Henry | TE/NE | NEWS | — | Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. "I don't have any expectations yet," Vrabel said of Henry. "It's kind of how he responds here. He... ([link](https://www.rotowire.com//football/player/hunter-henry-10735)) | Rotowire |
 | 2026-11-02 | Rome Odunze | WR/CHI | NEWS | — | Odunze brought in four of six targets for 87 yards in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
 | 2026-11-02 | Caleb Williams | QB/CHI | NEWS | — | Williams completed 24 of 34 passes for 247 yards with one touchdown and no interceptions and rushed twice for one yard in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
 | 2026-11-02 | Jadarian Price | RB/SEA | NEWS | — | Price rushed 10 times for 29 yards and brought in two of four targets for eight yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
@@ -110,6 +111,7 @@ _Last updated: 2026-11-03 05:47 UTC_ · 1048 items total · 1038/1048 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-03 | Hunter Henry | TE/NE | NEWS | — | Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. "I don't have any expectations yet," Vrabel said of Henry. "It's kind of how he responds here. He... ([link](https://www.rotowire.com//football/player/hunter-henry-10735)) | Rotowire |
 | 2026-11-02 | Rome Odunze | WR/CHI | NEWS | — | Odunze brought in four of six targets for 87 yards in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
 | 2026-11-02 | Caleb Williams | QB/CHI | NEWS | — | Williams completed 24 of 34 passes for 247 yards with one touchdown and no interceptions and rushed twice for one yard in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
 | 2026-11-02 | Jadarian Price | RB/SEA | NEWS | — | Price rushed 10 times for 29 yards and brought in two of four targets for eight yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
@@ -1169,41 +1171,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Adonai Mitchell | WR/NYJ | 566400 |
-| Gardner Minshew II | QB/ARI | 433104 |
-| Tyler Allgeier | RB/ARI | 339260 |
-| Emmett Johnson | RB/KC | 248562 |
-| Devin Singletary | RB/NYG | 146322 |
-| Detroit Lions | DEF/DET | 91233 |
-| Ryan Flournoy | WR/DAL | 87144 |
-| Tyler Bass | K/BUF | 82075 |
-| Mike Gesicki | TE/CIN | 69408 |
-| Kirk Cousins | QB/LV | 68616 |
-| Houston Texans | DEF/HOU | 67930 |
-| Kenny Gainwell | RB/TB | 60664 |
-| Treylon Burks | WR/WAS | 57834 |
-| Jadarian Price | RB/SEA | 50769 |
-| Malik Washington | WR/MIA | 46936 |
+| Adonai Mitchell | WR/NYJ | 1179496 |
+| Tyler Allgeier | RB/ARI | 779910 |
+| Gardner Minshew II | QB/ARI | 761640 |
+| Emmett Johnson | RB/KC | 513477 |
+| Devin Singletary | RB/NYG | 469800 |
+| Houston Texans | DEF/HOU | 373045 |
+| Detroit Lions | DEF/DET | 325800 |
+| Tyler Bass | K/BUF | 245620 |
+| Mike Gesicki | TE/CIN | 204032 |
+| Ryan Flournoy | WR/DAL | 197080 |
+| Malik Washington | WR/MIA | 190256 |
+| Malik Willis | QB/MIA | 186942 |
+| Treylon Burks | WR/WAS | 155064 |
+| San Francisco 49ers | DEF/SF | 143151 |
+| Cairo Santos | K/CHI | 138901 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 216585 |
-| Lamar Jackson | QB/BAL | 102880 |
-| Keon Coleman | WR/BUF | 94545 |
-| Omar Cooper Jr. | WR/NYJ | 87576 |
-| Tyler Higbee | TE/LAR | 83700 |
-| Konata Mumpfield | WR/LAR | 78723 |
-| Tyler Loop | K/BAL | 72024 |
-| Washington Commanders | DEF/WAS | 68110 |
-| Kendrick Bourne | WR/ARI | 65262 |
-| Jaydon Blue | RB/PHI | 60776 |
-| New England Patriots | DEF/NE | 60354 |
-| Caleb Douglas | WR/MIA | 55464 |
-| Mark Andrews | TE/BAL | 49455 |
-| Chris Godwin Jr. | WR/TB | 49074 |
-| Xavier Worthy | WR/KC | 49023 |
+| Emanuel Wilson | RB/SEA | 770868 |
+| Washington Commanders | DEF/WAS | 404040 |
+| New England Patriots | DEF/NE | 296275 |
+| Lamar Jackson | QB/BAL | 257136 |
+| Tyler Loop | K/BAL | 243702 |
+| Keon Coleman | WR/BUF | 197649 |
+| Omar Cooper Jr. | WR/NYJ | 189168 |
+| Kendrick Bourne | WR/ARI | 184596 |
+| Tyler Higbee | TE/LAR | 170955 |
+| Konata Mumpfield | WR/LAR | 145179 |
+| Cleveland Browns | DEF/CLE | 135653 |
+| Mark Andrews | TE/BAL | 133416 |
+| Elijah Mitchell | RB/PHI | 130959 |
+| Chris Boswell | K/PIT | 129876 |
+| Chris Godwin Jr. | WR/TB | 119418 |
 
 
 ---
@@ -1216,40 +1218,10 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Eric Murray | DB/JAX | Questionable | Out |
-| Beau Stephens | G/SEA | (unlisted) | Out |
-| Leonard Williams | DE/SEA | (unlisted) | Questionable |
-| Drew Lock | QB/SEA | Questionable | Out |
-| Matthew Stafford | QB/LAR | (unlisted) | Questionable |
-| Justice Hill | RB/BAL | (unlisted) | Questionable |
-| Jordan McFadden | OL/CHI | (unlisted) | Out |
-| Branson Combs | LB/JAX | (unlisted) | Questionable |
-| Jayden Loving | DT/CHI | (unlisted) | Out |
-| Case Keenum | QB/CHI | (unlisted) | Out |
-| Trey Hendrickson | DE/BAL | (unlisted) | Questionable |
-| John Simpson | G/BAL | (unlisted) | Questionable |
-| Jakobi Meyers | WR/JAX | (unlisted) | Questionable |
-| Grady Jarrett | DT/CHI | (unlisted) | Questionable |
-| Chris Rodriguez Jr. | RB/JAX | (unlisted) | Questionable |
-| P.J. Locke | DB/DAL | (unlisted) | Questionable |
-| Bhayshul Tuten | RB/JAX | (unlisted) | Questionable |
-| Roquan Smith | LB/BAL | (unlisted) | Questionable |
-| Uchenna Nwosu | LB/SEA | Doubtful | Out |
-| Malachi Lawrence | DL/DAL | (unlisted) | Questionable |
-| Jordan van den Berg | DL/CHI | (unlisted) | Out |
-| John Jenkins | DT/BAL | (unlisted) | Questionable |
-| Jarrian Jones | DB/JAX | (unlisted) | Questionable |
-| Kentavius Street | DT/CHI | (unlisted) | Questionable |
-| Brandon Pili | DT/SEA | Questionable | Out |
-| Dean Connors | RB/LAR | (unlisted) | Questionable |
-| Grant Stuard | LB/LAR | (unlisted) | Questionable |
-| Tyler Loop | K/BAL | (unlisted) | Questionable |
-| Roger Rosengarten | OL/BAL | (unlisted) | Questionable |
-| Malik Muhammad II | CB/CHI | Questionable | Out |
-| Anthony Bradford | OL/SEA | Questionable | (cleared) |
-| Patrick O'Connell | LB/SEA | Questionable | (cleared) |
-| Jadarian Price | RB/SEA | IR | (cleared) |
-| D'Marco Jackson | LB/CHI | Questionable | (cleared) |
+| Cashius Howell | DL/CIN | Questionable | IR |
+| Audric Estime | RB/CLE | Out | (cleared) |
+| Elliott Davison | DB/NE | Out | (cleared) |
+| Drake Jackson | DL/ATL | Out | (cleared) |
 
 **Full current report**
 
@@ -1287,7 +1259,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Da'Shawn Hand | DT/ATL | IR | — | — |
 | DeAngelo Malone | DL/ATL | PUP | — | — |
 | Divine Deablo | LB/ATL | Out | — | — |
-| Drake Jackson | DL/ATL | Out | — | — |
 | Drake London | WR/ATL | Questionable | — | London (head) was cleared to return to Sunday's game against the 49ers, Josh Kendall of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drake-london-15868)) |
 | JD Bertrand | LB/ATL | IR | — | — |
 | Jack Strand | QB/ATL | Out | — | — |
@@ -1380,7 +1351,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Nikola Kalinic | TE/CHI | IR | — | — |
 | Tony Fields II | LB/CHI | IR | — | — |
 | Andrei Iosivas | WR/CIN | IR | — | — |
-| Cashius Howell | DL/CIN | Questionable | — | — |
+| Cashius Howell | DL/CIN | IR | — | — |
 | Cedric Johnson | DE/CIN | Questionable | — | — |
 | Connor Lew | C/CIN | Out | — | — |
 | DJ Turner II | DB/CIN | Questionable | — | — |
@@ -1395,7 +1366,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Swayze Bozeman | LB/CIN | IR | — | — |
 | Tanner Hudson | TE/CIN | IR | — | — |
 | Alex Wright | DL/CLE | IR | — | — |
-| Audric Estime | RB/CLE | Out | — | — |
 | Bub Means | WR/CLE | Out | — | — |
 | Damarri Mathis | DB/CLE | IR | — | — |
 | Dillon Gabriel | QB/CLE | Out | — | — |
@@ -1959,11 +1929,10 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Behren Morton | QB/NE | Out | — | — |
 | Channing Canada | CB/NE | Out | — | — |
 | Dell Pettus | DB/NE | IR | — | — |
-| Elliott Davison | DB/NE | Out | — | — |
 | Gabe Jacas | DE/NE | Questionable | — | — |
 | Greg Van Roten | OG/NE | IR | — | — |
 | Harold Landry III | LB/NE | PUP | — | — |
-| Hunter Henry | TE/NE | Out | — | — |
+| Hunter Henry | TE/NE | Out | — | Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. "I don't have any expectations yet," Vrabel said of Henry. "It's kind of how he responds here. He... ([link](https://www.rotowire.com//football/player/hunter-henry-10735)) |
 | Julian Hill | TE/NE | IR | — | — |
 | Karon Prunty | DB/NE | Out | — | — |
 | Khalil Jacobs | LB/NE | IR | — | — |
