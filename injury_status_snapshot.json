@@ -902,13 +902,6 @@
     "status": "Questionable",
     "team": "TEN"
   },
-  "11851": {
-    "name": "Carter Bradley",
-    "pos": "QB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "11860": {
     "name": "Beanie Bishop",
     "pos": "CB",
@@ -1669,7 +1662,7 @@
     "name": "Tyler Loop",
     "pos": "K",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "BAL"
   },
   "12712": {
@@ -2089,7 +2082,7 @@
     "name": "Jeremiyah Love",
     "pos": "RB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ARI"
   },
   "13289": {
@@ -2159,7 +2152,7 @@
     "name": "Dean Connors",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "LAR"
   },
   "13320": {
@@ -2544,7 +2537,7 @@
     "name": "Jimmy Rolder",
     "pos": "LB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "DET"
   },
   "13496": {
@@ -2974,13 +2967,6 @@
     "status": "Out",
     "team": "NE"
   },
-  "13839": {
-    "name": "Chase Curtis",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "13851": {
     "name": "Jahquez Robinson",
     "pos": "DB",
@@ -3036,13 +3022,6 @@
     "since": "",
     "status": "IR",
     "team": "LV"
-  },
-  "13898": {
-    "name": "Corey Rucker",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "13915": {
     "name": "Khalil Jacobs",
@@ -3349,7 +3328,7 @@
     "name": "Eric Murray",
     "pos": "DB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "JAX"
   },
   "3281": {
@@ -3524,7 +3503,7 @@
     "name": "Samson Ebukam",
     "pos": "DE",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ATL"
   },
   "4177": {
@@ -3552,7 +3531,7 @@
     "name": "Jeremy McNichols",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "WAS"
   },
   "4351": {
@@ -3587,7 +3566,7 @@
     "name": "Kendrick Bourne",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ARI"
   },
   "4458": {
@@ -3713,7 +3692,7 @@
     "name": "Daron Payne",
     "pos": "DT",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "WAS"
   },
   "4983": {
@@ -4241,13 +4220,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "5914": {
-    "name": "David Long Jr.",
-    "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "5921": {
     "name": "Kris Boyd",
     "pos": "CB",
@@ -4630,7 +4602,7 @@
     "name": "Javon Kinlaw",
     "pos": "DT",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "WAS"
   },
   "6803": {
@@ -4840,7 +4812,7 @@
     "name": "DaVon Hamilton",
     "pos": "DT",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "JAX"
   },
   "6978": {
@@ -5158,12 +5130,12 @@
     "status": "IR",
     "team": "ATL"
   },
-  "7599": {
-    "name": "Jermar Jefferson",
-    "pos": "RB",
+  "7597": {
+    "name": "Kenny Yeboah",
+    "pos": "TE",
     "since": "",
-    "status": "Questionable",
-    "team": "FA"
+    "status": "Out",
+    "team": "ARI"
   },
   "7602": {
     "name": "Kylen Granson",
@@ -5981,7 +5953,7 @@
     "name": "Max Mitchell",
     "pos": "T",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "NYJ"
   },
   "8477": {
