@@ -139,13 +139,6 @@
     "status": "Out",
     "team": "TB"
   },
-  "10927": {
-    "name": "Jordan Battle",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "CIN"
-  },
   "10929": {
     "name": "Drew Sanders",
     "pos": "LB",
@@ -703,7 +696,7 @@
     "name": "Trevin Wallace",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "11746": {
@@ -1161,6 +1154,13 @@
     "status": "Out",
     "team": "PIT"
   },
+  "12514": {
+    "name": "Emeka Egbuka",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "TB"
+  },
   "12521": {
     "name": "Elijah Arroyo",
     "pos": "TE",
@@ -1300,6 +1300,13 @@
     "since": "",
     "status": "Questionable",
     "team": "LV"
+  },
+  "12585": {
+    "name": "James Pearce Jr.",
+    "pos": "DL",
+    "since": "",
+    "status": "Questionable",
+    "team": "ATL"
   },
   "12586": {
     "name": "Cameron Williams",
@@ -4245,7 +4252,7 @@
     "name": "Kyle Dugger",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CIN"
   },
   "6881": {
@@ -5099,7 +5106,7 @@
     "name": "Garrett Wilson",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "815": {
@@ -5113,7 +5120,7 @@
     "name": "Brian Robinson Jr.",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ATL"
   },
   "8167": {
