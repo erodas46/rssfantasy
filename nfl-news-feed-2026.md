@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-06 17:43 UTC_ · 1090 items total · 1080/1090 matched to a player
+_Last updated: 2026-11-06 21:49 UTC_ · 1095 items total · 1085/1095 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-06 17:43 UTC_ · 1090 items total · 1080/1090 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) has been ruled out for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-11-06 | Cam Skattebo | RB/NYG | INJURY | — | Skattebo (hamstring) is listed as doubtful for Sunday's game at Philadelphia, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-11-06 | Devin Singletary | RB/NYG | INJURY | — | With Cam Skattebo (hamstring) doubtful to play Week 9, Singletary is expected to operate as the Giants' lead back Sunday against the Eagles, Jordan Raanan of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devin-singletary-13449)) | Rotowire |
+| 2026-11-06 | Malik Nabers | WR/NYG | NEWS | — | Nabers (knee) doesn't have a designation for Sunday's game in Philadelphia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
+| 2026-11-06 | Pat Bryant | WR/DEN | NEWS | — | Coach Sean Payton said Friday that Bryant (ankle) is in line to play in Sunday's game against the Panthers, Chris Tomasson of the Denver Gazette reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/pat-bryant-18562)) | Rotowire |
 | 2026-11-06 | Emeka Egbuka | WR/TB | NEWS | — | Buccaneers coach Todd Bowles said Friday that Egbuka (foot) will be a game-time decision for Sunday night's game against the Bears, Greg Auman of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
 | 2026-11-06 | Harold Fannin | TE/CLE | NEWS | — | Fannin (groin) is practicing Friday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/harold-fannin-18472)) | Rotowire |
 | 2026-11-06 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring/back) is practicing again Friday, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
@@ -114,6 +119,11 @@ _Last updated: 2026-11-06 17:43 UTC_ · 1090 items total · 1080/1090 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-06 | DeVonta Smith | WR/PHI | INJURY | — | Smith (hamstring) has been ruled out for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) | Rotowire |
+| 2026-11-06 | Cam Skattebo | RB/NYG | INJURY | — | Skattebo (hamstring) is listed as doubtful for Sunday's game at Philadelphia, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-11-06 | Devin Singletary | RB/NYG | INJURY | — | With Cam Skattebo (hamstring) doubtful to play Week 9, Singletary is expected to operate as the Giants' lead back Sunday against the Eagles, Jordan Raanan of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devin-singletary-13449)) | Rotowire |
+| 2026-11-06 | Malik Nabers | WR/NYG | NEWS | — | Nabers (knee) doesn't have a designation for Sunday's game in Philadelphia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
+| 2026-11-06 | Pat Bryant | WR/DEN | NEWS | — | Coach Sean Payton said Friday that Bryant (ankle) is in line to play in Sunday's game against the Panthers, Chris Tomasson of the Denver Gazette reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/pat-bryant-18562)) | Rotowire |
 | 2026-11-06 | Emeka Egbuka | WR/TB | NEWS | — | Buccaneers coach Todd Bowles said Friday that Egbuka (foot) will be a game-time decision for Sunday night's game against the Bears, Greg Auman of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emeka-egbuka-18549)) | Rotowire |
 | 2026-11-06 | Harold Fannin | TE/CLE | NEWS | — | Fannin (groin) is practicing Friday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/harold-fannin-18472)) | Rotowire |
 | 2026-11-06 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring/back) is practicing again Friday, Dave Zangaro of NBC Sports Philadelphia reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
@@ -1215,41 +1225,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Carson Wentz | QB/MIN | 481800 |
-| Chris Rodriguez Jr. | RB/JAX | 362619 |
-| Devin Singletary | RB/NYG | 338193 |
-| Detroit Lions | DEF/DET | 319392 |
-| Demarcus Robinson | WR/SF | 308754 |
-| Adonai Mitchell | WR/NYJ | 267584 |
-| Cairo Santos | K/CHI | 259959 |
-| Malik Willis | QB/MIA | 231077 |
-| New Orleans Saints | DEF/NO | 211810 |
-| Emmett Johnson | RB/KC | 130122 |
-| Mike Gesicki | TE/CIN | 119296 |
-| Malik Washington | WR/MIA | 114424 |
-| Elijah Mitchell | RB/PHI | 106911 |
-| Ryan Flournoy | WR/DAL | 105360 |
-| Tyler Bass | K/BUF | 98825 |
+| Devin Singletary | RB/NYG | 576477 |
+| Carson Wentz | QB/MIN | 322254 |
+| Demarcus Robinson | WR/SF | 290052 |
+| Adonai Mitchell | WR/NYJ | 287440 |
+| Detroit Lions | DEF/DET | 272610 |
+| Cairo Santos | K/CHI | 224322 |
+| Chris Rodriguez Jr. | RB/JAX | 190575 |
+| Malik Willis | QB/MIA | 187558 |
+| New Orleans Saints | DEF/NO | 186210 |
+| Omar Cooper Jr. | WR/NYJ | 132728 |
+| Emmett Johnson | RB/KC | 126270 |
+| Malik Washington | WR/MIA | 110336 |
+| Mike Gesicki | TE/CIN | 109648 |
+| Elijah Mitchell | RB/PHI | 100449 |
+| Ryan Flournoy | WR/DAL | 98024 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emanuel Wilson | RB/SEA | 335520 |
-| Chris Rodriguez Jr. | RB/JAX | 253881 |
-| Kyler Murray | QB/MIN | 239064 |
-| Washington Commanders | DEF/WAS | 210161 |
-| Tyler Loop | K/BAL | 208572 |
-| Tanner McKee | QB/PHI | 161080 |
-| Tyler Higbee | TE/LAR | 120168 |
-| Lamar Jackson | QB/BAL | 119720 |
-| Chris Boswell | K/PIT | 111284 |
-| New England Patriots | DEF/NE | 108031 |
-| Keon Coleman | WR/BUF | 106074 |
-| MarShawn Lloyd | RB/GB | 95103 |
-| Roschon Johnson | RB/CHI | 90856 |
-| Dameon Pierce | RB/PHI | 79776 |
-| Mark Andrews | TE/BAL | 79569 |
+| Emanuel Wilson | RB/SEA | 292941 |
+| Chris Rodriguez Jr. | RB/JAX | 260181 |
+| Kyler Murray | QB/MIN | 184560 |
+| Washington Commanders | DEF/WAS | 177849 |
+| Tyler Loop | K/BAL | 164250 |
+| Tanner McKee | QB/PHI | 124272 |
+| Tyler Higbee | TE/LAR | 107064 |
+| Keon Coleman | WR/BUF | 98667 |
+| Chris Boswell | K/PIT | 95696 |
+| Lamar Jackson | QB/BAL | 94840 |
+| New England Patriots | DEF/NE | 87542 |
+| MarShawn Lloyd | RB/GB | 87165 |
+| Roschon Johnson | RB/CHI | 79320 |
+| Dameon Pierce | RB/PHI | 73224 |
+| Cleveland Browns | DEF/CLE | 68404 |
 
 
 ---
@@ -1260,15 +1270,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Brian Robinson Jr. | RB/ATL | Questionable | Out |
-| Emeka Egbuka | WR/TB | (unlisted) | Questionable |
-| Garrett Wilson | WR/NYJ | Questionable | Out |
-| James Pearce Jr. | DL/ATL | (unlisted) | Questionable |
-| Trevin Wallace | LB/NYJ | Questionable | Out |
-| Kyle Dugger | DB/CIN | Questionable | Out |
-| Jordan Battle | DB/CIN | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1433,7 +1435,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Matt Henningsen | DE/DEN | IR | — | — |
 | Michael Deiter | OL/DEN | IR | — | — |
 | Nick Gargiulo | OL/DEN | PUP | — | — |
-| Pat Bryant | WR/DEN | IR | — | — |
+| Pat Bryant | WR/DEN | IR | — | Coach Sean Payton said Friday that Bryant (ankle) is in line to play in Sunday's game against the Panthers, Chris Tomasson of the Denver Gazette reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/pat-bryant-18562)) |
 | RJ Harvey | RB/DEN | IR | — | The Broncos placed Harvey (knee) on injured reserve Saturday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) |
 | Talanoa Hufanga | DB/DEN | Questionable | — | — |
 | Tyler Badie | RB/DEN | IR | — | — |
@@ -1943,7 +1945,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Braxton Berrios | WR/NYG | IR | — | — |
 | Brian Burns | DE/NYG | IR | — | — |
 | Calvin Austin III | WR/NYG | IR | — | — |
-| Cam Skattebo | RB/NYG | Questionable | — | Skattebo (hamstring) was in uniform but not participating at the start of Friday's practice, Jordan Raanan of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) |
+| Cam Skattebo | RB/NYG | Questionable | — | Skattebo (hamstring) is listed as doubtful for Sunday's game at Philadelphia, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) |
 | Charlie Jones | WR/NYG | Questionable | — | — |
 | Chauncey Golston | DE/NYG | IR | — | — |
 | Darius Alexander | DL/NYG | Questionable | — | — |
@@ -1952,7 +1954,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jaxson Dart | QB/NYG | IR | — | Dart is facing the possibility of season-ending surgery after further testing Tuesday revealed that the left knee injury he sustained in Monday's 28-6 loss to the Rams is worse than originally anticipated, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) |
 | Jermaine Eluemunor | OL/NYG | Questionable | — | — |
 | Korie Black | CB/NYG | IR | — | — |
-| Malik Nabers | WR/NYG | Questionable | — | Nabers brought in one of four targets for one yard in the Giants' 28-6 loss to the Rams on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) |
+| Malik Nabers | WR/NYG | Questionable | — | Nabers (knee) doesn't have a designation for Sunday's game in Philadelphia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) |
 | Roy Robertson-Harris | DE/NYG | IR | — | — |
 | Thaddeus Dixon | CB/NYG | IR | — | — |
 | Tremaine Edmunds | LB/NYG | IR | — | — |
@@ -1975,7 +1977,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Andre' Sam | DB/PHI | IR | — | — |
 | Britain Covey | WR/PHI | Questionable | — | — |
 | Dameon Pierce | RB/PHI | IR | — | The Eagles placed Pierce (undisclosed) on injured reserve Wednesday Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dameon-pierce-15875)) |
-| DeVonta Smith | WR/PHI | Questionable | — | Smith (hamstring) was not seen at Friday's practice, Jeff McLane of the Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
+| DeVonta Smith | WR/PHI | Questionable | — | Smith (hamstring) has been ruled out for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devonta-smith-15406)) |
 | Dontayvion Wicks | WR/PHI | Questionable | — | Lemon will be the Eagles' top wide receiver for a second consecutive game Sunday at Washington due to the absences of both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle). Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/makai-lemon-19231)) |
 | Jake Elliott | K/PHI | Questionable | — | — |
 | Jalen Hurts | QB/PHI | IR | — | Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) |
