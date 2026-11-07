@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-07 16:39 UTC_ · 1101 items total · 1091/1101 matched to a player
+_Last updated: 2026-11-07 20:35 UTC_ · 1106 items total · 1096/1106 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-07 16:39 UTC_ · 1101 items total · 1091/1101 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-07 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) remained in a red non-contact jersey at Saturday's practice, Katherine Fitzgerald of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-11-07 | Jordyn Tyson | WR/NO | INJURY | — | Tyson (hamstring) intends to make his NFL debut Sunday against the Browns, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
+| 2026-11-07 | Deshaun Watson | QB/CLE | INJURY | — | Watson (concussion) cleared the concussion protocol Saturday but remains questionable for Sunday's game at New Orleans. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
+| 2026-11-07 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) doesn't have a designation for Monday's contest at Minnesota. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-11-07 | Kyler Murray | QB/MIN | INJURY | — | Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-07 | Kyler Murray | QB/MIN | INJURY | — | Murray (hamstring) is recovering from a Grade 2 strain "that will keep him out for Monday's game and potentially beyond," Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-06 | Mike Evans | WR/SF | INJURY | — | Evans (Achilles) has been ruled out for Sunday's game against the Raiders, Nick Wagoner of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-11-06 | Christian McCaffrey | RB/SF | INJURY | — | McCaffrey (hamstring) doesn't have a designation for Sunday's game versus the Raiders, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
@@ -110,6 +115,11 @@ _Last updated: 2026-11-07 16:39 UTC_ · 1101 items total · 1091/1101 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-07 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) remained in a red non-contact jersey at Saturday's practice, Katherine Fitzgerald of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-11-07 | Jordyn Tyson | WR/NO | INJURY | — | Tyson (hamstring) intends to make his NFL debut Sunday against the Browns, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
+| 2026-11-07 | Deshaun Watson | QB/CLE | INJURY | — | Watson (concussion) cleared the concussion protocol Saturday but remains questionable for Sunday's game at New Orleans. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
+| 2026-11-07 | DJ Moore | WR/BUF | NEWS | — | Moore (shoulder) doesn't have a designation for Monday's contest at Minnesota. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
+| 2026-11-07 | Kyler Murray | QB/MIN | INJURY | — | Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-07 | Kyler Murray | QB/MIN | INJURY | — | Murray (hamstring) is recovering from a Grade 2 strain "that will keep him out for Monday's game and potentially beyond," Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-06 | Mike Evans | WR/SF | INJURY | — | Evans (Achilles) has been ruled out for Sunday's game against the Raiders, Nick Wagoner of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-11-06 | Christian McCaffrey | RB/SF | INJURY | — | McCaffrey (hamstring) doesn't have a designation for Sunday's game versus the Raiders, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-mccaffrey-11690)) | Rotowire |
@@ -1222,41 +1232,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 783531 |
-| Demarcus Robinson | WR/SF | 234114 |
-| Adonai Mitchell | WR/NYJ | 226216 |
-| Omar Cooper Jr. | WR/NYJ | 165000 |
-| Corey Kiner | RB/NE | 139386 |
-| Carson Wentz | QB/MIN | 96048 |
-| Gregory Desrosiers | RB/NYG | 89304 |
-| Darius Cooper | WR/PHI | 88228 |
-| Detroit Lions | DEF/DET | 75402 |
-| New Orleans Saints | DEF/NO | 73125 |
-| Emmett Johnson | RB/KC | 71136 |
-| Malik Willis | QB/MIA | 62048 |
-| Elijah Mitchell | RB/PHI | 57609 |
-| Malik Washington | WR/MIA | 56648 |
-| Ryan Flournoy | WR/DAL | 51672 |
+| Devin Singletary | RB/NYG | 702036 |
+| Demarcus Robinson | WR/SF | 247938 |
+| Adonai Mitchell | WR/NYJ | 176200 |
+| Corey Kiner | RB/NE | 125628 |
+| Omar Cooper Jr. | WR/NYJ | 125096 |
+| Gregory Desrosiers | RB/NYG | 104184 |
+| Darius Cooper | WR/PHI | 84364 |
+| Carson Wentz | QB/MIN | 82182 |
+| New Orleans Saints | DEF/NO | 69130 |
+| Detroit Lions | DEF/DET | 65952 |
+| Emmett Johnson | RB/KC | 60498 |
+| Malik Willis | QB/MIA | 58142 |
+| Alvin Kamara | RB/NO | 54688 |
+| Elijah Mitchell | RB/PHI | 50877 |
+| Jordan Watkins | WR/SF | 46636 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dameon Pierce | RB/PHI | 171072 |
-| Emanuel Wilson | RB/SEA | 125163 |
-| Kyler Murray | QB/MIN | 68648 |
-| Treylon Burks | WR/WAS | 56490 |
-| Tanner McKee | QB/PHI | 50584 |
-| Keon Coleman | WR/BUF | 49563 |
-| Tyler Higbee | TE/LAR | 47556 |
-| Washington Commanders | DEF/WAS | 47131 |
-| Chris Rodriguez Jr. | RB/JAX | 42705 |
-| MarShawn Lloyd | RB/GB | 39429 |
-| Terrance Ferguson | TE/LAR | 36944 |
-| Roschon Johnson | RB/CHI | 33280 |
-| New England Patriots | DEF/NE | 32263 |
-| Elijah Mitchell | RB/PHI | 32238 |
-| Brenton Strange | TE/JAX | 32121 |
+| Dameon Pierce | RB/PHI | 202136 |
+| Emanuel Wilson | RB/SEA | 115155 |
+| Kyler Murray | QB/MIN | 71392 |
+| Treylon Burks | WR/WAS | 55223 |
+| Tanner McKee | QB/PHI | 46896 |
+| Keon Coleman | WR/BUF | 44703 |
+| Washington Commanders | DEF/WAS | 42294 |
+| Terrance Ferguson | TE/LAR | 42016 |
+| Tyler Higbee | TE/LAR | 40869 |
+| MarShawn Lloyd | RB/GB | 36162 |
+| Kendre Miller | RB/NO | 35824 |
+| Chris Rodriguez Jr. | RB/JAX | 32571 |
+| Roschon Johnson | RB/CHI | 32256 |
+| Elijah Mitchell | RB/PHI | 32022 |
+| Konata Mumpfield | WR/LAR | 30069 |
 
 
 ---
@@ -1331,7 +1341,7 @@ _None since last run._
 | Tyler Huntley | QB/BAL | IR | — | Ravens head coach Jesse Minter said Tuesday that Huntley (toe) could be a candidate for injured reserve, Sam Cohn of The Baltimore Sunreports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-huntley-14563)) |
 | Tyler Loop | K/BAL | IR | — | — |
 | Alec Anderson | OL/BUF | Questionable | — | — |
-| DJ Moore | WR/BUF | Questionable | — | Moore (knee) was a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
+| DJ Moore | WR/BUF | Questionable | — | Moore (shoulder) remained in a red non-contact jersey at Saturday's practice, Katherine Fitzgerald of The Buffalo News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dion Dawkins | OT/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Greg Gaines | DT/BUF | Questionable | — | — |
@@ -1386,7 +1396,7 @@ _None since last run._
 | Tanner Hudson | TE/CIN | IR | — | — |
 | Alex Wright | DL/CLE | IR | — | — |
 | Damarri Mathis | DB/CLE | IR | — | — |
-| Deshaun Watson | QB/CLE | Questionable | — | Watson (concussion) remained sidelined from practice Thursday, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) |
+| Deshaun Watson | QB/CLE | Questionable | — | Watson (concussion) cleared the concussion protocol Saturday but remains questionable for Sunday's game at New Orleans. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) |
 | Jeremiah Owusu-Koramoah | LB/CLE | PUP | — | — |
 | Joe Royer | TE/CLE | PUP | — | — |
 | Kalia Davis | DL/CLE | IR | — | — |
@@ -1872,7 +1882,7 @@ _None since last run._
 | Jauan Jennings | WR/MIN | Questionable | — | Jennings (personal) was not listed on the Vikings' injury report Wednesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jauan-jennings-14376)) |
 | Jay Ward | DB/MIN | Questionable | — | — |
 | Josh Oliver | TE/MIN | IR | — | — |
-| Kyler Murray | QB/MIN | Questionable | — | Murray (hamstring) is recovering from a Grade 2 strain "that will keep him out for Monday's game and potentially beyond," Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) |
+| Kyler Murray | QB/MIN | Questionable | — | Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) |
 | Michael Briscoe | WR/MIN | Out | — | — |
 | Nick Samac | C/MIN | IR | — | — |
 | Theo Jackson | DB/MIN | Questionable | — | — |
@@ -1898,7 +1908,7 @@ _None since last run._
 | Bryan Bresee | DT/NO | IR | — | — |
 | CJ Donaldson | RB/NO | Out | — | — |
 | Dillon Radunz | OL/NO | IR | — | — |
-| Jordyn Tyson | WR/NO | IR | — | Tyson (hamstring) could be reinstated from injured reserve and make his season debut as soon as next Sunday versus the Browns, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) |
+| Jordyn Tyson | WR/NO | IR | — | Tyson (hamstring) intends to make his NFL debut Sunday against the Browns, NFL reporter Jordan Schultz reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) |
 | Kelvin Banks Jr. | OL/NO | IR | — | — |
 | Martin Emerson Jr. | DB/NO | Questionable | — | — |
 | Mason Tipton | WR/NO | PUP | — | — |
