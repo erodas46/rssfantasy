@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-08 16:47 UTC_ · 1114 items total · 1104/1114 matched to a player
+_Last updated: 2026-11-08 20:49 UTC_ · 1119 items total · 1109/1119 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-08 16:47 UTC_ · 1114 items total · 1104/1114 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-08 | KC Concepcion | WR/CLE | INJURY | — | Concepcion, who was helped off the field Sunday, appeared to be having trouble putting pressure on his right leg, Ross Jackson of Louisianasports.net reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-11-08 | J.J. McCarthy | QB/MIN | INJURY | — | McCarthy suffered a hip injury during Sunday's game in Philadelphia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-11-08 | J.J. McCarthy | QB/MIN | NEWS | — | McCarthy (hip) returned to Sunday's contest at Philadelphia, Connor Hughes of SNY.tv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-11-08 | KC Concepcion | WR/CLE | NEWS | — | Concepcion returned to Sunday's game against the Saints after previously appearing to injure his right leg, Mary Kay Cabot of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-11-08 | Jake Ferguson | TE/DAL | INJURY | — | Ferguson sustained a knee injury during Sunday's game against the Colts, Calvin Watkins of The Dallas Morning News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
 | 2026-11-08 | Deshaun Watson | QB/CLE | INJURY | — | Watson (concussion) is inactive for Sunday's game against the Saints, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
 | 2026-11-08 | Amon-Ra St. Brown | WR/DET | NEWS | — | St. Brown (ribs) is active for Sunday's game in Miami. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
 | 2026-11-08 | Jordyn Tyson | WR/NO | INJURY | — | Tyson (hamstring) is listed as active for Sunday's game against the Browns, Ross Jackson of WWL Louisiana reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
@@ -113,6 +118,11 @@ _Last updated: 2026-11-08 16:47 UTC_ · 1114 items total · 1104/1114 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-08 | KC Concepcion | WR/CLE | INJURY | — | Concepcion, who was helped off the field Sunday, appeared to be having trouble putting pressure on his right leg, Ross Jackson of Louisianasports.net reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-11-08 | J.J. McCarthy | QB/MIN | INJURY | — | McCarthy suffered a hip injury during Sunday's game in Philadelphia. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-11-08 | J.J. McCarthy | QB/MIN | NEWS | — | McCarthy (hip) returned to Sunday's contest at Philadelphia, Connor Hughes of SNY.tv reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-11-08 | KC Concepcion | WR/CLE | NEWS | — | Concepcion returned to Sunday's game against the Saints after previously appearing to injure his right leg, Mary Kay Cabot of The Cleveland Plain Dealer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kc-concepcion-19242)) | Rotowire |
+| 2026-11-08 | Jake Ferguson | TE/DAL | INJURY | — | Ferguson sustained a knee injury during Sunday's game against the Colts, Calvin Watkins of The Dallas Morning News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
 | 2026-11-08 | Deshaun Watson | QB/CLE | INJURY | — | Watson (concussion) is inactive for Sunday's game against the Saints, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deshaun-watson-11712)) | Rotowire |
 | 2026-11-08 | Amon-Ra St. Brown | WR/DET | NEWS | — | St. Brown (ribs) is active for Sunday's game in Miami. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/amon-ra-st-brown-15332)) | Rotowire |
 | 2026-11-08 | Jordyn Tyson | WR/NO | INJURY | — | Tyson (hamstring) is listed as active for Sunday's game against the Browns, Ross Jackson of WWL Louisiana reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordyn-tyson-19233)) | Rotowire |
@@ -1238,41 +1248,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 611325 |
-| Demarcus Robinson | WR/SF | 482490 |
-| Audric Estime | RB/NO | 283482 |
-| Alvin Kamara | RB/NO | 182576 |
-| Adonai Mitchell | WR/NYJ | 163392 |
-| New Orleans Saints | DEF/NO | 157025 |
-| Gregory Desrosiers | RB/NYG | 128056 |
-| Darius Cooper | WR/PHI | 104104 |
-| Carson Wentz | QB/MIN | 97680 |
-| Corey Kiner | RB/NE | 96174 |
-| New York Giants | DEF/NYG | 91984 |
-| Malik Willis | QB/MIA | 90986 |
-| Omar Cooper Jr. | WR/NYJ | 89952 |
-| Khalil Herbert | RB/ATL | 87390 |
-| Detroit Lions | DEF/DET | 83601 |
+| Devin Singletary | RB/NYG | 643176 |
+| Demarcus Robinson | WR/SF | 581664 |
+| Audric Estime | RB/NO | 332892 |
+| Ryan Flournoy | WR/DAL | 259728 |
+| Alvin Kamara | RB/NO | 197336 |
+| New Orleans Saints | DEF/NO | 185570 |
+| Adonai Mitchell | WR/NYJ | 181200 |
+| Gregory Desrosiers | RB/NYG | 126256 |
+| Darius Cooper | WR/PHI | 123053 |
+| Carson Wentz | QB/MIN | 115884 |
+| Corey Kiner | RB/NE | 108438 |
+| New York Giants | DEF/NYG | 107024 |
+| Cairo Santos | K/CHI | 101906 |
+| Malik Willis | QB/MIA | 101500 |
+| Omar Cooper Jr. | WR/NYJ | 99024 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dameon Pierce | RB/FA | 275208 |
-| Emanuel Wilson | RB/SEA | 196983 |
-| Kendre Miller | RB/NO | 173408 |
-| Kyler Murray | QB/MIN | 112600 |
-| Washington Commanders | DEF/WAS | 93128 |
-| Brian Robinson Jr. | RB/ATL | 76284 |
-| Keon Coleman | WR/BUF | 71478 |
-| Tanner McKee | QB/PHI | 68088 |
-| MarShawn Lloyd | RB/GB | 67347 |
-| Tyler Higbee | TE/LAR | 62640 |
-| Roschon Johnson | RB/CHI | 57848 |
-| Treylon Burks | WR/WAS | 55895 |
-| Konata Mumpfield | WR/LAR | 54306 |
-| New England Patriots | DEF/NE | 54215 |
-| Devaughn Vele | WR/NO | 54068 |
+| Dameon Pierce | RB/FA | 310856 |
+| Emanuel Wilson | RB/SEA | 238860 |
+| Kendre Miller | RB/NO | 191824 |
+| Kyler Murray | QB/MIN | 125264 |
+| Washington Commanders | DEF/WAS | 107513 |
+| MarShawn Lloyd | RB/GB | 95976 |
+| Keon Coleman | WR/BUF | 84033 |
+| Brian Robinson Jr. | RB/ATL | 84000 |
+| Tyler Higbee | TE/LAR | 75492 |
+| Devaughn Vele | WR/NO | 73892 |
+| Tanner McKee | QB/PHI | 73608 |
+| New England Patriots | DEF/NE | 67879 |
+| Roschon Johnson | RB/CHI | 63720 |
+| Seth McGowan | RB/IND | 62040 |
+| Konata Mumpfield | WR/LAR | 61056 |
 
 
 ---
@@ -1283,76 +1293,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Landon Robinson | NT/CIN | (unlisted) | Out |
-| Kage Casey | OT/DEN | (unlisted) | Out |
-| Andy Dalton | QB/ATL | (unlisted) | Out |
-| Parker Brailsford | C/CLE | (unlisted) | Out |
-| Justin Jefferson | LB/CLE | (unlisted) | Out |
-| Zach Wilson | QB/NO | (unlisted) | Out |
-| Sam Ehlinger | QB/DEN | (unlisted) | Out |
-| Noah Igbinoghene | CB/CLE | (unlisted) | Out |
-| Athan Kaliakmanis | QB/WAS | (unlisted) | Out |
-| Joe Cardona | LS/LAR | Doubtful | Out |
-| Blake Freeland | OL/NYJ | (unlisted) | Out |
-| George Pickens | WR/DAL | Questionable | Out |
-| Billy Bowman Jr. | DB/ATL | (unlisted) | Out |
-| Robert Longerbeam | DB/ATL | (unlisted) | Out |
-| Lil'Jordan Humphrey | WR/DEN | (unlisted) | Out |
-| Haynes King | QB/CAR | (unlisted) | Out |
-| Isaac Yiadom | CB/WAS | (unlisted) | Out |
-| Tim Patrick | WR/NYJ | (unlisted) | Out |
-| Bill Murray | DT/LAR | (unlisted) | Out |
-| Christen Miller | DL/NO | (unlisted) | Out |
-| Mike Reid | CB/NO | (unlisted) | Out |
-| Olamide Zaccheaus | WR/ATL | (unlisted) | Questionable |
-| Nikko Reed | DB/NYG | (unlisted) | Out |
-| Fabian Moreau | CB/WAS | (unlisted) | Out |
-| Colton Hood | DB/NYG | (unlisted) | Out |
-| Drake Jackson | DL/ATL | (unlisted) | Out |
-| Thomas Fidone II | TE/NYG | (unlisted) | Out |
-| Connor Lew | C/CIN | (unlisted) | Out |
-| Ty Simpson | QB/LAR | (unlisted) | Out |
-| C.J. Okoye | DL/NYG | (unlisted) | Out |
-| Desjuan Johnson | DT/LAR | (unlisted) | Out |
-| Dallen Bentley | TE/DEN | (unlisted) | Out |
-| Cam Skattebo | RB/NYG | Doubtful | Out |
-| Jaylan Ford | LB/NO | (unlisted) | Out |
-| Josh Sills | OL/NYG | (unlisted) | Out |
-| TeRah Edwards | DL/CAR | (unlisted) | Out |
-| Talanoa Hufanga | DB/DEN | Questionable | Out |
-| John Ridgeway III | DL/NO | (unlisted) | Out |
-| Myles Hinton | OT/CIN | (unlisted) | Out |
-| Marcus Mbow | OL/NYG | (unlisted) | Out |
-| Deshaun Watson | QB/CLE | Questionable | Out |
-| Taylen Green | QB/CLE | (unlisted) | Out |
-| Keagen Trost | OL/LAR | (unlisted) | Out |
-| Jack Strand | QB/ATL | (unlisted) | Out |
-| Darryl Peterson III | LB/LAR | (unlisted) | Out |
-| Trent McDuffie | DB/LAR | Questionable | Out |
-| AJ Dillon | RB/CAR | (unlisted) | Out |
-| Charlie Jones | WR/NYG | Questionable | (cleared) |
-| Asim Richards | OL/NO | Questionable | (cleared) |
-| Yasir Abdullah | LB/ATL | Questionable | (cleared) |
-| Jordan Whittington | WR/LAR | Questionable | (cleared) |
-| Jer'Zhan Newton | DL/WAS | Questionable | (cleared) |
-| Cedric Johnson | DE/CIN | Questionable | (cleared) |
-| Corey Bullock | OL/CAR | Questionable | (cleared) |
-| Dondrea Tillman | DT/DEN | Questionable | (cleared) |
-| Pat Bryant | WR/DEN | Questionable | (cleared) |
-| Kelvin Banks Jr. | OL/NO | Questionable | (cleared) |
-| James Pearce Jr. | DL/ATL | Questionable | (cleared) |
-| Beaux Collins | WR/ATL | Questionable | (cleared) |
-| Torricelli Simpkins III | OL/CAR | Questionable | (cleared) |
-| Jordyn Tyson | WR/NO | Questionable | (cleared) |
-| Harrison Phillips | DT/NYJ | Questionable | (cleared) |
-| Colby Parkinson | TE/LAR | Questionable | (cleared) |
-| Kam Curl | DB/LAR | Questionable | (cleared) |
-| Amon-Ra St. Brown | WR/DET | Questionable | (cleared) |
-| Divine Deablo | LB/ATL | Questionable | (cleared) |
-| Grant Stuard | LB/LAR | Questionable | (cleared) |
-| Martin Emerson Jr. | DB/NO | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1487,7 +1428,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | DeMarvion Overshown | LB/DAL | Questionable | — | — |
 | Devin Moore | CB/DAL | IR | — | — |
 | George Pickens | WR/DAL | Out | — | Pickens (hamstring) was limited at Thursday's practice, Todd Archer of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) |
-| Jake Ferguson | TE/DAL | Questionable | — | Ferguson (ankle) is listed as active Sunday in Indianapolis. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) |
+| Jake Ferguson | TE/DAL | Questionable | — | Ferguson sustained a knee injury during Sunday's game against the Colts, Calvin Watkins of The Dallas Morning News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) |
 | Jalen Thompson | DB/DAL | IR | — | — |
 | Joey Porter Jr. | DB/DAL | Questionable | — | — |
 | Jonathan Bullard | DE/DAL | IR | — | — |
