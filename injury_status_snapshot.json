@@ -66,7 +66,7 @@
     "name": "Jack Campbell",
     "pos": "LB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "DET"
   },
   "10886": {
@@ -192,7 +192,7 @@
     "name": "Yasir Abdullah",
     "pos": "LB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "ATL"
   },
   "10999": {
@@ -524,13 +524,6 @@
     "status": "IR",
     "team": "PHI"
   },
-  "11637": {
-    "name": "Keon Coleman",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "BUF"
-  },
   "11638": {
     "name": "Ricky Pearsall",
     "pos": "WR",
@@ -612,7 +605,7 @@
     "name": "Jer'Zhan Newton",
     "pos": "DL",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "WAS"
   },
   "11714": {
@@ -633,14 +626,14 @@
     "name": "Isaiah Adams",
     "pos": "OL",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "ARI"
   },
   "11720": {
     "name": "Marist Liufau",
     "pos": "LB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "DAL"
   },
   "11722": {
@@ -1095,7 +1088,7 @@
     "name": "Pat Bryant",
     "pos": "WR",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "DEN"
   },
   "12508": {
@@ -1228,7 +1221,7 @@
     "name": "Kelvin Banks Jr.",
     "pos": "OL",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "NO"
   },
   "12584": {
@@ -1529,7 +1522,7 @@
     "name": "Beaux Collins",
     "pos": "WR",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "ATL"
   },
   "12892": {
@@ -1781,7 +1774,7 @@
     "name": "Jordyn Tyson",
     "pos": "WR",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "NO"
   },
   "13287": {
@@ -1872,7 +1865,7 @@
     "name": "Demond Claiborne",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIN"
   },
   "13352": {
@@ -1907,7 +1900,7 @@
     "name": "Malachi Lawrence",
     "pos": "DL",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "DAL"
   },
   "13364": {
@@ -1928,7 +1921,7 @@
     "name": "A.J. Haulcy",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "IND"
   },
   "13385": {
@@ -2729,13 +2722,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "3286": {
-    "name": "Demarcus Robinson",
-    "pos": "WR",
-    "since": "",
-    "status": "IR",
-    "team": "SF"
-  },
   "3321": {
     "name": "Tyreek Hill",
     "pos": "WR",
@@ -2770,13 +2756,6 @@
     "since": "",
     "status": "NA",
     "team": "FA"
-  },
-  "3973": {
-    "name": "Myles Garrett",
-    "pos": "DE",
-    "since": "",
-    "status": "IR",
-    "team": "LAR"
   },
   "4017": {
     "name": "Deshaun Watson",
@@ -2880,7 +2859,7 @@
     "name": "Mack Hollins",
     "pos": "WR",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "NE"
   },
   "4198": {
@@ -3020,7 +2999,7 @@
     "name": "Christian Kirk",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "SF"
   },
   "4968": {
@@ -3050,13 +3029,6 @@
     "since": "",
     "status": "IR",
     "team": "WAS"
-  },
-  "4983": {
-    "name": "DJ Moore",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "BUF"
   },
   "4992": {
     "name": "Dante Pettis",
@@ -3468,7 +3440,7 @@
     "name": "Kyler Murray",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIN"
   },
   "5859": {
@@ -3673,13 +3645,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "6183": {
-    "name": "Andrew Van Ginkel",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "MIN"
   },
   "6211": {
     "name": "Sione Takitaki",
@@ -4154,7 +4119,7 @@
     "name": "Jauan Jennings",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIN"
   },
   "7057": {
@@ -4297,13 +4262,6 @@
     "status": "IR",
     "team": "NE"
   },
-  "7224": {
-    "name": "Sam Franklin Jr.",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "BUF"
-  },
   "7233": {
     "name": "Andre Baccellia",
     "pos": "WR",
@@ -4392,7 +4350,7 @@
     "name": "Dyami Brown",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "WAS"
   },
   "7593": {
@@ -4511,7 +4469,7 @@
     "name": "Joshua Palmer",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "BUF"
   },
   "7677": {
@@ -4525,22 +4483,15 @@
     "name": "Joseph Ossai",
     "pos": "DE",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "7687": {
     "name": "Nahshon Wright",
     "pos": "CB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
-  },
-  "7691": {
-    "name": "Spencer Brown",
-    "pos": "OT",
-    "since": "",
-    "status": "Questionable",
-    "team": "BUF"
   },
   "7693": {
     "name": "Chauncey Golston",
@@ -4764,7 +4715,7 @@
     "pos": "RB",
     "since": "",
     "status": "Questionable",
-    "team": "PHI"
+    "team": "FA"
   },
   "8135": {
     "name": "Treylon Burks",
@@ -4805,7 +4756,7 @@
     "name": "Brian Robinson Jr.",
     "pos": "RB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ATL"
   },
   "8168": {
@@ -4828,13 +4779,6 @@
     "since": "",
     "status": "IR",
     "team": "KC"
-  },
-  "8195": {
-    "name": "Ronnie Rivers",
-    "pos": "RB",
-    "since": "",
-    "status": "IR",
-    "team": "LAR"
   },
   "8202": {
     "name": "Michael Woods",
@@ -4980,7 +4924,7 @@
     "name": "Eyioma Uwazurike",
     "pos": "DL",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "DEN"
   },
   "8348": {
@@ -5022,7 +4966,7 @@
     "name": "Jaylen Watson",
     "pos": "DB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "LAR"
   },
   "8375": {
