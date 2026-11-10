@@ -594,6 +594,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "11623": {
+    "name": "Jordan Whittington",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
+  },
   "11624": {
     "name": "Xavier Worthy",
     "pos": "WR",
@@ -1811,13 +1818,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "12938": {
-    "name": "Jackson Meeks",
-    "pos": "TE",
-    "since": "",
-    "status": "Out",
-    "team": "DET"
   },
   "12944": {
     "name": "Dorian Mausi",
@@ -3694,6 +3694,13 @@
     "since": "",
     "status": "Questionable",
     "team": "TEN"
+  },
+  "5297": {
+    "name": "Zach Sieler",
+    "pos": "DT",
+    "since": "",
+    "status": "Out",
+    "team": "MIA"
   },
   "5298": {
     "name": "Bradley Bozeman",
