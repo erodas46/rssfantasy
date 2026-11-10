@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-10 18:18 UTC_ · 1144 items total · 1134/1144 matched to a player
+_Last updated: 2026-11-10 21:59 UTC_ · 1149 items total · 1139/1149 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-10 18:18 UTC_ · 1144 items total · 1134/1144 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-10 | Malik Willis | QB/MIA | INJURY | — | The Dolphins are expected to place Willis on injured reserve after an MRI on Monday revealed a core-muscle injury, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
+| 2026-11-10 | Tony Pollard | RB/TEN | TRANSACTION | — | The Titans opted not to move Pollard ahead of Tuesday's trade deadline, despite him drawing interest from teams, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tony-pollard-13590)) | Rotowire |
+| 2026-11-10 | Malik Willis | QB/MIA | INJURY | — | The Dolphins placed Willis (core) on injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
+| 2026-11-10 | Cam Skattebo | RB/NYG | INJURY | — | Skattebo (hamstring) was listed as a full participant in Tuesday's practice, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-11-10 | J.J. McCarthy | QB/MIN | NEWS | — | McCarthy (hip) was listed as a full participant in Tuesday's practice, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
 | 2026-11-10 | Brian Thomas | WR/JAX | TRANSACTION | — | The Jaguars have relayed to inquiring teams that they intend to keep Thomas through Tuesday's trade deadline, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
 | 2026-11-10 | Rhamondre Stevenson | RB/NE | INJURY | — | The knee injury that Stevenson sustained late in the third quarter of Sunday's 45-27 loss to the Packers is expected to keep him out for "the next few weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) | Rotowire |
 | 2026-11-10 | Justin Herbert | QB/LAC | INJURY | — | Chargers head coach Jim Harbaugh said that Herbert "should be good to go" for Monday's game at Baltimore after imaging on the quarterback's injured left middle finger returned negative for a fracture, ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
@@ -113,6 +118,11 @@ _Last updated: 2026-11-10 18:18 UTC_ · 1144 items total · 1134/1144 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-10 | Malik Willis | QB/MIA | INJURY | — | The Dolphins are expected to place Willis on injured reserve after an MRI on Monday revealed a core-muscle injury, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
+| 2026-11-10 | Tony Pollard | RB/TEN | TRANSACTION | — | The Titans opted not to move Pollard ahead of Tuesday's trade deadline, despite him drawing interest from teams, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tony-pollard-13590)) | Rotowire |
+| 2026-11-10 | Malik Willis | QB/MIA | INJURY | — | The Dolphins placed Willis (core) on injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) | Rotowire |
+| 2026-11-10 | Cam Skattebo | RB/NYG | INJURY | — | Skattebo (hamstring) was listed as a full participant in Tuesday's practice, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-11-10 | J.J. McCarthy | QB/MIN | NEWS | — | McCarthy (hip) was listed as a full participant in Tuesday's practice, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
 | 2026-11-10 | Brian Thomas | WR/JAX | TRANSACTION | — | The Jaguars have relayed to inquiring teams that they intend to keep Thomas through Tuesday's trade deadline, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brian-thomas-17716)) | Rotowire |
 | 2026-11-10 | Rhamondre Stevenson | RB/NE | INJURY | — | The knee injury that Stevenson sustained late in the third quarter of Sunday's 45-27 loss to the Packers is expected to keep him out for "the next few weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) | Rotowire |
 | 2026-11-10 | Justin Herbert | QB/LAC | INJURY | — | Chargers head coach Jim Harbaugh said that Herbert "should be good to go" for Monday's game at Baltimore after imaging on the quarterback's injured left middle finger returned negative for a fracture, ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
@@ -1268,41 +1278,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Tank Dell | WR/HOU | 1782144 |
-| Corey Kiner | RB/NE | 1647330 |
-| Konata Mumpfield | WR/LAR | 1316853 |
-| Darren Waller | TE/CAR | 454095 |
-| Audric Estime | RB/NO | 421629 |
-| Tutu Atwell | WR/LAR | 284655 |
-| Jordan Watkins | WR/SF | 250284 |
-| Baltimore Ravens | DEF/BAL | 242022 |
-| Justice Hill | RB/BAL | 204147 |
-| Pierre Strong Jr. | RB/GB | 201789 |
-| C.J. Stroud | QB/HOU | 175182 |
-| Pat Bryant | WR/DEN | 166088 |
-| Caleb Douglas | WR/MIA | 164464 |
-| Tyler Higbee | TE/LAR | 150507 |
-| Jacksonville Jaguars | DEF/JAX | 147456 |
+| Corey Kiner | RB/NE | 2215128 |
+| Tank Dell | WR/HOU | 2062936 |
+| Konata Mumpfield | WR/LAR | 1698237 |
+| Darren Waller | TE/CAR | 568800 |
+| Audric Estime | RB/NO | 490389 |
+| Fernando Mendoza | QB/LV | 462520 |
+| Tutu Atwell | WR/LAR | 400708 |
+| Baltimore Ravens | DEF/BAL | 318966 |
+| Jordan Watkins | WR/SF | 279480 |
+| Pierre Strong Jr. | RB/GB | 259803 |
+| Justice Hill | RB/BAL | 248940 |
+| C.J. Stroud | QB/HOU | 203630 |
+| Tyler Higbee | TE/LAR | 201636 |
+| Pat Bryant | WR/DEN | 191576 |
+| Caleb Douglas | WR/MIA | 191568 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Wilson | WR/ARI | 1473183 |
-| Devin Singletary | RB/NYG | 379224 |
-| Adonai Mitchell | WR/NYJ | 348640 |
-| Chase McLaughlin | K/TB | 264432 |
-| Emanuel Wilson | RB/SEA | 262584 |
-| Malik Willis | QB/MIA | 257054 |
-| Cairo Santos | K/CHI | 248710 |
-| Devaughn Vele | WR/NO | 244251 |
-| Detroit Lions | DEF/DET | 243585 |
-| Elijah Mitchell | RB/PHI | 215406 |
-| New Orleans Saints | DEF/NO | 193465 |
-| New England Patriots | DEF/NE | 170331 |
-| Gardner Minshew II | QB/ARI | 166244 |
-| Carson Wentz | QB/MIN | 157392 |
-| Keon Coleman | WR/BUF | 147465 |
+| Michael Wilson | WR/ARI | 1743435 |
+| Malik Willis | QB/MIA | 476182 |
+| Devin Singletary | RB/NYG | 475785 |
+| Adonai Mitchell | WR/NYJ | 423088 |
+| Chase McLaughlin | K/TB | 334552 |
+| Emanuel Wilson | RB/SEA | 324936 |
+| Cairo Santos | K/CHI | 311857 |
+| Detroit Lions | DEF/DET | 306513 |
+| Devaughn Vele | WR/NO | 286552 |
+| Carson Wentz | QB/MIN | 281544 |
+| Elijah Mitchell | RB/PHI | 278307 |
+| New Orleans Saints | DEF/NO | 243120 |
+| Gardner Minshew II | QB/ARI | 224644 |
+| Seth McGowan | RB/IND | 224528 |
+| Kyler Murray | QB/MIN | 221040 |
 
 
 ---
@@ -1313,11 +1323,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Jordan Whittington | WR/LAR | (unlisted) | Questionable |
-| Zach Sieler | DT/MIA | (unlisted) | Out |
-| Jackson Meeks | TE/DET | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1971,7 +1977,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jalen Tolbert | WR/MIA | Out | — | — |
 | Jaylen Wright | RB/MIA | Out | — | Wright (foot) is listed as questionable for Sunday's game against the Bengals, David Furones of the South Florida Sun Sentinel reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-wright-17800)) |
 | Justin Joly | TE/MIA | Out | — | — |
-| Malik Willis | QB/MIA | Questionable | — | Head coach Jeff Hafley said that Willis should be ready to play Sunday against the Jets after tending to a minor undisclosed injury coming out of the Dolphins' Week 5 loss to the Bengals, David Furones of the South Florida Sun Sentinel reports. "I foresee him being good to go,"... ([link](https://www.rotowire.com//football/player/malik-willis-15872)) |
+| Malik Willis | QB/MIA | Questionable | — | The Dolphins are expected to place Willis on injured reserve after an MRI on Monday revealed a core-muscle injury, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-willis-15872)) |
 | Marcellas Dial Jr. | DB/MIA | Out | — | — |
 | Reese Taylor | CB/MIA | Out | — | — |
 | Rene Konga | DL/MIA | IR | — | — |
@@ -2034,13 +2040,13 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Brian Burns | DE/NYG | IR | — | — |
 | C.J. Okoye | DL/NYG | Out | — | — |
 | Calvin Austin III | WR/NYG | IR | — | — |
-| Cam Skattebo | RB/NYG | Out | — | Cam Skattebo (hamstring) is inactive for Sunday's game against the Eagles, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) |
+| Cam Skattebo | RB/NYG | Out | — | Skattebo (hamstring) was listed as a full participant in Tuesday's practice, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) |
 | Charlie Jones | WR/NYG | Questionable | — | — |
 | Chauncey Golston | DE/NYG | IR | — | — |
 | Colton Hood | DB/NYG | Out | — | — |
 | Darnell Mooney | WR/NYG | Questionable | — | — |
 | Gunner Olszewski | WR/NYG | IR | — | — |
-| J.J. McCarthy | QB/NYG | Questionable | — | McCarthy (hip) is listed as limited on Monday's practice estimate, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) |
+| J.J. McCarthy | QB/NYG | Questionable | — | McCarthy (hip) was listed as a full participant in Tuesday's practice, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) |
 | Jarrick Bernard-Converse | CB/NYG | IR | — | — |
 | Jaxson Dart | QB/NYG | IR | — | Dart is facing the possibility of season-ending surgery after further testing Tuesday revealed that the left knee injury he sustained in Monday's 28-6 loss to the Rams is worse than originally anticipated, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) |
 | Josh Sills | OL/NYG | Out | — | — |
