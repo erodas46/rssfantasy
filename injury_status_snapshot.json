@@ -45,7 +45,7 @@
     "name": "Michael Wilson",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "ARI"
   },
   "1067": {
@@ -209,13 +209,6 @@
     "status": "PUP",
     "team": "NO"
   },
-  "10967": {
-    "name": "Chris Smith",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
   "10988": {
     "name": "Cameron Mitchell",
     "pos": "DB",
@@ -289,13 +282,6 @@
   "11037": {
     "name": "Cory Trice",
     "pos": "CB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
-  "11039": {
-    "name": "Ryan Hayes",
-    "pos": "OL",
     "since": "",
     "status": "Questionable",
     "team": "FA"
@@ -404,13 +390,6 @@
     "since": "",
     "status": "IR",
     "team": "CHI"
-  },
-  "11305": {
-    "name": "Claudin Cherelus",
-    "pos": "LB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "11309": {
     "name": "Trey Dean",
@@ -598,7 +577,7 @@
     "name": "Jordan Whittington",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "LAR"
   },
   "11624": {
@@ -1006,13 +985,6 @@
     "since": "",
     "status": "IR",
     "team": "LV"
-  },
-  "11965": {
-    "name": "Marcus Banks",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "11989": {
     "name": "D.J. Williams",
@@ -2446,7 +2418,7 @@
     "name": "Gracen Halton",
     "pos": "DT",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "SF"
   },
   "13502": {
@@ -3699,7 +3671,7 @@
     "name": "Zach Sieler",
     "pos": "DT",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "MIA"
   },
   "5298": {
@@ -4119,7 +4091,7 @@
     "name": "Gardner Minshew II",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "ARI"
   },
   "6025": {
@@ -4990,6 +4962,13 @@
     "status": "IR",
     "team": "NO"
   },
+  "7559": {
+    "name": "Ihmir Smith-Marsette",
+    "pos": "WR",
+    "since": "",
+    "status": "Out",
+    "team": "CAR"
+  },
   "7583": {
     "name": "Sam Ehlinger",
     "pos": "QB",
@@ -5435,7 +5414,7 @@
     "name": "Malik Willis",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "MIA"
   },
   "8168": {
@@ -5886,6 +5865,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "8583": {
+    "name": "Stone Smartt",
+    "pos": "TE",
+    "since": "",
+    "status": "Out",
+    "team": "NO"
+  },
   "8618": {
     "name": "Marcelino McCrary-Ball",
     "pos": "LB",
@@ -6032,13 +6018,6 @@
     "since": "",
     "status": "Out",
     "team": "PHI"
-  },
-  "9490": {
-    "name": "Tyler Scott",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
   },
   "9493": {
     "name": "Puka Nacua",
