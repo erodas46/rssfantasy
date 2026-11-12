@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-12 06:18 UTC_ · 1166 items total · 1155/1166 matched to a player
+_Last updated: 2026-11-12 18:37 UTC_ · 1171 items total · 1160/1171 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-12 06:18 UTC_ · 1166 items total · 1155/1166 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Bhayshul Tuten | RB/JAX | NEWS | — | Tuten (ankle) was the Jaguars' only player without a helmet during the initial portion of Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
+| 2026-11-12 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) was present for practice Thursday, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-12 | Woody Marks | RB/HOU | NEWS | — | Marks (knee) wasn't spotted during the portion of Thursday's practice session open to reporters, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-12 | Denzel Boston | WR/CLE | NEWS | — | Boston (toe) wasn't present for Thursday's practice, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) | Rotowire |
+| 2026-11-12 | Garrett Wilson | WR/NYJ | INJURY | — | Wilson (concussion) was present at Thursday's practice, Antwan Staley of the New York Daily News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) | Rotowire |
 | 2026-11-11 | — | — | INJURY | — | Knight (concussion) practiced in a limited capacity Wednesday, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bam-knight-16105)) | Rotowire |
 | 2026-11-11 | Deebo Samuel | WR/SF | INJURY | — | Samuel (hamstring) was a limited practice participant Wednesday, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
 | 2026-11-11 | Rashid Shaheed | WR/SEA | NEWS | — | Shaheed (knee) was a full participant in Wednesday's practice, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashid-shaheed-16560)) | Rotowire |
@@ -113,6 +118,11 @@ _Last updated: 2026-11-12 06:18 UTC_ · 1166 items total · 1155/1166 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Bhayshul Tuten | RB/JAX | NEWS | — | Tuten (ankle) was the Jaguars' only player without a helmet during the initial portion of Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
+| 2026-11-12 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) was present for practice Thursday, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-12 | Woody Marks | RB/HOU | NEWS | — | Marks (knee) wasn't spotted during the portion of Thursday's practice session open to reporters, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-12 | Denzel Boston | WR/CLE | NEWS | — | Boston (toe) wasn't present for Thursday's practice, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) | Rotowire |
+| 2026-11-12 | Garrett Wilson | WR/NYJ | INJURY | — | Wilson (concussion) was present at Thursday's practice, Antwan Staley of the New York Daily News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) | Rotowire |
 | 2026-11-11 | — | — | INJURY | — | Knight (concussion) practiced in a limited capacity Wednesday, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bam-knight-16105)) | Rotowire |
 | 2026-11-11 | Deebo Samuel | WR/SF | INJURY | — | Samuel (hamstring) was a limited practice participant Wednesday, Matt Barrows of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/deebo-samuel-13429)) | Rotowire |
 | 2026-11-11 | Rashid Shaheed | WR/SEA | NEWS | — | Shaheed (knee) was a full participant in Wednesday's practice, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rashid-shaheed-16560)) | Rotowire |
@@ -1290,41 +1300,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Corey Kiner | RB/NE | 1251324 |
-| Konata Mumpfield | WR/LAR | 1091736 |
-| Tutu Atwell | WR/LAR | 776132 |
-| Tank Dell | WR/HOU | 628024 |
-| Darren Waller | TE/CAR | 595674 |
-| Audric Estime | RB/NO | 466101 |
-| Fernando Mendoza | QB/LV | 454864 |
-| Ashton Dulin | WR/IND | 417555 |
-| Baltimore Ravens | DEF/BAL | 358185 |
-| Indianapolis Colts | DEF/IND | 346056 |
-| Jake Bates | K/DET | 303672 |
-| Kyle McCord | QB/MIA | 290788 |
-| Tyler Higbee | TE/LAR | 269100 |
-| Justice Hill | RB/BAL | 267975 |
-| Pierre Strong Jr. | RB/GB | 263943 |
+| Corey Kiner | RB/NE | 523956 |
+| Konata Mumpfield | WR/LAR | 470817 |
+| Tutu Atwell | WR/LAR | 395703 |
+| Darren Waller | TE/CAR | 343332 |
+| Ashton Dulin | WR/IND | 222363 |
+| Indianapolis Colts | DEF/IND | 206271 |
+| Fernando Mendoza | QB/LV | 202536 |
+| Justice Hill | RB/BAL | 180765 |
+| Jake Bates | K/DET | 171264 |
+| Audric Estime | RB/NO | 169386 |
+| Tank Dell | WR/HOU | 168816 |
+| Tyler Higbee | TE/LAR | 141219 |
+| Baltimore Ravens | DEF/BAL | 140358 |
+| Demarcus Robinson | WR/SF | 129456 |
+| Khalil Shakir | WR/BUF | 125622 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 623403 |
-| Seth McGowan | RB/IND | 621672 |
-| Michael Wilson | WR/ARI | 606591 |
-| Chase McLaughlin | K/TB | 489096 |
-| Cairo Santos | K/CHI | 385903 |
-| Malik Willis | QB/MIA | 369698 |
-| Detroit Lions | DEF/DET | 346473 |
-| Kyler Murray | QB/MIN | 345352 |
-| Emanuel Wilson | RB/SEA | 334062 |
-| Adonai Mitchell | WR/NYJ | 319264 |
-| Elijah Mitchell | RB/PHI | 278775 |
-| New Orleans Saints | DEF/NO | 261060 |
-| Alvin Kamara | RB/NO | 250384 |
-| New England Patriots | DEF/NE | 249963 |
-| Carson Wentz | QB/MIN | 239718 |
+| Devin Singletary | RB/NYG | 337401 |
+| Michael Wilson | WR/ARI | 308898 |
+| Chase McLaughlin | K/TB | 288168 |
+| Seth McGowan | RB/IND | 240808 |
+| Emanuel Wilson | RB/SEA | 206865 |
+| Cairo Santos | K/CHI | 201257 |
+| Kyler Murray | QB/MIN | 194256 |
+| Detroit Lions | DEF/DET | 183285 |
+| Malik Willis | QB/MIA | 170737 |
+| New England Patriots | DEF/NE | 149156 |
+| Adonai Mitchell | WR/NYJ | 148152 |
+| Alvin Kamara | RB/NO | 142968 |
+| Nick Folk | K/FA | 130068 |
+| Elijah Mitchell | RB/PHI | 127818 |
+| New Orleans Saints | DEF/NO | 117650 |
 
 
 ---
@@ -1335,118 +1345,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Brian Branch | DB/DET | (unlisted) | Questionable |
-| Folorunso Fatukasi | DT/LV | (unlisted) | Questionable |
-| Michael Burton | FB/CLE | (unlisted) | Questionable |
-| Quincy Williams | LB/CLE | (unlisted) | Questionable |
-| T.J. Hockenson | TE/MIN | (unlisted) | Questionable |
-| TreVeyon Henderson | RB/NE | Questionable | Out |
-| Denzel Ward | CB/CLE | (unlisted) | Questionable |
-| Azeez Al-Shaair | LB/HOU | (unlisted) | Questionable |
-| Branson Combs | LB/JAX | (unlisted) | Questionable |
-| DJ Turner II | DB/CIN | (unlisted) | Questionable |
-| Max Melton | DB/ARI | (unlisted) | Questionable |
-| Jakobi Meyers | WR/JAX | (unlisted) | Questionable |
-| Chris Bell | WR/MIA | (unlisted) | Questionable |
-| Jay Ward | DB/MIN | (unlisted) | Questionable |
-| James Pearce Jr. | DL/ATL | (unlisted) | Questionable |
-| Aaron Brewer | OL/MIA | (unlisted) | Questionable |
-| Woody Marks | RB/HOU | (unlisted) | Questionable |
-| Savion Williams | WR/GB | (unlisted) | Questionable |
-| Derick Hall | DE/SEA | (unlisted) | Questionable |
-| Kam Curl | DB/LAR | (unlisted) | Questionable |
-| Kelvin Banks Jr. | OL/NO | (unlisted) | Questionable |
-| Martin Emerson Jr. | DB/NO | (unlisted) | Questionable |
-| Puka Nacua | WR/LAR | Doubtful | Out |
-| Aaron Banks | OL/GB | (unlisted) | Questionable |
-| Myles Garrett | DE/LAR | (unlisted) | Questionable |
-| Christen Miller | DL/NO | (unlisted) | Questionable |
-| Divine Deablo | LB/ATL | (unlisted) | Questionable |
-| Hunter Henry | TE/NE | (unlisted) | Questionable |
-| Tytus Howard | OL/CLE | (unlisted) | Questionable |
-| Wyatt Teller | G/HOU | (unlisted) | Questionable |
-| Javon Bullard | DB/GB | (unlisted) | Questionable |
-| Chris Rodriguez Jr. | RB/JAX | (unlisted) | Questionable |
-| Patrick O'Connell | LB/SEA | (unlisted) | Questionable |
-| Antonio Johnson | DB/JAX | (unlisted) | Questionable |
-| Bhayshul Tuten | RB/JAX | (unlisted) | Questionable |
-| Connor O'Toole | DE/SEA | (unlisted) | Questionable |
-| Davis Allen | TE/LAR | (unlisted) | Questionable |
-| Jared Goff | QB/DET | (unlisted) | Questionable |
-| Brevin Jordan | TE/HOU | (unlisted) | Questionable |
-| Walter Rouse | OL/NE | (unlisted) | Questionable |
-| Christian Benford | DB/BUF | (unlisted) | Questionable |
-| Marvin Harrison Jr. | WR/HOU | (unlisted) | Questionable |
-| Josh Woods | LB/ATL | (unlisted) | Questionable |
-| Cameron Latu | TE/NE | (unlisted) | Questionable |
-| Connor McGovern | G/BUF | (unlisted) | Questionable |
-| Trey Smack | K/GB | (unlisted) | Questionable |
-| Ezra Cleveland | G/JAX | (unlisted) | Questionable |
-| Elgton Jenkins | G/CLE | (unlisted) | Questionable |
-| Dalton Kincaid | TE/BUF | (unlisted) | Questionable |
-| Amon-Ra St. Brown | WR/DET | (unlisted) | Questionable |
-| Anthony Bradford | OL/SEA | (unlisted) | Questionable |
-| Kevin Byard III | DB/NE | (unlisted) | Questionable |
-| DeShon Elliott | DB/PIT | (unlisted) | Questionable |
-| Dante Stills | DT/ARI | (unlisted) | Questionable |
-| Kyle Van Noy | LB/MIN | (unlisted) | Questionable |
-| Upton Stout | CB/SF | (unlisted) | Questionable |
-| Ben Brown | OG/NE | Doubtful | Out |
-| Dylan Fairchild | OL/CIN | (unlisted) | Questionable |
-| Morgan Moses | OL/NE | (unlisted) | Questionable |
-| Tucker Addington | LS/MIA | (unlisted) | Questionable |
-| Carson Wentz | QB/MIN | (unlisted) | Questionable |
-| Sione Vaki | RB/DET | (unlisted) | Questionable |
-| Noah Fant | TE/NO | (unlisted) | Questionable |
-| Blake Cashman | LB/MIN | (unlisted) | Questionable |
-| Andrew Wingard | DB/ARI | (unlisted) | Questionable |
-| Harrison Phillips | DT/NYJ | (unlisted) | Questionable |
-| Carson Schwesinger | LB/CLE | (unlisted) | Questionable |
-| Harold Fannin Jr. | TE/CLE | (unlisted) | Questionable |
-| Malik Herring | DE/MIA | (unlisted) | Questionable |
-| Anthony Hill Jr. | LB/TEN | (unlisted) | Questionable |
-| Kevin Zeitler | OG/GB | (unlisted) | Questionable |
-| Robert Hainsey | OL/JAX | (unlisted) | Questionable |
-| Keylan Rutledge | G/HOU | (unlisted) | Questionable |
-| Carlton Davis III | CB/NE | Questionable | Out |
-| Alvin Kamara | RB/NO | (unlisted) | Questionable |
-| Spencer Brown | OT/BUF | (unlisted) | Questionable |
-| David Edwards | OL/NO | (unlisted) | Questionable |
-| Tank Dell | WR/HOU | (unlisted) | Questionable |
-| Siran Neal | CB/SF | (unlisted) | Questionable |
-| Austin Barber | OT/CLE | (unlisted) | Questionable |
-| Travon Walker | DL/JAX | (unlisted) | Questionable |
-| Gervon Dexter Sr. | DL/ATL | (unlisted) | Questionable |
-| Cody Barton | LB/TEN | (unlisted) | Questionable |
-| Lukas Van Ness | DL/GB | (unlisted) | Questionable |
-| Colby Parkinson | TE/LAR | (unlisted) | Questionable |
-| Luke Schoonmaker | TE/DAL | Questionable | (cleared) |
-| Jaylon Jones | DB/TEN | Questionable | (cleared) |
-| Jacob Saylors | RB/DET | Questionable | (cleared) |
-| MarShawn Lloyd | RB/GB | Questionable | (cleared) |
-| Xavier Worthy | WR/KC | Questionable | (cleared) |
-| Jaylen Wright | RB/MIA | Questionable | (cleared) |
-| JC Latham | OL/TEN | Questionable | (cleared) |
-| Will Campbell | OT/NE | Questionable | (cleared) |
-| Abdul Carter | DL/NYG | Questionable | (cleared) |
-| Justin Walley | CB/IND | Questionable | (cleared) |
-| Marcus Harris | DB/TEN | Questionable | (cleared) |
-| Doneiko Slaughter | DB/PIT | Questionable | (cleared) |
-| Colton Hood | DB/NYG | Questionable | (cleared) |
-| Mansoor Delane | DB/KC | Questionable | (cleared) |
-| Will Lee III | CB/CAR | Questionable | (cleared) |
-| Tyreek Hill | WR/FA | Questionable | (cleared) |
-| Patrick Mahomes | QB/KC | Questionable | (cleared) |
-| Greg Gaines | DT/BUF | Questionable | (cleared) |
-| Damien Lewis | G/CAR | Questionable | (cleared) |
-| Tommy Townsend | P/TEN | Questionable | (cleared) |
-| Jaelan Phillips | LB/CAR | Questionable | (cleared) |
-| Ben Skowronek | WR/PIT | Questionable | (cleared) |
-| Brandin Echols | CB/PIT | Questionable | (cleared) |
-| Treylon Burks | WR/WAS | Questionable | (cleared) |
-| Rashid Shaheed | WR/SEA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1566,7 +1465,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Austin Barber | OT/CLE | Questionable | — | — |
 | Carson Schwesinger | LB/CLE | Questionable | — | — |
 | Damarri Mathis | DB/CLE | IR | — | — |
-| Denzel Boston | WR/CLE | Questionable | — | Boston (foot) was a limited participant at Wednesday's practice, Chris Easterling of the Akron Beacon Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) |
+| Denzel Boston | WR/CLE | Questionable | — | Boston (toe) wasn't present for Thursday's practice, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) |
 | Denzel Ward | CB/CLE | Questionable | — | — |
 | Elgton Jenkins | G/CLE | Questionable | — | — |
 | Harold Fannin Jr. | TE/CLE | Questionable | — | — |
@@ -1953,7 +1852,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Azeez Al-Shaair | LB/HOU | Questionable | — | — |
 | Brevin Jordan | TE/HOU | Questionable | — | — |
 | British Brooks | RB/HOU | IR | — | — |
-| David Montgomery | RB/HOU | Questionable | — | Coach DeMeco Ryans said Monday he's hopeful that Montgomery (groin) could resume practicing this week, or next week, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
+| David Montgomery | RB/HOU | Questionable | — | Montgomery (groin) was present for practice Thursday, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
 | Dylan Horton | DL/HOU | IR | — | — |
 | E.J. Speed | LB/HOU | PUP | — | — |
 | Graham Mertz | QB/HOU | IR | — | — |
@@ -1971,7 +1870,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Sam Hagen | OL/HOU | IR | — | — |
 | Solomon Byrd | DE/HOU | IR | — | — |
 | Tank Dell | WR/HOU | Questionable | — | Dell (knee) was activated from injured reserve Saturday, and his questionable designation has been removed for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-dell-16935)) |
-| Woody Marks | RB/HOU | Questionable | — | Marks (knee) was a limited participant in Wednesday's practice, Chris Easterling of the Akron Beacon Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) |
+| Woody Marks | RB/HOU | Questionable | — | Marks (knee) wasn't spotted during the portion of Thursday's practice session open to reporters, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) |
 | Wyatt Teller | G/HOU | Questionable | — | — |
 | A.J. Haulcy | DB/IND | Questionable | — | — |
 | Akeem Davis-Gaither | LB/IND | Questionable | — | — |
@@ -1989,7 +1888,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Anton Harrison | OL/JAX | IR | — | — |
 | Antonio Johnson | DB/JAX | Questionable | — | — |
 | B.J. Green II | DE/JAX | IR | — | — |
-| Bhayshul Tuten | RB/JAX | Questionable | — | Tuten (ankle/foot) 'should be' available for Thursday night's game against the Ravens barring any pregame setbacks, Jeremy Fowler of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) |
+| Bhayshul Tuten | RB/JAX | Questionable | — | Tuten (ankle) was the Jaguars' only player without a helmet during the initial portion of Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) |
 | Branson Combs | LB/JAX | Questionable | — | — |
 | Caleb Ransaw | DB/JAX | IR | — | — |
 | Cam'Ron Silmon-Craig | DB/JAX | Out | — | — |
@@ -2151,7 +2050,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Arian Smith | WR/NYJ | IR | — | — |
 | Braiden McGregor | DE/NYJ | IR | — | — |
 | David Onyemata | DT/NYJ | IR | — | — |
-| Garrett Wilson | WR/NYJ | Questionable | — | Wilson, who is in the NFL's concussion protocol, wasn't seen at Thursday's practice, , Antwan Staley of the New York Daily News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) |
+| Garrett Wilson | WR/NYJ | Questionable | — | Wilson (concussion) was present at Thursday's practice, Antwan Staley of the New York Daily News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) |
 | Harrison Phillips | DT/NYJ | Questionable | — | — |
 | Joseph Ossai | DE/NYJ | Questionable | — | — |
 | Kiko Mauigoa | LB/NYJ | IR | — | — |
