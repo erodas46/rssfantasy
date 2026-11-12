@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-12 18:37 UTC_ · 1171 items total · 1160/1171 matched to a player
+_Last updated: 2026-11-12 22:28 UTC_ · 1176 items total · 1165/1176 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-12 18:37 UTC_ · 1171 items total · 1160/1171 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Omar Cooper | WR/NYJ | INJURY | — | Cooper (ankle) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
+| 2026-11-12 | Garrett Wilson | WR/NYJ | INJURY | — | Wilson (concussion) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) | Rotowire |
+| 2026-11-12 | J.J. McCarthy | QB/MIN | INJURY | — | McCarthy (hip pointer) is "good to go" and isn't expected to be limited for Thursday's game against the Commanders, James Palmer of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-11-12 | George Pickens | WR/DAL | INJURY | — | Pickens (hamstring) practiced in a limited fashion Thursday, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-11-12 | David Montgomery | RB/HOU | INJURY | — | Montgomery (groin) was limited at practice Thursday, Chris Easterling of the Akron Beacon Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
 | 2026-11-12 | Bhayshul Tuten | RB/JAX | NEWS | — | Tuten (ankle) was the Jaguars' only player without a helmet during the initial portion of Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
 | 2026-11-12 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) was present for practice Thursday, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
 | 2026-11-12 | Woody Marks | RB/HOU | NEWS | — | Marks (knee) wasn't spotted during the portion of Thursday's practice session open to reporters, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
@@ -118,6 +123,11 @@ _Last updated: 2026-11-12 18:37 UTC_ · 1171 items total · 1160/1171 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-12 | Omar Cooper | WR/NYJ | INJURY | — | Cooper (ankle) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
+| 2026-11-12 | Garrett Wilson | WR/NYJ | INJURY | — | Wilson (concussion) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) | Rotowire |
+| 2026-11-12 | J.J. McCarthy | QB/MIN | INJURY | — | McCarthy (hip pointer) is "good to go" and isn't expected to be limited for Thursday's game against the Commanders, James Palmer of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
+| 2026-11-12 | George Pickens | WR/DAL | INJURY | — | Pickens (hamstring) practiced in a limited fashion Thursday, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-11-12 | David Montgomery | RB/HOU | INJURY | — | Montgomery (groin) was limited at practice Thursday, Chris Easterling of the Akron Beacon Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
 | 2026-11-12 | Bhayshul Tuten | RB/JAX | NEWS | — | Tuten (ankle) was the Jaguars' only player without a helmet during the initial portion of Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
 | 2026-11-12 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) was present for practice Thursday, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
 | 2026-11-12 | Woody Marks | RB/HOU | NEWS | — | Marks (knee) wasn't spotted during the portion of Thursday's practice session open to reporters, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
@@ -1300,41 +1310,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Corey Kiner | RB/NE | 523956 |
-| Konata Mumpfield | WR/LAR | 470817 |
-| Tutu Atwell | WR/LAR | 395703 |
-| Darren Waller | TE/CAR | 343332 |
-| Ashton Dulin | WR/IND | 222363 |
-| Indianapolis Colts | DEF/IND | 206271 |
-| Fernando Mendoza | QB/LV | 202536 |
-| Justice Hill | RB/BAL | 180765 |
-| Jake Bates | K/DET | 171264 |
-| Audric Estime | RB/NO | 169386 |
-| Tank Dell | WR/HOU | 168816 |
-| Tyler Higbee | TE/LAR | 141219 |
-| Baltimore Ravens | DEF/BAL | 140358 |
-| Demarcus Robinson | WR/SF | 129456 |
-| Khalil Shakir | WR/BUF | 125622 |
+| Corey Kiner | RB/NE | 519696 |
+| Konata Mumpfield | WR/LAR | 449190 |
+| Tutu Atwell | WR/LAR | 378721 |
+| Darren Waller | TE/CAR | 363897 |
+| Ashton Dulin | WR/IND | 221922 |
+| Indianapolis Colts | DEF/IND | 212724 |
+| Justice Hill | RB/BAL | 198702 |
+| Fernando Mendoza | QB/LV | 186304 |
+| Jake Bates | K/DET | 166072 |
+| Audric Estime | RB/NO | 157323 |
+| Tank Dell | WR/HOU | 142960 |
+| Tyler Higbee | TE/LAR | 138744 |
+| Baltimore Ravens | DEF/BAL | 128502 |
+| Tyler Bass | K/BUF | 127635 |
+| Khalil Shakir | WR/BUF | 127053 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 337401 |
-| Michael Wilson | WR/ARI | 308898 |
-| Chase McLaughlin | K/TB | 288168 |
-| Seth McGowan | RB/IND | 240808 |
-| Emanuel Wilson | RB/SEA | 206865 |
-| Cairo Santos | K/CHI | 201257 |
-| Kyler Murray | QB/MIN | 194256 |
-| Detroit Lions | DEF/DET | 183285 |
-| Malik Willis | QB/MIA | 170737 |
-| New England Patriots | DEF/NE | 149156 |
-| Adonai Mitchell | WR/NYJ | 148152 |
-| Alvin Kamara | RB/NO | 142968 |
-| Nick Folk | K/FA | 130068 |
-| Elijah Mitchell | RB/PHI | 127818 |
-| New Orleans Saints | DEF/NO | 117650 |
+| Devin Singletary | RB/NYG | 319311 |
+| Michael Wilson | WR/ARI | 272214 |
+| Chase McLaughlin | K/TB | 266472 |
+| Seth McGowan | RB/IND | 204464 |
+| Emanuel Wilson | RB/SEA | 190188 |
+| Cairo Santos | K/CHI | 181321 |
+| Kyler Murray | QB/MIN | 175744 |
+| Detroit Lions | DEF/DET | 167634 |
+| Malik Willis | QB/MIA | 149534 |
+| New England Patriots | DEF/NE | 136451 |
+| Adonai Mitchell | WR/NYJ | 132848 |
+| Alvin Kamara | RB/NO | 131880 |
+| Nick Folk | K/FA | 124644 |
+| Elijah Mitchell | RB/PHI | 114831 |
+| New Orleans Saints | DEF/NO | 105640 |
 
 
 ---
@@ -1483,7 +1493,7 @@ _None since last run._
 | DeMarvion Overshown | LB/DAL | Questionable | — | — |
 | Devin Moore | CB/DAL | IR | — | — |
 | Donovan Ezeiruaku | DL/DAL | Questionable | — | — |
-| George Pickens | WR/DAL | Questionable | — | Pickens (hamstring) has a chance to play Sunday against San Francisco, but his practice reps will likely again be capped this week, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) |
+| George Pickens | WR/DAL | Questionable | — | Pickens (hamstring) practiced in a limited fashion Thursday, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) |
 | Jake Ferguson | TE/DAL | Out | — | Ferguson sustained a knee injury during Sunday's game against the Colts, Calvin Watkins of The Dallas Morning News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) |
 | Jalen Thompson | DB/DAL | IR | — | — |
 | Joey Porter Jr. | DB/DAL | Questionable | — | — |
@@ -1852,7 +1862,7 @@ _None since last run._
 | Azeez Al-Shaair | LB/HOU | Questionable | — | — |
 | Brevin Jordan | TE/HOU | Questionable | — | — |
 | British Brooks | RB/HOU | IR | — | — |
-| David Montgomery | RB/HOU | Questionable | — | Montgomery (groin) was present for practice Thursday, Jonathan M. Alexander of the Houston Chronicle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
+| David Montgomery | RB/HOU | Questionable | — | Montgomery (groin) was limited at practice Thursday, Chris Easterling of the Akron Beacon Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
 | Dylan Horton | DL/HOU | IR | — | — |
 | E.J. Speed | LB/HOU | PUP | — | — |
 | Graham Mertz | QB/HOU | IR | — | — |
@@ -2050,7 +2060,7 @@ _None since last run._
 | Arian Smith | WR/NYJ | IR | — | — |
 | Braiden McGregor | DE/NYJ | IR | — | — |
 | David Onyemata | DT/NYJ | IR | — | — |
-| Garrett Wilson | WR/NYJ | Questionable | — | Wilson (concussion) was present at Thursday's practice, Antwan Staley of the New York Daily News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) |
+| Garrett Wilson | WR/NYJ | Questionable | — | Wilson (concussion) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) |
 | Harrison Phillips | DT/NYJ | Questionable | — | — |
 | Joseph Ossai | DE/NYJ | Questionable | — | — |
 | Kiko Mauigoa | LB/NYJ | IR | — | — |
