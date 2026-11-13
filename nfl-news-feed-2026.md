@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-13 05:38 UTC_ · 1181 items total · 1170/1181 matched to a player
+_Last updated: 2026-11-13 18:09 UTC_ · 1186 items total · 1175/1186 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-13 05:38 UTC_ · 1181 items total · 1170/1181 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) practiced for a second straight day Friday after missing the past month, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-13 | Rhamondre Stevenson | RB/NE | INJURY | — | Stevenson (knee) is listed as questionable for Sunday's game against the Lions, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) | Rotowire |
+| 2026-11-13 | George Pickens | WR/DAL | INJURY | — | Pickens (hamstring) moved well in Thursday's practice, which coach Brian Schottenheimer said is a positive sign for the wide receiver's availability for Sunday's game against the 49ers, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-11-13 | Denzel Boston | WR/CLE | NEWS | — | Boston (toe) returned to practice Friday, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) | Rotowire |
+| 2026-11-13 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (groin) is listed as doubtful for Sunday's game at New Orleans after being limited in practice throughout the week, Kassidy Hill of panthers.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
 | 2026-11-12 | Malik Nabers | WR/NYG | NEWS | — | Nabers secured five of seven targets for 44 yards and lost a fumble in the Giants' 24-21 loss to the Commanders on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-11-12 | Jayden Daniels | QB/WAS | NEWS | — | Daniels completed 23 of 33 passes for 249 yards with three touchdowns and two interceptions and rushed 11 times for 28 yards in the Commanders' 24-21 win over the Giants on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) | Rotowire |
 | 2026-11-12 | Stefon Diggs | WR/ | NEWS | — | Diggs secured six of 10 targets for 83 yards and a touchdown in the Commanders' 24-21 win over the Giants on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
@@ -113,6 +118,11 @@ _Last updated: 2026-11-13 05:38 UTC_ · 1181 items total · 1170/1181 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-13 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) practiced for a second straight day Friday after missing the past month, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-13 | Rhamondre Stevenson | RB/NE | INJURY | — | Stevenson (knee) is listed as questionable for Sunday's game against the Lions, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) | Rotowire |
+| 2026-11-13 | George Pickens | WR/DAL | INJURY | — | Pickens (hamstring) moved well in Thursday's practice, which coach Brian Schottenheimer said is a positive sign for the wide receiver's availability for Sunday's game against the 49ers, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
+| 2026-11-13 | Denzel Boston | WR/CLE | NEWS | — | Boston (toe) returned to practice Friday, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) | Rotowire |
+| 2026-11-13 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (groin) is listed as doubtful for Sunday's game at New Orleans after being limited in practice throughout the week, Kassidy Hill of panthers.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
 | 2026-11-12 | Malik Nabers | WR/NYG | NEWS | — | Nabers secured five of seven targets for 44 yards and lost a fumble in the Giants' 24-21 loss to the Commanders on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/malik-nabers-17704)) | Rotowire |
 | 2026-11-12 | Jayden Daniels | QB/WAS | NEWS | — | Daniels completed 23 of 33 passes for 249 yards with three touchdowns and two interceptions and rushed 11 times for 28 yards in the Commanders' 24-21 win over the Giants on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) | Rotowire |
 | 2026-11-12 | Stefon Diggs | WR/ | NEWS | — | Diggs secured six of 10 targets for 83 yards and a touchdown in the Commanders' 24-21 win over the Giants on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
@@ -1305,41 +1315,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Konata Mumpfield | WR/LAR | 498204 |
-| Darren Waller | TE/CAR | 478881 |
-| Corey Kiner | RB/NE | 421356 |
-| Tutu Atwell | WR/LAR | 398244 |
-| Justice Hill | RB/BAL | 301572 |
-| Indianapolis Colts | DEF/IND | 260883 |
-| Ashton Dulin | WR/IND | 223749 |
-| Chris Rodriguez Jr. | RB/JAX | 208098 |
-| Jake Bates | K/DET | 193800 |
-| Fernando Mendoza | QB/LV | 186184 |
-| Khalil Shakir | WR/BUF | 170145 |
-| Tyler Bass | K/BUF | 159235 |
-| Jordan Addison | WR/MIN | 156483 |
-| Audric Estime | RB/NO | 133068 |
-| Tyler Higbee | TE/LAR | 129339 |
+| Darren Waller | TE/CAR | 463059 |
+| Konata Mumpfield | WR/LAR | 421884 |
+| Tutu Atwell | WR/LAR | 337414 |
+| Corey Kiner | RB/NE | 314430 |
+| Justice Hill | RB/BAL | 292617 |
+| Chris Rodriguez Jr. | RB/JAX | 227637 |
+| Indianapolis Colts | DEF/IND | 217512 |
+| Ashton Dulin | WR/IND | 180603 |
+| Khalil Shakir | WR/BUF | 163377 |
+| Jake Bates | K/DET | 158352 |
+| Fernando Mendoza | QB/LV | 152000 |
+| Jordan Addison | WR/MIN | 148302 |
+| Tyler Bass | K/BUF | 136295 |
+| Jason Sanders | K/NYJ | 113075 |
+| Mack Hollins | WR/NE | 103263 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 342243 |
-| Chase McLaughlin | K/TB | 335672 |
-| Michael Wilson | WR/ARI | 281844 |
-| Cairo Santos | K/CHI | 224476 |
-| Emanuel Wilson | RB/SEA | 209970 |
-| Kyler Murray | QB/MIN | 194808 |
-| Seth McGowan | RB/IND | 184608 |
-| Detroit Lions | DEF/DET | 179118 |
-| Nick Folk | K/FA | 178434 |
-| Malik Willis | QB/MIA | 152985 |
-| New England Patriots | DEF/NE | 147322 |
-| Adonai Mitchell | WR/NYJ | 127440 |
-| Dameon Pierce | RB/FA | 122256 |
-| Alvin Kamara | RB/NO | 122000 |
-| Elijah Mitchell | RB/PHI | 111159 |
+| Devin Singletary | RB/NYG | 308601 |
+| Chase McLaughlin | K/TB | 282256 |
+| Michael Wilson | WR/ARI | 233631 |
+| Cairo Santos | K/CHI | 184534 |
+| Emanuel Wilson | RB/SEA | 174951 |
+| Kyler Murray | QB/MIN | 160096 |
+| Nick Folk | K/FA | 153408 |
+| Seth McGowan | RB/IND | 145960 |
+| Detroit Lions | DEF/DET | 142335 |
+| Malik Willis | QB/MIA | 122759 |
+| New England Patriots | DEF/NE | 121590 |
+| Adonai Mitchell | WR/NYJ | 105816 |
+| Dameon Pierce | RB/FA | 100624 |
+| Alvin Kamara | RB/NO | 97472 |
+| Tampa Bay Buccaneers | DEF/TB | 95355 |
 
 
 ---
@@ -1352,65 +1362,26 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Cade Mays | OL/DET | Questionable | Out |
-| Ricky Barber | DT/WAS | (unlisted) | Out |
-| Cameron Thomas | DL/ATL | (unlisted) | Questionable |
-| Branson Taylor | OL/LAC | (unlisted) | Questionable |
-| Jason Pinnock | CB/NYG | (unlisted) | Questionable |
-| Vega Ioane | OG/BAL | (unlisted) | Questionable |
-| Athan Kaliakmanis | QB/WAS | (unlisted) | Out |
-| Kevin Winston Jr. | DB/TEN | (unlisted) | Questionable |
-| Tre' Harris | WR/LAC | (unlisted) | Questionable |
-| Tyler Higbee | TE/LAR | (unlisted) | Questionable |
-| Keaton Mitchell | RB/LAC | (unlisted) | Questionable |
-| Isaac Yiadom | CB/WAS | (unlisted) | Out |
-| Puka Nacua | WR/LAR | Out | IR |
-| Tony Pollard | RB/TEN | (unlisted) | Questionable |
-| Alijah Clark | DB/DAL | (unlisted) | Questionable |
-| Rodney Shelley | CB/LAC | (unlisted) | Questionable |
-| Nikko Reed | DB/NYG | (unlisted) | Out |
-| Kendal Daniels | LB/ATL | (unlisted) | Questionable |
-| Alex Harkey | OT/LAC | (unlisted) | Questionable |
-| Thomas Fidone II | TE/NYG | (unlisted) | Out |
-| Danielle Hunter | DE/HOU | (unlisted) | Questionable |
-| Cam Hart | CB/LAC | (unlisted) | Questionable |
-| Quincy Riley | CB/NO | (unlisted) | Questionable |
-| Jaydn Ott | RB/KC | (unlisted) | Questionable |
-| Will Anderson Jr. | DL/HOU | (unlisted) | Questionable |
-| C.J. Okoye | DL/NYG | (unlisted) | Out |
-| Jerry Tillery | DT/IND | (unlisted) | Questionable |
-| J.C. Davis | OT/NYG | (unlisted) | Out |
-| Rashod Bateman | WR/BAL | (unlisted) | Questionable |
-| Rhamondre Stevenson | RB/NE | Doubtful | Questionable |
-| Paulson Adebo | CB/NYG | (unlisted) | Out |
-| Josh Sills | OL/NYG | (unlisted) | Out |
-| Malik Harrison | LB/NYG | Questionable | Out |
-| Sam Franklin Jr. | DB/BUF | (unlisted) | Questionable |
-| Trent Williams | T/SF | (unlisted) | Questionable |
-| Dre Greenlaw | LB/SF | (unlisted) | Questionable |
-| Jared Wayne | WR/MIA | (unlisted) | Questionable |
-| Chig Okonkwo | TE/WAS | (unlisted) | Questionable |
-| D.J. Reed | CB/DET | Questionable | Out |
-| Taliese Fuaga | OL/NO | (unlisted) | Questionable |
-| Darius Robinson | DL/ARI | (unlisted) | Questionable |
-| Juanyeh Thomas | DB/DAL | (unlisted) | Questionable |
-| DJ Turner II | DB/CIN | Questionable | (cleared) |
-| Brian Branch | DB/DET | Questionable | (cleared) |
-| DeMarvion Overshown | LB/DAL | Questionable | (cleared) |
-| Nate Wiggins | CB/BAL | Questionable | (cleared) |
-| Dylan Fairchild | OL/CIN | Questionable | (cleared) |
-| A.J. Haulcy | DB/IND | Questionable | (cleared) |
-| Trey Smack | K/GB | Questionable | (cleared) |
-| Jared Goff | QB/DET | Questionable | (cleared) |
-| Alvin Kamara | RB/NO | Questionable | (cleared) |
-| DeShon Elliott | DB/PIT | Questionable | (cleared) |
-| Folorunso Fatukasi | DT/LV | Questionable | (cleared) |
-| Wyatt Teller | G/HOU | Questionable | (cleared) |
-| Noah Fant | TE/NO | Questionable | (cleared) |
-| Justin Herbert | QB/LAC | Questionable | (cleared) |
-| Bo Melton | WR/GB | Questionable | (cleared) |
-| Kyle Hamilton | DB/BAL | Questionable | (cleared) |
-| Tank Dell | WR/HOU | Questionable | (cleared) |
+| Peter Skoronski | OL/TEN | Questionable | Out |
+| Chris Bell | WR/MIA | Questionable | Doubtful |
+| Bobby Okereke | LB/CAR | Questionable | Out |
+| Aaron Brewer | OL/MIA | Questionable | Out |
+| Jon Gaines II | OL/ARI | Questionable | Out |
+| Will Lee III | CB/CAR | (unlisted) | Questionable |
+| Jordan Davis | DL/JAX | (unlisted) | Out |
+| Carnell Tate | WR/TEN | Questionable | Out |
+| Jessie Bates III | DB/JAX | (unlisted) | Out |
+| Jaelan Phillips | LB/CAR | (unlisted) | Questionable |
+| Hjalte Froholdt | G/ARI | Questionable | Out |
+| Trevin Wallace | LB/NYJ | Questionable | Out |
+| Tommy Townsend | P/TEN | (unlisted) | Out |
+| Anthony Hill Jr. | LB/TEN | Questionable | Out |
+| Cody Barton | LB/TEN | Questionable | Out |
+| Omar Cooper Jr. | WR/NYJ | Questionable | (cleared) |
+| Morgan Moses | OL/NE | Questionable | (cleared) |
+| Hunter Henry | TE/NE | Questionable | (cleared) |
+| DJ Wonnum | DE/DET | Questionable | (cleared) |
+| Zonovan Knight | RB/ARI | Questionable | (cleared) |
 
 **Full current report**
 
@@ -1421,14 +1392,14 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Dante Stills | DT/ARI | Questionable | — | — |
 | Darius Robinson | DL/ARI | Questionable | — | — |
 | Gardner Minshew II | QB/ARI | IR | — | — |
-| Hjalte Froholdt | G/ARI | Questionable | — | — |
+| Hjalte Froholdt | G/ARI | Out | — | — |
 | Hunter Long | TE/ARI | IR | — | — |
 | Jalen Brooks | WR/ARI | IR | — | — |
 | James Conner | RB/ARI | IR | — | — |
 | Jayden Williams | OL/ARI | Questionable | — | — |
 | Jeremiyah Love | RB/ARI | IR | — | Allgeier is slated to work as Arizona's No. 1 running back for at least the next four weeks after Jeremiyah Love (ankle) was placed on injured reserve Tuesday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyler-allgeier-15976)) |
 | Joey Blount | DB/ARI | IR | — | — |
-| Jon Gaines II | OL/ARI | Questionable | — | — |
+| Jon Gaines II | OL/ARI | Out | — | — |
 | Kaleb Proctor | DT/ARI | IR | — | — |
 | Kendrick Bourne | WR/ARI | IR | — | Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) |
 | Kenny Yeboah | TE/ARI | Out | — | — |
@@ -1440,7 +1411,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Trey Benson | RB/ARI | IR | — | Benson (knee) was waived/injured by the Cardinals on Monday, Darren Urban of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/trey-benson-17767)) |
 | Will Johnson | DB/ARI | IR | — | — |
 | Zach Carter | DL/ARI | IR | — | — |
-| Zonovan Knight | RB/ARI | Questionable | — | — |
 | Anterio Thompson | DT/ATL | PUP | — | — |
 | Brian Robinson Jr. | RB/ATL | IR | — | — |
 | Cameron Thomas | DL/ATL | Questionable | — | — |
@@ -1488,18 +1458,20 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Tyrell Shavers | WR/BUF | PUP | — | — |
 | Zane Durant | DT/BUF | IR | — | — |
 | Akayleb Evans | DB/CAR | IR | — | — |
-| Bobby Okereke | LB/CAR | Questionable | — | — |
+| Bobby Okereke | LB/CAR | Out | — | — |
 | Brady Christensen | T/CAR | IR | — | — |
 | Cam Jackson | DT/CAR | IR | — | — |
 | Chris Brazzell II | WR/CAR | IR | — | — |
 | Ihmir Smith-Marsette | WR/CAR | Out | — | — |
 | Ikem Ekwonu | T/CAR | PUP | — | — |
+| Jaelan Phillips | LB/CAR | Questionable | — | — |
 | Jaycee Horn | CB/CAR | IR | — | — |
-| Jonathon Brooks | RB/CAR | IR | — | Coach Dave Canales said Monday that the Panthers will spend the next two days discussing the status of Brooks (core), Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
+| Jonathon Brooks | RB/CAR | IR | — | Brooks (groin) is listed as doubtful for Sunday's game at New Orleans after being limited in practice throughout the week, Kassidy Hill of panthers.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Mike Jackson | CB/CAR | IR | — | — |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Taylor Moton | T/CAR | IR | — | — |
 | Thomas Incoom | LB/CAR | IR | — | — |
+| Will Lee III | CB/CAR | Questionable | — | — |
 | Xavier Legette | WR/CAR | IR | — | Coach Dave Canales said Thursday following the Hall of Fame Game that Legette (neck) "feels great" and is healthy, Mike Kaye of The Charlotte Observer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/xavier-legette-17734)) |
 | Braxton Jones | OL/CHI | IR | — | — |
 | Brittain Brown | RB/CHI | IR | — | — |
@@ -1532,7 +1504,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Austin Barber | OT/CLE | Questionable | — | — |
 | Carson Schwesinger | LB/CLE | Questionable | — | — |
 | Damarri Mathis | DB/CLE | IR | — | — |
-| Denzel Boston | WR/CLE | Questionable | — | Boston (toe) wasn't present for Thursday's practice, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) |
+| Denzel Boston | WR/CLE | Questionable | — | Boston (toe) returned to practice Friday, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/denzel-boston-19298)) |
 | Denzel Ward | CB/CLE | Questionable | — | — |
 | Elgton Jenkins | G/CLE | Questionable | — | — |
 | Harold Fannin Jr. | TE/CLE | Questionable | — | — |
@@ -1550,7 +1522,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Alijah Clark | DB/DAL | Questionable | — | — |
 | Devin Moore | CB/DAL | IR | — | — |
 | Donovan Ezeiruaku | DL/DAL | Questionable | — | — |
-| George Pickens | WR/DAL | Questionable | — | Pickens (hamstring) practiced in a limited fashion Thursday, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) |
+| George Pickens | WR/DAL | Questionable | — | Pickens (hamstring) moved well in Thursday's practice, which coach Brian Schottenheimer said is a positive sign for the wide receiver's availability for Sunday's game against the 49ers, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) |
 | Jake Ferguson | TE/DAL | Out | — | Ferguson sustained a knee injury during Sunday's game against the Colts, Calvin Watkins of The Dallas Morning News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) |
 | Jalen Thompson | DB/DAL | IR | — | — |
 | Joey Porter Jr. | DB/DAL | Questionable | — | — |
@@ -1591,7 +1563,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ben Bartch | OL/DET | IR | — | — |
 | Cade Mays | OL/DET | Out | — | — |
 | D.J. Reed | CB/DET | Out | — | — |
-| DJ Wonnum | DE/DET | Questionable | — | — |
 | Damone Clark | LB/DET | IR | — | — |
 | Devin White | LB/DET | IR | — | — |
 | Giovanni Manu | OL/DET | PUP | — | — |
@@ -1917,7 +1888,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Brevin Jordan | TE/HOU | Questionable | — | — |
 | British Brooks | RB/HOU | IR | — | — |
 | Danielle Hunter | DE/HOU | Questionable | — | — |
-| David Montgomery | RB/HOU | Questionable | — | Montgomery (groin) was limited at practice Thursday, Chris Easterling of the Akron Beacon Journal reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
+| David Montgomery | RB/HOU | Questionable | — | Montgomery (groin) practiced for a second straight day Friday after missing the past month, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
 | Dylan Horton | DL/HOU | IR | — | — |
 | E.J. Speed | LB/HOU | PUP | — | — |
 | Graham Mertz | QB/HOU | IR | — | — |
@@ -1963,6 +1934,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Garrett DiGiorgio | G/JAX | IR | — | — |
 | Jakobi Meyers | WR/JAX | Questionable | — | Meyers brought in four of six targets for 65 yards in the Jaguars' 33-10 win over the Ravens on Thursday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) |
 | Jared Bartlett | LB/JAX | IR | — | — |
+| Jessie Bates III | DB/JAX | Out | — | — |
+| Jordan Davis | DL/JAX | Out | — | — |
 | Parker Hughes | LB/JAX | IR | — | — |
 | Patrick Mekari | OL/JAX | IR | — | — |
 | Robert Hainsey | OL/JAX | Questionable | — | — |
@@ -2035,8 +2008,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Patrick Johnson | LB/LV | IR | — | — |
 | Thomas Booker IV | DL/LV | Questionable | — | — |
 | Trey Zuhn III | OT/LV | Questionable | — | — |
-| Aaron Brewer | OL/MIA | Questionable | — | — |
-| Chris Bell | WR/MIA | Questionable | — | The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-bell-19309)) |
+| Aaron Brewer | OL/MIA | Out | — | — |
+| Chris Bell | WR/MIA | Doubtful | — | The Dolphins list Bell as one of three starting wide receivers on their unofficial depth chart released in advance of Sunday's season opener versus the Raiders, Joe Schad of The Palm Beach Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-bell-19309)) |
 | Cole Turner | TE/MIA | IR | — | — |
 | Darrell Baker Jr. | CB/MIA | PUP | — | — |
 | De'Von Achane | RB/MIA | IR | — | The Dolphins placed Achane (knee) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/devon-achane-16661)) |
@@ -2074,16 +2047,14 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Dell Pettus | DB/NE | IR | — | — |
 | Greg Van Roten | OG/NE | IR | — | — |
 | Harold Landry III | LB/NE | PUP | — | — |
-| Hunter Henry | TE/NE | Questionable | — | Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. "I don't have any expectations yet," Vrabel said of Henry. "It's kind of how he responds here. He... ([link](https://www.rotowire.com//football/player/hunter-henry-10735)) |
 | Julian Hill | TE/NE | IR | — | — |
 | Kevin Byard III | DB/NE | Questionable | — | — |
 | Khalil Jacobs | LB/NE | IR | — | — |
 | Mike Onwenu | OL/NE | IR | — | — |
-| Morgan Moses | OL/NE | Questionable | — | — |
 | Myles Montgomery | RB/NE | IR | — | — |
 | Quintayvious Hutchins | DE/NE | IR | — | — |
 | Reggie Gilliam | RB/NE | IR | — | — |
-| Rhamondre Stevenson | RB/NE | Questionable | — | The knee injury that Stevenson sustained late in the third quarter of Sunday's 45-27 loss to the Packers is expected to keep him out for "the next few weeks," Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) |
+| Rhamondre Stevenson | RB/NE | Questionable | — | Stevenson (knee) is listed as questionable for Sunday's game against the Lions, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rhamondre-stevenson-15372)) |
 | Romeo Doubs | WR/NE | IR | — | The Patriots placed Doubs (shoulder) on injured reserve Monday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/romeo-doubs-16027)) |
 | TreVeyon Henderson | RB/NE | Out | — | Henderson (illness) didn't practice Wednesday and is listed as out for Sunday's game against the Lions in Munich. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/treveyon-henderson-18517)) |
 | Walter Rouse | OL/NE | Questionable | — | — |
@@ -2136,9 +2107,8 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Marcelino McCrary-Ball | LB/NYJ | IR | — | — |
 | Max Mitchell | T/NYJ | IR | — | — |
 | Nahshon Wright | CB/NYJ | Questionable | — | — |
-| Omar Cooper Jr. | WR/NYJ | Questionable | — | — |
 | T'Vondre Sweat | DL/NYJ | IR | — | — |
-| Trevin Wallace | LB/NYJ | Questionable | — | — |
+| Trevin Wallace | LB/NYJ | Out | — | — |
 | Tyler Baron | DE/NYJ | PUP | — | — |
 | VJ Payne | DB/NYJ | IR | — | — |
 | Andre' Sam | DB/PHI | IR | — | — |
@@ -2219,9 +2189,9 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Mohamed Kamara | DL/TB | IR | — | — |
 | Trevor Keegan | OL/TB | Out | — | — |
 | Yaya Diaby | DL/TB | Out | — | — |
-| Anthony Hill Jr. | LB/TEN | Questionable | — | — |
-| Carnell Tate | WR/TEN | Questionable | — | Tate (shoulder) won't practice Wednesday, Jim Wyatt of the Titans' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) |
-| Cody Barton | LB/TEN | Questionable | — | — |
+| Anthony Hill Jr. | LB/TEN | Out | — | — |
+| Carnell Tate | WR/TEN | Out | — | Tate (shoulder) won't practice Wednesday, Jim Wyatt of the Titans' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) |
+| Cody Barton | LB/TEN | Out | — | — |
 | Donnie Ernsberger | TE/TEN | Questionable | — | — |
 | Fernando Carmona Jr. | G/TEN | IR | — | — |
 | Jackson Slater | OL/TEN | IR | — | — |
@@ -2231,8 +2201,9 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kendell Brooks | DB/TEN | IR | — | — |
 | Kevin Winston Jr. | DB/TEN | Questionable | — | — |
 | Milo Eifler | LB/TEN | IR | — | — |
-| Peter Skoronski | OL/TEN | Questionable | — | — |
+| Peter Skoronski | OL/TEN | Out | — | — |
 | Tanoh Kpassagnon | DE/TEN | IR | — | — |
+| Tommy Townsend | P/TEN | Out | — | — |
 | Tony Pollard | RB/TEN | Questionable | — | The Titans opted not to move Pollard ahead of Tuesday's trade deadline, despite him drawing interest from teams, Jeremy Fowler of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tony-pollard-13590)) |
 | Tyjae Spears | RB/TEN | Questionable | — | Head coach Robert Saleh said Friday that Spears (ankle) is trending in the right direction to play Sunday against the Ravens, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) |
 | Athan Kaliakmanis | QB/WAS | Out | — | Kaliakmanis completed 15 of 33 passes for 186 yards and a touchdown with an interception in Sunday's 30-13 loss to the Colts. He added 16 yards on three carries. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/athan-kaliakmanis-19368)) |

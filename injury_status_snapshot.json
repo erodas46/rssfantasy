@@ -115,7 +115,7 @@
     "name": "Peter Skoronski",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TEN"
   },
   "10890": {
@@ -220,7 +220,7 @@
     "name": "Jon Gaines II",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ARI"
   },
   "10958": {
@@ -703,7 +703,7 @@
     "name": "Trevin Wallace",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "11729": {
@@ -1833,13 +1833,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "13276": {
-    "name": "Omar Cooper Jr.",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "NYJ"
-  },
   "13277": {
     "name": "CJ Donaldson",
     "pos": "RB",
@@ -1851,7 +1844,7 @@
     "name": "Carnell Tate",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TEN"
   },
   "13287": {
@@ -1893,7 +1886,7 @@
     "name": "Chris Bell",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "MIA"
   },
   "13312": {
@@ -1991,7 +1984,7 @@
     "name": "Anthony Hill Jr.",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TEN"
   },
   "13380": {
@@ -2182,6 +2175,13 @@
     "since": "",
     "status": "IR",
     "team": "MIA"
+  },
+  "13485": {
+    "name": "Will Lee III",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
   },
   "13489": {
     "name": "Malik Muhammad II",
@@ -2708,13 +2708,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "2098": {
-    "name": "Morgan Moses",
-    "pos": "OL",
-    "since": "",
-    "status": "Questionable",
-    "team": "NE"
-  },
   "2130": {
     "name": "Kyle Van Noy",
     "pos": "LB",
@@ -2847,13 +2840,6 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
-  },
-  "3214": {
-    "name": "Hunter Henry",
-    "pos": "TE",
-    "since": "",
-    "status": "Questionable",
-    "team": "NE"
   },
   "3221": {
     "name": "Nick Martin",
@@ -3267,6 +3253,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "5017": {
+    "name": "Jessie Bates III",
+    "pos": "DB",
+    "since": "",
+    "status": "Out",
+    "team": "JAX"
   },
   "5025": {
     "name": "Ronnie Harrison Jr.",
@@ -3839,7 +3832,7 @@
     "name": "Bobby Okereke",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CAR"
   },
   "5947": {
@@ -3909,7 +3902,7 @@
     "name": "Cody Barton",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "TEN"
   },
   "6076": {
@@ -3923,7 +3916,7 @@
     "name": "Hjalte Froholdt",
     "pos": "G",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ARI"
   },
   "6094": {
@@ -4311,13 +4304,6 @@
     "status": "Out",
     "team": "NYG"
   },
-  "6868": {
-    "name": "DJ Wonnum",
-    "pos": "DE",
-    "since": "",
-    "status": "Questionable",
-    "team": "DET"
-  },
   "6872": {
     "name": "Kyle Dugger",
     "pos": "DB",
@@ -4668,6 +4654,13 @@
     "status": "Questionable",
     "team": "FA"
   },
+  "7307": {
+    "name": "Tommy Townsend",
+    "pos": "P",
+    "since": "",
+    "status": "Out",
+    "team": "TEN"
+  },
   "734": {
     "name": "Trent Williams",
     "pos": "T",
@@ -4707,7 +4700,7 @@
     "name": "Aaron Brewer",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "7469": {
@@ -4828,6 +4821,13 @@
     "since": "",
     "status": "IR",
     "team": "DET"
+  },
+  "7635": {
+    "name": "Jaelan Phillips",
+    "pos": "LB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CAR"
   },
   "7638": {
     "name": "Alijah Vera-Tucker",
@@ -5158,13 +5158,6 @@
     "status": "IR",
     "team": "NE"
   },
-  "8122": {
-    "name": "Zonovan Knight",
-    "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "ARI"
-  },
   "8125": {
     "name": "Calvin Austin III",
     "pos": "WR",
@@ -5324,6 +5317,13 @@
     "pos": "DL",
     "since": "",
     "status": "Questionable",
+    "team": "JAX"
+  },
+  "8269": {
+    "name": "Jordan Davis",
+    "pos": "DL",
+    "since": "",
+    "status": "Out",
     "team": "JAX"
   },
   "8274": {
