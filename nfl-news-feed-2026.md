@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-14 16:45 UTC_ · 1198 items total · 1187/1198 matched to a player
+_Last updated: 2026-11-14 20:59 UTC_ · 1203 items total · 1192/1203 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-14 16:45 UTC_ · 1198 items total · 1187/1198 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Garrett Wilson | WR/NYJ | INJURY | — | Wilson (concussion) is expected to be cleared to play against the Bills on Sunday, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) | Rotowire |
+| 2026-11-14 | Pat Freiermuth | TE/PIT | INJURY | — | Freiermuth (illness) was added to Saturday's injury report and is listed as questionable for Sunday's game against Cincinnati. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/pat-freiermuth-15267)) | Rotowire |
+| 2026-11-14 | David Montgomery | RB/HOU | INJURY | — | Montgomery (groin) has been downgraded from questionable to out for Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-14 | David Montgomery | RB/HOU | INJURY | — | Marks will be the Texans' lead back against the Browns on Sunday after David Montgomery (groin) was ruled out for that contest. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-14 | Kyler Murray | QB/MIN | INJURY | — | The Vikings are targeting Week 12 against the Falcons on Sunday, Nov. 29, for a return for Murray (hamstring), Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-14 | Josh Jacobs | RB/GB | INJURY | — | Jacobs underwent surgery on his fractured right ring finger Friday and "should be back in the next few weeks," Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-11-14 | Travis Etienne | RB/NO | INJURY | — | The Saints are expected to activate Etienne (hamstring) from injured reserve ahead of Sunday's NFC South tilt against the Panthers, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
 | 2026-11-14 | Kenneth Walker | RB/KC | INJURY | — | Walker (groin) has been ruled out for Sunday's game against the Falcons, Jordan Schultz of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
@@ -115,6 +120,11 @@ _Last updated: 2026-11-14 16:45 UTC_ · 1198 items total · 1187/1198 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | Garrett Wilson | WR/NYJ | INJURY | — | Wilson (concussion) is expected to be cleared to play against the Bills on Sunday, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) | Rotowire |
+| 2026-11-14 | Pat Freiermuth | TE/PIT | INJURY | — | Freiermuth (illness) was added to Saturday's injury report and is listed as questionable for Sunday's game against Cincinnati. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/pat-freiermuth-15267)) | Rotowire |
+| 2026-11-14 | David Montgomery | RB/HOU | INJURY | — | Montgomery (groin) has been downgraded from questionable to out for Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-14 | David Montgomery | RB/HOU | INJURY | — | Marks will be the Texans' lead back against the Browns on Sunday after David Montgomery (groin) was ruled out for that contest. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-14 | Kyler Murray | QB/MIN | INJURY | — | The Vikings are targeting Week 12 against the Falcons on Sunday, Nov. 29, for a return for Murray (hamstring), Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
 | 2026-11-14 | Josh Jacobs | RB/GB | INJURY | — | Jacobs underwent surgery on his fractured right ring finger Friday and "should be back in the next few weeks," Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-11-14 | Travis Etienne | RB/NO | INJURY | — | The Saints are expected to activate Etienne (hamstring) from injured reserve ahead of Sunday's NFC South tilt against the Panthers, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
 | 2026-11-14 | Kenneth Walker | RB/KC | INJURY | — | Walker (groin) has been ruled out for Sunday's game against the Falcons, Jordan Schultz of Fox Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kenneth-walker-15909)) | Rotowire |
@@ -1324,41 +1334,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emmett Johnson | RB/KC | 1088091 |
-| Darren Waller | TE/CAR | 284409 |
-| Chimere Dike | WR/TEN | 283437 |
-| Tutu Atwell | WR/LAR | 121821 |
-| Konata Mumpfield | WR/LAR | 106470 |
-| Justice Hill | RB/BAL | 97605 |
-| Tyler Higbee | TE/LAR | 87399 |
-| Chris Rodriguez Jr. | RB/JAX | 82206 |
-| Corey Kiner | RB/NE | 68916 |
-| Ashton Dulin | WR/IND | 67302 |
-| Brenton Strange | TE/JAX | 52956 |
-| Khalil Shakir | WR/BUF | 52911 |
-| Hunter Henry | TE/NE | 50700 |
-| Mike Gesicki | TE/CIN | 50368 |
-| Jordan Addison | WR/MIN | 49959 |
+| Emmett Johnson | RB/KC | 1491633 |
+| Chimere Dike | WR/TEN | 392697 |
+| Darren Waller | TE/CAR | 293094 |
+| Justice Hill | RB/BAL | 143487 |
+| Tutu Atwell | WR/LAR | 120617 |
+| Tyler Higbee | TE/LAR | 116631 |
+| Chris Rodriguez Jr. | RB/JAX | 116064 |
+| Konata Mumpfield | WR/LAR | 84987 |
+| Corey Kiner | RB/NE | 78750 |
+| Ashton Dulin | WR/IND | 65781 |
+| Brenton Strange | TE/JAX | 63567 |
+| Hunter Henry | TE/NE | 61455 |
+| Mike Gesicki | TE/CIN | 61404 |
+| Tank Dell | WR/HOU | 57488 |
+| Khalil Shakir | WR/BUF | 51426 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 131049 |
-| Seth McGowan | RB/IND | 76512 |
-| Adonai Mitchell | WR/NYJ | 75576 |
-| Michael Wilson | WR/ARI | 69480 |
-| Chris Rodriguez Jr. | RB/JAX | 60255 |
-| Chase McLaughlin | K/TB | 57624 |
-| Kyler Murray | QB/MIN | 55576 |
-| Emanuel Wilson | RB/SEA | 53604 |
-| Konata Mumpfield | WR/LAR | 50517 |
-| Devaughn Vele | WR/NO | 47089 |
-| Alvin Kamara | RB/NO | 45320 |
-| Lamar Jackson | QB/BAL | 44296 |
-| Demarcus Robinson | WR/SF | 44052 |
-| Ryan Flournoy | WR/DAL | 40504 |
-| Tre Tucker | WR/LV | 39084 |
+| Devin Singletary | RB/NYG | 134019 |
+| Adonai Mitchell | WR/NYJ | 87288 |
+| Seth McGowan | RB/IND | 80944 |
+| Michael Wilson | WR/ARI | 78480 |
+| Emanuel Wilson | RB/SEA | 65394 |
+| Chase McLaughlin | K/TB | 65320 |
+| Kyler Murray | QB/MIN | 61944 |
+| Konata Mumpfield | WR/LAR | 59094 |
+| Chris Rodriguez Jr. | RB/JAX | 58500 |
+| Alvin Kamara | RB/NO | 54712 |
+| Devaughn Vele | WR/NO | 54656 |
+| Demarcus Robinson | WR/SF | 49452 |
+| Ryan Flournoy | WR/DAL | 47984 |
+| Tre Tucker | WR/LV | 46350 |
+| Omar Cooper Jr. | WR/NYJ | 45008 |
 
 
 ---
@@ -1369,9 +1379,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Kenneth Walker III | RB/KC | Questionable | Out |
+_None since last run._
 
 **Full current report**
 
@@ -1857,7 +1865,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Brevin Jordan | TE/HOU | Out | — | — |
 | British Brooks | RB/HOU | IR | — | — |
 | Danielle Hunter | DE/HOU | Out | — | — |
-| David Montgomery | RB/HOU | Questionable | — | Montgomery (groin) practiced for a second straight day Friday after missing the past month, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
+| David Montgomery | RB/HOU | Questionable | — | Montgomery (groin) has been downgraded from questionable to out for Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
 | Dylan Horton | DL/HOU | IR | — | — |
 | E.J. Speed | LB/HOU | PUP | — | — |
 | Graham Mertz | QB/HOU | IR | — | — |
@@ -1988,7 +1996,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Josh Oliver | TE/MIN | IR | — | — |
 | Joshua Metellus | DB/MIN | Questionable | — | — |
 | Kyle Van Noy | LB/MIN | Questionable | — | — |
-| Kyler Murray | QB/MIN | Out | — | Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) |
+| Kyler Murray | QB/MIN | Out | — | The Vikings are targeting Week 12 against the Falcons on Sunday, Nov. 29, for a return for Murray (hamstring), Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) |
 | Michael Briscoe | WR/MIN | Out | — | — |
 | Nick Samac | C/MIN | IR | — | — |
 | T.J. Hockenson | TE/MIN | Out | — | — |
@@ -2054,7 +2062,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Arian Smith | WR/NYJ | IR | — | — |
 | Braiden McGregor | DE/NYJ | IR | — | — |
 | David Onyemata | DT/NYJ | IR | — | — |
-| Garrett Wilson | WR/NYJ | Questionable | — | Wilson (concussion) was a limited participant at Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) |
+| Garrett Wilson | WR/NYJ | Questionable | — | Wilson (concussion) is expected to be cleared to play against the Bills on Sunday, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/garrett-wilson-15829)) |
 | Harrison Phillips | DT/NYJ | Questionable | — | — |
 | Jarvis Brownlee Jr. | DB/NYJ | Questionable | — | — |
 | Joseph Ossai | DE/NYJ | Questionable | — | — |
