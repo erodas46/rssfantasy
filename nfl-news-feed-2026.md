@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-15 17:27 UTC_ · 1211 items total · 1200/1211 matched to a player
+_Last updated: 2026-11-15 21:23 UTC_ · 1216 items total · 1205/1216 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-15 17:27 UTC_ · 1211 items total · 1200/1211 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Woody Marks | RB/HOU | INJURY | — | Marks (concussion) has been downgraded to out for the remainder of Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-15 | Geno Smith | QB/NYJ | NEWS | — | Smith headed to the medical tent during Sunday's game against the Bills after injuring his ankle, Rich Cimini of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/geno-smith-8743)) | Rotowire |
+| 2026-11-15 | Geno Smith | QB/NYJ | INJURY | — | Smith (ankle) has been ruled out for the remainder of Sunday's game against the Bills, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/geno-smith-8743)) | Rotowire |
+| 2026-11-15 | Drake London | WR/ATL | INJURY | — | London is being evaluated for a possible concussion during Sunday's game against the Chiefs, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drake-london-15868)) | Rotowire |
+| 2026-11-15 | Wan'Dale Robinson | WR/TEN | INJURY | — | Robinson (ankle) is questionable to return to Sunday's game against the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) | Rotowire |
 | 2026-11-15 | Travis Etienne | RB/NO | INJURY | — | Etienne (hamstring) is active for Sunday's game against the Panthers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
 | 2026-11-15 | Omar Cooper | WR/NYJ | NEWS | — | Cooper (ankle) is active for Sunday's contest against the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
 | 2026-11-15 | Josh Downs | WR/IND | NEWS | — | Downs is active and slated to make his debut with the Chiefs on Sunday versus the Falcons, Matt McMullen of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
@@ -119,6 +124,11 @@ _Last updated: 2026-11-15 17:27 UTC_ · 1211 items total · 1200/1211 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-15 | Woody Marks | RB/HOU | INJURY | — | Marks (concussion) has been downgraded to out for the remainder of Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-15 | Geno Smith | QB/NYJ | NEWS | — | Smith headed to the medical tent during Sunday's game against the Bills after injuring his ankle, Rich Cimini of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/geno-smith-8743)) | Rotowire |
+| 2026-11-15 | Geno Smith | QB/NYJ | INJURY | — | Smith (ankle) has been ruled out for the remainder of Sunday's game against the Bills, Brian Costello of the New York Post reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/geno-smith-8743)) | Rotowire |
+| 2026-11-15 | Drake London | WR/ATL | INJURY | — | London is being evaluated for a possible concussion during Sunday's game against the Chiefs, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/drake-london-15868)) | Rotowire |
+| 2026-11-15 | Wan'Dale Robinson | WR/TEN | INJURY | — | Robinson (ankle) is questionable to return to Sunday's game against the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) | Rotowire |
 | 2026-11-15 | Travis Etienne | RB/NO | INJURY | — | Etienne (hamstring) is active for Sunday's game against the Panthers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/travis-etienne-15385)) | Rotowire |
 | 2026-11-15 | Omar Cooper | WR/NYJ | NEWS | — | Cooper (ankle) is active for Sunday's contest against the Bills. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/omar-cooper-19314)) | Rotowire |
 | 2026-11-15 | Josh Downs | WR/IND | NEWS | — | Downs is active and slated to make his debut with the Chiefs on Sunday versus the Falcons, Matt McMullen of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-downs-16689)) | Rotowire |
@@ -1341,41 +1351,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Emmett Johnson | RB/KC | 1467099 |
-| Chimere Dike | WR/TEN | 766053 |
-| Justice Hill | RB/BAL | 370314 |
-| Darren Waller | TE/CAR | 316071 |
-| Chris Rodriguez Jr. | RB/JAX | 241560 |
-| Tyler Higbee | TE/LAR | 194544 |
-| Tutu Atwell | WR/LAR | 148106 |
-| Tank Dell | WR/HOU | 130232 |
-| Caleb Douglas | WR/MIA | 120672 |
-| Indianapolis Colts | DEF/IND | 109371 |
-| Corey Kiner | RB/NE | 95880 |
-| Brenton Strange | TE/JAX | 95778 |
-| Elic Ayomanor | WR/TEN | 93948 |
-| Gavin Bartholomew | TE/MIN | 89568 |
-| Zonovan Knight | RB/ARI | 85858 |
+| Emmett Johnson | RB/KC | 739575 |
+| Chimere Dike | WR/TEN | 674829 |
+| Justice Hill | RB/BAL | 397440 |
+| Darren Waller | TE/CAR | 287586 |
+| Tyler Higbee | TE/LAR | 216873 |
+| Tutu Atwell | WR/LAR | 212450 |
+| Chris Rodriguez Jr. | RB/JAX | 200169 |
+| Tank Dell | WR/HOU | 130096 |
+| Caleb Douglas | WR/MIA | 126144 |
+| Fernando Mendoza | QB/LV | 119576 |
+| Indianapolis Colts | DEF/IND | 106581 |
+| Mike Gesicki | TE/CIN | 96328 |
+| Elic Ayomanor | WR/TEN | 96068 |
+| Brenton Strange | TE/JAX | 92790 |
+| Gavin Bartholomew | TE/MIN | 91935 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Devin Singletary | RB/NYG | 163449 |
-| Chase McLaughlin | K/TB | 139304 |
-| Michael Wilson | WR/ARI | 137610 |
-| Emanuel Wilson | RB/SEA | 132462 |
-| Corey Kiner | RB/NE | 130788 |
-| Adonai Mitchell | WR/NYJ | 122344 |
-| Seth McGowan | RB/IND | 107496 |
-| Alvin Kamara | RB/NO | 106336 |
-| Kyler Murray | QB/MIN | 97736 |
-| Jordan Addison | WR/MIN | 94131 |
-| Devaughn Vele | WR/NO | 90265 |
-| Konata Mumpfield | WR/LAR | 86553 |
-| Audric Estime | RB/NO | 84414 |
-| Pierre Strong Jr. | RB/GB | 79623 |
-| MarShawn Lloyd | RB/GB | 75978 |
+| Corey Kiner | RB/NE | 158196 |
+| Devin Singletary | RB/NYG | 152892 |
+| Chase McLaughlin | K/TB | 148024 |
+| Emanuel Wilson | RB/SEA | 144387 |
+| Michael Wilson | WR/ARI | 142056 |
+| Jordan Addison | WR/MIN | 121878 |
+| Adonai Mitchell | WR/NYJ | 113728 |
+| Alvin Kamara | RB/NO | 102104 |
+| Kyler Murray | QB/MIN | 100360 |
+| Pierre Strong Jr. | RB/GB | 94554 |
+| Audric Estime | RB/NO | 90930 |
+| Devaughn Vele | WR/NO | 87934 |
+| Seth McGowan | RB/IND | 86848 |
+| Konata Mumpfield | WR/LAR | 78930 |
+| Omar Cooper Jr. | WR/NYJ | 77168 |
 
 
 ---
@@ -1386,116 +1396,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Cameron Williams | OL/ATL | (unlisted) | Out |
-| Behren Morton | QB/NE | (unlisted) | Out |
-| Pierre Strong Jr. | RB/GB | (unlisted) | Out |
-| Nate Lynn | DL/NYJ | (unlisted) | Out |
-| Andy Dalton | QB/ATL | (unlisted) | Out |
-| CJ Williams | WR/JAX | (unlisted) | Out |
-| Parker Brailsford | C/CLE | (unlisted) | Out |
-| Justin Joly | TE/MIA | (unlisted) | Out |
-| Justin Jefferson | LB/CLE | (unlisted) | Out |
-| Zach Wilson | QB/NO | (unlisted) | Out |
-| Ben VanSumeren | RB/KC | (unlisted) | Out |
-| Greg Gaines | DT/BUF | (unlisted) | Out |
-| Noah Igbinoghene | CB/CLE | (unlisted) | Out |
-| Donovan Jennings | OL/GB | (unlisted) | Out |
-| Sam Hecht | C/CAR | (unlisted) | Out |
-| Mike Danna | DE/BUF | (unlisted) | Out |
-| Baker Mayfield | QB/TB | (unlisted) | Questionable |
-| Wesley Williams | DE/JAX | (unlisted) | Out |
-| Chris Bell | WR/MIA | Doubtful | Out |
-| Robert Longerbeam | DB/ATL | (unlisted) | Out |
-| Haynes King | QB/CAR | (unlisted) | Out |
-| Zaire Franklin | LB/GB | Doubtful | Out |
-| Tim Patrick | WR/NYJ | (unlisted) | Out |
-| Avieon Terrell | DB/ATL | (unlisted) | Out |
-| A.J. Brown | WR/NE | Questionable | Out |
-| Marcellas Dial Jr. | DB/MIA | (unlisted) | Out |
-| Will Lee III | CB/CAR | Questionable | Out |
-| Wyatt Teller | G/HOU | Questionable | Out |
-| Mike Reid | CB/NO | (unlisted) | Out |
-| Riley Leonard | QB/IND | (unlisted) | Out |
-| Jude Bowry | OT/BUF | (unlisted) | Out |
-| Max Brosmer | QB/MIN | (unlisted) | Out |
-| Amen Ogbongbemiga | LB/DET | (unlisted) | Out |
-| Shane Buechele | QB/BUF | (unlisted) | Out |
-| Walter Rouse | OL/NE | Questionable | Out |
-| Dametrious Crownover | OT/NE | (unlisted) | Out |
-| Melvin Smith Jr. | DB/KC | (unlisted) | Out |
-| Jaydn Ott | RB/KC | Questionable | Out |
-| Robert Spillane | LB/NE | (unlisted) | Questionable |
-| Caedan Wallace | OL/MIA | (unlisted) | Out |
-| Jelani Woods | TE/NYJ | (unlisted) | Out |
-| Morgan Moses | OL/NE | (unlisted) | Questionable |
-| Aidan Hutchinson | DL/DET | (unlisted) | Questionable |
-| Jaylan Ford | LB/NO | (unlisted) | Out |
-| Dillon Gabriel | QB/CLE | (unlisted) | Out |
-| Jackie Marshall | DE/TEN | (unlisted) | Out |
-| Garrett Nussmeier | QB/KC | (unlisted) | Out |
-| Jaylon Jones | DB/TEN | (unlisted) | Out |
-| Mekhi Wingo | DT/DET | (unlisted) | Out |
-| Ja'Tavion Sanders | TE/CAR | (unlisted) | Out |
-| Nicholas Singleton | RB/TEN | (unlisted) | Out |
-| J.R. Reed | DB/FA | (unlisted) | Out |
-| TeRah Edwards | DL/CAR | (unlisted) | Out |
-| Ahmed Hassanein | DE/DET | (unlisted) | Out |
-| Keith Abney II | DB/DET | (unlisted) | Out |
-| Myles Hinton | OT/CIN | (unlisted) | Questionable |
-| Kevin Zeitler | OG/GB | Questionable | Out |
-| Dalton Risner | G/CIN | (unlisted) | Questionable |
-| Jarvis Brownlee Jr. | DB/NYJ | Questionable | Out |
-| Taylen Green | QB/CLE | (unlisted) | Out |
-| Albert Regis | DT/JAX | (unlisted) | Out |
-| Jack Strand | QB/ATL | (unlisted) | Out |
-| Jordan Addison | WR/MIN | Questionable | Out |
-| Jalon Kilgore | CB/BUF | (unlisted) | Out |
-| Brenden Schooler | DB/NE | Questionable | Out |
-| Drake Maye | QB/NE | (unlisted) | Out |
-| AJ Dillon | RB/CAR | (unlisted) | Out |
-| Cameron Latu | TE/NE | Questionable | (cleared) |
-| Lukas Van Ness | DL/GB | Questionable | (cleared) |
-| Will Anderson Jr. | DL/HOU | Questionable | (cleared) |
-| Gervon Dexter Sr. | DL/ATL | Questionable | (cleared) |
-| Chris Brooks | RB/GB | Questionable | (cleared) |
-| Adonai Mitchell | WR/NYJ | Questionable | (cleared) |
-| Xavier Legette | WR/CAR | Questionable | (cleared) |
-| Javon Bullard | DB/GB | Questionable | (cleared) |
-| Sione Vaki | RB/DET | Questionable | (cleared) |
-| Travis Glover | OT/GB | Questionable | (cleared) |
-| Charles Woods | CB/NE | Questionable | (cleared) |
-| James Pearce Jr. | DL/ATL | Questionable | (cleared) |
-| Jordan Hancock | DB/BUF | Questionable | (cleared) |
-| Omar Cooper Jr. | WR/NYJ | Questionable | (cleared) |
-| Denzel Boston | WR/CLE | Questionable | (cleared) |
-| Mansoor Delane | DB/KC | Questionable | (cleared) |
-| VJ Payne | DB/NYJ | Questionable | (cleared) |
-| Kyle Van Noy | LB/MIN | Questionable | (cleared) |
-| Trent Brown | OL/HOU | Questionable | (cleared) |
-| Kevin Byard III | DB/NE | Questionable | (cleared) |
-| Greg Van Roten | OG/NE | Questionable | (cleared) |
-| Harrison Phillips | DT/NYJ | Questionable | (cleared) |
-| Braden Smith | OL/HOU | Questionable | (cleared) |
-| Josh Woods | LB/ATL | Questionable | (cleared) |
-| Xavier McKinney | DB/GB | Questionable | (cleared) |
-| Joshua Metellus | DB/MIN | Questionable | (cleared) |
-| Reggie Gilliam | RB/NE | Questionable | (cleared) |
-| Sam Franklin Jr. | DB/BUF | Questionable | (cleared) |
-| Travis Etienne Jr. | RB/NO | Questionable | (cleared) |
-| Amon-Ra St. Brown | WR/DET | Questionable | (cleared) |
-| Rhamondre Stevenson | RB/NE | Questionable | (cleared) |
-| Jaelan Phillips | LB/CAR | Questionable | (cleared) |
-| Joseph Ossai | DE/NYJ | Questionable | (cleared) |
-| Nahshon Wright | CB/NYJ | Questionable | (cleared) |
-| Spencer Brown | OT/BUF | Doubtful | (cleared) |
-| Garrett Wilson | WR/NYJ | Questionable | (cleared) |
-| Skyy Moore | WR/GB | Questionable | (cleared) |
-| Martin Emerson Jr. | DB/NO | Questionable | (cleared) |
-| Christian Benford | DB/BUF | Questionable | (cleared) |
-| Jake Hummel | LB/HOU | Questionable | (cleared) |
-| Tyjae Spears | RB/TEN | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
