@@ -192,7 +192,7 @@
     "name": "Asim Richards",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NO"
   },
   "10988": {
@@ -1340,7 +1340,7 @@
     "name": "Tyler Booker",
     "pos": "OL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DAL"
   },
   "12608": {
@@ -4661,13 +4661,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "7046": {
-    "name": "J.R. Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
-    "team": "FA"
-  },
   "7049": {
     "name": "Jauan Jennings",
     "pos": "WR",
@@ -5477,7 +5470,7 @@
     "name": "Aidan Hutchinson",
     "pos": "DL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DET"
   },
   "829": {
