@@ -1665,13 +1665,6 @@
     "status": "Out",
     "team": "CAR"
   },
-  "12838": {
-    "name": "Nikko Reed",
-    "pos": "DB",
-    "since": "",
-    "status": "Out",
-    "team": "NYG"
-  },
   "12844": {
     "name": "Ricky Barber",
     "pos": "DT",
@@ -2567,13 +2560,6 @@
     "since": "",
     "status": "Out",
     "team": "PHI"
-  },
-  "13563": {
-    "name": "Deven Eastern",
-    "pos": "DT",
-    "since": "",
-    "status": "Out",
-    "team": "SEA"
   },
   "13573": {
     "name": "Quintayvious Hutchins",
@@ -4329,7 +4315,7 @@
     "name": "Azeez Al-Shaair",
     "pos": "LB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "HOU"
   },
   "6546": {
@@ -5640,6 +5626,13 @@
     "since": "",
     "status": "IR",
     "team": "WAS"
+  },
+  "8365": {
+    "name": "Kyler Gordon",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CHI"
   },
   "8372": {
     "name": "DeAngelo Malone",

@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-17 07:03 UTC_ · 1249 items total · 1238/1249 matched to a player
+_Last updated: 2026-11-17 19:26 UTC_ · 1254 items total · 1243/1254 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-17 07:03 UTC_ · 1249 items total · 1238/1249 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | Baker Mayfield | QB/TB | TRANSACTION | — | The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
+| 2026-11-17 | Josh Jacobs | RB/GB | NEWS | — | Jacobs (finger) has a "realistic chance" of returning to action Nov. 25 against the Rams following the Packers' Week 11 bye, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
+| 2026-11-17 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) is slated to practice Tuesday, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-17 | Luther Burden | WR/CHI | INJURY | — | Burden has cleared concussion protocol, Patrick Finley of the Chicago Sun-Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
+| 2026-11-17 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | The Commanders designated Croskey-Merritt (groin) for return from injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
 | 2026-11-16 | Jacoby Brissett | QB/ARI | NEWS | — | Brissett completed 33 of 49 passes for 340 yards with no touchdowns and one interception and added two rushes for two yards in the Ravens' 23-20 loss to the Chargers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacoby-brissett-10919)) | Rotowire |
 | 2026-11-16 | Zay Flowers | WR/BAL | NEWS | — | Flowers brought in six of seven targets for 74 yards and lost a fumble in the Ravens' 23-20 loss to the Chargers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-11-16 | Justin Herbert | QB/LAC | NEWS | — | Herbert completed 12 of 18 passes for 129 yards with no touchdowns or interceptions and rushed seven times for 51 yards and a touchdown in the Chargers' 23-20 win over the Ravens on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
@@ -127,6 +132,11 @@ _Last updated: 2026-11-17 07:03 UTC_ · 1249 items total · 1238/1249 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | Baker Mayfield | QB/TB | TRANSACTION | — | The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
+| 2026-11-17 | Josh Jacobs | RB/GB | NEWS | — | Jacobs (finger) has a "realistic chance" of returning to action Nov. 25 against the Rams following the Packers' Week 11 bye, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
+| 2026-11-17 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) is slated to practice Tuesday, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
+| 2026-11-17 | Luther Burden | WR/CHI | INJURY | — | Burden has cleared concussion protocol, Patrick Finley of the Chicago Sun-Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/luther-burden-18548)) | Rotowire |
+| 2026-11-17 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | The Commanders designated Croskey-Merritt (groin) for return from injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
 | 2026-11-16 | Jacoby Brissett | QB/ARI | NEWS | — | Brissett completed 33 of 49 passes for 340 yards with no touchdowns and one interception and added two rushes for two yards in the Ravens' 23-20 loss to the Chargers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacoby-brissett-10919)) | Rotowire |
 | 2026-11-16 | Zay Flowers | WR/BAL | NEWS | — | Flowers brought in six of seven targets for 74 yards and lost a fumble in the Ravens' 23-20 loss to the Chargers on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zay-flowers-16919)) | Rotowire |
 | 2026-11-16 | Justin Herbert | QB/LAC | NEWS | — | Herbert completed 12 of 18 passes for 129 yards with no touchdowns or interceptions and rushed seven times for 51 yards and a touchdown in the Chargers' 23-20 win over the Ravens on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
@@ -1387,41 +1397,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Xavier Hutchinson | WR/HOU | 329665 |
-| Michael Mayer | TE/LV | 300798 |
-| Seth McGowan | RB/IND | 252688 |
-| Jordyn Tyson | WR/NO | 223912 |
-| Ryan Flournoy | WR/DAL | 172656 |
-| Mark Andrews | TE/BAL | 157320 |
-| Quentin Johnston | WR/LAC | 149702 |
-| Justice Hill | RB/BAL | 137799 |
-| Pat Bryant | WR/DEN | 133216 |
-| Detroit Lions | DEF/DET | 97173 |
-| Emmett Johnson | RB/KC | 88992 |
-| Kaelon Black | RB/SF | 81711 |
-| Deshaun Watson | QB/CLE | 75304 |
-| Gavin Bartholomew | TE/MIN | 72567 |
-| Caleb Douglas | WR/MIA | 69824 |
+| Michael Mayer | TE/LV | 1095345 |
+| Xavier Hutchinson | WR/HOU | 913241 |
+| Seth McGowan | RB/IND | 572744 |
+| Ryan Flournoy | WR/DAL | 565144 |
+| Mark Andrews | TE/BAL | 521199 |
+| Jordyn Tyson | WR/NO | 517552 |
+| Pat Bryant | WR/DEN | 504304 |
+| Detroit Lions | DEF/DET | 456138 |
+| Chase McLaughlin | K/TB | 244640 |
+| Bo Nix | QB/DEN | 244074 |
+| Elic Ayomanor | WR/TEN | 217296 |
+| Cairo Santos | K/CHI | 204841 |
+| Kaelon Black | RB/SF | 191233 |
+| Jacory Croskey-Merritt | RB/WAS | 188928 |
+| Justice Hill | RB/BAL | 182799 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Corey Kiner | RB/NE | 191886 |
-| Devin Singletary | RB/NYG | 155214 |
-| Omar Cooper Jr. | WR/NYJ | 101056 |
-| Jordan Addison | WR/MIN | 95409 |
-| Darren Waller | TE/CAR | 95094 |
-| Tutu Atwell | WR/LAR | 89502 |
-| Chris Rodriguez Jr. | RB/JAX | 85734 |
-| Audric Estime | RB/NO | 71160 |
-| Demarcus Robinson | WR/SF | 69186 |
-| Devaughn Vele | WR/NO | 67200 |
-| Chimere Dike | WR/TEN | 64926 |
-| Tank Dell | WR/HOU | 64424 |
-| Tre Tucker | WR/LV | 59880 |
-| Xavier Worthy | WR/KC | 59202 |
-| Jason Myers | K/SEA | 57100 |
+| Corey Kiner | RB/NE | 541902 |
+| Devin Singletary | RB/NYG | 435645 |
+| Darren Waller | TE/CAR | 258111 |
+| Tutu Atwell | WR/LAR | 245189 |
+| Jordan Addison | WR/MIN | 240786 |
+| Jason Myers | K/SEA | 231305 |
+| Baltimore Ravens | DEF/BAL | 214914 |
+| Omar Cooper Jr. | WR/NYJ | 214336 |
+| Konata Mumpfield | WR/LAR | 212148 |
+| Tyler Higbee | TE/LAR | 202698 |
+| Demarcus Robinson | WR/SF | 192330 |
+| Chris Rodriguez Jr. | RB/JAX | 189945 |
+| Audric Estime | RB/NO | 184242 |
+| Devaughn Vele | WR/NO | 180964 |
+| New England Patriots | DEF/NE | 173355 |
 
 
 ---
@@ -1434,32 +1444,10 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 | Player | Pos/Team | From | To |
 |---|---|---|---|
-| Jake Hummel | LB/HOU | (unlisted) | Questionable |
-| Oronde Gadsden | TE/LAC | (unlisted) | Questionable |
-| Nnamdi Madubuike | DT/BAL | (unlisted) | Questionable |
-| Jordan Burch | DL/ARI | Questionable | Out |
-| DaRon Bland | DB/DAL | Questionable | Out |
-| Branson Taylor | OL/LAC | Out | IR |
-| Brenen Thompson | WR/LAC | Doubtful | Out |
-| Elijah Sarratt | WR/BAL | (unlisted) | Out |
-| Vega Ioane | OG/BAL | (unlisted) | Questionable |
-| Zeek Biggers | DL/MIA | Questionable | Out |
-| Dylan McMahon | OL/LAR | Questionable | IR |
-| Renardo Green | DB/SF | (unlisted) | Questionable |
-| Aeneas Peebles | DT/BAL | (unlisted) | Out |
-| Kedon Slovis | QB/BAL | (unlisted) | Out |
-| Rodney Shelley | CB/LAC | (unlisted) | Questionable |
-| Justin Eboigbe | DL/LAC | Questionable | Out |
-| Bud Dupree | LB/LAC | (unlisted) | Out |
-| Andrew Wingard | DB/ARI | (unlisted) | Out |
-| Anthony Gould | WR/IND | (unlisted) | Questionable |
-| Chandler Rivers | CB/BAL | (unlisted) | Out |
-| Emery Jones Jr. | OL/BAL | (unlisted) | Out |
-| Denzel Perryman | LB/LAC | IR | (cleared) |
-| David Njoku | TE/LAC | IR | (cleared) |
-| Antonio Gibson | RB/FA | Questionable | (cleared) |
-| Kayode Awosika | OL/LAC | Questionable | (cleared) |
-| Chance Campbell | LB/FA | Questionable | (cleared) |
+| Azeez Al-Shaair | LB/HOU | Out | IR |
+| Kyler Gordon | DB/CHI | (unlisted) | Questionable |
+| Nikko Reed | DB/NYG | Out | (cleared) |
+| Deven Eastern | DT/SEA | Out | (cleared) |
 
 **Full current report**
 
@@ -1570,6 +1558,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Kentavius Street | DT/CHI | IR | — | — |
 | Keyshaun Elliott | LB/CHI | Out | — | — |
 | Kyle Monangai | RB/CHI | Out | — | Bears running back Kyle Monangai said Monday that he's "on track" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe. ([link](https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday)) |
+| Kyler Gordon | DB/CHI | Questionable | — | — |
 | Luther Burden III | WR/CHI | Questionable | — | — |
 | Malik Muhammad II | CB/CHI | Out | — | — |
 | Nephi Sewell | LB/CHI | IR | — | — |
@@ -1955,7 +1944,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jayden Reed | WR/GB | IR | — | The Packers are expected to place Reed (neck) on injured reserve Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-reed-16977)) |
 | Johnathan Baldwin II | DB/GB | IR | — | — |
 | Jonathan Ford | DL/GB | IR | — | — |
-| Josh Jacobs | RB/GB | Out | — | Jacobs underwent surgery on his fractured right ring finger Friday and "should be back in the next few weeks," Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) |
+| Josh Jacobs | RB/GB | Out | — | Jacobs (finger) has a "realistic chance" of returning to action Nov. 25 against the Rams following the Packers' Week 11 bye, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) |
 | Josh Whyle | TE/GB | IR | — | — |
 | Kevin Zeitler | OG/GB | Out | — | — |
 | Luke Musgrave | TE/GB | PUP | — | — |
@@ -1968,11 +1957,11 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Zach Bako-Bewele | OL/GB | IR | — | — |
 | Zaire Franklin | LB/GB | Out | — | — |
 | Ali Gaye | DE/HOU | IR | — | — |
-| Azeez Al-Shaair | LB/HOU | Out | — | — |
+| Azeez Al-Shaair | LB/HOU | IR | — | — |
 | Brevin Jordan | TE/HOU | Out | — | — |
 | British Brooks | RB/HOU | IR | — | — |
 | Danielle Hunter | DE/HOU | Out | — | — |
-| David Montgomery | RB/HOU | Out | — | Montgomery (groin) has been downgraded from questionable to out for Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
+| David Montgomery | RB/HOU | Out | — | Montgomery (groin) is slated to practice Tuesday, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) |
 | Dylan Horton | DL/HOU | IR | — | — |
 | E.J. Speed | LB/HOU | PUP | — | — |
 | Graham Mertz | QB/HOU | IR | — | — |
@@ -2187,7 +2176,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Josh Sills | OL/NYG | Out | — | — |
 | Korie Black | CB/NYG | IR | — | — |
 | Malik Harrison | LB/NYG | Out | — | — |
-| Nikko Reed | DB/NYG | Out | — | — |
 | Paulson Adebo | CB/NYG | Out | — | — |
 | Roy Robertson-Harris | DE/NYG | IR | — | — |
 | Thaddeus Dixon | CB/NYG | IR | — | — |
@@ -2245,7 +2233,6 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Avery Smith | CB/SEA | Out | — | — |
 | Bud Clark | DB/SEA | IR | — | — |
 | Charles Cross | OL/SEA | Out | — | — |
-| Deven Eastern | DT/SEA | Out | — | — |
 | Elijah Arroyo | TE/SEA | IR | — | — |
 | Emanuel Wilson | RB/SEA | Out | — | Wilson rushed 24 times for 100 yards and a touchdown while catching his lone target for 15 yards in Sunday's 20-3 win over the Chiefs. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) |
 | George Holani | RB/SEA | Out | — | Holani rushed 12 times for 42 yards in the Seahawks' 17-7 preseason loss to the Cowboys on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-holani-17968)) |
@@ -2284,7 +2271,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Tatum Bethune | LB/SF | Out | — | — |
 | Antoine Winfield Jr. | DB/TB | Questionable | — | — |
 | Ayden Garnes | DB/TB | Out | — | — |
-| Baker Mayfield | QB/TB | Questionable | — | Mayfield (right thumb) practiced fully Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) |
+| Baker Mayfield | QB/TB | Questionable | — | The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) |
 | Billy Schrauth | G/TB | Out | — | — |
 | Christian Rozeboom | LB/TB | IR | — | — |
 | DeMonte Capehart | DT/TB | Out | — | — |
@@ -2318,7 +2305,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Daron Payne | DT/WAS | IR | — | — |
 | Dyami Brown | WR/WAS | IR | — | — |
 | Isaac Yiadom | CB/WAS | Out | — | — |
-| Jacory Croskey-Merritt | RB/WAS | IR | — | Coach Dan Quinn said Monday that while the 21-day practice window for Croskey-Merritt (groin) hasn't been opened yet, he notes that the running back is "trending in the right direction," Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) |
+| Jacory Croskey-Merritt | RB/WAS | IR | — | The Commanders designated Croskey-Merritt (groin) for return from injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) |
 | Javon Kinlaw | DT/WAS | IR | — | — |
 | Javontae Jean-Baptiste | DL/WAS | IR | — | — |
 | Jaylin Lane | WR/WAS | IR | — | — |
