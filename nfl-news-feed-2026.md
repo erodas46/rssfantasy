@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-16 20:42 UTC_ · 1236 items total · 1225/1236 matched to a player
+_Last updated: 2026-11-17 00:32 UTC_ · 1244 items total · 1233/1244 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,14 @@ _Last updated: 2026-11-16 20:42 UTC_ · 1236 items total · 1225/1236 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | Tommy DeVito | QB/NE | INJURY | — | If the QB doesn't return in 2026, New England faces an uphill battle against some of the NFL's best teams. ([link](https://www.espn.com/nfl/story/_/id/50503981/drake-maye-ankle-injury-patriots-tommy-devito-stats)) | ESPN |
+| 2026-11-16 | Sam Darnold | QB/SEA | ROLE/DEPTH CHART | — | Seahawks coach Mike Macdonald is "optimistic" QB Sam Darnold will return to his starting role after the team's bye week. ([link](https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week)) | ESPN |
+| 2026-11-16 | Kyle Monangai | RB/CHI | INJURY | — | Bears running back Kyle Monangai said Monday that he's "on track" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe. ([link](https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday)) | ESPN |
+| 2026-11-16 | Michael Pittman | WR/PIT | INJURY | — | Could Mike McCarthy said Monday that the Steelers are 'hopeful' they can get Pittman -- who last played in Week 4 -- back from his foot injury this week, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
+| 2026-11-16 | Brock Bowers | TE/LV | INJURY | — | Raiders head coach Klint Kubiak confirmed Monday that Bowers (ankle) is considered day-to-day after exiting Sunday's 21-13 loss to the Seahawks, Sam Warren of The Athletic reports. "It's not as bad as we thought, but still a significant injury," Kubiak said. Visit RotoWire.com... ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-11-16 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said Monday that the 49ers are "hoping to" have Evans (Achilles) back at practice this week, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-11-16 | Aidan Hutchinson | DL/DET | INJURY | — | Tests have confirmed that Hutchinson suffered a torn ACL in his right knee during Sunday's win against the Patriots in Munich, but there's no other significant damage in the knee, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aidan-hutchinson-15832)) | Rotowire |
+| 2026-11-16 | Kyle Monangai | RB/CHI | NEWS | — | Monangai (thumb/toe) said Monday that he's "on track" to return to action Sunday against the Saints, Courtney Cronin of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
 | 2026-11-16 | Josh Downs | WR/IND | INJURY | — | Which players saw ample fantasy football opportunities in Week 10, and which were limited? ([link](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)) | ESPN |
 | 2026-11-16 | Drake Maye | QB/NE | TRANSACTION | — | Eric Karabell lists the top available options to replace Drake Maye and more. ([link](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50500480/fantasy-football-waivers-free-agent-pickups-nfl-week-11)) | ESPN |
 | 2026-11-16 | Tyler Booker | OL/DAL | INJURY | — | The Cowboys are looking at multiple week absences for right guard Tyler Booker and cornerback DaRon Bland because of high ankle sprains, sources told ESPN. ([link](https://www.espn.com/nfl/story/_/id/50502772/sources-cowboys-rg-booker-cb-bland-high-ankle-sprains)) | ESPN |
@@ -107,21 +115,6 @@ _Last updated: 2026-11-16 20:42 UTC_ · 1236 items total · 1225/1236 matched to
 | 2026-11-10 | Justin Herbert | QB/LAC | INJURY | — | Chargers head coach Jim Harbaugh said that Herbert "should be good to go" for Monday's game at Baltimore after imaging on the quarterback's injured left middle finger returned negative for a fracture, ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-herbert-14446)) | Rotowire |
 | 2026-11-10 | Mike Evans | WR/SF | NEWS | — | Evans (Achilles) isn't expected to be ready to play Sunday at Dallas, though the 49ers will continue to evaluate his status throughout the week, Brooke Evans of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
 | 2026-11-10 | MarShawn Lloyd | RB/GB | ROLE/DEPTH CHART | — | Johnson could serve as the Packers' lead option on the ground in Sunday's game against the Vikings with Josh Jacobs (finger) expected to miss multiple weeks and with the status of MarShawn Lloyd (knee) uncertain, Matt Schneidman of The Athletic reports. Visit RotoWire.com for... ([link](https://www.rotowire.com//football/player/kaleb-johnson-18515)) | Rotowire |
-| 2026-11-09 | Justin Jefferson | WR/MIN | NEWS | — | Jefferson brought in three of 11 targets for 58 yards in the Vikings' 23-6 loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/justin-jefferson-14509)) | Rotowire |
-| 2026-11-09 | DJ Moore | WR/BUF | NEWS | — | Moore secured three of five targets for 25 yards and rushed once for 11 yards in the Bills' 23-6 win over the Vikings on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) | Rotowire |
-| 2026-11-09 | Dalton Kincaid | TE/BUF | NEWS | — | Kincaid secured all three targets for 28 yards in the Bills' 23-6 win over the Vikings on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
-| 2026-11-09 | Carson Wentz | QB/MIN | NEWS | — | Wentz completed eight of 25 passes for 81 yards with no touchdowns and two interceptions and rushed once for no gain in the Vikings' 23-6 loss to the Bills on Monday night. He also lost a fumble. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-wentz-10856)) | Rotowire |
-| 2026-11-09 | Jordan Mason | RB/MIN | NEWS | — | Mason rushed six times for 35 yards and brought in two of three targets for seven yards in the Vikings' 23-6 loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jordan-mason-16163)) | Rotowire |
-| 2026-11-09 | Ladd McConkey | WR/LAC | NEWS | — | Chargers coach Jim Harbaugh noted Monday that McConkey is viewed as "day to day" with back spasms, Alex Insdorf of BoltBeat.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
-| 2026-11-09 | J.J. McCarthy | QB/MIN | INJURY | — | McCarthy (hip) is listed as limited on Monday's practice estimate, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jj-mccarthy-17689)) | Rotowire |
-| 2026-11-09 | Sam Darnold | QB/SEA | NEWS | — | Darnold (quadriceps), who won't play this coming Sunday at Las Vegas, is expected to return in Week 12 at San Francisco on Sunday, Nov. 29 after a Week 11 bye, Gregg Bell of Sports Radio 93.3 KJR Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
-| 2026-11-09 | George Pickens | WR/DAL | INJURY | — | Pickens (hamstring) has a chance to play Sunday against San Francisco, but his practice reps will likely again be capped this week, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-pickens-15853)) | Rotowire |
-| 2026-11-09 | Carson Beck | QB/ARI | NEWS | — | Beck is expected to start Sunday's contest against the Rams, Josh Weinfuss of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carson-beck-19287)) | Rotowire |
-| 2026-11-09 | Jonathon Brooks | RB/CAR | NEWS | — | Coach Dave Canales said Monday that the Panthers will spend the next two days discussing the status of Brooks (core), Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
-| 2026-11-09 | Bucky Irving | RB/TB | ROLE/DEPTH CHART | — | Head coach Todd Bowles said Monday that the Buccaneers "will try and lessen the load" on Irving following their Week 10 bye, Rick Stroud of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bucky-irving-17784)) | Rotowire |
-| 2026-11-09 | Josh Jacobs | RB/GB | INJURY | — | Jacobs is in line to undergo surgery on his injured finger this week and is expected to miss a maximum of three weeks, according to Matt Zenitz of CBS Sports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
-| 2026-11-09 | Jacoby Brissett | QB/ARI | ROLE/DEPTH CHART | — | Ahead of Week 10, Ravens head coach Jesse Minter noted "I expect (Brissett) to be our starter" next Monday, Jeff Zrebiec of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacoby-brissett-10919)) | Rotowire |
-| 2026-11-09 | David Montgomery | RB/HOU | NEWS | — | Coach DeMeco Ryans said Monday he's hopeful that Montgomery (groin) could resume practicing this week, or next week, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
 
 ---
 
@@ -129,6 +122,14 @@ _Last updated: 2026-11-16 20:42 UTC_ · 1236 items total · 1225/1236 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-16 | Tommy DeVito | QB/NE | INJURY | — | If the QB doesn't return in 2026, New England faces an uphill battle against some of the NFL's best teams. ([link](https://www.espn.com/nfl/story/_/id/50503981/drake-maye-ankle-injury-patriots-tommy-devito-stats)) | ESPN |
+| 2026-11-16 | Sam Darnold | QB/SEA | ROLE/DEPTH CHART | — | Seahawks coach Mike Macdonald is "optimistic" QB Sam Darnold will return to his starting role after the team's bye week. ([link](https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week)) | ESPN |
+| 2026-11-16 | Kyle Monangai | RB/CHI | INJURY | — | Bears running back Kyle Monangai said Monday that he's "on track" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe. ([link](https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday)) | ESPN |
+| 2026-11-16 | Michael Pittman | WR/PIT | INJURY | — | Could Mike McCarthy said Monday that the Steelers are 'hopeful' they can get Pittman -- who last played in Week 4 -- back from his foot injury this week, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/michael-pittman-14378)) | Rotowire |
+| 2026-11-16 | Brock Bowers | TE/LV | INJURY | — | Raiders head coach Klint Kubiak confirmed Monday that Bowers (ankle) is considered day-to-day after exiting Sunday's 21-13 loss to the Seahawks, Sam Warren of The Athletic reports. "It's not as bad as we thought, but still a significant injury," Kubiak said. Visit RotoWire.com... ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) | Rotowire |
+| 2026-11-16 | Mike Evans | WR/SF | NEWS | — | Head coach Kyle Shanahan said Monday that the 49ers are "hoping to" have Evans (Achilles) back at practice this week, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) | Rotowire |
+| 2026-11-16 | Aidan Hutchinson | DL/DET | INJURY | — | Tests have confirmed that Hutchinson suffered a torn ACL in his right knee during Sunday's win against the Patriots in Munich, but there's no other significant damage in the knee, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aidan-hutchinson-15832)) | Rotowire |
+| 2026-11-16 | Kyle Monangai | RB/CHI | NEWS | — | Monangai (thumb/toe) said Monday that he's "on track" to return to action Sunday against the Saints, Courtney Cronin of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) | Rotowire |
 | 2026-11-16 | Josh Downs | WR/IND | INJURY | — | Which players saw ample fantasy football opportunities in Week 10, and which were limited? ([link](https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis)) | ESPN |
 | 2026-11-16 | Drake Maye | QB/NE | TRANSACTION | — | Eric Karabell lists the top available options to replace Drake Maye and more. ([link](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50500480/fantasy-football-waivers-free-agent-pickups-nfl-week-11)) | ESPN |
 | 2026-11-16 | Tyler Booker | OL/DAL | INJURY | — | The Cowboys are looking at multiple week absences for right guard Tyler Booker and cornerback DaRon Bland because of high ankle sprains, sources told ESPN. ([link](https://www.espn.com/nfl/story/_/id/50502772/sources-cowboys-rg-booker-cb-bland-high-ankle-sprains)) | ESPN |
@@ -317,21 +318,21 @@ _Last updated: 2026-11-16 20:42 UTC_ · 1236 items total · 1225/1236 matched to
 | 2026-11-03 | Chris Rodriguez | RB/JAX | INJURY | — | Rodriguez (hand) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chris-rodriguez-16933)) | Rotowire |
 | 2026-11-03 | Jakobi Meyers | WR/JAX | INJURY | — | Meyers (hamstring/ankle) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jakobi-meyers-13517)) | Rotowire |
 | 2026-11-03 | Hunter Henry | TE/NE | NEWS | — | Patriots head coach Mike Vrabel said Monday that he had no update on Henry's (foot) status heading into Sunday's game against the Packers, Karen Guregian of MassLive.com reports. "I don't have any expectations yet," Vrabel said of Henry. "It's kind of how he responds here. He... ([link](https://www.rotowire.com//football/player/hunter-henry-10735)) | Rotowire |
-| 2026-11-02 | Rome Odunze | WR/CHI | NEWS | — | Odunze brought in four of six targets for 87 yards in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
-| 2026-11-02 | Caleb Williams | QB/CHI | NEWS | — | Williams completed 24 of 34 passes for 247 yards with one touchdown and no interceptions and rushed twice for one yard in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
-| 2026-11-02 | Jadarian Price | RB/SEA | NEWS | — | Price rushed 10 times for 29 yards and brought in two of four targets for eight yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
-| 2026-11-02 | Zach Charbonnet | RB/SEA | NEWS | — | Charbonnet (knee) rushed six times for 23 yards and brought in three of four targets for six yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zach-charbonnet-16897)) | Rotowire |
-| 2026-11-02 | Sam Darnold | QB/SEA | NEWS | — | Darnold completed 17 of 34 passes for 188 yards with two touchdowns and one interception while adding two rushes for 20 yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
-| 2026-11-02 | Kendrick Bourne | WR/ARI | NEWS | — | Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
-| 2026-11-02 | Kendrick Bourne | WR/ARI | INJURY | 🔥 Schefter | Bourne suffered a fractured right tibia during Sunday's overtime win at Dallas that won't require surgery but will sideline him for three months, ending his 2026 season, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
-| 2026-11-02 | Zach Charbonnet | RB/SEA | NEWS | — | Wilson is welcoming back Zach Charbonnet (knee) and Jadarian Price (chest) to the Seahawks backfield for Monday's game against the Bears, John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
-| 2026-11-02 | Matthew Stafford | QB/LAR | INJURY | — | Stafford left the locker room after Sunday's 24-9 win over the Charger with a bag of ice wrapped to his right arm, and Rams coach Sean McVay acknowledged Monday that the quarterback has been dealing with some arm soreness, Adam Grosbard of The Orange County Register reports.... ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
-| 2026-11-02 | Jake Ferguson | TE/DAL | NEWS | — | Head coach Brian Schottenheimer said Monday that Ferguson (ankle) has a chance to play Sunday at Indianapolis, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
-| 2026-11-02 | Josh Jacobs | RB/GB | NEWS | — | Head coach Matt LaFleur said Monday that the Packers are aware of the prior physical abuse allegations involving Jacobs that recently surfaced and "anticipate him being a member" of the team moving forward, Ryan Wood of USA Today reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
-| 2026-11-02 | Kyler Murray | QB/MIN | INJURY | — | Murray (hamstring), who is dealing with a sore hamstring, is undergoing a full evaluation to determine the extent of the issue, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
-| 2026-11-02 | Brandon Aiyuk | WR/SF | NEWS | — | Aiyuk is close to hiring new representation and is expected to file for reinstatement to the NFL in the near future, according to NFL reporter Jordan Schultz. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brandon-aiyuk-14386)) | Rotowire |
-| 2026-11-02 | Cam Skattebo | RB/NYG | INJURY | — | Skattebo (hamstring) was spotted working out off to the side during the Giants' unofficial practice session Monday, Jordan Raanan of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
-| 2026-11-02 | Christian Watson | WR/GB | INJURY | — | Packers passing game coordinator Jason Vrable said Monday that Watson (ribs) is sore but "doing great" Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-watson-15946)) | Rotowire |
+| 2026-11-02 | Rome Odunze | WR/CHI | NEWS ⚠️STALE | — | Odunze brought in four of six targets for 87 yards in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rome-odunze-17020)) | Rotowire |
+| 2026-11-02 | Caleb Williams | QB/CHI | NEWS ⚠️STALE | — | Williams completed 24 of 34 passes for 247 yards with one touchdown and no interceptions and rushed twice for one yard in the Bears' 34-17 win over the Seahawks on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/caleb-williams-17695)) | Rotowire |
+| 2026-11-02 | Jadarian Price | RB/SEA | NEWS ⚠️STALE | — | Price rushed 10 times for 29 yards and brought in two of four targets for eight yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jadarian-price-19299)) | Rotowire |
+| 2026-11-02 | Zach Charbonnet | RB/SEA | NEWS ⚠️STALE | — | Charbonnet (knee) rushed six times for 23 yards and brought in three of four targets for six yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/zach-charbonnet-16897)) | Rotowire |
+| 2026-11-02 | Sam Darnold | QB/SEA | NEWS ⚠️STALE | — | Darnold completed 17 of 34 passes for 188 yards with two touchdowns and one interception while adding two rushes for 20 yards in the Seahawks' 34-17 loss to the Bears on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
+| 2026-11-02 | Kendrick Bourne | WR/ARI | NEWS ⚠️STALE | — | Bourne (ankle) is expected to miss the remainder of the season, Jonathan Jones of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
+| 2026-11-02 | Kendrick Bourne | WR/ARI | INJURY ⚠️STALE | 🔥 Schefter | Bourne suffered a fractured right tibia during Sunday's overtime win at Dallas that won't require surgery but will sideline him for three months, ending his 2026 season, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kendrick-bourne-11847)) | Rotowire |
+| 2026-11-02 | Zach Charbonnet | RB/SEA | NEWS ⚠️STALE | — | Wilson is welcoming back Zach Charbonnet (knee) and Jadarian Price (chest) to the Seahawks backfield for Monday's game against the Bears, John Boyle of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) | Rotowire |
+| 2026-11-02 | Matthew Stafford | QB/LAR | INJURY ⚠️STALE | — | Stafford left the locker room after Sunday's 24-9 win over the Charger with a bag of ice wrapped to his right arm, and Rams coach Sean McVay acknowledged Monday that the quarterback has been dealing with some arm soreness, Adam Grosbard of The Orange County Register reports.... ([link](https://www.rotowire.com//football/player/matthew-stafford-5971)) | Rotowire |
+| 2026-11-02 | Jake Ferguson | TE/DAL | NEWS ⚠️STALE | — | Head coach Brian Schottenheimer said Monday that Ferguson (ankle) has a chance to play Sunday at Indianapolis, Jon Machota of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
+| 2026-11-02 | Josh Jacobs | RB/GB | NEWS ⚠️STALE | — | Head coach Matt LaFleur said Monday that the Packers are aware of the prior physical abuse allegations involving Jacobs that recently surfaced and "anticipate him being a member" of the team moving forward, Ryan Wood of USA Today reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
+| 2026-11-02 | Kyler Murray | QB/MIN | INJURY ⚠️STALE | — | Murray (hamstring), who is dealing with a sore hamstring, is undergoing a full evaluation to determine the extent of the issue, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyler-murray-13613)) | Rotowire |
+| 2026-11-02 | Brandon Aiyuk | WR/SF | NEWS ⚠️STALE | — | Aiyuk is close to hiring new representation and is expected to file for reinstatement to the NFL in the near future, according to NFL reporter Jordan Schultz. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brandon-aiyuk-14386)) | Rotowire |
+| 2026-11-02 | Cam Skattebo | RB/NYG | INJURY ⚠️STALE | — | Skattebo (hamstring) was spotted working out off to the side during the Giants' unofficial practice session Monday, Jordan Raanan of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/cam-skattebo-18514)) | Rotowire |
+| 2026-11-02 | Christian Watson | WR/GB | INJURY ⚠️STALE | — | Packers passing game coordinator Jason Vrable said Monday that Watson (ribs) is sore but "doing great" Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/christian-watson-15946)) | Rotowire |
 | 2026-11-01 | Jayden Daniels | QB/WAS | NEWS ⚠️STALE | — | Daniels completed 16 of 29 passes for 217 yards and a touchdown while rushing twice for 23 yards in Sunday's 27-10 win over the Eagles. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jayden-daniels-17692)) | Rotowire |
 | 2026-11-01 | Stefon Diggs | WR/ | NEWS ⚠️STALE | — | Diggs caught three of six targets for 38 yards and a touchdown in Sunday's 19-10 win over the Eagles. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/stefon-diggs-10133)) | Rotowire |
 | 2026-11-01 | Rachaad White | RB/WAS | NEWS ⚠️STALE | — | White rushed 11 times for 55 yards and a touchdown while catching two of three targets for five yards in Sunday's 27-10 win over the Eagles. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
@@ -1376,41 +1377,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Quentin Johnston | WR/LAC | 283115 |
-| Justice Hill | RB/BAL | 222957 |
-| Jordyn Tyson | WR/NO | 213240 |
-| Seth McGowan | RB/IND | 204040 |
-| Xavier Hutchinson | WR/HOU | 190638 |
-| Michael Mayer | TE/LV | 174114 |
-| Ryan Flournoy | WR/DAL | 139952 |
-| Emmett Johnson | RB/KC | 131589 |
-| Fernando Mendoza | QB/LV | 114056 |
-| Pat Bryant | WR/DEN | 82680 |
-| Kaelon Black | RB/SF | 80409 |
-| Deshaun Watson | QB/CLE | 79360 |
-| Gavin Bartholomew | TE/MIN | 71244 |
-| Caleb Douglas | WR/MIA | 63416 |
-| C.J. Stroud | QB/HOU | 56007 |
+| Quentin Johnston | WR/LAC | 240611 |
+| Seth McGowan | RB/IND | 207992 |
+| Jordyn Tyson | WR/NO | 202520 |
+| Xavier Hutchinson | WR/HOU | 199556 |
+| Justice Hill | RB/BAL | 186471 |
+| Michael Mayer | TE/LV | 184473 |
+| Ryan Flournoy | WR/DAL | 143520 |
+| Emmett Johnson | RB/KC | 107451 |
+| Pat Bryant | WR/DEN | 86984 |
+| Kaelon Black | RB/SF | 78225 |
+| Deshaun Watson | QB/CLE | 75176 |
+| Gavin Bartholomew | TE/MIN | 65880 |
+| Caleb Douglas | WR/MIA | 61984 |
+| C.J. Stroud | QB/HOU | 53970 |
+| Tampa Bay Buccaneers | DEF/TB | 51215 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Corey Kiner | RB/NE | 160014 |
-| Devin Singletary | RB/NYG | 139482 |
-| Omar Cooper Jr. | WR/NYJ | 107416 |
-| Chris Rodriguez Jr. | RB/JAX | 91035 |
-| Darren Waller | TE/CAR | 75906 |
-| Tutu Atwell | WR/LAR | 72877 |
-| Audric Estime | RB/NO | 72759 |
-| Tre Tucker | WR/LV | 68448 |
-| Devaughn Vele | WR/NO | 68061 |
-| Xavier Worthy | WR/KC | 65781 |
-| Demarcus Robinson | WR/SF | 65412 |
-| Tank Dell | WR/HOU | 64440 |
-| Ladd McConkey | WR/LAC | 60345 |
-| Jordan Addison | WR/MIN | 58383 |
-| Chimere Dike | WR/TEN | 56736 |
+| Corey Kiner | RB/NE | 153408 |
+| Devin Singletary | RB/NYG | 133101 |
+| Omar Cooper Jr. | WR/NYJ | 94752 |
+| Chris Rodriguez Jr. | RB/JAX | 78246 |
+| Tutu Atwell | WR/LAR | 76202 |
+| Darren Waller | TE/CAR | 70290 |
+| Jordan Addison | WR/MIN | 68283 |
+| Demarcus Robinson | WR/SF | 64980 |
+| Audric Estime | RB/NO | 64287 |
+| Tre Tucker | WR/LV | 64176 |
+| Devaughn Vele | WR/NO | 62062 |
+| Tank Dell | WR/HOU | 58712 |
+| Xavier Worthy | WR/KC | 57168 |
+| Chimere Dike | WR/TEN | 50121 |
+| Tyler Allgeier | RB/ARI | 44965 |
 
 
 ---
@@ -1421,12 +1422,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Aidan Hutchinson | DL/DET | Questionable | Out |
-| Tyler Booker | OL/DAL | Questionable | Out |
-| Asim Richards | OL/NO | Questionable | Out |
-| J.R. Reed | DB/FA | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1528,7 +1524,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jayden Loving | DT/CHI | Out | — | — |
 | Kentavius Street | DT/CHI | IR | — | — |
 | Keyshaun Elliott | LB/CHI | Out | — | — |
-| Kyle Monangai | RB/CHI | Out | — | Monangai (toe/thumb) was spotted working out during Monday's unofficial practice and is eyeing a return to action Sunday against the Saints, Chris Emma of 104-3 The Score Chicago reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/kyle-monangai-18520)) |
+| Kyle Monangai | RB/CHI | Out | — | Bears running back Kyle Monangai said Monday that he's "on track" to return Sunday against the Saints after sitting out five games because of a thumb injury and turf toe. ([link](https://www.espn.com/nfl/story/_/id/50505407/bears-rb-kyle-monangai-says-track-return-sunday)) |
 | Luther Burden III | WR/CHI | Questionable | — | — |
 | Malik Muhammad II | CB/CHI | Out | — | — |
 | Nephi Sewell | LB/CHI | IR | — | — |
@@ -1606,7 +1602,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Talanoa Hufanga | DB/DEN | Out | — | — |
 | Tyler Badie | RB/DEN | IR | — | — |
 | Ahmed Hassanein | DE/DET | Out | — | — |
-| Aidan Hutchinson | DL/DET | Out | — | Lions star Aidan Hutchinson is out for the season with what initial tests showed to be a torn ACL in his right knee, sources told NFL Network. ([link](https://www.espn.com/nfl/story/_/id/50501291/sources-aidan-hutchinson-season-torn-acl)) |
+| Aidan Hutchinson | DL/DET | Out | — | Tests have confirmed that Hutchinson suffered a torn ACL in his right knee during Sunday's win against the Patriots in Munich, but there's no other significant damage in the knee, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aidan-hutchinson-15832)) |
 | Amen Ogbongbemiga | LB/DET | Out | — | — |
 | Avonte Maddox | CB/DET | IR | — | — |
 | Ben Bartch | OL/DET | IR | — | — |
@@ -2048,7 +2044,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Terrance Ferguson | TE/LAR | IR | — | Ferguson (ankle) was expected to return for Sunday's game against Washington, but he's been ruled out after injuring his hamstring during Friday's practice, Cameron DaSilva of USA Today reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terrance-ferguson-18497)) |
 | Ty Simpson | QB/LAR | Out | — | Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ty-simpson-19275)) |
 | Brennan Jackson | DE/LV | IR | — | — |
-| Brock Bowers | TE/LV | Out | — | Brock Bowers missed the entire second half of the Raiders' loss to the Seahawks with an ankle injury, but it is not believed to major in its severity, a source told NFL Network's Ian Rapoport. ([link](https://www.espn.com/nfl/story/_/id/50501232/raiders-te-brock-bowers-avoids-major-ankle-injury-source-says)) |
+| Brock Bowers | TE/LV | Out | — | Raiders head coach Klint Kubiak confirmed Monday that Bowers (ankle) is considered day-to-day after exiting Sunday's 21-13 loss to the Seahawks, Sam Warren of The Athletic reports. "It's not as bad as we thought, but still a significant injury," Kubiak said. Visit RotoWire.com... ([link](https://www.rotowire.com//football/player/brock-bowers-17693)) |
 | Bryce Cabeldue | OT/LV | Out | — | — |
 | Chigozie Anusiem | CB/LV | IR | — | — |
 | Chris Collier | RB/LV | Questionable | — | — |
@@ -2216,7 +2212,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Mason Richman | OL/SEA | IR | — | — |
 | Quenton Nelson | OL/SEA | Out | — | — |
 | Robbie Ouzts | RB/SEA | IR | — | — |
-| Sam Darnold | QB/SEA | Out | — | Darnold (quadriceps), who won't play this coming Sunday at Las Vegas, is expected to return in Week 12 at San Francisco on Sunday, Nov. 29 after a Week 11 bye, Gregg Bell of Sports Radio 93.3 KJR Seattle reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) |
+| Sam Darnold | QB/SEA | Out | — | Seahawks coach Mike Macdonald is "optimistic" QB Sam Darnold will return to his starting role after the team's bye week. ([link](https://www.espn.com/nfl/story/_/id/50504531/seahawks-macdonald-optimisitic-qb-darnold-plays-bye-week)) |
 | Terrion Arnold | DB/SEA | NA | — | — |
 | Alfred Collins | DL/SF | IR | — | — |
 | Andrew Farmer II | LB/SF | IR | — | — |
@@ -2233,7 +2229,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Jake Tonges | TE/SF | IR | — | — |
 | Kurtis Rourke | QB/SF | Out | — | — |
 | Mikail Kamara | DE/SF | IR | — | — |
-| Mike Evans | WR/SF | Out | — | Evans (Achilles) has been ruled out for Sunday's game at Dallas, Nick Wagoner of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
+| Mike Evans | WR/SF | Out | — | Head coach Kyle Shanahan said Monday that the 49ers are "hoping to" have Evans (Achilles) back at practice this week, Nick Wagoner of ESPN.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-evans-9253)) |
 | Nate Hobbs | CB/SF | IR | — | — |
 | Nick Martin | LB/SF | IR | — | — |
 | Nick Zakelj | OL/SF | IR | — | — |
