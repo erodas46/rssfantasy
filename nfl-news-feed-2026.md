@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-17 19:26 UTC_ · 1254 items total · 1243/1254 matched to a player
+_Last updated: 2026-11-17 23:41 UTC_ · 1259 items total · 1248/1259 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-17 19:26 UTC_ · 1254 items total · 1243/1254 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | Wan'Dale Robinson | WR/TEN | INJURY | — | The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) | Rotowire |
+| 2026-11-17 | Woody Marks | RB/HOU | INJURY | — | Marks (concussion) didn't practice Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-17 | Marvin Harrison | WR/ARI | INJURY | — | Harrison (hamstring) was a non-participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-11-17 | Baker Mayfield | QB/TB | NEWS | — | Daniels "seems to be trending" toward drawing the start at quarterback for the Buccaneers on Sunday in Detroit while Baker Mayfield tends to a foot strain, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalon-daniels-19292)) | Rotowire |
+| 2026-11-17 | Baker Mayfield | QB/TB | NEWS | — | Mayfield (foot) "seems to be trending" toward sitting out Sunday's game against the Lions, with Jalon Daniels likely to draw the Week 11 start, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-11-17 | Baker Mayfield | QB/TB | TRANSACTION | — | The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-11-17 | Josh Jacobs | RB/GB | NEWS | — | Jacobs (finger) has a "realistic chance" of returning to action Nov. 25 against the Rams following the Packers' Week 11 bye, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-11-17 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) is slated to practice Tuesday, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
@@ -132,6 +137,11 @@ _Last updated: 2026-11-17 19:26 UTC_ · 1254 items total · 1243/1254 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-17 | Wan'Dale Robinson | WR/TEN | INJURY | — | The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) | Rotowire |
+| 2026-11-17 | Woody Marks | RB/HOU | INJURY | — | Marks (concussion) didn't practice Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) | Rotowire |
+| 2026-11-17 | Marvin Harrison | WR/ARI | INJURY | — | Harrison (hamstring) was a non-participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/marvin-harrison-17674)) | Rotowire |
+| 2026-11-17 | Baker Mayfield | QB/TB | NEWS | — | Daniels "seems to be trending" toward drawing the start at quarterback for the Buccaneers on Sunday in Detroit while Baker Mayfield tends to a foot strain, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalon-daniels-19292)) | Rotowire |
+| 2026-11-17 | Baker Mayfield | QB/TB | NEWS | — | Mayfield (foot) "seems to be trending" toward sitting out Sunday's game against the Lions, with Jalon Daniels likely to draw the Week 11 start, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-11-17 | Baker Mayfield | QB/TB | TRANSACTION | — | The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-11-17 | Josh Jacobs | RB/GB | NEWS | — | Jacobs (finger) has a "realistic chance" of returning to action Nov. 25 against the Rams following the Packers' Week 11 bye, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/josh-jacobs-13582)) | Rotowire |
 | 2026-11-17 | David Montgomery | RB/HOU | NEWS | — | Montgomery (groin) is slated to practice Tuesday, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/david-montgomery-13556)) | Rotowire |
@@ -1397,41 +1407,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 1095345 |
-| Xavier Hutchinson | WR/HOU | 913241 |
-| Seth McGowan | RB/IND | 572744 |
-| Ryan Flournoy | WR/DAL | 565144 |
-| Mark Andrews | TE/BAL | 521199 |
-| Jordyn Tyson | WR/NO | 517552 |
-| Pat Bryant | WR/DEN | 504304 |
-| Detroit Lions | DEF/DET | 456138 |
-| Chase McLaughlin | K/TB | 244640 |
-| Bo Nix | QB/DEN | 244074 |
-| Elic Ayomanor | WR/TEN | 217296 |
-| Cairo Santos | K/CHI | 204841 |
-| Kaelon Black | RB/SF | 191233 |
-| Jacory Croskey-Merritt | RB/WAS | 188928 |
-| Justice Hill | RB/BAL | 182799 |
+| Michael Mayer | TE/LV | 1379268 |
+| Xavier Hutchinson | WR/HOU | 1145179 |
+| Ryan Flournoy | WR/DAL | 711424 |
+| Mark Andrews | TE/BAL | 684252 |
+| Seth McGowan | RB/IND | 671128 |
+| Pat Bryant | WR/DEN | 669824 |
+| Jordyn Tyson | WR/NO | 594408 |
+| Detroit Lions | DEF/DET | 571608 |
+| Elic Ayomanor | WR/TEN | 341224 |
+| Bo Nix | QB/DEN | 306528 |
+| Chase McLaughlin | K/TB | 292736 |
+| Jacory Croskey-Merritt | RB/WAS | 277713 |
+| Cairo Santos | K/CHI | 263655 |
+| Kaelon Black | RB/SF | 230664 |
+| Caleb Douglas | WR/MIA | 209000 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Corey Kiner | RB/NE | 541902 |
-| Devin Singletary | RB/NYG | 435645 |
-| Darren Waller | TE/CAR | 258111 |
-| Tutu Atwell | WR/LAR | 245189 |
-| Jordan Addison | WR/MIN | 240786 |
-| Jason Myers | K/SEA | 231305 |
-| Baltimore Ravens | DEF/BAL | 214914 |
-| Omar Cooper Jr. | WR/NYJ | 214336 |
-| Konata Mumpfield | WR/LAR | 212148 |
-| Tyler Higbee | TE/LAR | 202698 |
-| Demarcus Robinson | WR/SF | 192330 |
-| Chris Rodriguez Jr. | RB/JAX | 189945 |
-| Audric Estime | RB/NO | 184242 |
-| Devaughn Vele | WR/NO | 180964 |
-| New England Patriots | DEF/NE | 173355 |
+| Corey Kiner | RB/NE | 639858 |
+| Devin Singletary | RB/NYG | 512649 |
+| Darren Waller | TE/CAR | 303588 |
+| Tutu Atwell | WR/LAR | 290416 |
+| Jason Myers | K/SEA | 274680 |
+| Konata Mumpfield | WR/LAR | 263826 |
+| Baltimore Ravens | DEF/BAL | 259683 |
+| Jordan Addison | WR/MIN | 257148 |
+| Tyler Higbee | TE/LAR | 254493 |
+| Omar Cooper Jr. | WR/NYJ | 242496 |
+| Demarcus Robinson | WR/SF | 230136 |
+| Chris Rodriguez Jr. | RB/JAX | 220023 |
+| Audric Estime | RB/NO | 219663 |
+| Devaughn Vele | WR/NO | 211834 |
+| Indianapolis Colts | DEF/IND | 205518 |
 
 
 ---
@@ -1442,12 +1452,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Azeez Al-Shaair | LB/HOU | Out | IR |
-| Kyler Gordon | DB/CHI | (unlisted) | Questionable |
-| Nikko Reed | DB/NYG | Out | (cleared) |
-| Deven Eastern | DT/SEA | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1977,7 +1982,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Noah Whittington | RB/HOU | Out | — | — |
 | Sam Hagen | OL/HOU | IR | — | — |
 | Solomon Byrd | DE/HOU | IR | — | — |
-| Woody Marks | RB/HOU | Out | — | Marks (concussion) has been downgraded to out for the remainder of Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) |
+| Woody Marks | RB/HOU | Out | — | Marks (concussion) didn't practice Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/woody-marks-18449)) |
 | Wyatt Teller | G/HOU | Out | — | — |
 | Xavier Hutchinson | WR/HOU | Questionable | — | — |
 | Akeem Davis-Gaither | LB/IND | IR | — | — |
@@ -2271,7 +2276,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Tatum Bethune | LB/SF | Out | — | — |
 | Antoine Winfield Jr. | DB/TB | Questionable | — | — |
 | Ayden Garnes | DB/TB | Out | — | — |
-| Baker Mayfield | QB/TB | Questionable | — | The Buccaneers appear to be preparing for the possibility of Mayfield (foot) being sidelined for Sunday's game against the Lions, after the team signed Cooper Rush to the practice squad and signed Easton Stick to the 53-man roster Monday, Rick Stroud of the Tampa Bay Times... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) |
+| Baker Mayfield | QB/TB | Questionable | — | Daniels "seems to be trending" toward drawing the start at quarterback for the Buccaneers on Sunday in Detroit while Baker Mayfield tends to a foot strain, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalon-daniels-19292)) |
 | Billy Schrauth | G/TB | Out | — | — |
 | Christian Rozeboom | LB/TB | IR | — | — |
 | DeMonte Capehart | DT/TB | Out | — | — |
@@ -2298,7 +2303,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Tanoh Kpassagnon | DE/TEN | IR | — | — |
 | Tommy Townsend | P/TEN | IR | — | — |
 | Tony Adams | DB/TEN | Questionable | — | — |
-| Wan'Dale Robinson | WR/TEN | Questionable | — | Robinson (ankle) is questionable to return to Sunday's game against the Jaguars. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) |
+| Wan'Dale Robinson | WR/TEN | Questionable | — | The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) |
 | Athan Kaliakmanis | QB/WAS | Out | — | Kaliakmanis completed 15 of 33 passes for 186 yards and a touchdown with an interception in Sunday's 30-13 loss to the Colts. He added 16 yards on three carries. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/athan-kaliakmanis-19368)) |
 | Chig Okonkwo | TE/WAS | Questionable | — | — |
 | Colson Yankoff | TE/WAS | Out | — | — |
