@@ -199,7 +199,7 @@
     "name": "Nick Herbig",
     "pos": "LB",
     "since": "",
-    "status": "Doubtful",
+    "status": "Questionable",
     "team": "PIT"
   },
   "10941": {
@@ -2869,13 +2869,6 @@
     "status": "NA",
     "team": "FA"
   },
-  "3888": {
-    "name": "Lucas Patrick",
-    "pos": "G",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
-  },
   "4018": {
     "name": "Joe Mixon",
     "pos": "RB",
@@ -2903,6 +2896,13 @@
     "since": "",
     "status": "Questionable",
     "team": "CLE"
+  },
+  "4071": {
+    "name": "Marlon Humphrey",
+    "pos": "CB",
+    "since": "",
+    "status": "Out",
+    "team": "BAL"
   },
   "4077": {
     "name": "Jamal Adams",
@@ -4542,6 +4542,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "7115": {
+    "name": "Charlie Heck",
+    "pos": "T",
+    "since": "",
+    "status": "Questionable",
+    "team": "IND"
+  },
   "7117": {
     "name": "L'Jarius Sneed",
     "pos": "CB",
@@ -4891,13 +4898,6 @@
     "since": "",
     "status": "Questionable",
     "team": "ARI"
-  },
-  "7811": {
-    "name": "Talanoa Hufanga",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "DEN"
   },
   "7813": {
     "name": "Shemar Jean-Charles",
