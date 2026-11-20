@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-20 18:52 UTC_ · 1290 items total · 1279/1290 matched to a player
+_Last updated: 2026-11-20 22:50 UTC_ · 1295 items total · 1284/1295 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-20 18:52 UTC_ · 1290 items total · 1279/1290 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | Isaiah Likely | TE/NYG | NEWS | — | Likely didn't practice Friday due to a strained groin, but he doesn't have a designation for Sunday's game versus the Jaguars, Patricia Traina of SI.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) | Rotowire |
+| 2026-11-20 | Bhayshul Tuten | RB/JAX | INJURY | — | Tuten (ankle/foot) doesn't carry an injury designation for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
+| 2026-11-20 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (back) is listed as questionable for Sunday's game against the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-11-20 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring) told EJ Smith of PHLY Sports on Friday that he "feels better physically" after the team's Week 10 bye, and the running back doesn't have a designation for Sunday's contest against the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-11-20 | Jaylen Waddle | WR/DEN | INJURY | — | Waddle (concussion) doesn't carry an injury designation for Sunday's game against the Raiders after practicing fully this week. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
 | 2026-11-20 | Daniel Jones | QB/IND | TRANSACTION | 🔥 Schefter | Jones will be waived by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/daniel-jones-13491)) | Rotowire |
 | 2026-11-20 | Dalton Kincaid | TE/BUF | INJURY | — | Kincaid (thumb/ankle) is listed as doubtful for Sunday's game against the Dolphins, Matt Parrino reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
 | 2026-11-20 | Anthony Richardson | QB/IND | TRANSACTION | — | Head coach Shane Steichen announced Friday that Richardson will be the Colts' starting quarterback moving forward after the team waived Daniel Jones. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/anthony-richardson-16653)) | Rotowire |
@@ -126,6 +131,11 @@ _Last updated: 2026-11-20 18:52 UTC_ · 1290 items total · 1279/1290 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-20 | Isaiah Likely | TE/NYG | NEWS | — | Likely didn't practice Friday due to a strained groin, but he doesn't have a designation for Sunday's game versus the Jaguars, Patricia Traina of SI.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) | Rotowire |
+| 2026-11-20 | Bhayshul Tuten | RB/JAX | INJURY | — | Tuten (ankle/foot) doesn't carry an injury designation for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) | Rotowire |
+| 2026-11-20 | Ladd McConkey | WR/LAC | INJURY | — | McConkey (back) is listed as questionable for Sunday's game against the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) | Rotowire |
+| 2026-11-20 | Saquon Barkley | RB/PHI | INJURY | — | Barkley (hamstring) told EJ Smith of PHLY Sports on Friday that he "feels better physically" after the team's Week 10 bye, and the running back doesn't have a designation for Sunday's contest against the Steelers. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) | Rotowire |
+| 2026-11-20 | Jaylen Waddle | WR/DEN | INJURY | — | Waddle (concussion) doesn't carry an injury designation for Sunday's game against the Raiders after practicing fully this week. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) | Rotowire |
 | 2026-11-20 | Daniel Jones | QB/IND | TRANSACTION | 🔥 Schefter | Jones will be waived by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/daniel-jones-13491)) | Rotowire |
 | 2026-11-20 | Dalton Kincaid | TE/BUF | INJURY | — | Kincaid (thumb/ankle) is listed as doubtful for Sunday's game against the Dolphins, Matt Parrino reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
 | 2026-11-20 | Anthony Richardson | QB/IND | TRANSACTION | — | Head coach Shane Steichen announced Friday that Richardson will be the Colts' starting quarterback moving forward after the team waived Daniel Jones. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/anthony-richardson-16653)) | Rotowire |
@@ -1427,41 +1437,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Detroit Lions | DEF/DET | 521154 |
-| Chimere Dike | WR/TEN | 439848 |
-| Cairo Santos | K/CHI | 362796 |
-| Xavier Hutchinson | WR/HOU | 268408 |
-| Michael Mayer | TE/LV | 237870 |
-| Chris Rodriguez Jr. | RB/JAX | 209610 |
-| Pat Bryant | WR/DEN | 195800 |
-| Justice Hill | RB/BAL | 194913 |
-| Mark Andrews | TE/BAL | 183546 |
-| Elic Ayomanor | WR/TEN | 178544 |
-| Ryan Flournoy | WR/DAL | 147272 |
-| Seth McGowan | RB/IND | 144512 |
-| Chase McLaughlin | K/TB | 140224 |
-| Bo Nix | QB/DEN | 120978 |
-| Adonai Mitchell | WR/NYJ | 111184 |
+| Detroit Lions | DEF/DET | 446202 |
+| Chimere Dike | WR/TEN | 433503 |
+| Cairo Santos | K/CHI | 320516 |
+| Michael Mayer | TE/LV | 233010 |
+| Justice Hill | RB/BAL | 211248 |
+| Pat Bryant | WR/DEN | 196024 |
+| Xavier Hutchinson | WR/HOU | 186802 |
+| Chris Rodriguez Jr. | RB/JAX | 185400 |
+| Mark Andrews | TE/BAL | 181503 |
+| Elic Ayomanor | WR/TEN | 163480 |
+| Adonai Mitchell | WR/NYJ | 149120 |
+| Ryan Flournoy | WR/DAL | 136160 |
+| Chase McLaughlin | K/TB | 129680 |
+| Bo Nix | QB/DEN | 109692 |
+| Seth McGowan | RB/IND | 103520 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Jason Myers | K/SEA | 238640 |
-| Devin Singletary | RB/NYG | 209574 |
-| New England Patriots | DEF/NE | 203098 |
-| Corey Kiner | RB/NE | 189078 |
-| Matt Gay | K/LV | 134530 |
-| Seth McGowan | RB/IND | 127528 |
-| Tyler Higbee | TE/LAR | 126081 |
-| Konata Mumpfield | WR/LAR | 124281 |
-| Cleveland Browns | DEF/CLE | 123550 |
-| Darren Waller | TE/CAR | 117198 |
-| Devaughn Vele | WR/NO | 114919 |
-| Jordan Addison | WR/MIN | 110997 |
-| Trey Smack | K/GB | 98340 |
-| Xavier Worthy | WR/KC | 97830 |
-| Omar Cooper Jr. | WR/NYJ | 96280 |
+| Jason Myers | K/SEA | 208890 |
+| Devin Singletary | RB/NYG | 190188 |
+| New England Patriots | DEF/NE | 179774 |
+| Corey Kiner | RB/NE | 174780 |
+| Seth McGowan | RB/IND | 141896 |
+| Matt Gay | K/LV | 123325 |
+| Tyler Higbee | TE/LAR | 116469 |
+| Omar Cooper Jr. | WR/NYJ | 114936 |
+| Konata Mumpfield | WR/LAR | 113949 |
+| Darren Waller | TE/CAR | 110421 |
+| Cleveland Browns | DEF/CLE | 108367 |
+| Devaughn Vele | WR/NO | 106099 |
+| Jordan Addison | WR/MIN | 101844 |
+| Puka Nacua | WR/LAR | 91245 |
+| Xavier Worthy | WR/KC | 87102 |
 
 
 ---
@@ -1472,21 +1482,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Trey Zuhn III | OT/LV | (unlisted) | Questionable |
-| Isaiah Likely | TE/NYG | (unlisted) | Questionable |
-| Isaiah Williams | WR/NYJ | Questionable | Out |
-| Bradley Pinion | P/MIA | Questionable | Out |
-| Dorian Williams | LB/BUF | Questionable | Out |
-| Bobby Okereke | LB/CAR | Questionable | Out |
-| Isaiah Simmons | DB/CAR | Questionable | Out |
-| Christian Benford | DB/BUF | Questionable | Out |
-| Dalton Kincaid | TE/BUF | Questionable | Doubtful |
-| Omar Cooper Jr. | WR/NYJ | Questionable | Out |
-| Ian Thomas | TE/LV | (unlisted) | Questionable |
-| Dante Trader Jr. | DB/MIA | Questionable | Doubtful |
-| Pierre Strong Jr. | RB/GB | Out | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -1639,7 +1635,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Duplicate Player | ILB/DEN | COV | — | — |
 | Eyioma Uwazurike | DL/DEN | IR | — | — |
 | Frank Crum | OT/DEN | IR | — | — |
-| Jaylen Waddle | WR/DEN | Questionable | — | Waddle (concussion) was a full participant in Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) |
+| Jaylen Waddle | WR/DEN | Questionable | — | Waddle (concussion) doesn't carry an injury designation for Sunday's game against the Raiders after practicing fully this week. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jaylen-waddle-15404)) |
 | Jonah Elliss | DE/DEN | IR | — | — |
 | Josh Banderas | OLB/DEN | COV | — | — |
 | Levelle Bailey | LB/DEN | IR | — | — |
@@ -2016,7 +2012,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Anton Harrison | OL/JAX | IR | — | — |
 | Antonio Johnson | DB/JAX | Questionable | — | — |
 | B.J. Green II | DE/JAX | IR | — | — |
-| Bhayshul Tuten | RB/JAX | Questionable | — | Tuten (ankle/foot) was working off to the side during the stretching portion of Thursday's practice, according to Ryan O'Halloran of The Florida Times-Union. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) |
+| Bhayshul Tuten | RB/JAX | Questionable | — | Tuten (ankle/foot) doesn't carry an injury designation for Sunday's game against the Giants. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/bhayshul-tuten-18524)) |
 | Caleb Ransaw | DB/JAX | IR | — | — |
 | Chris Rodriguez Jr. | RB/JAX | Questionable | — | — |
 | DaVon Hamilton | DT/JAX | IR | — | — |
@@ -2060,7 +2056,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Isas Waxter | DB/LAC | Questionable | — | — |
 | Justin Eboigbe | DL/LAC | Questionable | — | — |
 | Kendall Williamson | DB/LAC | Questionable | — | — |
-| Ladd McConkey | WR/LAC | Questionable | — | McConkey (back) was a limited participant in Wednesday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
+| Ladd McConkey | WR/LAC | Questionable | — | McConkey (back) is listed as questionable for Sunday's game against the Jets. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/ladd-mcconkey-17724)) |
 | Rashawn Slater | T/LAC | IR | — | — |
 | Rodney Shelley | CB/LAC | Questionable | — | — |
 | Trevor Penning | T/LAC | IR | — | — |
@@ -2180,7 +2176,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Calvin Austin III | WR/NYG | IR | — | — |
 | Chauncey Golston | DE/NYG | IR | — | — |
 | Gunner Olszewski | WR/NYG | IR | — | — |
-| Isaiah Likely | TE/NYG | Questionable | — | Head coach John Harbaugh said Friday that Likely is tending to a "minor thing" but should be good to play Sunday against the Jaguars, Jordan Raanan of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) |
+| Isaiah Likely | TE/NYG | Questionable | — | Likely didn't practice Friday due to a strained groin, but he doesn't have a designation for Sunday's game versus the Jaguars, Patricia Traina of SI.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/isaiah-likely-16033)) |
 | Jarrick Bernard-Converse | CB/NYG | IR | — | — |
 | Jaxson Dart | QB/NYG | IR | — | Dart is facing the possibility of season-ending surgery after further testing Tuesday revealed that the left knee injury he sustained in Monday's 28-6 loss to the Rams is worse than originally anticipated, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on... ([link](https://www.rotowire.com//football/player/jaxson-dart-18574)) |
 | Korie Black | CB/NYG | IR | — | — |
