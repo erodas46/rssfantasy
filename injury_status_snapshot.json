@@ -52,7 +52,7 @@
     "name": "Dalton Kincaid",
     "pos": "TE",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "BUF"
   },
   "1067": {
@@ -178,7 +178,7 @@
     "name": "Dorian Williams",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "BUF"
   },
   "10929": {
@@ -570,7 +570,7 @@
     "name": "Isaiah Williams",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "11618": {
@@ -1508,7 +1508,7 @@
     "name": "Dante Trader Jr.",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Doubtful",
     "team": "MIA"
   },
   "12679": {
@@ -1865,7 +1865,7 @@
     "name": "Omar Cooper Jr.",
     "pos": "WR",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "NYJ"
   },
   "13279": {
@@ -2181,6 +2181,13 @@
     "pos": "DE",
     "since": "",
     "status": "IR",
+    "team": "LV"
+  },
+  "13467": {
+    "name": "Trey Zuhn III",
+    "pos": "OT",
+    "since": "",
+    "status": "Questionable",
     "team": "LV"
   },
   "13471": {
@@ -2747,7 +2754,7 @@
     "name": "Bradley Pinion",
     "pos": "P",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "MIA"
   },
   "2469": {
@@ -3169,6 +3176,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "4995": {
+    "name": "Ian Thomas",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "LV"
   },
   "5006": {
     "name": "J'Mon Moore",
@@ -3748,7 +3762,7 @@
     "name": "Bobby Okereke",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CAR"
   },
   "5947": {
@@ -4168,7 +4182,7 @@
     "name": "Isaiah Simmons",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CAR"
   },
   "6792": {
@@ -5011,13 +5025,6 @@
     "status": "Questionable",
     "team": "ATL"
   },
-  "8116": {
-    "name": "Pierre Strong Jr.",
-    "pos": "RB",
-    "since": "",
-    "status": "Out",
-    "team": "GB"
-  },
   "8121": {
     "name": "Romeo Doubs",
     "pos": "WR",
@@ -5052,6 +5059,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "8131": {
+    "name": "Isaiah Likely",
+    "pos": "TE",
+    "since": "",
+    "status": "Questionable",
+    "team": "NYG"
   },
   "8142": {
     "name": "Alec Pierce",
@@ -5491,7 +5505,7 @@
     "name": "Christian Benford",
     "pos": "DB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "BUF"
   },
   "8492": {
