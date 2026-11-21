@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-21 17:47 UTC_ · 1301 items total · 1290/1301 matched to a player
+_Last updated: 2026-11-21 21:56 UTC_ · 1306 items total · 1295/1306 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-21 17:47 UTC_ · 1301 items total · 1290/1301 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Dontayvion Wicks | WR/PHI | INJURY | — | The Eagles placed Wicks (ankle/foot) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) | Rotowire |
+| 2026-11-21 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (groin) has been downgraded to out for Sunday's game against the Ravens. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
+| 2026-11-21 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | Croskey-Merritt (groin) is listed as questionable for Monday's game against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-11-21 | Rachaad White | RB/WAS | INJURY | — | White (heel) is listed as questionable for Monday's game versus the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
+| 2026-11-21 | Joe Burrow | QB/CIN | INJURY | — | Burrow (illness) does not have an injury designation ahead of Monday's game against the Commanders. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/joe-burrow-14442)) | Rotowire |
 | 2026-11-21 | Baker Mayfield | QB/TB | INJURY | — | Mayfield (thumb) is dealing with a plantar fascia injury in his foot, and he would wear a special orthotic and new cleats to stabilize his foot if he's cleared to play against the Lions on Sunday, Tom Pelissero of The Ringer and Netflix reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-11-21 | Rachaad White | RB/WAS | NEWS | — | White (heel) was not on the field during the opening portion of Saturday's practice session, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
 | 2026-11-21 | Carnell Tate | WR/TEN | INJURY | — | Tate (shoulder) is questionable for Sunday's game against the Cowboys but is "considered likely" to be cleared to play, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
@@ -124,6 +129,11 @@ _Last updated: 2026-11-21 17:47 UTC_ · 1301 items total · 1290/1301 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-21 | Dontayvion Wicks | WR/PHI | INJURY | — | The Eagles placed Wicks (ankle/foot) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) | Rotowire |
+| 2026-11-21 | Jonathon Brooks | RB/CAR | INJURY | — | Brooks (groin) has been downgraded to out for Sunday's game against the Ravens. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) | Rotowire |
+| 2026-11-21 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | Croskey-Merritt (groin) is listed as questionable for Monday's game against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-11-21 | Rachaad White | RB/WAS | INJURY | — | White (heel) is listed as questionable for Monday's game versus the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
+| 2026-11-21 | Joe Burrow | QB/CIN | INJURY | — | Burrow (illness) does not have an injury designation ahead of Monday's game against the Commanders. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/joe-burrow-14442)) | Rotowire |
 | 2026-11-21 | Baker Mayfield | QB/TB | INJURY | — | Mayfield (thumb) is dealing with a plantar fascia injury in his foot, and he would wear a special orthotic and new cleats to stabilize his foot if he's cleared to play against the Lions on Sunday, Tom Pelissero of The Ringer and Netflix reports. Visit RotoWire.com for more... ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
 | 2026-11-21 | Rachaad White | RB/WAS | NEWS | — | White (heel) was not on the field during the opening portion of Saturday's practice session, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
 | 2026-11-21 | Carnell Tate | WR/TEN | INJURY | — | Tate (shoulder) is questionable for Sunday's game against the Cowboys but is "considered likely" to be cleared to play, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
@@ -1436,41 +1446,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Chimere Dike | WR/TEN | 222966 |
-| Adonai Mitchell | WR/NYJ | 165008 |
-| Justice Hill | RB/BAL | 134280 |
-| Michael Mayer | TE/LV | 116208 |
-| Pat Bryant | WR/DEN | 104896 |
-| Mark Andrews | TE/BAL | 102330 |
-| Detroit Lions | DEF/DET | 94059 |
-| Chris Rodriguez Jr. | RB/JAX | 80298 |
-| Cairo Santos | K/CHI | 74585 |
-| Konata Mumpfield | WR/LAR | 66672 |
-| Dawson Knox | TE/BUF | 66066 |
-| Elic Ayomanor | WR/TEN | 65508 |
-| Jacory Croskey-Merritt | RB/WAS | 56673 |
-| Brenton Strange | TE/JAX | 53541 |
-| Ryan Flournoy | WR/DAL | 51352 |
+| Chimere Dike | WR/TEN | 186399 |
+| Adonai Mitchell | WR/NYJ | 139616 |
+| Justice Hill | RB/BAL | 124263 |
+| Michael Mayer | TE/LV | 88794 |
+| Pat Bryant | WR/DEN | 82040 |
+| Mark Andrews | TE/BAL | 76725 |
+| Detroit Lions | DEF/DET | 75852 |
+| Cairo Santos | K/CHI | 65597 |
+| Dawson Knox | TE/BUF | 61974 |
+| Konata Mumpfield | WR/LAR | 57204 |
+| Elic Ayomanor | WR/TEN | 50924 |
+| Jacory Croskey-Merritt | RB/WAS | 47106 |
+| Chase McLaughlin | K/TB | 45328 |
+| Kenny Gainwell | RB/TB | 43952 |
+| Samaje Perine | RB/CIN | 42804 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Puka Nacua | WR/LAR | 114338 |
-| Omar Cooper Jr. | WR/NYJ | 86856 |
-| Corey Kiner | RB/NE | 78870 |
-| Devin Singletary | RB/NYG | 78453 |
-| Seth McGowan | RB/IND | 71976 |
-| Chris Rodriguez Jr. | RB/JAX | 68616 |
-| Dalton Kincaid | TE/BUF | 64260 |
-| Matt Gay | K/LV | 59385 |
-| Darren Waller | TE/CAR | 57303 |
-| Konata Mumpfield | WR/LAR | 47412 |
-| Xavier Hutchinson | WR/HOU | 46319 |
-| Tyler Higbee | TE/LAR | 45567 |
-| Devaughn Vele | WR/NO | 45437 |
-| Michael Mayer | TE/LV | 44433 |
-| Jason Myers | K/SEA | 42745 |
+| Puka Nacua | WR/LAR | 73115 |
+| Omar Cooper Jr. | WR/NYJ | 64664 |
+| Devin Singletary | RB/NYG | 61254 |
+| Chris Rodriguez Jr. | RB/JAX | 60282 |
+| Corey Kiner | RB/NE | 58650 |
+| Matt Gay | K/LV | 57310 |
+| Seth McGowan | RB/IND | 49920 |
+| Darren Waller | TE/CAR | 46584 |
+| Dalton Kincaid | TE/BUF | 38024 |
+| Devaughn Vele | WR/NO | 35973 |
+| Jason Myers | K/SEA | 35655 |
+| New England Patriots | DEF/NE | 35315 |
+| Tyler Higbee | TE/LAR | 34884 |
+| Konata Mumpfield | WR/LAR | 34524 |
+| Michael Mayer | TE/LV | 32553 |
 
 
 ---
@@ -1481,10 +1491,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Nick Herbig | LB/PIT | Questionable | Out |
-| Ed Oliver | DT/BUF | (unlisted) | Questionable |
+_None since last run._
 
 **Full current report**
 
@@ -1563,7 +1570,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Ikem Ekwonu | T/CAR | PUP | — | — |
 | Isaiah Simmons | DB/CAR | Out | — | — |
 | Jaycee Horn | CB/CAR | IR | — | — |
-| Jonathon Brooks | RB/CAR | IR | — | Brooks (groin) is listed as doubtful for Sunday's game at New Orleans after being limited in practice throughout the week, Kassidy Hill of panthers.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
+| Jonathon Brooks | RB/CAR | IR | — | Brooks (groin) has been downgraded to out for Sunday's game against the Ravens. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jonathon-brooks-17747)) |
 | Mike Jackson | CB/CAR | IR | — | — |
 | Nic Scourton | DL/CAR | IR | — | — |
 | Taylor Moton | T/CAR | IR | — | — |
@@ -2175,7 +2182,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Trevin Wallace | LB/NYJ | Questionable | — | — |
 | Tyler Baron | DE/NYJ | PUP | — | — |
 | Andre' Sam | DB/PHI | IR | — | — |
-| Dontayvion Wicks | WR/PHI | Out | — | Coach Nick Sirianni relayed Wednesday that he feels good about the chances of Wicks (ankle) returning to action Sunday against the Steelers, Jeff McLane of The Philadelphia Inquirer reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) |
+| Dontayvion Wicks | WR/PHI | Out | — | The Eagles placed Wicks (ankle/foot) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) |
 | Jalen Hurts | QB/PHI | IR | — | Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) |
 | Johnny Wilson | WR/PHI | IR | — | — |
 | Smael Mondon Jr. | LB/PHI | Doubtful | — | — |
@@ -2263,7 +2270,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Wan'Dale Robinson | WR/TEN | IR | — | The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) |
 | Daron Payne | DT/WAS | IR | — | — |
 | Dyami Brown | WR/WAS | IR | — | — |
-| Jacory Croskey-Merritt | RB/WAS | IR | — | The Commanders designated Croskey-Merritt (groin) for return from injured reserve Tuesday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) |
+| Jacory Croskey-Merritt | RB/WAS | IR | — | Croskey-Merritt (groin) is listed as questionable for Monday's game against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) |
 | Javon Kinlaw | DT/WAS | IR | — | — |
 | Javontae Jean-Baptiste | DL/WAS | IR | — | — |
 | Jaylin Lane | WR/WAS | IR | — | — |
@@ -2271,7 +2278,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Laremy Tunsil | OL/WAS | IR | — | — |
 | Leo Chenal | LB/WAS | IR | — | — |
 | Quan Martin | DB/WAS | Questionable | — | — |
-| Rachaad White | RB/WAS | Questionable | — | White (heel) was not on the field during the opening portion of Saturday's practice session, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) |
+| Rachaad White | RB/WAS | Questionable | — | White (heel) is listed as questionable for Monday's game versus the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) |
 | Terry McLaurin | WR/WAS | IR | — | The Commanders placed McLaurin (knee) on injured reserve Wednesday, Zach Selby of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
 | Treylon Burks | WR/WAS | Questionable | — | — |
 
