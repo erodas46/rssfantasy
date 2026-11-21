@@ -178,7 +178,7 @@
     "name": "Nick Herbig",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "PIT"
   },
   "10941": {
@@ -3499,6 +3499,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "5841": {
+    "name": "Ed Oliver",
+    "pos": "DT",
+    "since": "",
+    "status": "Questionable",
+    "team": "BUF"
+  },
   "5849": {
     "name": "Kyler Murray",
     "pos": "QB",
@@ -4470,7 +4477,7 @@
     "pos": "WR",
     "since": "",
     "status": "Questionable",
-    "team": "CAR"
+    "team": "FA"
   },
   "7568": {
     "name": "Brevin Jordan",
