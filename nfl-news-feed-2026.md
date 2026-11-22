@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-22 18:05 UTC_ · 1314 items total · 1303/1314 matched to a player
+_Last updated: 2026-11-22 22:11 UTC_ · 1319 items total · 1308/1319 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-22 18:05 UTC_ · 1314 items total · 1303/1314 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Micah Parsons | LB/GB | INJURY | — | Parsons (knee) practiced in a limited capacity Sunday, Rob Demovsky of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/micah-parsons-15182)) | Rotowire |
+| 2026-11-22 | Derrick Henry | RB/BAL | INJURY | — | Henry cleared concussion protocol and was made available to the media following Sunday's 35-33 loss to the Panthers, Giana Han of the Baltimore Banner reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/derrick-henry-10819)) | Rotowire |
+| 2026-11-22 | Patrick Mahomes | QB/KC | NEWS | — | Mahomes completed 27 of 39 passes for 324 yards with three touchdowns and no interceptions in the Chiefs' 34-7 win over the Cardinals on Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/patrick-mahomes-11839)) | Rotowire |
+| 2026-11-22 | Dak Prescott | QB/DAL | NEWS | — | Prescott completed 28 of 33 passes for 325 yards with four touchdowns and no interceptions and added four carries for nine yards and another score in the Cowboys' 51-30 win over the Titans on Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dak-prescott-11008)) | Rotowire |
+| 2026-11-22 | D'Andre Swift | RB/CHI | NEWS | — | Swift carried the ball 13 times for 51 yards and caught both his targets for eight yards and a touchdown in Sunday's 21-13 win over the Saints. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
 | 2026-11-22 | Dalton Kincaid | TE/BUF | NEWS | — | Kincaid (thumb/ankle) is inactive for Sunday's game against the Dolphins, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
 | 2026-11-22 | Carnell Tate | WR/TEN | NEWS | — | Tate (shoulder) is listed as active for Sunday's game against the Cowboys. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-11-22 | Baker Mayfield | QB/TB | NEWS | — | Mayfield (foot/thumb) is listed as active Sunday at Detroit, Scott Smith of the Buccaneers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
@@ -124,6 +129,11 @@ _Last updated: 2026-11-22 18:05 UTC_ · 1314 items total · 1303/1314 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-22 | Micah Parsons | LB/GB | INJURY | — | Parsons (knee) practiced in a limited capacity Sunday, Rob Demovsky of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/micah-parsons-15182)) | Rotowire |
+| 2026-11-22 | Derrick Henry | RB/BAL | INJURY | — | Henry cleared concussion protocol and was made available to the media following Sunday's 35-33 loss to the Panthers, Giana Han of the Baltimore Banner reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/derrick-henry-10819)) | Rotowire |
+| 2026-11-22 | Patrick Mahomes | QB/KC | NEWS | — | Mahomes completed 27 of 39 passes for 324 yards with three touchdowns and no interceptions in the Chiefs' 34-7 win over the Cardinals on Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/patrick-mahomes-11839)) | Rotowire |
+| 2026-11-22 | Dak Prescott | QB/DAL | NEWS | — | Prescott completed 28 of 33 passes for 325 yards with four touchdowns and no interceptions and added four carries for nine yards and another score in the Cowboys' 51-30 win over the Titans on Sunday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dak-prescott-11008)) | Rotowire |
+| 2026-11-22 | D'Andre Swift | RB/CHI | NEWS | — | Swift carried the ball 13 times for 51 yards and caught both his targets for eight yards and a touchdown in Sunday's 21-13 win over the Saints. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dandre-swift-14394)) | Rotowire |
 | 2026-11-22 | Dalton Kincaid | TE/BUF | NEWS | — | Kincaid (thumb/ankle) is inactive for Sunday's game against the Dolphins, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
 | 2026-11-22 | Carnell Tate | WR/TEN | NEWS | — | Tate (shoulder) is listed as active for Sunday's game against the Cowboys. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/carnell-tate-19268)) | Rotowire |
 | 2026-11-22 | Baker Mayfield | QB/TB | NEWS | — | Mayfield (foot/thumb) is listed as active Sunday at Detroit, Scott Smith of the Buccaneers' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/baker-mayfield-12619)) | Rotowire |
@@ -1449,41 +1459,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Dawson Knox | TE/BUF | 430332 |
-| Chimere Dike | WR/TEN | 410814 |
-| Michael Mayer | TE/LV | 378054 |
-| Justice Hill | RB/BAL | 269055 |
-| Adonai Mitchell | WR/NYJ | 245728 |
-| Roman Wilson | WR/PIT | 208053 |
-| Kenny Gainwell | RB/TB | 192928 |
-| Cairo Santos | K/CHI | 178577 |
-| Mark Andrews | TE/BAL | 151677 |
-| Darren Waller | TE/CAR | 147798 |
-| Chase McLaughlin | K/TB | 142208 |
-| Detroit Lions | DEF/DET | 139941 |
-| Konata Mumpfield | WR/LAR | 117990 |
-| Pat Bryant | WR/DEN | 111488 |
-| Samaje Perine | RB/CIN | 106132 |
+| Michael Mayer | TE/LV | 801972 |
+| Dawson Knox | TE/BUF | 422574 |
+| Chimere Dike | WR/TEN | 389691 |
+| Justice Hill | RB/BAL | 310401 |
+| Adonai Mitchell | WR/NYJ | 291200 |
+| Mason Taylor | TE/NYJ | 203210 |
+| Roman Wilson | WR/PIT | 200691 |
+| Kenny Gainwell | RB/TB | 194976 |
+| Cairo Santos | K/CHI | 166782 |
+| Darren Waller | TE/CAR | 145692 |
+| Pat Bryant | WR/DEN | 143616 |
+| Mark Andrews | TE/BAL | 137286 |
+| Chase McLaughlin | K/TB | 134624 |
+| Mike Gesicki | TE/CIN | 131848 |
+| Samaje Perine | RB/CIN | 131668 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Puka Nacua | WR/LAR | 364196 |
-| Matt Gay | K/LV | 182035 |
-| Devin Singletary | RB/NYG | 140031 |
-| Omar Cooper Jr. | WR/NYJ | 127600 |
-| Corey Kiner | RB/NE | 122868 |
-| Darren Waller | TE/CAR | 107667 |
-| Dalton Kincaid | TE/BUF | 107457 |
-| Jason Myers | K/SEA | 105385 |
-| New England Patriots | DEF/NE | 102760 |
-| Chris Rodriguez Jr. | RB/JAX | 96642 |
-| Tyler Higbee | TE/LAR | 94968 |
-| Roman Wilson | WR/PIT | 91692 |
-| Devaughn Vele | WR/NO | 83370 |
-| Konata Mumpfield | WR/LAR | 78732 |
-| Audric Estime | RB/NO | 77871 |
+| Puka Nacua | WR/LAR | 415191 |
+| Matt Gay | K/LV | 204365 |
+| Omar Cooper Jr. | WR/NYJ | 168160 |
+| Devin Singletary | RB/NYG | 160497 |
+| Corey Kiner | RB/NE | 142614 |
+| Jason Myers | K/SEA | 124430 |
+| New England Patriots | DEF/NE | 122136 |
+| Tyler Higbee | TE/LAR | 111474 |
+| Darren Waller | TE/CAR | 111042 |
+| Dalton Kincaid | TE/BUF | 110894 |
+| Chris Rodriguez Jr. | RB/JAX | 106542 |
+| Konata Mumpfield | WR/LAR | 104076 |
+| Roman Wilson | WR/PIT | 96822 |
+| Jordan Addison | WR/MIN | 96102 |
+| Seth McGowan | RB/IND | 90648 |
 
 
 ---
@@ -1494,96 +1504,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-| Player | Pos/Team | From | To |
-|---|---|---|---|
-| Adam Randall | RB/BAL | (unlisted) | Out |
-| Tyrus Wheat | DE/DET | (unlisted) | Out |
-| Audric Estime | RB/NO | (unlisted) | Out |
-| Justin Joly | TE/MIA | (unlisted) | Out |
-| Omarr Norman-Lott | DT/KC | Questionable | Out |
-| Jordan McFadden | OL/CHI | (unlisted) | Out |
-| Elijah Sarratt | WR/BAL | (unlisted) | Out |
-| Zach Wilson | QB/NO | (unlisted) | Out |
-| Ennis Rakestraw Jr. | DB/DET | Questionable | Out |
-| Sam Hecht | C/CAR | (unlisted) | Out |
-| Mike Danna | DE/BUF | (unlisted) | Out |
-| Jayden Loving | DT/CHI | (unlisted) | Out |
-| Case Keenum | QB/CHI | (unlisted) | Out |
-| Marco Wilson | CB/CAR | (unlisted) | Out |
-| Haynes King | QB/CAR | (unlisted) | Out |
-| Easton Stick | QB/TB | (unlisted) | Out |
-| Starling Thomas V | CB/ARI | (unlisted) | Out |
-| T.J. Sanders | DL/BUF | Questionable | Out |
-| Eli Heidenreich | RB/PIT | (unlisted) | Out |
-| Sean Murphy-Bunting | CB/PIT | (unlisted) | Out |
-| Cole Payton | QB/PHI | (unlisted) | Out |
-| Jonathan Bullard | DE/DAL | (unlisted) | Out |
-| Kedon Slovis | QB/BAL | (unlisted) | Out |
-| Jude Bowry | OT/BUF | (unlisted) | Out |
-| Amen Ogbongbemiga | LB/DET | (unlisted) | Out |
-| Pete Werner | LB/NO | Questionable | Out |
-| Will Howard | QB/PIT | (unlisted) | Out |
-| Keyshaun Elliott | LB/CHI | (unlisted) | Out |
-| Kingsley Eguakun | OL/ARI | (unlisted) | Out |
-| Dalton Kincaid | TE/BUF | Doubtful | Out |
-| Gabriel Rubio | DL/PIT | (unlisted) | Out |
-| Melvin Smith Jr. | DB/KC | (unlisted) | Out |
-| Trevor Keegan | OL/TB | (unlisted) | Out |
-| DeMonte Capehart | DT/TB | (unlisted) | Out |
-| Jaylin Simpson | DB/MIA | Doubtful | Out |
-| Jake Majors | OL/PHI | (unlisted) | Out |
-| Ayden Garnes | DB/TB | (unlisted) | Out |
-| Caedan Wallace | OL/MIA | (unlisted) | Out |
-| Jackie Marshall | DE/TEN | (unlisted) | Out |
-| Garrett Nussmeier | QB/KC | (unlisted) | Out |
-| Jaylon Jones | DB/TEN | (unlisted) | Out |
-| Mekhi Wingo | DT/DET | (unlisted) | Out |
-| Ja'Tavion Sanders | TE/CAR | (unlisted) | Out |
-| Nicholas Singleton | RB/TEN | (unlisted) | Out |
-| Andrew Billings | DT/ARI | (unlisted) | Out |
-| TeRah Edwards | DL/CAR | (unlisted) | Out |
-| Mohamoud Diabate | LB/TEN | (unlisted) | Out |
-| Smael Mondon Jr. | LB/PHI | Doubtful | Out |
-| Emery Jones Jr. | OL/BAL | (unlisted) | Out |
-| Keith Abney II | DB/DET | (unlisted) | Out |
-| Skyler Bell | WR/BUF | (unlisted) | Out |
-| Billy Schrauth | G/TB | (unlisted) | Out |
-| Peter Woods | DL/KC | Questionable | Out |
-| Ajani Cornelius | OL/PHI | (unlisted) | Out |
-| Mac McWilliams | CB/PHI | (unlisted) | Out |
-| D.J. Reed | CB/DET | Questionable | Out |
-| Dante Trader Jr. | DB/MIA | Doubtful | Out |
-| Tony Adams | DB/TEN | (unlisted) | Questionable |
-| Kaden Wetjen | WR/PIT | (unlisted) | Out |
-| Drew Allar | QB/PIT | (unlisted) | Out |
-| Jaishawn Barham | LB/DAL | Questionable | Out |
-| AJ Dillon | RB/CAR | (unlisted) | Out |
-| Christian Haynes | OL/MIA | (unlisted) | Out |
-| Luke Schoonmaker | TE/DAL | Questionable | (cleared) |
-| Yaya Diaby | DL/TB | Questionable | (cleared) |
-| Tyler Lacy | DE/DET | Questionable | (cleared) |
-| Will Shipley | RB/PHI | Questionable | (cleared) |
-| Roman Wilson | WR/PIT | Questionable | (cleared) |
-| Sione Vaki | RB/DET | Questionable | (cleared) |
-| Decamerion Richardson | CB/NO | Questionable | (cleared) |
-| Marcellas Dial Jr. | DB/MIA | Questionable | (cleared) |
-| Jackson Hawes | TE/BUF | Questionable | (cleared) |
-| Micah Robinson | CB/TEN | Questionable | (cleared) |
-| Carnell Tate | WR/TEN | Questionable | (cleared) |
-| Anthony Hill Jr. | LB/TEN | Questionable | (cleared) |
-| Zavion Thomas | WR/CHI | Questionable | (cleared) |
-| Darren Waller | TE/CAR | Questionable | (cleared) |
-| Baker Mayfield | QB/TB | Questionable | (cleared) |
-| DeShon Elliott | DB/PIT | Questionable | (cleared) |
-| Ed Oliver | DT/BUF | Questionable | (cleared) |
-| Mike Jackson | CB/CAR | Questionable | (cleared) |
-| Patrick Queen | LB/PIT | Questionable | (cleared) |
-| Joe Bachie | LB/DET | Questionable | (cleared) |
-| Khalil Dorsey | CB/DET | Questionable | (cleared) |
-| Aaron Brewer | OL/MIA | Questionable | (cleared) |
-| Tommy Tremble | TE/CAR | Questionable | (cleared) |
-| Damar Hamlin | DB/BUF | Questionable | (cleared) |
-| Darrell Baker Jr. | CB/MIA | Questionable | (cleared) |
+_None since last run._
 
 **Full current report**
 
@@ -2066,7 +1987,7 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 | Josh Whyle | TE/GB | IR | — | — |
 | Kevin Zeitler | OG/GB | Out | — | — |
 | Luke Musgrave | TE/GB | PUP | — | — |
-| Micah Parsons | LB/GB | PUP | — | Packers head coach Matt LaFleur said that Parsons (knee) will be designated for return from the PUP list and will take part in individual work during Wednesday's practice, Matt Schneidman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/micah-parsons-15182)) |
+| Micah Parsons | LB/GB | PUP | — | Parsons (knee) practiced in a limited capacity Sunday, Rob Demovsky of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/micah-parsons-15182)) |
 | Sean Rhyan | OL/GB | Out | — | — |
 | Skyy Moore | WR/GB | Questionable | — | — |
 | Thomas Yassmin | TE/GB | IR | — | — |
