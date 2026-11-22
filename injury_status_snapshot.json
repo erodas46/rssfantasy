@@ -111,13 +111,6 @@
     "status": "IR",
     "team": "ARI"
   },
-  "10903": {
-    "name": "Quan Martin",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
-  },
   "10912": {
     "name": "Steve Avila",
     "pos": "C",
@@ -451,7 +444,7 @@
     "name": "Will Shipley",
     "pos": "RB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "PHI"
   },
   "11582": {
@@ -549,7 +542,7 @@
     "name": "Roman Wilson",
     "pos": "WR",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "PIT"
   },
   "11635": {
@@ -1343,13 +1336,6 @@
     "status": "Out",
     "team": "IND"
   },
-  "12649": {
-    "name": "C.J. West",
-    "pos": "DT",
-    "since": "",
-    "status": "IR",
-    "team": "SF"
-  },
   "12655": {
     "name": "Tyler Baron",
     "pos": "DE",
@@ -1571,7 +1557,7 @@
     "name": "Danny Striggow",
     "pos": "DL",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "JAX"
   },
   "12902": {
@@ -1746,7 +1732,7 @@
     "name": "Carson Beck",
     "pos": "QB",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "ARI"
   },
   "13275": {
@@ -2250,7 +2236,7 @@
     "name": "Rodney Shelley",
     "pos": "CB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "LAC"
   },
   "13635": {
@@ -2778,6 +2764,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "3888": {
+    "name": "Lucas Patrick",
+    "pos": "G",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
+  },
   "4018": {
     "name": "Joe Mixon",
     "pos": "RB",
@@ -3097,7 +3090,7 @@
     "name": "Oren Burks",
     "pos": "LB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "CIN"
   },
   "5049": {
@@ -3545,7 +3538,7 @@
     "name": "Dalton Risner",
     "pos": "G",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "CIN"
   },
   "5874": {
@@ -3650,7 +3643,7 @@
     "name": "Mike Jackson",
     "pos": "CB",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "CAR"
   },
   "6040": {
@@ -3762,7 +3755,7 @@
     "name": "Trey Pipkins III",
     "pos": "T",
     "since": "",
-    "status": "IR",
+    "status": "Questionable",
     "team": "LAC"
   },
   "6218": {
@@ -4000,7 +3993,7 @@
     "name": "Isaiah Simmons",
     "pos": "DB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "CAR"
   },
   "6792": {
@@ -4028,7 +4021,7 @@
     "name": "Zack Baun",
     "pos": "LB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "PHI"
   },
   "6817": {
@@ -4087,6 +4080,13 @@
     "status": "Questionable",
     "team": "SF"
   },
+  "6872": {
+    "name": "Kyle Dugger",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "CIN"
+  },
   "6881": {
     "name": "Matt Hennessy",
     "pos": "OL",
@@ -4107,6 +4107,13 @@
     "since": "",
     "status": "Out",
     "team": "TB"
+  },
+  "6896": {
+    "name": "Amik Robertson",
+    "pos": "CB",
+    "since": "",
+    "status": "Questionable",
+    "team": "WAS"
   },
   "6904": {
     "name": "Jalen Hurts",
@@ -4843,13 +4850,6 @@
     "status": "Questionable",
     "team": "FA"
   },
-  "8135": {
-    "name": "Treylon Burks",
-    "pos": "WR",
-    "since": "",
-    "status": "Questionable",
-    "team": "WAS"
-  },
   "8136": {
     "name": "Rachaad White",
     "pos": "RB",
@@ -4870,6 +4870,13 @@
     "since": "",
     "status": "NA",
     "team": "FA"
+  },
+  "8150": {
+    "name": "Kyren Williams",
+    "pos": "RB",
+    "since": "",
+    "status": "Questionable",
+    "team": "LAR"
   },
   "8151": {
     "name": "Kenneth Walker III",
@@ -5253,7 +5260,7 @@
     "name": "DaRon Bland",
     "pos": "DB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "DAL"
   },
   "8477": {
@@ -5309,7 +5316,7 @@
     "name": "Cade Mays",
     "pos": "OL",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "DET"
   },
   "8540": {
@@ -5344,7 +5351,7 @@
     "name": "Darrell Baker Jr.",
     "pos": "CB",
     "since": "",
-    "status": "PUP",
+    "status": "Questionable",
     "team": "MIA"
   },
   "8683": {
@@ -5410,13 +5417,6 @@
     "status": "IR",
     "team": "FA"
   },
-  "8860": {
-    "name": "Tony Adams",
-    "pos": "DB",
-    "since": "",
-    "status": "Questionable",
-    "team": "TEN"
-  },
   "8903": {
     "name": "Greg Long",
     "pos": "OL",
@@ -5449,7 +5449,7 @@
     "name": "Dontayvion Wicks",
     "pos": "WR",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "PHI"
   },
   "9493": {
@@ -5477,7 +5477,7 @@
     "name": "Tyjae Spears",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "TEN"
   },
   "9756": {
