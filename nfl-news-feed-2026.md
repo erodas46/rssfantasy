@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-24 03:05 UTC_ · 1334 items total · 1323/1334 matched to a player
+_Last updated: 2026-11-24 08:56 UTC_ · 1339 items total · 1328/1339 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,11 @@ _Last updated: 2026-11-24 03:05 UTC_ · 1334 items total · 1323/1334 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Chase Brown | RB/CIN | NEWS | — | Brown rushed six times for six yards and brought in five of eight targets for 30 yards in the Bengals' 22-20 loss to the Commanders on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chase-brown-16934)) | Rotowire |
+| 2026-11-23 | Mike Gesicki | TE/CIN | NEWS | — | Gesicki brought in five of six targets for 77 yards in the Bengals' 22-20 loss to the Commanders on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-gesicki-12764)) | Rotowire |
+| 2026-11-23 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | Croskey-Merritt rushed 13 times for 54 yards and a touchdown and brought in two of three targets for 23 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-11-23 | Antonio Williams | WR/WAS | NEWS | — | Williams brought in nine of 11 targets for 122 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/antonio-williams-19237)) | Rotowire |
+| 2026-11-23 | Chig Okonkwo | TE/WAS | NEWS | — | Okonkwo brought in four of five targets for 66 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chig-okonkwo-16042)) | Rotowire |
 | 2026-11-23 | Jake Ferguson | TE/DAL | INJURY | — | Ferguson (knee/ankle) was listed as a non-participant on Monday's practice estimate, Tommy Yarrish of the Cowboys' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
 | 2026-11-23 | Sam Darnold | QB/SEA | NEWS | — | Darnold (quadriceps/ribs) was suited up for Monday's unofficial practice, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-11-23 | Rachaad White | RB/WAS | NEWS | — | White (heel) is active for Monday's game against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
@@ -102,6 +107,11 @@ _Last updated: 2026-11-24 03:05 UTC_ · 1334 items total · 1323/1334 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-23 | Chase Brown | RB/CIN | NEWS | — | Brown rushed six times for six yards and brought in five of eight targets for 30 yards in the Bengals' 22-20 loss to the Commanders on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chase-brown-16934)) | Rotowire |
+| 2026-11-23 | Mike Gesicki | TE/CIN | NEWS | — | Gesicki brought in five of six targets for 77 yards in the Bengals' 22-20 loss to the Commanders on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mike-gesicki-12764)) | Rotowire |
+| 2026-11-23 | Jacory Croskey-Merritt | RB/WAS | INJURY | — | Croskey-Merritt rushed 13 times for 54 yards and a touchdown and brought in two of three targets for 23 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jacory-croskey-merritt-18811)) | Rotowire |
+| 2026-11-23 | Antonio Williams | WR/WAS | NEWS | — | Williams brought in nine of 11 targets for 122 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/antonio-williams-19237)) | Rotowire |
+| 2026-11-23 | Chig Okonkwo | TE/WAS | NEWS | — | Okonkwo brought in four of five targets for 66 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/chig-okonkwo-16042)) | Rotowire |
 | 2026-11-23 | Jake Ferguson | TE/DAL | INJURY | — | Ferguson (knee/ankle) was listed as a non-participant on Monday's practice estimate, Tommy Yarrish of the Cowboys' official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jake-ferguson-15947)) | Rotowire |
 | 2026-11-23 | Sam Darnold | QB/SEA | NEWS | — | Darnold (quadriceps/ribs) was suited up for Monday's unofficial practice, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-darnold-12490)) | Rotowire |
 | 2026-11-23 | Rachaad White | RB/WAS | NEWS | — | White (heel) is active for Monday's game against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) | Rotowire |
@@ -1447,41 +1457,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Chris Rodriguez Jr. | RB/JAX | 213291 |
-| Justice Hill | RB/BAL | 178803 |
-| Fernando Mendoza | QB/LV | 94032 |
-| Chimere Dike | WR/TEN | 81315 |
-| Jack Bech | WR/LV | 80594 |
-| Jacory Croskey-Merritt | RB/WAS | 66204 |
-| Washington Commanders | DEF/WAS | 61327 |
-| Ted Hurst III | WR/TB | 51348 |
-| Konata Mumpfield | WR/LAR | 48942 |
-| Samaje Perine | RB/CIN | 43540 |
-| Evan Engram | TE/DEN | 35328 |
-| New York Giants | DEF/NYG | 34932 |
-| Treylon Burks | WR/WAS | 29862 |
-| Tampa Bay Buccaneers | DEF/TB | 28275 |
-| Khalil Shakir | WR/BUF | 28233 |
+| Chris Rodriguez Jr. | RB/JAX | 365823 |
+| Justice Hill | RB/BAL | 218232 |
+| Jacory Croskey-Merritt | RB/WAS | 176328 |
+| Washington Commanders | DEF/WAS | 133693 |
+| Fernando Mendoza | QB/LV | 117192 |
+| Jack Bech | WR/LV | 110770 |
+| Chimere Dike | WR/TEN | 106848 |
+| New York Giants | DEF/NYG | 89904 |
+| Ted Hurst III | WR/TB | 85452 |
+| Konata Mumpfield | WR/LAR | 73251 |
+| Samaje Perine | RB/CIN | 66152 |
+| Tyler Higbee | TE/LAR | 59544 |
+| Evan Engram | TE/DEN | 52824 |
+| Cleveland Browns | DEF/CLE | 48566 |
+| Tampa Bay Buccaneers | DEF/TB | 48120 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Terrance Ferguson | TE/LAR | 153296 |
-| Michael Mayer | TE/LV | 107829 |
-| Seth McGowan | RB/IND | 80520 |
-| Mark Andrews | TE/BAL | 63594 |
-| Puka Nacua | WR/LAR | 62790 |
-| Xavier Hutchinson | WR/HOU | 58387 |
-| Courtland Sutton | WR/DEN | 50283 |
-| Pat Bryant | WR/DEN | 48832 |
-| Detroit Lions | DEF/DET | 42471 |
-| Ryan Flournoy | WR/DAL | 40160 |
-| Adonai Mitchell | WR/NYJ | 39880 |
-| Elic Ayomanor | WR/TEN | 35612 |
-| Tank Dell | WR/HOU | 32576 |
-| Corey Kiner | RB/NE | 29394 |
-| Devin Singletary | RB/NYG | 28098 |
+| Terrance Ferguson | TE/LAR | 193872 |
+| Michael Mayer | TE/LV | 184095 |
+| Seth McGowan | RB/IND | 143824 |
+| Mark Andrews | TE/BAL | 110133 |
+| Detroit Lions | DEF/DET | 102816 |
+| Xavier Hutchinson | WR/HOU | 88487 |
+| Pat Bryant | WR/DEN | 76744 |
+| Courtland Sutton | WR/DEN | 68949 |
+| Adonai Mitchell | WR/NYJ | 68840 |
+| Puka Nacua | WR/LAR | 68110 |
+| Ryan Flournoy | WR/DAL | 65720 |
+| Elic Ayomanor | WR/TEN | 62552 |
+| Tank Dell | WR/HOU | 56032 |
+| Corey Kiner | RB/NE | 39582 |
+| Devin Singletary | RB/NYG | 39105 |
 
 
 ---
@@ -1492,7 +1502,37 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-_None since last run._
+| Player | Pos/Team | From | To |
+|---|---|---|---|
+| Damar Hamlin | DB/BUF | (unlisted) | Questionable |
+| Landon Robinson | NT/CIN | (unlisted) | Out |
+| Ricky Barber | DT/WAS | (unlisted) | Out |
+| Robert Henry Jr. | RB/WAS | (unlisted) | Out |
+| DJ Wonnum | DE/DET | (unlisted) | Questionable |
+| Athan Kaliakmanis | QB/WAS | (unlisted) | Out |
+| Sam LaPorta | TE/DET | (unlisted) | Questionable |
+| O'Cyrus Torrence | OL/BUF | (unlisted) | Questionable |
+| Amik Robertson | CB/WAS | Questionable | Out |
+| Coleman Shelton | OL/LAR | Questionable | Out |
+| Will Shipley | RB/PHI | (unlisted) | Questionable |
+| George Holani | RB/SEA | Out | IR |
+| Chuck Clark | DB/DET | (unlisted) | Questionable |
+| Dallas Goedert | TE/PHI | (unlisted) | Questionable |
+| Travis Glover | OT/GB | (unlisted) | Questionable |
+| Greg Rousseau | DE/BUF | (unlisted) | Questionable |
+| Cam Grandy | TE/CIN | (unlisted) | Out |
+| Bryan Cook | DB/CIN | (unlisted) | Questionable |
+| Tanner McKee | QB/PHI | (unlisted) | Questionable |
+| Myles Hinton | OT/CIN | (unlisted) | Out |
+| Spencer Brown | OT/BUF | (unlisted) | Questionable |
+| Skyler Gill-Howard | DT/DET | (unlisted) | Questionable |
+| Arnold Ebiketie | DL/PHI | (unlisted) | Questionable |
+| Theo Benedet | OT/CHI | (unlisted) | Questionable |
+| Kyle Dugger | DB/CIN | Questionable | Out |
+| Dylan Fairchild | OL/CIN | Questionable | (cleared) |
+| Lucas Patrick | G/WAS | Questionable | (cleared) |
+| Rachaad White | RB/WAS | Questionable | (cleared) |
+| Dax Hill | DB/CIN | Questionable | (cleared) |
 
 **Full current report**
 
@@ -1565,12 +1605,16 @@ _None since last run._
 | Christian Benford | DB/BUF | Out | — | — |
 | DJ Moore | WR/BUF | Questionable | — | Moore secured three of five targets for 25 yards and rushed once for 11 yards in the Bills' 23-6 win over the Vikings on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dj-moore-12477)) |
 | Dalton Kincaid | TE/BUF | Out | — | Kincaid (thumb/ankle) is inactive for Sunday's game against the Dolphins, Cameron Wolfe of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) |
+| Damar Hamlin | DB/BUF | Questionable | — | — |
 | Dorian Strong | CB/BUF | PUP | — | — |
 | Dorian Williams | LB/BUF | Out | — | — |
+| Greg Rousseau | DE/BUF | Questionable | — | — |
 | Joshua Palmer | WR/BUF | IR | — | — |
 | Jude Bowry | OT/BUF | Out | — | — |
 | Mike Danna | DE/BUF | Out | — | — |
+| O'Cyrus Torrence | OL/BUF | Questionable | — | — |
 | Skyler Bell | WR/BUF | Out | — | — |
+| Spencer Brown | OT/BUF | Questionable | — | — |
 | T.J. Sanders | DL/BUF | Out | — | — |
 | Zane Durant | DT/BUF | IR | — | — |
 | AJ Dillon | RB/CAR | Out | — | — |
@@ -1608,18 +1652,21 @@ _None since last run._
 | Nephi Sewell | LB/CHI | IR | — | — |
 | Nikola Kalinic | TE/CHI | IR | — | — |
 | Roschon Johnson | RB/CHI | Out | — | — |
+| Theo Benedet | OT/CHI | Questionable | — | — |
 | Tony Fields II | LB/CHI | IR | — | — |
 | Zavier Scott | RB/CHI | IR | — | — |
 | Andrei Iosivas | WR/CIN | IR | — | — |
+| Bryan Cook | DB/CIN | Questionable | — | — |
+| Cam Grandy | TE/CIN | Out | — | — |
 | Cashius Howell | DL/CIN | IR | — | — |
 | Dalton Risner | G/CIN | Out | — | — |
-| Dax Hill | DB/CIN | Questionable | — | — |
-| Dylan Fairchild | OL/CIN | Questionable | — | — |
 | Erick All Jr. | TE/CIN | IR | — | — |
 | Ja'Sir Taylor | DB/CIN | IR | — | — |
 | Jalen Davis | CB/CIN | IR | — | — |
 | Josh Kattus | TE/CIN | Questionable | — | — |
-| Kyle Dugger | DB/CIN | Questionable | — | — |
+| Kyle Dugger | DB/CIN | Out | — | — |
+| Landon Robinson | NT/CIN | Out | — | — |
+| Myles Hinton | OT/CIN | Out | — | — |
 | Oren Burks | LB/CIN | IR | — | — |
 | Tanner Hudson | TE/CIN | IR | — | — |
 | Alex Wright | DL/CLE | IR | — | — |
@@ -1677,7 +1724,9 @@ _None since last run._
 | Avonte Maddox | CB/DET | IR | — | — |
 | Ben Bartch | OL/DET | IR | — | — |
 | Cade Mays | OL/DET | IR | — | — |
+| Chuck Clark | DB/DET | Questionable | — | — |
 | D.J. Reed | CB/DET | Out | — | — |
+| DJ Wonnum | DE/DET | Questionable | — | — |
 | Damone Clark | LB/DET | IR | — | — |
 | Devin White | LB/DET | IR | — | — |
 | Ennis Rakestraw Jr. | DB/DET | Out | — | — |
@@ -1690,6 +1739,8 @@ _None since last run._
 | Khalil Dorsey | CB/DET | Questionable | — | — |
 | Mekhi Wingo | DT/DET | Out | — | — |
 | Payton Turner | DE/DET | IR | — | — |
+| Sam LaPorta | TE/DET | Questionable | — | LaPorta (ankle) was limited at Monday's walkthrough, Nolan Bianchi of The Detroit News reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-laporta-17033)) |
+| Skyler Gill-Howard | DT/DET | Questionable | — | — |
 | Thomas Harper | DB/DET | IR | — | — |
 | Tom Kennedy | WR/DET | IR | — | — |
 | Tyrus Wheat | DE/DET | Out | — | — |
@@ -1992,6 +2043,7 @@ _None since last run._
 | Sean Rhyan | OL/GB | Out | — | — |
 | Skyy Moore | WR/GB | Questionable | — | — |
 | Thomas Yassmin | TE/GB | IR | — | — |
+| Travis Glover | OT/GB | Questionable | — | — |
 | Warren Brinson | DL/GB | IR | — | — |
 | Zach Bako-Bewele | OL/GB | IR | — | — |
 | Zaire Franklin | LB/GB | Out | — | — |
@@ -2098,7 +2150,7 @@ _None since last run._
 | Trey Lance | QB/LAC | IR | — | — |
 | Tyler Biadasz | C/LAC | IR | — | — |
 | Blake Grupe | K/LAR | IR | — | — |
-| Coleman Shelton | OL/LAR | Questionable | — | — |
+| Coleman Shelton | OL/LAR | Out | — | — |
 | Darryl Peterson III | LB/LAR | Out | — | — |
 | Davante Adams | WR/LAR | IR | — | With regard to the availability of Adams (hamstring) -- who remains on IR -- head coach Sean McVay said Friday "we'll take it a week at a time" with the wideout, while adding that he doesn't "think he's ready quite yet," Zach Edwards of the Rams' official site reports. Visit... ([link](https://www.rotowire.com//football/player/davante-adams-9455)) |
 | Dean Connors | RB/LAR | IR | — | — |
@@ -2249,7 +2301,9 @@ _None since last run._
 | Tyler Baron | DE/NYJ | PUP | — | — |
 | Ajani Cornelius | OL/PHI | Out | — | — |
 | Andre' Sam | DB/PHI | IR | — | — |
+| Arnold Ebiketie | DL/PHI | Questionable | — | — |
 | Cole Payton | QB/PHI | Out | — | — |
+| Dallas Goedert | TE/PHI | Questionable | — | Goedert caught all four of his targets for 30 yards and added a two-yard run in Sunday's 27-10 loss to the Commanders. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dallas-goedert-12860)) |
 | Dontayvion Wicks | WR/PHI | IR | — | The Eagles placed Wicks (ankle/foot) on injured reserve Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dontayvion-wicks-16658)) |
 | Jake Majors | OL/PHI | Out | — | — |
 | Jalen Hurts | QB/PHI | IR | — | Hurts (calf) is expected to be held out of football activities for multiple months and miss the rest of the season after new imaging over the weekend revealed several blood clots in his lungs, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jalen-hurts-14416)) |
@@ -2260,8 +2314,10 @@ _None since last run._
 | Saquon Barkley | RB/PHI | Questionable | — | Barkley was listed as a limited participant on Monday's estimated practice report due to a neck injury and an illness. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/saquon-barkley-12507)) |
 | Smael Mondon Jr. | LB/PHI | Out | — | — |
 | Tank Bigsby | RB/PHI | IR | — | The Eagles placed Bigsby (abdomen) on injured reserve Tuesday, Zach Berman of The Athletic reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tank-bigsby-16705)) |
+| Tanner McKee | QB/PHI | Questionable | — | McKee completed 23 of 35 passes for 211 yards with one touchdown and one interception and added one rush for one yard in the Eagles' 38-21 loss to the Cowboys on Monday night. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tanner-mckee-16686)) |
 | Tucker Large | DB/PHI | PUP | — | — |
 | Uar Bernard | DT/PHI | Out | — | — |
+| Will Shipley | RB/PHI | Questionable | — | The Eagles ruled out Shipley (foot) for the remainder of Sunday's game versus the Jaguars in London. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) |
 | Zack Baun | LB/PHI | IR | — | — |
 | Alex Highsmith | LB/PIT | Questionable | — | — |
 | Donte Kent | CB/PIT | PUP | — | — |
@@ -2285,7 +2341,7 @@ _None since last run._
 | Charles Cross | OL/SEA | Out | — | — |
 | Elijah Arroyo | TE/SEA | IR | — | — |
 | Emanuel Wilson | RB/SEA | Out | — | Wilson rushed 24 times for 100 yards and a touchdown while catching his lone target for 15 yards in Sunday's 20-3 win over the Chiefs. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/emanuel-wilson-17593)) |
-| George Holani | RB/SEA | Out | — | Holani rushed 12 times for 42 yards in the Seahawks' 17-7 preseason loss to the Cowboys on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-holani-17968)) |
+| George Holani | RB/SEA | IR | — | Holani rushed 12 times for 42 yards in the Seahawks' 17-7 preseason loss to the Cowboys on Saturday. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/george-holani-17968)) |
 | Jacardia Wright | RB/SEA | Out | — | — |
 | Jake Bobo | WR/SEA | IR | — | — |
 | Jarran Reed | DT/SEA | Questionable | — | — |
@@ -2353,7 +2409,8 @@ _None since last run._
 | Tony Adams | DB/TEN | Questionable | — | — |
 | Tyjae Spears | RB/TEN | IR | — | Head coach Robert Saleh said Friday that Spears (ankle) is trending in the right direction to play Sunday against the Ravens, Terry McCormick of TitanInsider.com reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/tyjae-spears-16941)) |
 | Wan'Dale Robinson | WR/TEN | IR | — | The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/wandale-robinson-15838)) |
-| Amik Robertson | CB/WAS | Questionable | — | — |
+| Amik Robertson | CB/WAS | Out | — | — |
+| Athan Kaliakmanis | QB/WAS | Out | — | Kaliakmanis completed 15 of 33 passes for 186 yards and a touchdown with an interception in Sunday's 30-13 loss to the Colts. He added 16 yards on three carries. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/athan-kaliakmanis-19368)) |
 | Daron Payne | DT/WAS | IR | — | — |
 | Dyami Brown | WR/WAS | IR | — | — |
 | Javon Kinlaw | DT/WAS | IR | — | — |
@@ -2362,7 +2419,7 @@ _None since last run._
 | Jeremy McNichols | RB/WAS | IR | — | — |
 | Laremy Tunsil | OL/WAS | IR | — | — |
 | Leo Chenal | LB/WAS | IR | — | — |
-| Lucas Patrick | G/WAS | Questionable | — | — |
-| Rachaad White | RB/WAS | Questionable | — | White (heel) is active for Monday's game against the Bengals. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rachaad-white-15802)) |
+| Ricky Barber | DT/WAS | Out | — | — |
+| Robert Henry Jr. | RB/WAS | Out | — | — |
 | Terry McLaurin | WR/WAS | IR | — | The Commanders placed McLaurin (knee) on injured reserve Wednesday, Zach Selby of the team's official site reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/terry-mclaurin-13536)) |
 
