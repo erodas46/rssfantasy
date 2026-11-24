@@ -402,7 +402,7 @@
     "name": "Ben VanSumeren",
     "pos": "RB",
     "since": "",
-    "status": "Questionable",
+    "status": "IR",
     "team": "KC"
   },
   "11299": {
@@ -635,13 +635,6 @@
     "since": "",
     "status": "Questionable",
     "team": "CAR"
-  },
-  "11648": {
-    "name": "Kedon Slovis",
-    "pos": "QB",
-    "since": "",
-    "status": "Out",
-    "team": "BAL"
   },
   "11651": {
     "name": "Isaac Guerendo",
@@ -1026,7 +1019,7 @@
     "pos": "RB",
     "since": "",
     "status": "Questionable",
-    "team": "LV"
+    "team": "FA"
   },
   "11989": {
     "name": "D.J. Williams",
@@ -2090,7 +2083,7 @@
     "pos": "TE",
     "since": "",
     "status": "Questionable",
-    "team": "CIN"
+    "team": "FA"
   },
   "13315": {
     "name": "Dean Connors",
@@ -2148,6 +2141,13 @@
     "status": "IR",
     "team": "KC"
   },
+  "13346": {
+    "name": "Denzel Boston",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "CLE"
+  },
   "13347": {
     "name": "Demond Claiborne",
     "pos": "RB",
@@ -2196,6 +2196,13 @@
     "since": "",
     "status": "Questionable",
     "team": "GB"
+  },
+  "13373": {
+    "name": "Caden Curry",
+    "pos": "DL",
+    "since": "",
+    "status": "IR",
+    "team": "IND"
   },
   "13380": {
     "name": "Brenen Thompson",
@@ -2593,7 +2600,7 @@
     "name": "Skyler Gill-Howard",
     "pos": "DT",
     "since": "",
-    "status": "Questionable",
+    "status": "Out",
     "team": "DET"
   },
   "13548": {
@@ -4554,7 +4561,7 @@
     "pos": "WR",
     "since": "",
     "status": "DNR",
-    "team": "SF"
+    "team": "FA"
   },
   "6815": {
     "name": "Zack Baun",
@@ -4734,13 +4741,6 @@
   "6963": {
     "name": "Patrick Taylor",
     "pos": "RB",
-    "since": "",
-    "status": "Questionable",
-    "team": "FA"
-  },
-  "6964": {
-    "name": "Sean McKeon",
-    "pos": "TE",
     "since": "",
     "status": "Questionable",
     "team": "FA"
@@ -5983,6 +5983,13 @@
     "since": "",
     "status": "IR",
     "team": "DET"
+  },
+  "8509": {
+    "name": "Elijah Hicks",
+    "pos": "DB",
+    "since": "",
+    "status": "Out",
+    "team": "CHI"
   },
   "8527": {
     "name": "Dareke Young",
