@@ -1,6 +1,6 @@
 # TeamChile — NFL News Feed (2026 season)
 
-_Last updated: 2026-11-25 01:09 UTC_ · 1349 items total · 1338/1349 matched to a player
+_Last updated: 2026-11-25 07:33 UTC_ · 1351 items total · 1340/1351 matched to a player
 
 > Auto-generated. Sources: Rotowire, ESPN + Sleeper trending API. Items older than 14 days are flagged ⚠️STALE — treat as unconfirmed without a fresher source. Player/Pos/Team is matched by name against players.json (`—` = no confident match, not 'no player involved'). Insider flags when a name on the watchlist (Schefter) is cited as the source within an item.
 
@@ -10,6 +10,8 @@ _Last updated: 2026-11-25 01:09 UTC_ · 1349 items total · 1338/1349 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Aaron Rodgers | QB/PIT | ROLE/DEPTH CHART | — | Rodgers has been benched by the Steelers, and Mason Rudolph will start Friday's game against the Broncos, Tom Pelissero of The Ringer and Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-rodgers-4307)) | Rotowire |
+| 2026-11-24 | Mason Rudolph | QB/PIT | NEWS | — | Rudolph will start Friday's game against the Broncos, Tom Pelissero of The Ringer and Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mason-rudolph-12629)) | Rotowire |
 | 2026-11-24 | Dalton Kincaid | TE/BUF | INJURY | — | The Bills listed Kincaid (thumb/ankle) as a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
 | 2026-11-24 | Sam LaPorta | TE/DET | NEWS | — | LaPorta (ankle) was a full participant in Tuesday's walkthrough practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-laporta-17033)) | Rotowire |
 | 2026-11-24 | Brandon Aiyuk | WR/SF | NEWS | 🔥 Schefter | Aiyuk, per agent Drew Rosenhaus, is scheduled to visit the Commanders on Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brandon-aiyuk-14386)) | Rotowire |
@@ -107,6 +109,8 @@ _Last updated: 2026-11-25 01:09 UTC_ · 1349 items total · 1338/1349 matched to
 
 | Date | Player | Pos/Team | Category | Insider | Summary | Source |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | Aaron Rodgers | QB/PIT | ROLE/DEPTH CHART | — | Rodgers has been benched by the Steelers, and Mason Rudolph will start Friday's game against the Broncos, Tom Pelissero of The Ringer and Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aaron-rodgers-4307)) | Rotowire |
+| 2026-11-24 | Mason Rudolph | QB/PIT | NEWS | — | Rudolph will start Friday's game against the Broncos, Tom Pelissero of The Ringer and Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/mason-rudolph-12629)) | Rotowire |
 | 2026-11-24 | Dalton Kincaid | TE/BUF | INJURY | — | The Bills listed Kincaid (thumb/ankle) as a limited participant in Thursday's practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/dalton-kincaid-16697)) | Rotowire |
 | 2026-11-24 | Sam LaPorta | TE/DET | NEWS | — | LaPorta (ankle) was a full participant in Tuesday's walkthrough practice. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/sam-laporta-17033)) | Rotowire |
 | 2026-11-24 | Brandon Aiyuk | WR/SF | NEWS | 🔥 Schefter | Aiyuk, per agent Drew Rosenhaus, is scheduled to visit the Commanders on Wednesday, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/brandon-aiyuk-14386)) | Rotowire |
@@ -1467,41 +1471,41 @@ _Real add/drop momentum from Sleeper's own trending API — actual manager behav
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Chris Rodriguez Jr. | RB/JAX | 1169487 |
-| Washington Commanders | DEF/WAS | 796971 |
-| New York Giants | DEF/NYG | 452384 |
-| Justice Hill | RB/BAL | 447885 |
-| Jacory Croskey-Merritt | RB/WAS | 414747 |
-| Chimere Dike | WR/TEN | 318573 |
-| Cleveland Browns | DEF/CLE | 283108 |
-| Tyler Higbee | TE/LAR | 258210 |
-| Konata Mumpfield | WR/LAR | 239202 |
-| Ted Hurst III | WR/TB | 227310 |
-| Fernando Mendoza | QB/LV | 225776 |
-| Deshaun Watson | QB/CLE | 212984 |
-| Jack Bech | WR/LV | 200332 |
-| Tai Felton | WR/MIN | 186564 |
-| Samaje Perine | RB/CIN | 167996 |
+| Chris Rodriguez Jr. | RB/JAX | 1531377 |
+| Washington Commanders | DEF/WAS | 1092266 |
+| New York Giants | DEF/NYG | 574304 |
+| Justice Hill | RB/BAL | 546561 |
+| Chimere Dike | WR/TEN | 434718 |
+| Jacory Croskey-Merritt | RB/WAS | 401589 |
+| Cleveland Browns | DEF/CLE | 379911 |
+| Konata Mumpfield | WR/LAR | 352386 |
+| Tyler Higbee | TE/LAR | 349056 |
+| Deshaun Watson | QB/CLE | 331080 |
+| Ted Hurst III | WR/TB | 309486 |
+| Tai Felton | WR/MIN | 293778 |
+| Fernando Mendoza | QB/LV | 265784 |
+| Jack Bech | WR/LV | 250652 |
+| Samaje Perine | RB/CIN | 236032 |
 
 **Top drops**
 
 | Player | Pos/Team | # leagues (24h) |
 |---|---|---|
-| Michael Mayer | TE/LV | 579627 |
-| Detroit Lions | DEF/DET | 513513 |
-| Seth McGowan | RB/IND | 426104 |
-| Mark Andrews | TE/BAL | 315783 |
-| Pat Bryant | WR/DEN | 196312 |
-| Terrance Ferguson | TE/LAR | 194208 |
-| Xavier Hutchinson | WR/HOU | 193893 |
-| Elic Ayomanor | WR/TEN | 191288 |
-| Adonai Mitchell | WR/NYJ | 175384 |
-| Courtland Sutton | WR/DEN | 160578 |
-| Ryan Flournoy | WR/DAL | 154616 |
-| Tank Dell | WR/HOU | 153896 |
-| Puka Nacua | WR/LAR | 130599 |
-| Bo Nix | QB/DEN | 112764 |
-| Devin Singletary | RB/NYG | 106749 |
+| Michael Mayer | TE/LV | 702621 |
+| Detroit Lions | DEF/DET | 649395 |
+| Seth McGowan | RB/IND | 505024 |
+| Mark Andrews | TE/BAL | 382464 |
+| Pat Bryant | WR/DEN | 247160 |
+| Elic Ayomanor | WR/TEN | 247132 |
+| Xavier Hutchinson | WR/HOU | 219961 |
+| Adonai Mitchell | WR/NYJ | 216528 |
+| Terrance Ferguson | TE/LAR | 194008 |
+| Tank Dell | WR/HOU | 186936 |
+| Ryan Flournoy | WR/DAL | 183552 |
+| Courtland Sutton | WR/DEN | 182529 |
+| Aaron Rodgers | QB/PIT | 150284 |
+| Puka Nacua | WR/LAR | 146496 |
+| Bo Nix | QB/DEN | 137790 |
 
 
 ---
@@ -1512,7 +1516,13 @@ _'Latest news' pulls the most recent matching item from the tables above (not a 
 
 **Status changes since last run**
 
-_None since last run._
+| Player | Pos/Team | From | To |
+|---|---|---|---|
+| Greg Newsome II | CB/NYG | Out | IR |
+| Taylor Rapp | DB/DEN | (unlisted) | Questionable |
+| Ben Skowronek | WR/PIT | (unlisted) | Questionable |
+| Sai'vion Jones | DE/DEN | (unlisted) | Questionable |
+| J.K. Dobbins | RB/DEN | (unlisted) | Out |
 
 **Full current report**
 
@@ -1687,6 +1697,7 @@ _None since last run._
 | Duplicate Player | ILB/DEN | COV | — | — |
 | Eyioma Uwazurike | DL/DEN | IR | — | — |
 | Frank Crum | OT/DEN | IR | — | — |
+| J.K. Dobbins | RB/DEN | Out | — | Dobbins, who exited Sunday's 20-13 win over the Jaguars due to a hamstring injury, is expected to practice this week, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/jk-dobbins-14418)) |
 | Jonah Elliss | DE/DEN | IR | — | — |
 | Jordan Jackson | DL/DEN | Out | — | — |
 | Josh Banderas | OLB/DEN | COV | — | — |
@@ -1697,7 +1708,9 @@ _None since last run._
 | Michael Deiter | OL/DEN | IR | — | — |
 | Nick Gargiulo | OL/DEN | PUP | — | — |
 | RJ Harvey | RB/DEN | IR | — | The Broncos placed Harvey (knee) on injured reserve Saturday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/rj-harvey-18522)) |
+| Sai'vion Jones | DE/DEN | Questionable | — | — |
 | Sam Ehlinger | QB/DEN | Out | — | — |
+| Taylor Rapp | DB/DEN | Questionable | — | — |
 | Tyler Badie | RB/DEN | IR | — | — |
 | Aidan Hutchinson | DL/DET | IR | — | Tests have confirmed that Hutchinson suffered a torn ACL in his right knee during Sunday's win against the Patriots in Munich, but there's no other significant damage in the knee, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/aidan-hutchinson-15832)) |
 | Amen Ogbongbemiga | LB/DET | Out | — | — |
@@ -2250,7 +2263,7 @@ _None since last run._
 | Calvin Austin III | WR/NYG | IR | — | — |
 | Chauncey Golston | DE/NYG | IR | — | — |
 | Darius Alexander | DL/NYG | Out | — | — |
-| Greg Newsome II | CB/NYG | Out | — | — |
+| Greg Newsome II | CB/NYG | IR | — | — |
 | Gregory Desrosiers Jr. | RB/NYG | Out | — | — |
 | Gunner Olszewski | WR/NYG | IR | — | — |
 | J.C. Davis | OT/NYG | Out | — | — |
@@ -2302,6 +2315,7 @@ _None since last run._
 | Will Shipley | RB/PHI | Questionable | — | The Eagles ruled out Shipley (foot) for the remainder of Sunday's game versus the Jaguars in London. Visit RotoWire.com for more analysis on this update. ([link](https://www.rotowire.com//football/player/will-shipley-17802)) |
 | Zack Baun | LB/PHI | IR | — | — |
 | Alex Highsmith | LB/PIT | Questionable | — | — |
+| Ben Skowronek | WR/PIT | Questionable | — | — |
 | Donte Kent | CB/PIT | PUP | — | — |
 | Drew Allar | QB/PIT | Out | — | — |
 | Eli Heidenreich | RB/PIT | Out | — | — |

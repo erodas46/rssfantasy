@@ -1462,6 +1462,13 @@
     "status": "Out",
     "team": "KC"
   },
+  "12628": {
+    "name": "Sai'vion Jones",
+    "pos": "DE",
+    "since": "",
+    "status": "Questionable",
+    "team": "DEN"
+  },
   "12629": {
     "name": "Emery Jones Jr.",
     "pos": "OL",
@@ -4115,6 +4122,13 @@
     "status": "NA",
     "team": "FA"
   },
+  "5882": {
+    "name": "Taylor Rapp",
+    "pos": "DB",
+    "since": "",
+    "status": "Questionable",
+    "team": "DEN"
+  },
   "5883": {
     "name": "Lonnie Johnson",
     "pos": "DB",
@@ -4562,6 +4576,13 @@
     "since": "",
     "status": "DNR",
     "team": "FA"
+  },
+  "6806": {
+    "name": "J.K. Dobbins",
+    "pos": "RB",
+    "since": "",
+    "status": "Out",
+    "team": "DEN"
   },
   "6815": {
     "name": "Zack Baun",
@@ -5134,7 +5155,7 @@
     "name": "Greg Newsome II",
     "pos": "CB",
     "since": "",
-    "status": "Out",
+    "status": "IR",
     "team": "NYG"
   },
   "7631": {
@@ -5304,6 +5325,13 @@
     "since": "",
     "status": "Questionable",
     "team": "FA"
+  },
+  "7757": {
+    "name": "Ben Skowronek",
+    "pos": "WR",
+    "since": "",
+    "status": "Questionable",
+    "team": "PIT"
   },
   "7770": {
     "name": "Patrick Johnson",
